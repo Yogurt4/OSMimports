@@ -1,0 +1,126 @@
+<osmChange version="0.6" generator="acme osm editor">
+<modify>
+<node id="3452835393" version="3" timestamp="2018-11-29T18:22:32Z" uid="687894" user="Balzsi" changeset="65020078" lat="46.837997" lon="18.903048">
+    <tag k="man_made" v="works"/>
+    <tag k="name" v="Soltút Kft. Aszfaltkeverő telep"/>
+    <tag k="operator" v="Soltút Kft."/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2015-01-12"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=36622"/>
+  </node>
+</modify>
+<modify>
+<node id="5732131718" version="1" timestamp="2018-07-01T14:26:14Z" uid="612231" user="toroki" changeset="60322914" lat="48.1058947" lon="19.8024067">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="Salgótarján város 90 éves emlékmű"/>
+  </node>
+</modify>
+<modify>
+<node id="6044027292" version="1" timestamp="2018-11-07T13:22:40Z" uid="1290540" user="Scheibenhoffer Máté" changeset="64262071" lat="47.258728" lon="17.7202428">
+    <tag k="historic" v="memorial"/>
+    <tag k="memorial" v="stone"/>
+    <tag k="name" v="Koller Rezső díszpolgár emlékműve"/>
+  </node>
+</modify>
+<modify>
+<node id="6052834028" version="1" timestamp="2018-11-11T15:14:06Z" uid="399857" user="osmoid" changeset="64377046" lat="47.5107775" lon="19.0384843">
+    <tag k="free_refill" v="yes"/>
+    <tag k="name" v="ne pazarolj zero waste shop &amp; café"/>
+    <tag k="phone" v="+36203277717"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="http://www.nepazarolj.hu"/>
+  </node>
+</modify>
+<modify>
+<way id="25291009" version="14" timestamp="2018-11-02T20:48:54Z" uid="5314035" user="Turboscsiga" changeset="64127151">
+    <nd ref="275478487"/>
+    <nd ref="6030715370"/>
+    <nd ref="275478489"/>
+    <nd ref="1460904421"/>
+    <nd ref="275478491"/>
+    <nd ref="275478493"/>
+    <nd ref="1467616627"/>
+    <nd ref="275478487"/>
+    <tag k="addr:city" v="Budapest"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="1061"/>
+    <tag k="addr:street" v="Andrássy út"/>
+    <tag k="building" v="public"/>
+    <tag k="name" v="Andrássy Élményközpont, Future Park, volt Párisi Nagy Áruház"/>
+    <tag k="phone" v="+36 70 241 7076"/>
+    <tag k="website" v="https://www.andrassyelmenykozpont.hu/"/>
+    <tag k="wikidata" v="Q906503"/>
+    <tag k="wikipedia" v="hu:Divatcsarnok"/>
+  </way>
+</modify>
+<modify>
+<way id="181284930" version="2" timestamp="2018-12-04T09:11:18Z" uid="9189383" user="molbali" changeset="65152473">
+    <nd ref="1917160858"/>
+    <nd ref="1917160742"/>
+    <nd ref="1917160829"/>
+    <nd ref="1917160818"/>
+    <nd ref="1917160856"/>
+    <nd ref="1917160754"/>
+    <nd ref="1917160858"/>
+    <tag k="building" v="school"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="name" v="Képesség- és Tehetségfejlesztő Magán Általános Iskola, Szakképző Iskola, Gimnázium, Alapfokú Művészeti Iskola és Kollégium"/>
+  </way>
+</modify>
+<modify>
+<way id="183630397" version="6" timestamp="2018-09-20T07:14:49Z" uid="2018274" user="bcs78" changeset="62752738">
+    <nd ref="1940372782"/>
+    <nd ref="1940372933"/>
+    <nd ref="1940372969"/>
+    <nd ref="1940372715"/>
+    <nd ref="1940372766"/>
+    <nd ref="1940372835"/>
+    <nd ref="1940372856"/>
+    <nd ref="1940372747"/>
+    <nd ref="2955533481"/>
+    <nd ref="1940372891"/>
+    <nd ref="1940372851"/>
+    <nd ref="1940372782"/>
+    <tag k="addr:city" v="Gödöllő"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="2100"/>
+    <tag k="addr:street" v="Szentgyörgyi Albert út"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Nemzeti Agrárkutatási és Innovációs Központ - Mezőgazdasági Biotechnológiai Kutatóintézet"/>
+    <tag k="name:en" v="National Agricultural Research and Innovation Centre - Agricultural Biotechnology Institute"/>
+    <tag k="old_name" v="Mezőgazdasági Biotechnológiai Kutatóintézet"/>
+    <tag k="old_name:en" v="Agricultural Biotechnology Institute"/>
+  </way>
+</modify>
+<modify>
+<way id="561628598" version="2" timestamp="2018-12-07T08:43:23Z" uid="194515" user="Villy" changeset="65261524">
+    <nd ref="5415258981"/>
+    <nd ref="5415258982"/>
+    <nd ref="5415258983"/>
+    <nd ref="6122994878"/>
+    <nd ref="6122994877"/>
+    <nd ref="5415258984"/>
+    <nd ref="5415258981"/>
+    <tag k="addr:city" v="Esztergom"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:postcode" v="2500"/>
+    <tag k="addr:street" v="Dobogókői út"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cats and Dogs Állateledel és Horgászbolt"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-19:00; Su 08:00-16:00"/>
+    <tag k="shop" v="pet"/>
+  </way>
+</modify>
+<modify>
+<way id="644376657" version="2" timestamp="2018-11-14T12:25:20Z" uid="2044123" user="Térképszerkesztő" changeset="64481124">
+    <nd ref="3295137044"/>
+    <nd ref="3295137040"/>
+    <nd ref="3295137039"/>
+    <nd ref="3295137038"/>
+    <nd ref="3295137036"/>
+    <nd ref="476704919"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Álmos vezér utca"/>
+  </way>
+</modify>
+</osmChange>
