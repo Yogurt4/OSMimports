@@ -1,0 +1,429 @@
+<osmChange version="0.6" generator="acme osm editor">
+ <modify>
+  <node id="3352546179" version="3" timestamp="2016-09-13T11:06:34Z" uid="38952" user="grin" changeset="42122551" lat="47.7563353" lon="18.9115594">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=163905"/>
+    <tag k="name" v="Keserűs-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+    <tag k="direction" v="300"/>
+  </node>
+  <node id="4398734033" version="1" timestamp="2016-09-13T11:06:29Z" uid="38952" user="grin" changeset="42122551" lat="47.7444754" lon="18.9907715">
+    <tag k="name" v="Apátkúti-patak medri-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734034" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7240403" lon="18.9064979">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Asszonyfej-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734035" version="4" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7014651" lon="18.8953262">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Attila Király-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="source:position" v="survey"/>
+  </node>
+  <node id="4398734036" version="3" timestamp="2018-10-03T10:15:51Z" uid="1744656" user="iz11" changeset="63154048" lat="47.7959884" lon="18.7783147">
+    <tag k="name" v="Katus-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="source:position" v="survey"/>
+  </node>
+  <node id="4398734037" version="1" timestamp="2016-09-13T11:06:29Z" uid="38952" user="grin" changeset="42122551" lat="47.7575218" lon="18.838784">
+    <tag k="name" v="Benkő-kút"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734038" version="1" timestamp="2016-09-13T11:06:29Z" uid="38952" user="grin" changeset="42122551" lat="47.7722376" lon="18.8071455">
+    <tag k="name" v="Bodzás-kút"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734039" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.8004103" lon="18.9932468">
+    <tag k="is_in" v="Pilis - Visegrádi-hegység"/>
+    <tag k="name" v="Boglárka-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734040" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7396942" lon="18.9668299">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Bányahegyi-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734041" version="1" timestamp="2016-09-13T11:06:30Z" uid="38952" user="grin" changeset="42122551" lat="47.7689603" lon="19.025818">
+    <tag k="name" v="Büdös-kút"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734042" version="1" timestamp="2016-09-13T11:06:30Z" uid="38952" user="grin" changeset="42122551" lat="47.6990712" lon="18.9034248">
+    <tag k="name" v="Cser-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734043" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7457728" lon="18.8580731">
+    <tag k="is_in" v="Cserkút-árok; Pilis - Visegrádi-hegység"/>
+    <tag k="name" v="Cser-kút"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734044" version="2" timestamp="2018-04-21T19:48:18Z" uid="5314035" user="Turboscsiga" changeset="58297579" lat="47.7767843" lon="19.0112272">
+    <tag k="name" v="Csádri-patak forrása"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734045" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7314735" lon="18.9442458">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Császár-völgyi-forrás I"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734046" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7331712" lon="18.9418294">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Császár-völgyi-forrás II"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734047" version="1" timestamp="2016-09-13T11:06:30Z" uid="38952" user="grin" changeset="42122551" lat="47.7719212" lon="19.0409195">
+    <tag k="name" v="Csódi-hegy déli forrása"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734048" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7264198" lon="18.8651946">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Disznós-forrás I"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734049" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7261126" lon="18.8642626">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Disznós-forrás II"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734050" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7270312" lon="18.8650592">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Disznós-forrás III"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734051" version="1" timestamp="2016-09-13T11:06:30Z" uid="38952" user="grin" changeset="42122551" lat="47.8001951" lon="18.9945151">
+    <tag k="name" v="Dorottya-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734052" version="1" timestamp="2016-09-13T11:06:30Z" uid="38952" user="grin" changeset="42122551" lat="47.7709452" lon="18.9913297">
+    <tag k="name" v="Fenyves-bérci-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734053" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7441997" lon="18.8586255">
+    <tag k="is_in" v="Cserkút-árok; Pilis - Visegrádi-hegység"/>
+    <tag k="name" v="Füzes-kút"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734055" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.6964619" lon="18.9707201">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Helyiiparos-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734057" version="2" timestamp="2019-09-02T23:36:34Z" uid="399857" user="osmoid" changeset="74015721" lat="47.8139637" lon="18.8175296">
+    <tag k="disused:name" v="Hideglelős-forrás II"/>
+    <tag k="natural" v="spring"/>
+    <tag k="note" v="2019-08-12 - &quot;Gazzal benött forrás ottjártamkor víz nem folyt belöle.&quot;"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734058" version="1" timestamp="2016-09-13T11:06:30Z" uid="38952" user="grin" changeset="42122551" lat="47.73373" lon="18.8638627">
+    <tag k="name" v="Hoffmann DK-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734060" version="3" timestamp="2018-07-21T12:50:20Z" uid="399857" user="osmoid" changeset="60930022" lat="47.6865833" lon="19.0173585">
+    <tag k="disused" v="yes"/>
+    <tag k="name" v="Ivóvíz-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="note" v="2018-07-20: &quot;Szinte biztos, hogy nem iható, ugyanis a forrás vizét  elvezető árok feltöltődött, és a foglalásig visszaduzzadt a vize. Így  ott egy kis tavacska képződött, és a foglalás víz alá került. Forrásvadászok fórum, 2018-03&quot;"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="source:position" v="survey"/>
+  </node>
+  <node id="4398734061" version="1" timestamp="2016-09-13T11:06:31Z" uid="38952" user="grin" changeset="42122551" lat="47.7488835" lon="18.9630283">
+    <tag k="name" v="Jancsi-forrás I"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734062" version="1" timestamp="2016-09-13T11:06:31Z" uid="38952" user="grin" changeset="42122551" lat="47.7498001" lon="18.9619599">
+    <tag k="name" v="Jancsi-forrás II"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734063" version="2" timestamp="2018-06-03T12:14:05Z" uid="7187009" user="ITineris_bulk" changeset="59506972" lat="47.7121659" lon="18.8770406">
+    <tag k="name" v="Joci-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734064" version="1" timestamp="2016-09-13T11:06:31Z" uid="38952" user="grin" changeset="42122551" lat="47.7435236" lon="18.9325277">
+    <tag k="name" v="Keserűs-patak nyugati ágának forrása"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734065" version="4" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7397213" lon="18.9347628">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Keserűs-völgyi-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734067" version="1" timestamp="2016-09-13T11:06:31Z" uid="38952" user="grin" changeset="42122551" lat="47.7593446" lon="18.780514">
+    <tag k="name" v="Lajtos-kút"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734068" version="4" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.721127" lon="18.8801946">
+    <tag k="is_in" v="Pilis - Visegrádi-hegység"/>
+    <tag k="name" v="Laura-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734069" version="1" timestamp="2016-09-13T11:06:31Z" uid="38952" user="grin" changeset="42122551" lat="47.7460222" lon="18.8459906">
+    <tag k="name" v="Leány-kút"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734070" version="4" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7374989" lon="18.8819157">
+    <tag k="is_in" v="Pilis - Visegrádi-hegység"/>
+    <tag k="name" v="Makó-réti-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734072" version="1" timestamp="2016-09-13T11:06:31Z" uid="38952" user="grin" changeset="42122551" lat="47.7009127" lon="18.9188578">
+    <tag k="name" v="Pomázi-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734073" version="1" timestamp="2016-09-13T11:06:31Z" uid="38952" user="grin" changeset="42122551" lat="47.7609181" lon="18.9008097">
+    <tag k="name" v="Prépost-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734074" version="1" timestamp="2016-09-13T11:06:31Z" uid="38952" user="grin" changeset="42122551" lat="47.7700237" lon="19.0521664">
+    <tag k="name" v="Pásztor-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734075" version="1" timestamp="2016-09-13T11:06:31Z" uid="38952" user="grin" changeset="42122551" lat="47.7538503" lon="18.8478678">
+    <tag k="name" v="Pásztor-kút"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734076" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7340497" lon="18.9596659">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Romos-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734077" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7429702" lon="18.8970996">
+    <tag k="is_in" v="Rám-szakadék; Pilis-hegység"/>
+    <tag k="name" v="Rákóczi-forrás I"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734078" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7427094" lon="18.897167">
+    <tag k="is_in" v="Rám-szakadék; Pilis-hegység"/>
+    <tag k="name" v="Rákóczi-forrás II"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734079" version="1" timestamp="2016-09-13T11:06:32Z" uid="38952" user="grin" changeset="42122551" lat="47.7693369" lon="19.0204681">
+    <tag k="name" v="Rókakapu-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734080" version="1" timestamp="2016-09-13T11:06:32Z" uid="38952" user="grin" changeset="42122551" lat="47.7195584" lon="18.8438547">
+    <tag k="name" v="Szent László-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734081" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7405328" lon="19.0039629">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Szent-László-hegyi-forrás I"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734082" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7402898" lon="19.0037631">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="name" v="Szent-László-hegyi-forrás II"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734236" version="2" timestamp="2018-10-03T10:15:51Z" uid="1744656" user="iz11" changeset="63154048" lat="47.7951532" lon="18.7667442">
+    <tag k="name" v="Sípoló-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="note" v="Kerítés mögötti magánterület. Valószínűleg itt csak egy forrás van, csak két különböző importból, más néven (turistautak.hu és Pilisi Parkerdő)."/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734237" version="3" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.769079" lon="18.9828602">
+    <tag k="is_in" v="Telgárthy-rét; Apátkúti-völgy; Pilis-hegység"/>
+    <tag k="name" v="Telgárthy-forrás"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734238" version="5" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.6840811" lon="18.8827336">
+    <tag k="alt_name" v="Trézsi-forrás"/>
+    <tag k="is_in" v="Pilis-hegy; Pilis-hegység"/>
+    <tag k="name" v="Trézsi-kút"/>
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="survey:date" v="2016-10-23"/>
+  </node>
+  <node id="4398734239" version="1" timestamp="2016-09-13T11:06:32Z" uid="38952" user="grin" changeset="42122551" lat="47.6615737" lon="18.9869875">
+    <tag k="name" v="Tubin-kút"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734240" version="1" timestamp="2016-09-13T11:06:32Z" uid="38952" user="grin" changeset="42122551" lat="47.7533438" lon="19.0143416">
+    <tag k="name" v="Urak asztala-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734241" version="1" timestamp="2016-09-13T11:06:32Z" uid="38952" user="grin" changeset="42122551" lat="47.7680774" lon="18.8047899">
+    <tag k="name" v="Vályús-kút"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734242" version="1" timestamp="2016-09-13T11:06:33Z" uid="38952" user="grin" changeset="42122551" lat="47.700002" lon="18.8983286">
+    <tag k="name" v="Vízművek/1-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734243" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.6963399" lon="18.8866592">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734244" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.6996668" lon="18.8833324">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734245" version="4" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.726994" lon="18.8642462">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734246" version="4" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7272432" lon="18.862619">
+    <tag k="is_in" v="Pilis-hegység"/>
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734247" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7328865" lon="18.8650655">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734248" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7366016" lon="19.0554305">
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734249" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7370514" lon="19.0539773">
+    <tag k="natural" v="spring"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734250" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7423037" lon="19.0569781">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734251" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7486062" lon="19.0230662">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734252" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7522393" lon="19.0209973">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734253" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7528141" lon="19.0177828">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734254" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7544253" lon="18.9960288">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734255" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7547146" lon="18.9995229">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734256" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7547965" lon="18.9686337">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734257" version="2" timestamp="2017-02-13T22:30:50Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7566846" lon="18.8383605">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734258" version="2" timestamp="2017-02-13T22:30:51Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7669262" lon="18.9942022">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734259" version="2" timestamp="2017-02-13T22:30:51Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7709901" lon="18.9750798">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734260" version="2" timestamp="2017-02-13T22:30:51Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7720901" lon="18.7732314">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734261" version="2" timestamp="2017-02-13T22:30:51Z" uid="408450" user="BáthoryPéter" changeset="46063917" lat="47.7739491" lon="18.975089">
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734262" version="5" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7797061" lon="19.0169666">
+    <tag k="is_in" v="Pilis - Visegrádi-hegység"/>
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734263" version="4" timestamp="2019-11-05T12:25:13Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.7860425" lon="19.003631">
+    <tag k="is_in" v="Pilis - Visegrádi-hegység"/>
+    <tag k="natural" v="spring"/>
+    <tag k="noname" v="yes"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+  </node>
+  <node id="4398734264" version="1" timestamp="2016-09-13T11:06:34Z" uid="38952" user="grin" changeset="42122551" lat="47.7532149" lon="18.9581266">
+    <tag k="name" v="Ágashegyi-forrás I"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734265" version="1" timestamp="2016-09-13T11:06:34Z" uid="38952" user="grin" changeset="42122551" lat="47.7504727" lon="18.9593849">
+    <tag k="name" v="Ágashegyi-forrás II"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734266" version="1" timestamp="2016-09-13T11:06:34Z" uid="38952" user="grin" changeset="42122551" lat="47.7511249" lon="19.0250255">
+    <tag k="name" v="Édeslyuk kunyhó forrása"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4398734267" version="1" timestamp="2016-09-13T11:06:34Z" uid="38952" user="grin" changeset="42122551" lat="47.7773088" lon="19.0508326">
+    <tag k="name" v="Út melletti-forrás"/>
+    <tag k="source" v="Pilisi Parkerdő Zrt."/>
+    <tag k="natural" v="spring"/>
+  </node>
+ </modify>
+</osmChange>
