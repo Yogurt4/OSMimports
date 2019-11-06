@@ -1,0 +1,2539 @@
+<osmChange version="0.6" generator="acme osm editor">
+ <modify>
+  <node id="6875200477" version="2" timestamp="2019-10-13T11:24:27Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.5102514" lon="21.2156966">
+    <tag k="alt_name" v="Kunhalom; Kurgán"/>
+    <tag k="description" v="&apos;&apos;Ex lege&apos;&apos; védett kunhalom, természeti emlék. A természet védelméről szóló 1996.évi LIII.Tvt. 23.§(2)bek „kultúrtörténeti, kulturális örökségi, tájképi, élővilág védelmi szempontból jelentős domború földmű, mely .. meghatározó eleme .. a tájnak”."/>
+    <tag k="is_in" v="Elep déli külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Őr halom"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="http://termeszetvedelem.hu/ex-lege-vedett-kunhalom"/>
+    <tag k="wikipedia" v="hu:Kunhalom; Kurgán"/>
+  </node>
+  <node id="6875228240" version="1" timestamp="2019-10-13T11:24:27Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.5235948" lon="21.2415853">
+    <tag k="alt_name" v="Kunhalom; Kurgán"/>
+    <tag k="description" v="&apos;&apos;Ex lege&apos;&apos; védett kunhalom, természeti emlék. A természet védelméről szóló 1996.évi LIII.Tvt. 23.§(2)bek „kultúrtörténeti, kulturális örökségi, tájképi, élővilág védelmi szempontból jelentős domború földmű, mely .. meghatározó eleme .. a tájnak”."/>
+    <tag k="is_in" v="Elep nyugati külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Kun Pál halom"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="http://termeszetvedelem.hu/ex-lege-vedett-kunhalom"/>
+    <tag k="wikipedia" v="hu:Kunhalom; Kurgán"/>
+  </node>
+  <node id="6875232648" version="1" timestamp="2019-10-13T11:24:26Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.5431582" lon="21.224741">
+    <tag k="alt_name" v="Kunhalom; Kurgán"/>
+    <tag k="description" v="&apos;&apos;Ex lege&apos;&apos; védett kunhalom, természeti emlék. A természet védelméről szóló 1996.évi LIII.Tvt. 23.§(2)bek „kultúrtörténeti, kulturális örökségi, tájképi, élővilág védelmi szempontból jelentős domború földmű, mely .. meghatározó eleme .. a tájnak”."/>
+    <tag k="is_in" v="Elep nyugati külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Koronés halom"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="http://termeszetvedelem.hu/ex-lege-vedett-kunhalom"/>
+    <tag k="wikipedia" v="hu:Kunhalom; Kurgán"/>
+  </node>
+  <node id="6875275203" version="1" timestamp="2019-10-13T12:01:05Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.5201805" lon="21.2814054">
+    <tag k="alt_name" v="Kunhalom; Kurgán"/>
+    <tag k="description" v="&apos;&apos;Ex lege&apos;&apos; védett kunhalom, természeti emlék. A természet védelméről szóló 1996.évi LIII.Tvt. 23.§(2)bek „kultúrtörténeti, kulturális örökségi, tájképi, élővilág védelmi szempontból jelentős domború földmű, mely .. meghatározó eleme .. a tájnak”."/>
+    <tag k="is_in" v="Elep déli külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Arczu Péter halom"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="http://termeszetvedelem.hu/ex-lege-vedett-kunhalom"/>
+    <tag k="wikipedia" v="hu:Kunhalom; Kurgán"/>
+  </node>
+  <node id="6875295141" version="1" timestamp="2019-10-13T12:23:06Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.5708601" lon="21.4315367">
+    <tag k="alt_name" v="Kunhalom; Kurgán"/>
+    <tag k="description" v="&apos;&apos;Ex lege&apos;&apos; védett kunhalom, természeti emlék. A természet védelméről szóló 1996.évi LIII.Tvt. 23.§(2)bek „kultúrtörténeti, kulturális örökségi, tájképi, élővilág védelmi szempontból jelentős domború földmű, mely .. meghatározó eleme .. a tájnak”."/>
+    <tag k="is_in" v="Nagyhegyes keleti külterület"/>
+    <tag k="name" v="Dóka halom"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="http://termeszetvedelem.hu/ex-lege-vedett-kunhalom"/>
+    <tag k="wikipedia" v="hu:Kunhalom; Kurgán"/>
+  </node>
+  <node id="6875295158" version="1" timestamp="2019-10-13T12:23:06Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.526491" lon="21.2939098">
+    <tag k="alt_name" v="Kunhalom; Kurgán"/>
+    <tag k="description" v="&apos;&apos;Ex lege&apos;&apos; védett kunhalom, természeti emlék. A természet védelméről szóló 1996.évi LIII.Tvt. 23.§(2)bek „kultúrtörténeti, kulturális örökségi, tájképi, élővilág védelmi szempontból jelentős domború földmű, mely .. meghatározó eleme .. a tájnak”."/>
+    <tag k="is_in" v="Elep déli külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Szőrös halom"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="http://termeszetvedelem.hu/ex-lege-vedett-kunhalom"/>
+    <tag k="wikipedia" v="hu:Kunhalom; Kurgán"/>
+  </node>
+  <node id="6875390140" version="1" timestamp="2019-10-13T13:36:14Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.5222001" lon="21.2929121">
+    <tag k="access" v="no"/>
+    <tag k="alt_name" v="NATURA 2000 Különleges madárvédelmi terület"/>
+    <tag k="board_type" v="nature"/>
+    <tag k="description" v="Hortobágy Különleges Madárvédelmi Terület (HUHN10002)"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Elepi tóegység; Hortobágyi Nemzeti park"/>
+    <tag k="name" v="NATURA 2000 terület"/>
+    <tag k="name:cz" v="Ochrana přírody je zakázáno vstupovat"/>
+    <tag k="name:de" v="Naturschutzgebiet, es ist verboten zu betreten"/>
+    <tag k="name:dk" v="Naturbeskyttelsesområde er det forbudt at komme ind"/>
+    <tag k="name:en" v="Nature conservation area, it is forbidden to enter"/>
+    <tag k="name:es" v="Área de conservación de la naturaleza, está prohibido ingresar."/>
+    <tag k="name:fi" v="Luonnonsuojelualue on kielletty"/>
+    <tag k="name:fr" v="Zone de conservation de la nature, il est interdit d&apos;entrer"/>
+    <tag k="name:gr" v="Περιοχή προστασίας της φύσης, απαγορεύεται η είσοδος"/>
+    <tag k="name:hr" v="Područje zaštite prirode, zabranjeno je ulazak"/>
+    <tag k="name:il" v="שטח שימור הטבע, אסור להיכנס"/>
+    <tag k="name:it" v="Area di conservazione della natura, è vietato entrare"/>
+    <tag k="name:jp" v="自然保護区域に入ることは禁じられている"/>
+    <tag k="name:nl" v="Natuurbeschermingsgebied, het is verboden om binnen te komen"/>
+    <tag k="name:pl" v="Obszar ochrony przyrody, wstęp jest zabroniony"/>
+    <tag k="name:pt" v="Área de conservação da natureza, é proibido entrar"/>
+    <tag k="name:rc" v="自然保护区，禁止进入"/>
+    <tag k="name:ro" v="Zona de conservare a naturii, este interzisă intrarea"/>
+    <tag k="name:ru" v="Природоохранная территория, запрещается входить"/>
+    <tag k="name:se" v="Naturskyddsområde, det är förbjudet att komma in"/>
+    <tag k="name:sk" v="Ochrana prírody, je zakázané vstúpiť"/>
+    <tag k="name:sl" v="Naravovarstveno območje je prepovedano vstopiti"/>
+    <tag k="name:sr" v="Простор за заштиту природе, забрањено је улазити"/>
+    <tag k="name:tr" v="Doğa koruma alanı, girmek yasaktır"/>
+    <tag k="name:ua" v="Природоохоронна територія, заборонено в&apos;їзд"/>
+    <tag k="name:vd" v="Khu bảo tồn thiên nhiên, không được phép vào"/>
+    <tag k="ref" v="Hortobágy (SPA) HUHN10002; Hortobágyi Nemzeti Park Igazgatóság"/>
+    <tag k="tourism" v="information"/>
+    <tag k="url" v="http://www.termeszetvedelem.hu/index.php?pg=sub_741"/>
+    <tag k="website" v="http://www.termeszetvedelem.hu/termeszetvedelmi-celkituzesek-prioritasok-natura-2000-teruleteken"/>
+  </node>
+  <node id="6875390141" version="1" timestamp="2019-10-13T13:36:14Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.5151365" lon="21.2824595">
+    <tag k="access" v="no"/>
+    <tag k="alt_name" v="NATURA 2000 Különleges madárvédelmi terület"/>
+    <tag k="board_type" v="nature"/>
+    <tag k="description" v="Hortobágy Különleges Madárvédelmi Terület (HUHN10002)"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Elepi tóegység; Hortobágyi Nemzeti park"/>
+    <tag k="name" v="NATURA 2000 terület"/>
+    <tag k="name:cz" v="Ochrana přírody je zakázáno vstupovat"/>
+    <tag k="name:de" v="Naturschutzgebiet, es ist verboten zu betreten"/>
+    <tag k="name:dk" v="Naturbeskyttelsesområde er det forbudt at komme ind"/>
+    <tag k="name:en" v="Nature conservation area, it is forbidden to enter"/>
+    <tag k="name:es" v="Área de conservación de la naturaleza, está prohibido ingresar."/>
+    <tag k="name:fi" v="Luonnonsuojelualue on kielletty"/>
+    <tag k="name:fr" v="Zone de conservation de la nature, il est interdit d&apos;entrer"/>
+    <tag k="name:gr" v="Περιοχή προστασίας της φύσης, απαγορεύεται η είσοδος"/>
+    <tag k="name:hr" v="Područje zaštite prirode, zabranjeno je ulazak"/>
+    <tag k="name:il" v="שטח שימור הטבע, אסור להיכנס"/>
+    <tag k="name:it" v="Area di conservazione della natura, è vietato entrare"/>
+    <tag k="name:jp" v="自然保護区域に入ることは禁じられている"/>
+    <tag k="name:nl" v="Natuurbeschermingsgebied, het is verboden om binnen te komen"/>
+    <tag k="name:pl" v="Obszar ochrony przyrody, wstęp jest zabroniony"/>
+    <tag k="name:pt" v="Área de conservação da natureza, é proibido entrar"/>
+    <tag k="name:rc" v="自然保护区，禁止进入"/>
+    <tag k="name:ro" v="Zona de conservare a naturii, este interzisă intrarea"/>
+    <tag k="name:ru" v="Природоохранная территория, запрещается входить"/>
+    <tag k="name:se" v="Naturskyddsområde, det är förbjudet att komma in"/>
+    <tag k="name:sk" v="Ochrana prírody, je zakázané vstúpiť"/>
+    <tag k="name:sl" v="Naravovarstveno območje je prepovedano vstopiti"/>
+    <tag k="name:sr" v="Простор за заштиту природе, забрањено је улазити"/>
+    <tag k="name:tr" v="Doğa koruma alanı, girmek yasaktır"/>
+    <tag k="name:ua" v="Природоохоронна територія, заборонено в&apos;їзд"/>
+    <tag k="name:vd" v="Khu bảo tồn thiên nhiên, không được phép vào"/>
+    <tag k="ref" v="Hortobágy (SPA) HUHN10002; Hortobágyi Nemzeti Park Igazgatóság"/>
+    <tag k="tourism" v="information"/>
+    <tag k="url" v="http://www.termeszetvedelem.hu/index.php?pg=sub_741"/>
+    <tag k="website" v="http://www.termeszetvedelem.hu/termeszetvedelmi-celkituzesek-prioritasok-natura-2000-teruleteken"/>
+  </node>
+  <node id="6853617607" version="2" timestamp="2019-10-13T11:24:27Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.5091471" lon="21.2477638">
+    <tag k="actuator" v="manual"/>
+    <tag k="handle" v="wheel"/>
+    <tag k="is_in" v="Elep déli külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Magyar Földgáztárzoló"/>
+    <tag k="operator" v="FGSZ Zrt"/>
+    <tag k="pipeline" v="valve"/>
+  </node>
+  <node id="6853626076" version="6" timestamp="2019-10-13T11:24:27Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.5069975" lon="21.2608516">
+    <tag k="alt_name" v="Kunhalom; Kurgán"/>
+    <tag k="description" v="&apos;&apos;Ex lege&apos;&apos; védett kunhalom, természeti emlék. A természet védelméről szóló 1996.évi LIII.Tvt. 23.§(2)bek „kultúrtörténeti, kulturális örökségi, tájképi, élővilág védelmi szempontból jelentős domború földmű, mely .. meghatározó eleme .. a tájnak”."/>
+    <tag k="is_in" v="Elep déli külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Vajda halom"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="http://termeszetvedelem.hu/ex-lege-vedett-kunhalom"/>
+    <tag k="wikipedia" v="hu:Kunhalom; Kurgán"/>
+  </node>
+  <node id="6853778233" version="1" timestamp="2019-10-05T15:04:54Z" uid="2077889" user="zsolt d" changeset="75319716" lat="47.5431293" lon="21.2961052">
+    <tag k="access" v="no"/>
+    <tag k="alt_name" v="Természetvédelmi terület"/>
+    <tag k="board_type" v="nature"/>
+    <tag k="description" v="Természetvédelmi terület, belépni tilos"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Belépés csak látogatókártyával"/>
+    <tag k="name:cz" v="Ochrana přírody je zakázáno vstupovat"/>
+    <tag k="name:de" v="Naturschutzgebiet, es ist verboten zu betreten"/>
+    <tag k="name:dk" v="Naturbeskyttelsesområde er det forbudt at komme ind"/>
+    <tag k="name:en" v="Nature conservation area, it is forbidden to enter"/>
+    <tag k="name:es" v="Área de conservación de la naturaleza, está prohibido ingresar."/>
+    <tag k="name:fi" v="Luonnonsuojelualue on kielletty"/>
+    <tag k="name:fr" v="Zone de conservation de la nature, il est interdit d&apos;entrer"/>
+    <tag k="name:gr" v="Περιοχή προστασίας της φύσης, απαγορεύεται η είσοδος"/>
+    <tag k="name:hr" v="Područje zaštite prirode, zabranjeno je ulazak"/>
+    <tag k="name:il" v="שטח שימור הטבע, אסור להיכנס"/>
+    <tag k="name:it" v="Area di conservazione della natura, è vietato entrare"/>
+    <tag k="name:jp" v="自然保護区域に入ることは禁じられている"/>
+    <tag k="name:nl" v="Natuurbeschermingsgebied, het is verboden om binnen te komen"/>
+    <tag k="name:pl" v="Obszar ochrony przyrody, wstęp jest zabroniony"/>
+    <tag k="name:pt" v="Área de conservação da natureza, é proibido entrar"/>
+    <tag k="name:rc" v="自然保护区，禁止进入"/>
+    <tag k="name:ro" v="Zona de conservare a naturii, este interzisă intrarea"/>
+    <tag k="name:ru" v="Природоохранная территория, запрещается входить"/>
+    <tag k="name:se" v="Naturskyddsområde, det är förbjudet att komma in"/>
+    <tag k="name:sk" v="Ochrana prírody, je zakázané vstúpiť"/>
+    <tag k="name:sl" v="Naravovarstveno območje je prepovedano vstopiti"/>
+    <tag k="name:sr" v="Простор за заштиту природе, забрањено је улазити"/>
+    <tag k="name:tr" v="Doğa koruma alanı, girmek yasaktır"/>
+    <tag k="name:ua" v="Природоохоронна територія, заборонено в&apos;їзд"/>
+    <tag k="name:vd" v="Khu bảo tồn thiên nhiên, không được phép vào"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6853830506" version="1" timestamp="2019-10-05T15:44:59Z" uid="2077889" user="zsolt d" changeset="75319716" lat="47.4571348" lon="21.1842799">
+    <tag k="access" v="no"/>
+    <tag k="alt_name" v="Természetvédelmi terület"/>
+    <tag k="board_type" v="nature"/>
+    <tag k="description" v="Természetvédelmi terület, belépni tilos"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Belépni tilos, TT"/>
+    <tag k="name:cz" v="Ochrana přírody je zakázáno vstupovat"/>
+    <tag k="name:de" v="Naturschutzgebiet, es ist verboten zu betreten"/>
+    <tag k="name:dk" v="Naturbeskyttelsesområde er det forbudt at komme ind"/>
+    <tag k="name:en" v="Nature conservation area, it is forbidden to enter"/>
+    <tag k="name:es" v="Área de conservación de la naturaleza, está prohibido ingresar."/>
+    <tag k="name:fi" v="Luonnonsuojelualue on kielletty"/>
+    <tag k="name:fr" v="Zone de conservation de la nature, il est interdit d&apos;entrer"/>
+    <tag k="name:gr" v="Περιοχή προστασίας της φύσης, απαγορεύεται η είσοδος"/>
+    <tag k="name:hr" v="Područje zaštite prirode, zabranjeno je ulazak"/>
+    <tag k="name:il" v="שטח שימור הטבע, אסור להיכנס"/>
+    <tag k="name:it" v="Area di conservazione della natura, è vietato entrare"/>
+    <tag k="name:jp" v="自然保護区域に入ることは禁じられている"/>
+    <tag k="name:nl" v="Natuurbeschermingsgebied, het is verboden om binnen te komen"/>
+    <tag k="name:pl" v="Obszar ochrony przyrody, wstęp jest zabroniony"/>
+    <tag k="name:pt" v="Área de conservação da natureza, é proibido entrar"/>
+    <tag k="name:rc" v="自然保护区，禁止进入"/>
+    <tag k="name:ro" v="Zona de conservare a naturii, este interzisă intrarea"/>
+    <tag k="name:ru" v="Природоохранная территория, запрещается входить"/>
+    <tag k="name:se" v="Naturskyddsområde, det är förbjudet att komma in"/>
+    <tag k="name:sk" v="Ochrana prírody, je zakázané vstúpiť"/>
+    <tag k="name:sl" v="Naravovarstveno območje je prepovedano vstopiti"/>
+    <tag k="name:sr" v="Простор за заштиту природе, забрањено је улазити"/>
+    <tag k="name:tr" v="Doğa koruma alanı, girmek yasaktır"/>
+    <tag k="name:ua" v="Природоохоронна територія, заборонено в&apos;їзд"/>
+    <tag k="name:vd" v="Khu bảo tồn thiên nhiên, không được phép vào"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6853886617" version="1" timestamp="2019-10-05T16:22:58Z" uid="2077889" user="zsolt d" changeset="75319716" lat="47.5132117" lon="21.2790222">
+    <tag k="access" v="no"/>
+    <tag k="alt_name" v="Természetvédelmi terület"/>
+    <tag k="board_type" v="nature"/>
+    <tag k="description" v="Természetvédelmi terület, belépni tilos"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Belépni tilos, TT"/>
+    <tag k="name:cz" v="Ochrana přírody je zakázáno vstupovat"/>
+    <tag k="name:de" v="Naturschutzgebiet, es ist verboten zu betreten"/>
+    <tag k="name:dk" v="Naturbeskyttelsesområde er det forbudt at komme ind"/>
+    <tag k="name:en" v="Nature conservation area, it is forbidden to enter"/>
+    <tag k="name:es" v="Área de conservación de la naturaleza, está prohibido ingresar."/>
+    <tag k="name:fi" v="Luonnonsuojelualue on kielletty"/>
+    <tag k="name:fr" v="Zone de conservation de la nature, il est interdit d&apos;entrer"/>
+    <tag k="name:gr" v="Περιοχή προστασίας της φύσης, απαγορεύεται η είσοδος"/>
+    <tag k="name:hr" v="Područje zaštite prirode, zabranjeno je ulazak"/>
+    <tag k="name:il" v="שטח שימור הטבע, אסור להיכנס"/>
+    <tag k="name:it" v="Area di conservazione della natura, è vietato entrare"/>
+    <tag k="name:jp" v="自然保護区域に入ることは禁じられている"/>
+    <tag k="name:nl" v="Natuurbeschermingsgebied, het is verboden om binnen te komen"/>
+    <tag k="name:pl" v="Obszar ochrony przyrody, wstęp jest zabroniony"/>
+    <tag k="name:pt" v="Área de conservação da natureza, é proibido entrar"/>
+    <tag k="name:rc" v="自然保护区，禁止进入"/>
+    <tag k="name:ro" v="Zona de conservare a naturii, este interzisă intrarea"/>
+    <tag k="name:ru" v="Природоохранная территория, запрещается входить"/>
+    <tag k="name:se" v="Naturskyddsområde, det är förbjudet att komma in"/>
+    <tag k="name:sk" v="Ochrana prírody, je zakázané vstúpiť"/>
+    <tag k="name:sl" v="Naravovarstveno območje je prepovedano vstopiti"/>
+    <tag k="name:sr" v="Простор за заштиту природе, забрањено је улазити"/>
+    <tag k="name:tr" v="Doğa koruma alanı, girmek yasaktır"/>
+    <tag k="name:ua" v="Природоохоронна територія, заборонено в&apos;їзд"/>
+    <tag k="name:vd" v="Khu bảo tồn thiên nhiên, không được phép vào"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6837588705" version="3" timestamp="2019-11-02T15:25:55Z" uid="2077889" user="zsolt d" changeset="76526690" lat="47.4493481" lon="21.2996766">
+    <tag k="alt_name" v="Kunhalom; Kurgán"/>
+    <tag k="description" v="&apos;&apos;Ex lege&apos;&apos; védett kunhalom, természeti emlék. A természet védelméről szóló 1996.évi LIII.Tvt. 23.§(2)bek „kultúrtörténeti, kulturális örökségi, tájképi, élővilág védelmi szempontból jelentős domború földmű, mely .. meghatározó eleme .. a tájnak”."/>
+    <tag k="is_in" v="Hajdúszoboszló nyugati külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Két-halom"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="http://termeszetvedelem.hu/ex-lege-vedett-kunhalom"/>
+    <tag k="wikipedia" v="hu:Kunhalom; Kurgán"/>
+  </node>
+  <node id="6844760778" version="2" timestamp="2019-10-13T11:24:27Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.5534459" lon="21.3232747">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="dog" v="yes"/>
+    <tag k="is_in" v="Elep északi külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Kadarcsi Csárda"/>
+    <tag k="website" v="https://www.facebook.com/KadarcsiCsarda"/>
+  </node>
+  <node id="6844760779" version="2" timestamp="2019-10-13T11:24:27Z" uid="2077889" user="zsolt d" changeset="75618228" lat="47.5535373" lon="21.3233109">
+    <tag k="is_in" v="Elep északi külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="HNP Belépőkártya árusítás"/>
+    <tag k="tourism" v="information"/>
+    <tag k="website" v="https://www.hnp.hu/hu/szervezeti-egyseg/turizmus/oldal/nemzeti-parki-belepokartya"/>
+  </node>
+  <node id="6777234989" version="1" timestamp="2019-09-06T14:21:04Z" uid="2077889" user="zsolt d" changeset="74175333" lat="47.9219495" lon="18.9147261">
+    <tag k="description" v="Nagy-Inóc (826 m) a Börzsöny 6.; Magyarország 71. legmagasabb csúcsa a Magas-Börzsönyben, a 12 km hosszú ÉNY-DK--ÉK-DNY főgerincen (Godó-vár_Csóványos_Nagy-Hideg-hegy_Nagy-Inóc_Kis-Inóc). Vulkáni központ a Csóványos, Vár-bükk mellett (Földtani Intézet)"/>
+    <tag k="ele" v="825"/>
+    <tag k="is_in" v="Magas-Börzsöny; Godó-vár – Csóványos – Nagy-Hideg-hegy – Nagy-Inóc – Kis-Inóc főgerinc"/>
+    <tag k="name" v="Nagy-Inóc"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="https://www.geocaching.hu/poi.geo?id=35828"/>
+    <tag k="url:tuhu" v="http://turistautak.hu/poi.php?id=35828"/>
+    <tag k="wikipedia" v="hu:Nagy-Inóc"/>
+  </node>
+  <node id="6770749424" version="1" timestamp="2019-09-03T23:38:51Z" uid="1559158" user="vakulya" changeset="74060734" lat="46.0302027" lon="18.6402475">
+    <tag k="name" v="Vaskapu"/>
+    <tag k="place" v="hamlet"/>
+  </node>
+  <node id="6935990565" version="2" timestamp="2019-11-01T10:02:49Z" uid="2077889" user="zsolt d" changeset="76485716" lat="47.2996655" lon="18.5774651">
+    <tag k="ele" v="232"/>
+    <tag k="is_in" v="Jánoshegy dűlő"/>
+    <tag k="name" v="János-hegy"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="6939400590" version="1" timestamp="2019-11-02T15:25:55Z" uid="2077889" user="zsolt d" changeset="76526690" lat="47.4425204" lon="21.2973591">
+    <tag k="alt_name" v="Kunhalom; Kurgán"/>
+    <tag k="description" v="&apos;&apos;Ex lege&apos;&apos; védett kunhalom, természeti emlék. A természet védelméről szóló 1996.évi LIII.Tvt. 23.§(2)bek „kultúrtörténeti, kulturális örökségi, tájképi, élővilág védelmi szempontból jelentős domború földmű, mely .. meghatározó eleme .. a tájnak”."/>
+    <tag k="is_in" v="Hajdúszoboszló nyugati külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Két-halom"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="http://termeszetvedelem.hu/ex-lege-vedett-kunhalom"/>
+    <tag k="wikipedia" v="hu:Kunhalom; Kurgán"/>
+  </node>
+  <node id="6939491158" version="1" timestamp="2019-11-02T16:46:21Z" uid="2077889" user="zsolt d" changeset="76526690" lat="47.4727357" lon="21.3049498">
+    <tag k="alt_name" v="Kunhalom; Kurgán"/>
+    <tag k="description" v="&apos;&apos;Ex lege&apos;&apos; védett kunhalom, természeti emlék. A természet védelméről szóló 1996.évi LIII.Tvt. 23.§(2)bek „kultúrtörténeti, kulturális örökségi, tájképi, élővilág védelmi szempontból jelentős domború földmű, mely .. meghatározó eleme .. a tájnak”."/>
+    <tag k="is_in" v="Ős-Kösély; Hajdúszoboszló nyugati külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Kunhalom"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="http://termeszetvedelem.hu/ex-lege-vedett-kunhalom"/>
+    <tag k="wikipedia" v="hu:Kunhalom; Kurgán"/>
+  </node>
+  <node id="6939763756" version="1" timestamp="2019-11-02T20:31:08Z" uid="2077889" user="zsolt d" changeset="76537217" lat="47.4305499" lon="21.3198414">
+    <tag k="alt_name" v="Kunhalom; Kurgán"/>
+    <tag k="description" v="&apos;&apos;Ex lege&apos;&apos; védett kunhalom, természeti emlék. A természet védelméről szóló 1996.évi LIII.Tvt. 23.§(2)bek „kultúrtörténeti, kulturális örökségi, tájképi, élővilág védelmi szempontból jelentős domború földmű, mely .. meghatározó eleme .. a tájnak”."/>
+    <tag k="is_in" v="Hajdúszoboszló nyugati külterület; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Kunhalom"/>
+    <tag k="natural" v="peak"/>
+    <tag k="url" v="http://termeszetvedelem.hu/ex-lege-vedett-kunhalom"/>
+    <tag k="wikipedia" v="hu:Kunhalom; Kurgán"/>
+  </node>
+  <node id="6935990300" version="1" timestamp="2019-10-31T22:32:35Z" uid="2077889" user="zsolt d" changeset="76469726" lat="47.298977" lon="18.5781813">
+    <tag k="addr:city" v="Lovasberény"/>
+    <tag k="addr:country" v="HU"/>
+    <tag k="addr:province" v="Komárom-Esztergom megye"/>
+    <tag k="addr:street" v="Jánoshegy dűlő"/>
+    <tag k="alt_name" v="Lovasberény, MCSE Csillagtanya észlelőhely"/>
+    <tag k="description" v="6,5 magnitúdó az égbolt szabad szemes határfényessége"/>
+    <tag k="direction" v="0-360"/>
+    <tag k="ele" v="230"/>
+    <tag k="is_in" v="Jánoshegy dűlő; János-hegy"/>
+    <tag k="name" v="amatőrcsillagász észlelőhely (6,5mn darksky), Lovasberény"/>
+    <tag k="start_date" v="2019"/>
+    <tag k="surface" v="grass"/>
+    <tag k="surveillance" v="astronomy"/>
+    <tag k="surveillance:type" v="viewpoint"/>
+    <tag k="tourism" v="viewpoint"/>
+    <tag k="url" v="http://egkep.com"/>
+    <tag k="url:darksky" v="fenyszennyezes.hu"/>
+    <tag k="website" v="https://www.mcse.hu/eszlelohelyek/"/>
+  </node>
+  <node id="6935990538" version="1" timestamp="2019-10-31T22:32:37Z" uid="2077889" user="zsolt d" changeset="76469726" lat="47.2991844" lon="18.5784508">
+    <tag k="is_in" v="Jánoshegy dűlő; János-hegy"/>
+    <tag k="name" v="MCSE Csillagtanya"/>
+    <tag k="operator" v="Magyar Csillagászati Egyesület"/>
+    <tag k="place" v="farm"/>
+    <tag k="start_date" v="2019"/>
+    <tag k="url" v="https://www.mcse.hu/egyesulet/egyesuleti-hirek/egyesuleti-hirek-2019/mcse-csillagtanya-egyesuleti-eszlelohelyunk/"/>
+    <tag k="website" v="www.mcse.hu"/>
+  </node>
+  <node id="6935990543" version="1" timestamp="2019-10-31T22:32:37Z" uid="2077889" user="zsolt d" changeset="76469726" lat="47.2993026" lon="18.5788156">
+    <tag k="is_in" v="Jánoshegy dűlő; János-hegy"/>
+    <tag k="name" v="MCSE"/>
+    <tag k="nudism" v="no"/>
+    <tag k="operator" v="Magyar Csillagászati Egyesület"/>
+    <tag k="start_date" v="2019"/>
+    <tag k="tents" v="yes"/>
+    <tag k="tourism" v="camp_site"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="6918672795" version="1" timestamp="2019-10-26T16:30:30Z" uid="2077889" user="zsolt d" changeset="76247422" lat="47.5892553" lon="21.0365546">
+    <tag k="access" v="no"/>
+    <tag k="alt_name" v="Természetvédelmi terület"/>
+    <tag k="board_type" v="nature"/>
+    <tag k="description" v="Természetvédelmi terület, belépni tilos"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Szálkahalom; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Belépni tilos, TT"/>
+    <tag k="name:cz" v="Ochrana přírody je zakázáno vstupovat"/>
+    <tag k="name:de" v="Naturschutzgebiet, es ist verboten zu betreten"/>
+    <tag k="name:dk" v="Naturbeskyttelsesområde er det forbudt at komme ind"/>
+    <tag k="name:en" v="Nature conservation area, it is forbidden to enter"/>
+    <tag k="name:es" v="Área de conservación de la naturaleza, está prohibido ingresar."/>
+    <tag k="name:fi" v="Luonnonsuojelualue on kielletty"/>
+    <tag k="name:fr" v="Zone de conservation de la nature, il est interdit d&apos;entrer"/>
+    <tag k="name:gr" v="Περιοχή προστασίας της φύσης, απαγορεύεται η είσοδος"/>
+    <tag k="name:hr" v="Područje zaštite prirode, zabranjeno je ulazak"/>
+    <tag k="name:il" v="שטח שימור הטבע, אסור להיכנס"/>
+    <tag k="name:it" v="Area di conservazione della natura, è vietato entrare"/>
+    <tag k="name:jp" v="自然保護区域に入ることは禁じられている"/>
+    <tag k="name:nl" v="Natuurbeschermingsgebied, het is verboden om binnen te komen"/>
+    <tag k="name:pl" v="Obszar ochrony przyrody, wstęp jest zabroniony"/>
+    <tag k="name:pt" v="Área de conservação da natureza, é proibido entrar"/>
+    <tag k="name:rc" v="自然保护区，禁止进入"/>
+    <tag k="name:ro" v="Zona de conservare a naturii, este interzisă intrarea"/>
+    <tag k="name:ru" v="Природоохранная территория, запрещается входить"/>
+    <tag k="name:se" v="Naturskyddsområde, det är förbjudet att komma in"/>
+    <tag k="name:sk" v="Ochrana prírody, je zakázané vstúpiť"/>
+    <tag k="name:sl" v="Naravovarstveno območje je prepovedano vstopiti"/>
+    <tag k="name:sr" v="Простор за заштиту природе, забрањено је улазити"/>
+    <tag k="name:tr" v="Doğa koruma alanı, girmek yasaktır"/>
+    <tag k="name:ua" v="Природоохоронна територія, заборонено в&apos;їзд"/>
+    <tag k="name:vd" v="Khu bảo tồn thiên nhiên, không được phép vào"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6917411251" version="1" timestamp="2019-10-26T06:22:26Z" uid="2077889" user="zsolt d" changeset="76234916" lat="47.5923884" lon="21.0379574">
+    <tag k="is_in" v="Szásztelek; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Kékesi-Hodály tanya"/>
+    <tag k="place" v="farm"/>
+    <tag k="website" v="http://www.hnp.hu/hu/szervezeti-egyseg/turizmus/oldal/latogatasi-szabalyzat"/>
+  </node>
+  <node id="6912223645" version="2" timestamp="2019-10-24T15:17:20Z" uid="2077889" user="zsolt d" changeset="76162505" lat="47.5854418" lon="20.9739813">
+    <tag k="is_in" v="Egyek-pusztakócsi mocsarak; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Meggyes csárda"/>
+    <tag k="place" v="farm"/>
+    <tag k="website" v="https://www.hnp.hu/hu/szervezeti-egyseg/turizmus/oldal/egyek-pusztakocsi-mocsarak-goresi-tanosveny"/>
+  </node>
+  <node id="6913071897" version="1" timestamp="2019-10-24T15:32:26Z" uid="2077889" user="zsolt d" changeset="76162505" lat="47.638632" lon="21.2313902">
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Dinnyés"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="6913072501" version="1" timestamp="2019-10-24T15:32:27Z" uid="2077889" user="zsolt d" changeset="76162505" lat="47.6532617" lon="21.206038">
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Nagyivókonyha"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="6913072600" version="1" timestamp="2019-10-24T15:32:27Z" uid="2077889" user="zsolt d" changeset="76162505" lat="47.6925768" lon="21.2591457">
+    <tag k="is_in" v="Kis-szeg; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Lászlóháza"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="6913072619" version="1" timestamp="2019-10-24T15:32:27Z" uid="2077889" user="zsolt d" changeset="76162505" lat="47.6899689" lon="21.2249685"/>
+  <node id="6913072644" version="1" timestamp="2019-10-24T15:32:27Z" uid="2077889" user="zsolt d" changeset="76162505" lat="47.6904608" lon="21.2252748">
+    <tag k="is_in" v="Kis-szeg; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Kisszeg"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="6913072645" version="1" timestamp="2019-10-24T15:32:27Z" uid="2077889" user="zsolt d" changeset="76162505" lat="47.6835814" lon="21.1995363">
+    <tag k="is_in" v="Darassa; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Szürkemarha génbank"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="6913118028" version="1" timestamp="2019-10-24T15:46:42Z" uid="2077889" user="zsolt d" changeset="76162505" lat="47.5129834" lon="21.2656903">
+    <tag k="is_in" v="Elepi-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Vajdalaposi erdő"/>
+    <tag k="place" v="locality"/>
+    <tag k="website" v="http://www.hnp.hu/hu/szervezeti-egyseg/turizmus/oldal/latogatasi-szabalyzat"/>
+  </node>
+  <node id="6913118029" version="1" timestamp="2019-10-24T15:46:42Z" uid="2077889" user="zsolt d" changeset="76162505" lat="47.5308285" lon="21.2323558">
+    <tag k="is_in" v="Elepi-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Kisálomzug"/>
+    <tag k="place" v="farm"/>
+    <tag k="website" v="http://www.hnp.hu/hu/szervezeti-egyseg/turizmus/oldal/latogatasi-szabalyzat"/>
+  </node>
+  <node id="6913150212" version="1" timestamp="2019-10-24T15:55:03Z" uid="2077889" user="zsolt d" changeset="76162505" lat="47.5215481" lon="21.0030109">
+    <tag k="is_in" v="Szásztelek; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Danyitanya"/>
+    <tag k="place" v="farm"/>
+    <tag k="url" v="http://www.hortobagy.hu/galeria-2/szasztelek/"/>
+    <tag k="website" v="http://www.hnp.hu/hu/szervezeti-egyseg/turizmus/oldal/latogatasi-szabalyzat"/>
+  </node>
+  <node id="6913150300" version="3" timestamp="2019-10-26T16:55:36Z" uid="2077889" user="zsolt d" changeset="76247422" lat="47.5117733" lon="21.1741144">
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Várostanya"/>
+    <tag k="place" v="farm"/>
+    <tag k="website" v="http://www.hnp.hu/hu/szervezeti-egyseg/turizmus/oldal/latogatasi-szabalyzat"/>
+  </node>
+  <node id="6913150301" version="2" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916" lat="47.5178402" lon="21.0860387">
+    <tag k="is_in" v="Szásztelek; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Pentezug"/>
+    <tag k="place" v="farm"/>
+    <tag k="website" v="http://www.hnp.hu/hu/szervezeti-egyseg/turizmus/oldal/latogatasi-szabalyzat"/>
+  </node>
+  <node id="6904795990" version="2" timestamp="2019-10-24T15:17:20Z" uid="2077889" user="zsolt d" changeset="76162505" lat="47.5917137" lon="20.8518684">
+    <tag k="is_in" v="Egyek-pusztakócsi mocsarak; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Patkós Csárda"/>
+    <tag k="place" v="farm"/>
+    <tag k="website" v="https://www.hnp.hu/hu/szervezeti-egyseg/turizmus/oldal/egyek-pusztakocsi-mocsarak-goresi-tanosveny"/>
+  </node>
+  <node id="6871199591" version="1" timestamp="2019-10-11T15:16:18Z" uid="2077889" user="zsolt d" changeset="75573389" lat="47.57734" lon="19.1097683">
+    <tag k="is_in" v="Újpest"/>
+    <tag k="name" v="Újpest Kertváros"/>
+    <tag k="place" v="quarter"/>
+    <tag k="wikipedia" v="hu:Újpest (városrész)"/>
+  </node>
+  <node id="6871199592" version="1" timestamp="2019-10-11T15:16:18Z" uid="2077889" user="zsolt d" changeset="75573389" lat="47.5532911" lon="19.1234207">
+    <tag k="is_in" v="Rákospalota"/>
+    <tag k="name" v="Benkőtelep"/>
+    <tag k="place" v="quarter"/>
+    <tag k="wikipedia" v="hu:Rákospalota"/>
+  </node>
+  <node id="6871199593" version="1" timestamp="2019-10-11T15:16:18Z" uid="2077889" user="zsolt d" changeset="75573389" lat="47.5512527" lon="19.1116512">
+    <tag k="is_in" v="Rákospalota"/>
+    <tag k="name" v="Kecskehegy"/>
+    <tag k="place" v="quarter"/>
+    <tag k="wikipedia" v="hu:Rákospalota"/>
+  </node>
+  <node id="6871199594" version="1" timestamp="2019-10-11T15:16:18Z" uid="2077889" user="zsolt d" changeset="75573389" lat="47.5772006" lon="19.1187027">
+    <tag k="is_in" v="Rákospalota"/>
+    <tag k="name" v="Rákospalota Kertváros"/>
+    <tag k="place" v="quarter"/>
+    <tag k="wikipedia" v="hu:Rákospalota"/>
+  </node>
+  <node id="6871199595" version="1" timestamp="2019-10-11T15:16:18Z" uid="2077889" user="zsolt d" changeset="75573389" lat="47.5675104" lon="19.1156745">
+    <tag k="is_in" v="Rákospalota"/>
+    <tag k="name" v="Rákospalota Öregfalu"/>
+    <tag k="place" v="quarter"/>
+    <tag k="wikipedia" v="hu:Rákospalota"/>
+  </node>
+  <node id="6720767544" version="2" timestamp="2019-08-18T12:54:13Z" uid="2077889" user="zsolt d" changeset="73459702" lat="47.9961992" lon="18.9364687">
+    <tag k="description" v="Alappont pontszám: 85-3401; állandósítás: kő; pontvédő: rövid jelzőoszlop; rendűség: IV. rendű; nyilvántartott állapot: rendben; Pest megye; Kemence falu; Zöldbükk, Varjastető; 47° 59.772&apos;É 18° 56.188&apos;K"/>
+    <tag k="ele" v="489"/>
+    <tag k="is_in" v="Börzsöny; Zöldbükk; Varjastető"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Zöldbükk, Varjastető alappont"/>
+    <tag k="ref" v="85-3401"/>
+    <tag k="website" v="https://map.fomi.hu/alappont/85-3401"/>
+  </node>
+  <node id="6721198756" version="1" timestamp="2019-08-18T16:19:18Z" uid="2077889" user="zsolt d" changeset="73467815" lat="47.9578387" lon="18.9059955">
+    <tag k="is_in" v="Hajagos; Csarnavölgy; Börzsöny"/>
+    <tag k="name" v="Hajagos"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6721199877" version="4" timestamp="2019-09-23T19:36:24Z" uid="2282410" user="leveskockaa" changeset="74824425" lat="47.9794884" lon="18.8958133">
+    <tag k="disused" v="yes"/>
+    <tag k="disused:railway" v="halt"/>
+    <tag k="is_in" v="Feketekút; Csarnavölgy; Börzsöny"/>
+    <tag k="name" v="Feketekút"/>
+    <tag k="network" v="Kemencei Erdei Múzeumvasút"/>
+    <tag k="operator" v="Kemencei Erdei Vasút"/>
+    <tag k="url:menetrend" v="https://kisvasut.hu/index.php?rfa=35"/>
+    <tag k="website" v="https://kisvasut.hu/kemence"/>
+  </node>
+  <node id="6721199878" version="1" timestamp="2019-08-18T16:13:27Z" uid="2077889" user="zsolt d" changeset="73467815" lat="47.979369" lon="18.8960606">
+    <tag k="is_in" v="Feketekút; Csarnavölgy; Börzsöny"/>
+    <tag k="name" v="Feketekút"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6721199909" version="2" timestamp="2019-08-18T17:56:58Z" uid="2077889" user="zsolt d" changeset="73469641" lat="47.9680402" lon="18.896884">
+    <tag k="is_in" v="Drinó; Csarnavölgy; Börzsöny"/>
+    <tag k="name" v="Drinó"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6721199942" version="1" timestamp="2019-08-18T16:13:27Z" uid="2077889" user="zsolt d" changeset="73467815" lat="47.9619644" lon="18.898319">
+    <tag k="is_in" v="Hamuház; Csarnavölgy; Börzsöny"/>
+    <tag k="name" v="Hamuház"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6721377324" version="4" timestamp="2019-09-07T06:32:02Z" uid="2077889" user="zsolt d" changeset="74198751" lat="47.9071444" lon="18.8832986">
+    <tag k="ele" v="450"/>
+    <tag k="is_in" v="Nagyirtáspuszta; Magas-Börzsöny; Börzsöny"/>
+    <tag k="name" v="Cseres-bérc"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="6721386537" version="1" timestamp="2019-08-18T17:41:20Z" uid="2077889" user="zsolt d" changeset="73469641" lat="47.9883815" lon="18.8980132">
+    <tag k="is_in" v="Csarna-völgy; Börzsöny"/>
+    <tag k="name" v="Pityur-rétje"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6721386540" version="1" timestamp="2019-08-18T17:41:20Z" uid="2077889" user="zsolt d" changeset="73469641" lat="47.9826097" lon="18.8970396">
+    <tag k="is_in" v="Csarna-völgy; Börzsöny"/>
+    <tag k="name" v="Feketevölgy"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6728302606" version="1" timestamp="2019-08-20T23:43:41Z" uid="1559158" user="vakulya" changeset="73559136" lat="46.2600811" lon="18.6987566">
+    <tag k="name" v="Újberekpuszta"/>
+    <tag k="place" v="hamlet"/>
+  </node>
+  <node id="6728547702" version="1" timestamp="2019-08-21T02:22:17Z" uid="1559158" user="vakulya" changeset="73560922" lat="46.2372386" lon="18.6408751">
+    <tag k="name" v="Kismórágy"/>
+    <tag k="place" v="hamlet"/>
+  </node>
+  <node id="6728547706" version="1" timestamp="2019-08-21T02:22:17Z" uid="1559158" user="vakulya" changeset="73560922" lat="46.2482979" lon="18.6099669">
+    <tag k="name" v="Palatinca"/>
+    <tag k="place" v="hamlet"/>
+  </node>
+  <node id="6712998193" version="1" timestamp="2019-08-15T20:12:40Z" uid="1559158" user="vakulya" changeset="73391030" lat="46.921105" lon="19.860169">
+    <tag k="name" v="Alsószentkirály"/>
+    <tag k="place" v="suburb"/>
+  </node>
+  <node id="6715411951" version="2" timestamp="2019-08-16T11:43:32Z" uid="2077889" user="zsolt d" changeset="73409798" lat="47.9947" lon="19.0330088">
+    <tag k="ele" v="420"/>
+    <tag k="is_in" v="Börzsöny"/>
+    <tag k="name" v="Pénzásás"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6715411952" version="1" timestamp="2019-08-16T10:58:19Z" uid="2077889" user="zsolt d" changeset="73409798" lat="47.9365024" lon="19.0203421">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Sváb-kastély (Göllesz Intézet)"/>
+    <tag k="operator" v="Göllesz Intézet"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </node>
+  <node id="6715472374" version="3" timestamp="2019-08-18T10:16:09Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0134805" lon="19.0003328">
+    <tag k="description" v="szurdokvölgy"/>
+    <tag k="ele" v="340"/>
+    <tag k="is_in" v="Oszlai-árok; Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="Oszlai-árok"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6715472375" version="2" timestamp="2019-08-18T10:33:13Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0092602" lon="19.0268853">
+    <tag k="ele" v="325"/>
+    <tag k="hiking" v="yes"/>
+    <tag k="information" v="guidepost"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny; Deszkáspuszta"/>
+    <tag k="name" v="Drégelyvári kanyar"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6718146293" version="1" timestamp="2019-08-17T10:07:25Z" uid="2077889" user="zsolt d" changeset="73438676" lat="47.8859293" lon="18.9265788">
+    <tag k="direction" v="112-250"/>
+    <tag k="ele" v="340"/>
+    <tag k="name" v="Kálvária panoráma"/>
+    <tag k="tourism" v="viewpoint"/>
+  </node>
+  <node id="6720602043" version="2" timestamp="2019-08-18T10:16:09Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0133514" lon="18.9612731">
+    <tag k="ele" v="250"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="Kalakocs-pataki pihenő"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6720602044" version="1" timestamp="2019-08-18T10:05:19Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0208725" lon="18.9248702">
+    <tag k="ele" v="205"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="Bábaasszony-rétje"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6720622836" version="2" timestamp="2019-08-18T10:33:13Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0098255" lon="19.0004468">
+    <tag k="description" v="szurdokvölgy"/>
+    <tag k="ele" v="290"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="Betyár-kút"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6720622837" version="1" timestamp="2019-08-18T10:16:09Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0114054" lon="18.974715">
+    <tag k="ele" v="250"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="Dr. Báró Korányi Frigyes pihenő"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6720635324" version="1" timestamp="2019-08-18T10:33:13Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0099924" lon="19.0046538">
+    <tag k="ele" v="295"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny; Deszkáspuszta"/>
+    <tag k="name" v="Deszkáspusztai Szűz Mária"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="6330859972" version="2" timestamp="2019-08-18T10:16:09Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0113225" lon="18.9740771">
+    <tag k="information" v="guidepost"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+    <tag k="note" v="Nyugatra haladva ugyan egyből balra mutat a piros jelzés nyila, de nem itt kell felmenni, hanem csak a kanyar után."/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6467057576" version="4" timestamp="2019-08-18T10:16:09Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0137322" lon="19.0003522">
+    <tag k="ele" v="350"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Oszlai-árok; Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="5. Oszlai-árok"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2019-05-11"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6467057577" version="4" timestamp="2019-08-18T10:16:09Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0133348" lon="19.0003885">
+    <tag k="ele" v="350"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Oszlai-árok; Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="Sisa Pista barlangja"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2019-05-11"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6467058185" version="3" timestamp="2019-08-18T10:16:09Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0122757" lon="19.0010878">
+    <tag k="board_type" v="nature"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="4. Száraz tölgyes"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2019-05-11"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6467058186" version="3" timestamp="2019-08-18T10:16:09Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0102768" lon="19.0001357">
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="3. Idős kocsányos tölgyes"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2019-05-11"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6467058189" version="3" timestamp="2019-08-18T10:33:13Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0098679" lon="19.0045345">
+    <tag k="ele" v="295"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Börzsöny; Deszkáspuszta"/>
+    <tag k="name" v="Deszkáspusztai Mária-barlang"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2019-05-11"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6467058190" version="3" timestamp="2019-08-18T10:16:09Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0096294" lon="19.0004897">
+    <tag k="ele" v="290"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="Sisa Pista Nyomában"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2019-05-11"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6467058191" version="3" timestamp="2019-08-18T10:16:09Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0092181" lon="19.0006292">
+    <tag k="ele" v="290"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="1. Betyár-kút"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2019-05-11"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6467058192" version="3" timestamp="2019-08-18T10:16:09Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0094702" lon="19.0003107">
+    <tag k="board_type" v="nature"/>
+    <tag k="ele" v="290"/>
+    <tag k="information" v="board"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="2. Patakparti égeres"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2019-05-11"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6776763673" version="1" timestamp="2019-09-06T10:56:42Z" uid="8387374" user="Bence Mélykúti" changeset="74168959" lat="47.5089276" lon="19.0246872">
+    <tag k="is_in" v="Fény utcai piac"/>
+    <tag k="name" v="Anna Vegyiáruk"/>
+    <tag k="operator" v="Skyler Typer Kft."/>
+    <tag k="ref:vatin:hu" v="25942479-2-41"/>
+    <tag k="shop" v="chemist"/>
+  </node>
+  <node id="6911557903" version="1" timestamp="2019-10-24T07:59:16Z" uid="2077889" user="zsolt d" changeset="76138987" lat="47.6054073" lon="21.0711349">
+    <tag k="alt_name" v="Halászbárka Halastavi Fogadóközpont"/>
+    <tag k="description" v="nov-dec-jan-febr, márc 1-11.: zárva; márc 12-31., ápr-máj-június: kedd-vasárnap: 8.00-16.00,; hétfőn zárva; júl-aug: hétfő-vasárnap: 9.00-18.00; szept: kedd-vasárnap: 8.00-18.00, hétfőn zárva; okt: kedd-vasárnap: 8.00-17.00, hétfőn zárva"/>
+    <tag k="email" v="info@hnp.hu"/>
+    <tag k="email:2" v="hortobagy@tourinform.hu"/>
+    <tag k="information" v="office"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="HNP Halászbárka"/>
+    <tag k="name:en" v="Hortobágy National Park Visitor Centre"/>
+    <tag k="operator" v="Hortobágyi Nemzeti Park"/>
+    <tag k="phone" v="+36 52 589 000; +36 52 589 321; +36 52 369 140"/>
+    <tag k="tourism" v="information"/>
+    <tag k="website" v="http://www.hnp.hu/hu/szervezeti-egyseg/turizmus/hortobagy-halastavi-kisvasut"/>
+  </node>
+  <way id="238376954" version="5" timestamp="2019-10-18T14:12:22Z" uid="616774" user="mueschel" changeset="75897697">
+    <nd ref="2462178778"/>
+    <nd ref="2462178781"/>
+    <nd ref="2462178787"/>
+    <nd ref="2462178780"/>
+    <nd ref="2462178786"/>
+    <nd ref="2462178785"/>
+    <nd ref="2462178784"/>
+    <nd ref="2462178782"/>
+    <nd ref="2462178778"/>
+    <tag k="addr:conscriptionnumber" v="0740"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="commercial"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="height" v="5"/>
+    <tag k="heritage" v="2"/>
+    <tag k="historic" v="yes"/>
+    <tag k="is_in" v="Elep északi külterület; Hortobágyi Nemzeti Park; Nagyhegyes; 33-as út"/>
+    <tag k="name" v="Kadarcs csárda"/>
+    <tag k="ref" v="Műemléki azonosító: 5362; törzsszám: 9851"/>
+    <tag k="website" v="http://muemlekem.hu/muemlek/show/5362"/>
+  </way>
+  <way id="33235641" version="3" timestamp="2019-10-26T17:55:52Z" uid="2077889" user="zsolt d" changeset="76247422">
+    <nd ref="377048266"/>
+    <nd ref="377048664"/>
+    <nd ref="377048682"/>
+    <nd ref="377048458"/>
+    <nd ref="377048470"/>
+    <nd ref="377048487"/>
+    <nd ref="377048505"/>
+    <nd ref="377048516"/>
+    <nd ref="377048525"/>
+    <nd ref="377048535"/>
+    <nd ref="377048553"/>
+    <nd ref="377048363"/>
+    <nd ref="377048347"/>
+    <nd ref="377048392"/>
+    <nd ref="377048374"/>
+    <nd ref="377048423"/>
+    <nd ref="377048401"/>
+    <nd ref="377048446"/>
+    <nd ref="377048435"/>
+    <nd ref="377048252"/>
+    <nd ref="377048239"/>
+    <nd ref="377048266"/>
+    <tag k="elevation" v="172"/>
+    <tag k="is_in" v="Gyökérkút-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Ohat IV. Horgásztó"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="SRTM"/>
+    <tag k="water" v="lake"/>
+  </way>
+  <way id="352924180" version="5" timestamp="2019-10-05T15:04:56Z" uid="2077889" user="zsolt d" changeset="75319716">
+    <nd ref="6853514480"/>
+    <nd ref="6853514481"/>
+    <nd ref="6853567001"/>
+    <nd ref="3587129130"/>
+    <nd ref="3587129131"/>
+    <nd ref="3587129132"/>
+    <nd ref="3587129133"/>
+    <nd ref="3587129134"/>
+    <nd ref="3587129135"/>
+    <nd ref="3587129136"/>
+    <nd ref="3587129139"/>
+    <nd ref="3587129141"/>
+    <nd ref="3587129142"/>
+    <nd ref="3587129143"/>
+    <nd ref="3587129145"/>
+    <nd ref="3587129146"/>
+    <nd ref="3587129147"/>
+    <nd ref="3587129148"/>
+    <nd ref="3587129149"/>
+    <nd ref="3587129150"/>
+    <nd ref="3587129151"/>
+    <nd ref="3587129152"/>
+    <nd ref="3587129153"/>
+    <nd ref="3587129154"/>
+    <nd ref="3587129155"/>
+    <nd ref="3587129156"/>
+    <nd ref="3587129157"/>
+    <nd ref="3587129158"/>
+    <nd ref="3587129159"/>
+    <nd ref="3587129161"/>
+    <nd ref="3587129165"/>
+    <nd ref="3587129166"/>
+    <nd ref="3587129167"/>
+    <nd ref="6853778234"/>
+    <nd ref="3587129168"/>
+    <nd ref="6853557561"/>
+    <nd ref="3587129169"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Elepi-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Elepi-tóegység"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="start_date" v="2006"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="352997389" version="4" timestamp="2019-10-02T05:22:30Z" uid="2077889" user="zsolt d" changeset="75177285">
+    <nd ref="3587828553"/>
+    <nd ref="3587828554"/>
+    <nd ref="3587828555"/>
+    <nd ref="3587828556"/>
+    <nd ref="3587828557"/>
+    <nd ref="3587828558"/>
+    <nd ref="3587828559"/>
+    <nd ref="3587828560"/>
+    <nd ref="3587828561"/>
+    <nd ref="3587828562"/>
+    <nd ref="3587828563"/>
+    <nd ref="3587828564"/>
+    <nd ref="3587828565"/>
+    <nd ref="6658184565"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="33235653" version="7" timestamp="2019-10-28T12:09:24Z" uid="2077889" user="zsolt d" changeset="76296466">
+    <nd ref="377049090"/>
+    <nd ref="377049050"/>
+    <nd ref="377049066"/>
+    <nd ref="377049025"/>
+    <nd ref="377049041"/>
+    <nd ref="6924512620"/>
+    <nd ref="377048991"/>
+    <nd ref="6924512621"/>
+    <nd ref="377048912"/>
+    <nd ref="377048920"/>
+    <nd ref="377048900"/>
+    <nd ref="377048886"/>
+    <nd ref="377048864"/>
+    <nd ref="6924512585"/>
+    <nd ref="6924471484"/>
+    <nd ref="377048852"/>
+    <nd ref="377048839"/>
+    <nd ref="6924512586"/>
+    <nd ref="377048825"/>
+    <nd ref="6924512587"/>
+    <nd ref="377048810"/>
+    <nd ref="377048801"/>
+    <nd ref="6924512589"/>
+    <nd ref="6924512588"/>
+    <nd ref="6924512590"/>
+    <nd ref="377048784"/>
+    <nd ref="6924512593"/>
+    <nd ref="377048763"/>
+    <nd ref="6924512591"/>
+    <nd ref="6924512592"/>
+    <nd ref="6924512596"/>
+    <nd ref="6924512595"/>
+    <nd ref="6924512594"/>
+    <nd ref="377048757"/>
+    <nd ref="377048749"/>
+    <nd ref="6924512605"/>
+    <nd ref="6924512604"/>
+    <nd ref="6924512597"/>
+    <nd ref="6924512598"/>
+    <nd ref="6924512599"/>
+    <nd ref="6924512600"/>
+    <nd ref="6924512601"/>
+    <nd ref="6924512602"/>
+    <nd ref="6924512603"/>
+    <nd ref="6924512606"/>
+    <nd ref="377048732"/>
+    <nd ref="377048720"/>
+    <nd ref="6924512607"/>
+    <nd ref="6924512608"/>
+    <nd ref="6924512609"/>
+    <nd ref="377048707"/>
+    <nd ref="6924512611"/>
+    <nd ref="6924512610"/>
+    <nd ref="6924512612"/>
+    <nd ref="377048695"/>
+    <nd ref="6924512613"/>
+    <nd ref="377049214"/>
+    <nd ref="6924512614"/>
+    <nd ref="377049227"/>
+    <nd ref="6924512615"/>
+    <nd ref="377049240"/>
+    <nd ref="377049200"/>
+    <nd ref="377048295"/>
+    <nd ref="377048281"/>
+    <nd ref="377048329"/>
+    <nd ref="6924512616"/>
+    <nd ref="6924512617"/>
+    <nd ref="5994656311"/>
+    <nd ref="6924512619"/>
+    <nd ref="6924512618"/>
+    <nd ref="377049090"/>
+    <tag k="ele" v="168"/>
+    <tag k="is_in" v="Gyökérkút-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Pince-lapos-tó"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="SRTM"/>
+    <tag k="water" v="lake"/>
+  </way>
+  <way id="497871208" version="2" timestamp="2019-08-16T07:45:22Z" uid="2077889" user="zsolt d" changeset="73402780">
+    <nd ref="4893724795"/>
+    <nd ref="4893724792"/>
+    <nd ref="4893724793"/>
+    <nd ref="4893724794"/>
+    <nd ref="4893724795"/>
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="is_in" v="Királyréti horgásztó; Bajdázó; Királyrét"/>
+    <tag k="parking" v="surface"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="fine_gravel"/>
+  </way>
+  <way id="33235884" version="6" timestamp="2019-11-05T12:25:16Z" uid="7187009" user="ITineris_bulk" changeset="76645326">
+    <nd ref="376993653"/>
+    <nd ref="376992129"/>
+    <nd ref="376992143"/>
+    <nd ref="376992157"/>
+    <nd ref="376992189"/>
+    <nd ref="376992038"/>
+    <nd ref="376992062"/>
+    <nd ref="376992091"/>
+    <nd ref="376992107"/>
+    <nd ref="376991945"/>
+    <nd ref="376991913"/>
+    <nd ref="376992024"/>
+    <nd ref="376991999"/>
+    <nd ref="5926940246"/>
+    <nd ref="5926940244"/>
+    <nd ref="5926940243"/>
+    <nd ref="5926940245"/>
+    <nd ref="376991835"/>
+    <nd ref="376991810"/>
+    <nd ref="5926940250"/>
+    <nd ref="5926940247"/>
+    <nd ref="5926940248"/>
+    <nd ref="5926940249"/>
+    <nd ref="376991895"/>
+    <nd ref="5926940251"/>
+    <nd ref="5926940252"/>
+    <nd ref="376991877"/>
+    <nd ref="376991733"/>
+    <nd ref="376991695"/>
+    <nd ref="376991785"/>
+    <nd ref="376991760"/>
+    <nd ref="376991630"/>
+    <nd ref="376991610"/>
+    <nd ref="376991682"/>
+    <nd ref="376991659"/>
+    <nd ref="5516033285"/>
+    <nd ref="5516033284"/>
+    <nd ref="5516033283"/>
+    <nd ref="376993889"/>
+    <nd ref="5516033280"/>
+  </way>
+  <way id="241580128" version="2" timestamp="2019-08-16T07:45:22Z" uid="2077889" user="zsolt d" changeset="73402780">
+    <nd ref="2491902440"/>
+    <nd ref="2491902441"/>
+    <nd ref="2491902442"/>
+    <nd ref="2491902443"/>
+    <nd ref="2491902444"/>
+    <nd ref="2491902445"/>
+    <nd ref="2491902446"/>
+    <nd ref="2491902440"/>
+    <tag k="is_in" v="Börzsöny; Cseresznyés-patak völgye"/>
+    <tag k="landuse" v="meadow"/>
+    <tag k="name" v="Cseresznyéspataki rakodó"/>
+  </way>
+  <way id="244930785" version="5" timestamp="2019-08-16T18:59:27Z" uid="2077889" user="zsolt d" changeset="73425941">
+    <nd ref="2522027780"/>
+    <nd ref="3074421010"/>
+    <nd ref="2522027781"/>
+    <nd ref="3074421009"/>
+    <nd ref="3074421008"/>
+    <nd ref="2522027782"/>
+    <nd ref="2522027783"/>
+    <nd ref="3074421005"/>
+    <nd ref="3074421004"/>
+    <nd ref="2522027784"/>
+    <nd ref="2522027785"/>
+    <nd ref="3074421001"/>
+    <nd ref="2522027786"/>
+    <nd ref="3074420999"/>
+    <nd ref="2522027787"/>
+    <nd ref="3074420996"/>
+    <nd ref="2522027788"/>
+    <nd ref="3074420998"/>
+    <nd ref="2522027789"/>
+    <nd ref="3074421000"/>
+    <nd ref="2522027790"/>
+    <nd ref="3074421002"/>
+    <nd ref="2522027791"/>
+    <nd ref="2522027792"/>
+    <nd ref="2522027797"/>
+    <nd ref="2522027798"/>
+    <nd ref="2522027799"/>
+    <nd ref="3074421011"/>
+    <nd ref="2522027780"/>
+    <tag k="electrified" v="no"/>
+    <tag k="gauge" v="760"/>
+    <tag k="is_in" v="Királyrét"/>
+    <tag k="leisure" v="draisine"/>
+    <tag k="name" v="Királyréti Hajtánypálya"/>
+    <tag k="operator" v="Királyréti Erdei Vasút; Börzsöny 2020 Kft."/>
+    <tag k="phone" v="+36 30 86 96 751"/>
+    <tag k="railway" v="narrow_gauge"/>
+    <tag k="website" v="http://www.hajtanypalya.hu/"/>
+    <tag k="wikidata" v="Q1109581"/>
+    <tag k="wikipedia" v="hu:Királyréti Hajtánypálya"/>
+  </way>
+  <way id="506405385" version="3" timestamp="2019-08-18T10:05:19Z" uid="2077889" user="zsolt d" changeset="73459702">
+    <nd ref="4961489447"/>
+    <nd ref="4961489446"/>
+    <nd ref="4961489445"/>
+    <nd ref="4961489444"/>
+    <nd ref="4961489447"/>
+    <tag k="building" v="chapel"/>
+    <tag k="ele" v="190"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+  </way>
+  <way id="714442360" version="1" timestamp="2019-08-16T13:34:09Z" uid="2077889" user="zsolt d" changeset="73409798">
+    <nd ref="6715713667"/>
+    <nd ref="6715713666"/>
+    <nd ref="6715713665"/>
+    <nd ref="6715713664"/>
+    <nd ref="6715713663"/>
+    <nd ref="6715713662"/>
+    <nd ref="6715713661"/>
+    <nd ref="6715713660"/>
+    <nd ref="6715713659"/>
+    <nd ref="6715713658"/>
+    <nd ref="6715713657"/>
+    <nd ref="6715713656"/>
+    <nd ref="6715713655"/>
+    <nd ref="6715713654"/>
+    <tag k="is_in" v="Börzsöny"/>
+    <tag k="name" v="Deszkametsző-völgy"/>
+  </way>
+  <way id="715018215" version="1" timestamp="2019-08-18T10:05:19Z" uid="2077889" user="zsolt d" changeset="73459702">
+    <nd ref="6720602026"/>
+    <nd ref="6720602027"/>
+    <nd ref="6720602028"/>
+    <nd ref="6720602029"/>
+    <nd ref="6720602030"/>
+    <nd ref="6720602031"/>
+    <nd ref="6720602036"/>
+    <nd ref="6720602037"/>
+    <nd ref="6720602042"/>
+    <nd ref="6720602041"/>
+    <nd ref="6720602040"/>
+    <nd ref="6720602039"/>
+    <nd ref="6720602038"/>
+    <nd ref="6720602035"/>
+    <nd ref="6720602034"/>
+    <nd ref="6720602033"/>
+    <nd ref="6720602032"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny"/>
+    <tag k="name" v="Nagy-völgy"/>
+    <tag k="natural" v="valley"/>
+  </way>
+  <way id="715045596" version="2" timestamp="2019-08-18T12:48:39Z" uid="2077889" user="zsolt d" changeset="73459702">
+    <nd ref="6720767543"/>
+    <nd ref="6720767534"/>
+    <nd ref="6720767542"/>
+    <nd ref="6720767535"/>
+    <nd ref="6720767536"/>
+    <nd ref="6720767541"/>
+    <nd ref="6720767540"/>
+    <nd ref="6720767539"/>
+    <nd ref="6720767538"/>
+    <nd ref="6720767537"/>
+    <nd ref="6720849493"/>
+    <nd ref="6720767543"/>
+    <tag k="is_in" v="Börzsöny; Zöldbükk; Varjastető"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="310891961" version="4" timestamp="2019-08-18T17:41:21Z" uid="2077889" user="zsolt d" changeset="73469641">
+    <nd ref="3163923562"/>
+    <nd ref="3163923561"/>
+    <nd ref="314390239"/>
+    <nd ref="3163923563"/>
+    <nd ref="5849732705"/>
+    <nd ref="3163923562"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="info@feketevolgy.hu"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="is_in" v="Csarna-völgy; Börzsöny"/>
+    <tag k="name" v="Feketevölgy Panzió és Étterem"/>
+    <tag k="phone" v="+36 30 520 0277"/>
+    <tag k="smoking" v="no"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://feketevolgy.hu/"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="276420292" version="4" timestamp="2019-08-17T09:44:57Z" uid="2077889" user="zsolt d" changeset="73438676">
+    <nd ref="2810119037"/>
+    <nd ref="2812395183"/>
+    <nd ref="2810119038"/>
+    <nd ref="2810119046"/>
+    <nd ref="2810119045"/>
+    <nd ref="2810119048"/>
+    <nd ref="2810119044"/>
+    <nd ref="2810119043"/>
+    <nd ref="2810119042"/>
+    <nd ref="2810119040"/>
+    <nd ref="2810119041"/>
+    <nd ref="2810119037"/>
+    <tag k="addr:city" v="Kóspallag"/>
+    <tag k="addr:conscriptionnumber" v="1"/>
+    <tag k="addr:country" v="HU"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="2625"/>
+    <tag k="addr:province" v="Pest megye"/>
+    <tag k="addr:street" v="Szent István utca"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="description" v="Kis dombon álló, keletelt R.k. templom, Homlokzati tornyos, késő barokk, 1784-1805. Egyenes záródású szentélyéhez É-ról nyeregtetős sekrestye csatlakozik. Búcsú: szeptember 12."/>
+    <tag k="ele" v="281"/>
+    <tag k="heritage" v="2"/>
+    <tag k="name" v="Mária neve templom"/>
+    <tag k="opening_hours" v="Su 11:00-12:00"/>
+    <tag k="phone" v="+36 (27) 385-989"/>
+    <tag k="ref" v="Műemléki azonosító: 7109; törzsszám: 7091"/>
+    <tag k="religion" v="christian"/>
+    <tag k="start_date" v="1784"/>
+    <tag k="url:miserend" v="http://miserend.hu/?templom=481"/>
+    <tag k="website" v="http://muemlekem.hu/muemlek/show/7109"/>
+  </way>
+  <way id="435001760" version="3" timestamp="2019-08-14T09:22:27Z" uid="8675622" user="Narvik2" changeset="73339220">
+    <nd ref="4329373892"/>
+    <nd ref="4329373893"/>
+    <nd ref="4329373894"/>
+    <nd ref="6541117290"/>
+    <nd ref="6541117289"/>
+    <nd ref="6541117288"/>
+    <nd ref="6541117291"/>
+    <nd ref="4329373895"/>
+    <nd ref="4329373892"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="reformed"/>
+    <tag k="name" v="Református templom"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2011-04-18"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=28249"/>
+  </way>
+  <way id="33235890" version="5" timestamp="2019-10-26T17:55:52Z" uid="2077889" user="zsolt d" changeset="76247422">
+    <nd ref="376992280"/>
+    <nd ref="376997213"/>
+    <nd ref="376997234"/>
+    <nd ref="376997253"/>
+    <nd ref="376997272"/>
+    <nd ref="376997279"/>
+    <nd ref="376997300"/>
+    <nd ref="376998190"/>
+    <nd ref="376998177"/>
+    <nd ref="376998159"/>
+    <nd ref="376998137"/>
+    <nd ref="376998350"/>
+    <nd ref="376998336"/>
+    <nd ref="376998323"/>
+    <nd ref="376998280"/>
+    <nd ref="376998454"/>
+    <nd ref="376998389"/>
+    <nd ref="376998376"/>
+    <nd ref="376998361"/>
+    <nd ref="376998557"/>
+    <nd ref="376998543"/>
+    <nd ref="376998510"/>
+    <nd ref="376998491"/>
+    <nd ref="376997699"/>
+    <nd ref="376997736"/>
+    <nd ref="376997650"/>
+    <nd ref="376997669"/>
+    <nd ref="376997921"/>
+    <nd ref="376997938"/>
+    <nd ref="376997890"/>
+    <nd ref="376997906"/>
+    <nd ref="376997990"/>
+    <nd ref="376998018"/>
+    <nd ref="6917413281"/>
+    <nd ref="376997955"/>
+    <nd ref="376997976"/>
+    <nd ref="376998090"/>
+    <nd ref="376998107"/>
+    <nd ref="376998029"/>
+    <nd ref="376998044"/>
+    <nd ref="376992289"/>
+    <nd ref="376992317"/>
+    <nd ref="376992330"/>
+    <nd ref="376992336"/>
+    <nd ref="376992199"/>
+    <nd ref="376992215"/>
+    <nd ref="376992280"/>
+    <tag k="elevation" v="84"/>
+    <tag k="is_in" v="Gyökérkút-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Derzsi-tó"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="SRTM"/>
+    <tag k="water" v="lake"/>
+  </way>
+  <way id="375595238" version="3" timestamp="2019-08-18T16:13:27Z" uid="2077889" user="zsolt d" changeset="73467815">
+    <nd ref="3782033920"/>
+    <nd ref="3789507885"/>
+    <nd ref="3789507884"/>
+    <nd ref="3789507886"/>
+    <nd ref="3782033920"/>
+    <tag k="building" v="yes"/>
+    <tag k="is_in" v="Hamuház; Csarnavölgy; Börzsöny"/>
+    <tag k="name" v="Hamuház"/>
+    <tag k="survey:date" v="2017-08-19"/>
+    <tag k="tourism" v="wilderness_hut"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=2199"/>
+  </way>
+  <way id="375595239" version="4" timestamp="2019-08-26T04:31:03Z" uid="1971725" user="rubasov" changeset="73733007">
+    <nd ref="2810349366"/>
+    <nd ref="3789507882"/>
+    <nd ref="3789507883"/>
+    <nd ref="3789507881"/>
+    <nd ref="6745161011"/>
+    <nd ref="6745161014"/>
+    <nd ref="2810349366"/>
+    <tag k="alt_name" v="Halyagosi Postás kulcsosház"/>
+    <tag k="building" v="hut"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="disused:tourism" v="wilderness_hut"/>
+    <tag k="is_in" v="Hajagos; Csarnavölgy; Börzsöny"/>
+    <tag k="name" v="Postás kulcsosház"/>
+    <tag k="url" v="https://www.kulcsoshaz.hu/kulcsoshaz.php?tajak=B%C3%B6rzs%C3%B6ny"/>
+    <tag k="url:tuhu" v="http://turistautak.hu/poi.php?id=12028"/>
+  </way>
+  <way id="33235905" version="3" timestamp="2019-10-26T17:55:52Z" uid="2077889" user="zsolt d" changeset="76247422">
+    <nd ref="376997194"/>
+    <nd ref="376996101"/>
+    <nd ref="376996044"/>
+    <nd ref="376996074"/>
+    <nd ref="376996005"/>
+    <nd ref="376996024"/>
+    <nd ref="376996367"/>
+    <nd ref="376996382"/>
+    <nd ref="376996304"/>
+    <nd ref="376996332"/>
+    <nd ref="376996252"/>
+    <nd ref="376996281"/>
+    <nd ref="376996188"/>
+    <nd ref="376996224"/>
+    <nd ref="376997348"/>
+    <nd ref="376997318"/>
+    <nd ref="376997413"/>
+    <nd ref="376997367"/>
+    <nd ref="376997448"/>
+    <nd ref="376997438"/>
+    <nd ref="376997485"/>
+    <nd ref="376997471"/>
+    <nd ref="376997527"/>
+    <nd ref="376997506"/>
+    <nd ref="376997565"/>
+    <nd ref="376997547"/>
+    <nd ref="376997595"/>
+    <nd ref="6918785141"/>
+    <nd ref="376997580"/>
+    <nd ref="376997634"/>
+    <nd ref="376997614"/>
+    <nd ref="376997040"/>
+    <nd ref="376997053"/>
+    <nd ref="376997071"/>
+    <nd ref="376997080"/>
+    <nd ref="376997099"/>
+    <nd ref="376997127"/>
+    <nd ref="376997149"/>
+    <nd ref="376997157"/>
+    <nd ref="376997194"/>
+    <tag k="elevation" v="86"/>
+    <tag k="is_in" v="Gyökérkút-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Derzsi-tó"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="SRTM"/>
+    <tag k="water" v="lake"/>
+  </way>
+  <way id="634008405" version="2" timestamp="2019-10-26T17:55:52Z" uid="2077889" user="zsolt d" changeset="76247422">
+    <nd ref="5984113985"/>
+    <nd ref="5984113584"/>
+    <nd ref="5984113583"/>
+    <nd ref="5984113582"/>
+    <nd ref="5984113581"/>
+    <nd ref="5984113580"/>
+    <nd ref="5984113579"/>
+    <nd ref="5984113578"/>
+    <nd ref="5984113577"/>
+    <nd ref="5984113576"/>
+    <nd ref="5984113985"/>
+    <tag k="is_in" v="Gyökérkút-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Vidi-lapos-tó"/>
+    <tag k="natural" v="wetland"/>
+    <tag k="wetland" v="bog"/>
+  </way>
+  <way id="634008407" version="3" timestamp="2019-10-26T17:55:52Z" uid="2077889" user="zsolt d" changeset="76247422">
+    <nd ref="5984113999"/>
+    <nd ref="5984118338"/>
+    <nd ref="5984113998"/>
+    <nd ref="5984118337"/>
+    <nd ref="5984113997"/>
+    <nd ref="5984118335"/>
+    <nd ref="5984118336"/>
+    <nd ref="5984113996"/>
+    <nd ref="5984113995"/>
+    <nd ref="5984118334"/>
+    <nd ref="5984113994"/>
+    <nd ref="5984118331"/>
+    <nd ref="5984113993"/>
+    <nd ref="5984118332"/>
+    <nd ref="5984118333"/>
+    <nd ref="5984113992"/>
+    <nd ref="5984113991"/>
+    <nd ref="5984113990"/>
+    <nd ref="5984113989"/>
+    <nd ref="5984113988"/>
+    <nd ref="5984113987"/>
+    <nd ref="5984113986"/>
+    <nd ref="5984113999"/>
+    <tag k="elevation" v="86"/>
+    <tag k="is_in" v="Gyökérkút-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Vidi-lapos-tó"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="SRTM"/>
+    <tag k="water" v="lake"/>
+  </way>
+  <way id="740844400" version="1" timestamp="2019-10-31T22:32:38Z" uid="2077889" user="zsolt d" changeset="76469726">
+    <nd ref="6935990547"/>
+    <nd ref="6935990546"/>
+    <nd ref="6935990545"/>
+    <nd ref="6935990544"/>
+    <nd ref="6935990547"/>
+    <tag k="beds" v="10"/>
+    <tag k="building" v="hotel"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="height" v="5.5"/>
+    <tag k="is_in" v="Jánoshegy dűlő; János-hegy"/>
+    <tag k="name" v="MCSE észlelőház"/>
+    <tag k="operator" v="Magyar Csillagászati Egyesület"/>
+    <tag k="stars" v="1"/>
+    <tag k="start_date" v="2019"/>
+    <tag k="tourism" v="hostel"/>
+    <tag k="url" v="https://www.mcse.hu/egyesulet/egyesuleti-hirek/egyesuleti-hirek-2019/mcse-csillagtanya-egyesuleti-eszlelohelyunk/"/>
+    <tag k="website" v="www.mcse.hu"/>
+    <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="123462451" version="6" timestamp="2019-08-16T07:45:22Z" uid="2077889" user="zsolt d" changeset="73402780">
+    <nd ref="1376748796"/>
+    <nd ref="6715073333"/>
+    <nd ref="6715073334"/>
+    <nd ref="6715079829"/>
+    <nd ref="6715079830"/>
+    <nd ref="6715079831"/>
+    <nd ref="6715073332"/>
+    <nd ref="1376748794"/>
+    <nd ref="6715073335"/>
+    <nd ref="4893724734"/>
+    <nd ref="1376748808"/>
+    <nd ref="1376748813"/>
+    <nd ref="6715073337"/>
+    <nd ref="1376748816"/>
+    <nd ref="6715073338"/>
+    <nd ref="1376748819"/>
+    <nd ref="6715073339"/>
+    <nd ref="1376748810"/>
+    <nd ref="6715073336"/>
+    <nd ref="1376748806"/>
+    <nd ref="1376748796"/>
+    <tag k="abandoned:landuse" v="quarry"/>
+    <tag k="description" v="Felhagyott kőfejtő."/>
+    <tag k="ele" v="300"/>
+    <tag k="is_in" v="Bajdázó; Királyrét"/>
+    <tag k="landuse" v="quarry"/>
+    <tag k="name" v="Bajdázói kőfejtő"/>
+    <tag k="natural" v="bare_rock"/>
+    <tag k="resource" v="stone"/>
+    <tag k="url" v="http://geomania.hu/lelohelylista.php"/>
+    <tag k="website" v="http://geomania.hu/lelohely.php?lelohely=250"/>
+    <tag k="wikipedia" v="hu:Gránátcsoport"/>
+  </way>
+  <way id="123462452" version="5" timestamp="2019-08-16T07:45:22Z" uid="2077889" user="zsolt d" changeset="73402780">
+    <nd ref="1376748789"/>
+    <nd ref="1376748783"/>
+    <nd ref="1376748779"/>
+    <nd ref="2524039718"/>
+    <nd ref="1376748785"/>
+    <nd ref="1376748787"/>
+    <nd ref="4398139189"/>
+    <nd ref="1376748790"/>
+    <nd ref="1628399498"/>
+    <nd ref="1628399499"/>
+    <nd ref="1376748792"/>
+    <nd ref="4398139190"/>
+    <nd ref="1376748789"/>
+    <tag k="is_in" v="Bajdázó; Királyrét"/>
+    <tag k="name" v="Bajdázói-tó"/>
+    <tag k="natural" v="water"/>
+  </way>
+  <way id="737422598" version="1" timestamp="2019-10-21T21:56:06Z" uid="2077889" user="zsolt d" changeset="76019119">
+    <nd ref="2590259368"/>
+    <nd ref="6903979668"/>
+    <nd ref="2590542995"/>
+    <nd ref="2590259346"/>
+    <nd ref="2590259330"/>
+    <nd ref="2590259312"/>
+    <nd ref="2590259299"/>
+    <nd ref="2590259297"/>
+    <nd ref="2590259292"/>
+    <nd ref="2590259286"/>
+    <nd ref="2590259264"/>
+    <nd ref="2590259259"/>
+    <nd ref="2590259253"/>
+    <nd ref="2590259240"/>
+    <nd ref="2590259231"/>
+    <nd ref="2590259207"/>
+    <nd ref="2590259138"/>
+    <nd ref="2590259119"/>
+    <nd ref="2590259116"/>
+    <nd ref="2590259104"/>
+    <nd ref="2590259085"/>
+    <nd ref="2590259013"/>
+    <nd ref="2590258897"/>
+    <nd ref="2590258783"/>
+    <nd ref="2590258678"/>
+    <nd ref="2590258625"/>
+    <nd ref="2590258605"/>
+    <nd ref="2590258599"/>
+    <nd ref="2590258586"/>
+    <nd ref="5977973715"/>
+    <nd ref="2590258566"/>
+    <nd ref="2590258545"/>
+    <nd ref="2590258538"/>
+    <nd ref="2590258516"/>
+    <nd ref="2590258511"/>
+    <nd ref="2590258502"/>
+    <nd ref="2590258494"/>
+    <nd ref="2590258490"/>
+    <nd ref="2590258488"/>
+    <nd ref="2590258487"/>
+    <nd ref="2590258484"/>
+    <nd ref="2590258482"/>
+    <nd ref="2590258480"/>
+    <nd ref="2590258479"/>
+    <nd ref="2590258478"/>
+    <nd ref="2590258476"/>
+    <nd ref="2590258473"/>
+    <nd ref="2590258469"/>
+    <nd ref="2590258462"/>
+    <nd ref="2590258456"/>
+    <nd ref="2590258435"/>
+    <nd ref="5977973773"/>
+    <nd ref="5970159575"/>
+    <tag k="access" v="agricultural"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="operator" v="Hortobágyi NP"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="ground"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="737422599" version="1" timestamp="2019-10-21T21:56:06Z" uid="2077889" user="zsolt d" changeset="76019119">
+    <nd ref="2590543072"/>
+    <nd ref="2590543078"/>
+    <nd ref="5994744641"/>
+    <nd ref="2590543086"/>
+    <nd ref="5994744639"/>
+    <nd ref="2590543089"/>
+    <nd ref="2590543092"/>
+    <nd ref="2590543094"/>
+    <nd ref="2590543100"/>
+    <nd ref="2590543103"/>
+    <nd ref="5342746334"/>
+    <nd ref="2590543106"/>
+    <nd ref="5342746333"/>
+    <nd ref="2590543108"/>
+    <nd ref="2590543112"/>
+    <nd ref="2590543117"/>
+    <nd ref="2590543123"/>
+    <nd ref="2590543140"/>
+    <nd ref="2590543148"/>
+    <tag k="access" v="agricultural"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="operator" v="Hortobágyi NP"/>
+    <tag k="smoothness" v="bad"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade3"/>
+    <tag k="vehicle" v="agricultural"/>
+  </way>
+  <way id="737422600" version="1" timestamp="2019-10-21T21:56:06Z" uid="2077889" user="zsolt d" changeset="76019119">
+    <nd ref="5994656218"/>
+    <nd ref="2588989846"/>
+    <nd ref="2588989843"/>
+    <nd ref="2588989841"/>
+    <nd ref="2588989839"/>
+    <nd ref="2588989834"/>
+    <nd ref="2588989831"/>
+    <nd ref="2588989822"/>
+    <nd ref="2588989814"/>
+    <nd ref="5926940211"/>
+    <nd ref="5994655997"/>
+    <nd ref="2588989811"/>
+    <nd ref="2588989810"/>
+    <nd ref="2588989809"/>
+    <nd ref="2588989808"/>
+    <nd ref="2588989806"/>
+    <nd ref="2588989805"/>
+    <nd ref="5994749398"/>
+    <nd ref="2588989804"/>
+    <tag k="access" v="agricultural"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="operator" v="Hortobágyi NP"/>
+    <tag k="smoothness" v="bad"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="vehicle" v="agricultural"/>
+  </way>
+  <way id="738713503" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413201"/>
+    <nd ref="6917413200"/>
+    <nd ref="6917413199"/>
+    <nd ref="6917413198"/>
+    <nd ref="6917413201"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713504" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413205"/>
+    <nd ref="6917413204"/>
+    <nd ref="6917413203"/>
+    <nd ref="6917413202"/>
+    <nd ref="6917413205"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713505" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413209"/>
+    <nd ref="6917413208"/>
+    <nd ref="6917413207"/>
+    <nd ref="6917413206"/>
+    <nd ref="6917413209"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713506" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413213"/>
+    <nd ref="6917413212"/>
+    <nd ref="6917413211"/>
+    <nd ref="6917413210"/>
+    <nd ref="6917413213"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713507" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413217"/>
+    <nd ref="6917413216"/>
+    <nd ref="6917413215"/>
+    <nd ref="6917413214"/>
+    <nd ref="6917413217"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713508" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413221"/>
+    <nd ref="6917413220"/>
+    <nd ref="6917413219"/>
+    <nd ref="6917413218"/>
+    <nd ref="6917413221"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713509" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413225"/>
+    <nd ref="6917413224"/>
+    <nd ref="6917413223"/>
+    <nd ref="6917413222"/>
+    <nd ref="6917413225"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713510" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413229"/>
+    <nd ref="6917413228"/>
+    <nd ref="6917413227"/>
+    <nd ref="6917413226"/>
+    <nd ref="6917413229"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713511" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413233"/>
+    <nd ref="6917413232"/>
+    <nd ref="6917413231"/>
+    <nd ref="6917413230"/>
+    <nd ref="6917413233"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713512" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413237"/>
+    <nd ref="6917413236"/>
+    <nd ref="6917413235"/>
+    <nd ref="6917413234"/>
+    <nd ref="6917413237"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713513" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413241"/>
+    <nd ref="6917413240"/>
+    <nd ref="6917413239"/>
+    <nd ref="6917413238"/>
+    <nd ref="6917413241"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713514" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413245"/>
+    <nd ref="6917413244"/>
+    <nd ref="6917413243"/>
+    <nd ref="6917413242"/>
+    <nd ref="6917413245"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713515" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413249"/>
+    <nd ref="6917413248"/>
+    <nd ref="6917413247"/>
+    <nd ref="6917413246"/>
+    <nd ref="6917413249"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713516" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413253"/>
+    <nd ref="6917413252"/>
+    <nd ref="6917413251"/>
+    <nd ref="6917413250"/>
+    <nd ref="6917413253"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713517" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413257"/>
+    <nd ref="6917413256"/>
+    <nd ref="6917413255"/>
+    <nd ref="6917413254"/>
+    <nd ref="6917413257"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713518" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413261"/>
+    <nd ref="6917413260"/>
+    <nd ref="6917413259"/>
+    <nd ref="6917413258"/>
+    <nd ref="6917413261"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713519" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413265"/>
+    <nd ref="6917413264"/>
+    <nd ref="6917413263"/>
+    <nd ref="6917413262"/>
+    <nd ref="6917413265"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713520" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413269"/>
+    <nd ref="6917413268"/>
+    <nd ref="6917413267"/>
+    <nd ref="6917413266"/>
+    <nd ref="6917413269"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713521" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413273"/>
+    <nd ref="6917413272"/>
+    <nd ref="6917413271"/>
+    <nd ref="6917413270"/>
+    <nd ref="6917413273"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738713522" version="1" timestamp="2019-10-26T06:22:28Z" uid="2077889" user="zsolt d" changeset="76234916">
+    <nd ref="6917413277"/>
+    <nd ref="6917413276"/>
+    <nd ref="6917413275"/>
+    <nd ref="6917413274"/>
+    <nd ref="6917413277"/>
+    <tag k="building" v="yes"/>
+    <tag k="elevation" v="168"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="natural" v="water"/>
+    <tag k="water" v="pond"/>
+  </way>
+  <way id="738917265" version="1" timestamp="2019-10-26T16:54:13Z" uid="2077889" user="zsolt d" changeset="76247422">
+    <nd ref="6918712083"/>
+    <nd ref="6918712082"/>
+    <nd ref="6918712081"/>
+    <nd ref="6918712080"/>
+    <nd ref="6918712079"/>
+    <nd ref="6918712078"/>
+    <nd ref="6918712077"/>
+    <nd ref="6918712076"/>
+    <nd ref="6918712075"/>
+    <nd ref="6918712074"/>
+    <nd ref="6918712073"/>
+    <nd ref="6918712072"/>
+    <nd ref="6918712071"/>
+    <nd ref="6918712070"/>
+    <nd ref="6918712069"/>
+    <nd ref="6918712068"/>
+    <nd ref="6918712067"/>
+    <nd ref="6918712066"/>
+    <nd ref="6918712065"/>
+    <nd ref="6918712064"/>
+    <nd ref="6918712063"/>
+    <nd ref="6918712062"/>
+    <nd ref="6918712061"/>
+    <nd ref="6918712060"/>
+    <nd ref="6918712047"/>
+    <nd ref="6918712046"/>
+    <nd ref="6918712045"/>
+    <nd ref="6918712044"/>
+    <nd ref="6918712043"/>
+    <nd ref="6918712042"/>
+    <nd ref="6918712041"/>
+    <nd ref="6918712040"/>
+    <nd ref="6918712039"/>
+    <nd ref="6918712038"/>
+    <nd ref="6918712037"/>
+    <nd ref="6918712036"/>
+    <nd ref="6918712035"/>
+    <nd ref="6918712034"/>
+    <nd ref="6918712033"/>
+    <nd ref="6918712032"/>
+    <nd ref="6918712031"/>
+    <nd ref="6918712030"/>
+    <nd ref="6918712029"/>
+    <nd ref="6918712028"/>
+    <nd ref="6918712027"/>
+    <nd ref="6918712026"/>
+    <nd ref="6918712025"/>
+    <nd ref="6918712024"/>
+    <nd ref="6918712023"/>
+    <nd ref="6918712022"/>
+    <nd ref="6918712021"/>
+    <nd ref="6918714097"/>
+    <nd ref="6918714096"/>
+    <nd ref="6918714095"/>
+    <nd ref="6918714094"/>
+    <nd ref="6918714093"/>
+    <nd ref="6918714092"/>
+    <nd ref="6918714091"/>
+    <nd ref="6918714090"/>
+    <nd ref="6918714089"/>
+    <nd ref="6918714088"/>
+    <nd ref="6918714087"/>
+    <nd ref="6918714086"/>
+    <nd ref="6918714085"/>
+    <nd ref="6918691984"/>
+    <nd ref="6918691983"/>
+    <nd ref="6918691982"/>
+    <nd ref="6918691981"/>
+    <nd ref="6918691980"/>
+    <tag k="access" v="agricultural"/>
+    <tag k="highway" v="track"/>
+    
+    <tag k="operator" v="Hortobágyi NP"/>
+    <tag k="smoothness" v="bad"/>
+    <tag k="surface" v="ground"/>
+    <tag k="tracktype" v="grade3"/>
+    <tag k="vehicle" v="agricultural"/>
+  </way>
+  <way id="123462455" version="5" timestamp="2019-08-16T07:45:22Z" uid="2077889" user="zsolt d" changeset="73402780">
+    <nd ref="1376748773"/>
+    <nd ref="1376748768"/>
+    <nd ref="1376748763"/>
+    <nd ref="4464007560"/>
+    <nd ref="4464007557"/>
+    <nd ref="4464007556"/>
+    <nd ref="4464007555"/>
+    <nd ref="4464007554"/>
+    <nd ref="1376748754"/>
+    <nd ref="1376748757"/>
+    <nd ref="1376748760"/>
+    <nd ref="4464007558"/>
+    <nd ref="4464007559"/>
+    <nd ref="1376748765"/>
+    <nd ref="1376748771"/>
+    <nd ref="4464007561"/>
+    <nd ref="1376748776"/>
+    <nd ref="4464007563"/>
+    <nd ref="4464007564"/>
+    <nd ref="4464007562"/>
+    <nd ref="4464007565"/>
+    <nd ref="1376748773"/>
+    <tag k="fishing" v="permissive"/>
+    <tag k="is_in" v="Bajdázó; Királyrét"/>
+    <tag k="leisure" v="fishing"/>
+    <tag k="name" v="Királyréti Horgásztó"/>
+    <tag k="natural" v="water"/>
+    <tag k="website" v="http://www.kiralyretihorgaszto.hu/"/>
+  </way>
+  <way id="123462457" version="9" timestamp="2019-08-17T10:07:25Z" uid="2077889" user="zsolt d" changeset="73438676">
+    <nd ref="260277226"/>
+    <nd ref="1628398872"/>
+    <nd ref="1628398870"/>
+    <nd ref="1628398871"/>
+    <nd ref="1628398873"/>
+    <nd ref="1376748637"/>
+    <nd ref="1376748657"/>
+    <nd ref="1628398886"/>
+    <nd ref="1376748671"/>
+    <nd ref="1376748640"/>
+    <nd ref="1376748638"/>
+    <nd ref="1376748667"/>
+    <nd ref="1376748672"/>
+    <nd ref="1376748690"/>
+    <nd ref="1628398890"/>
+    <nd ref="1376748676"/>
+    <nd ref="1376748678"/>
+    <nd ref="1628398889"/>
+    <nd ref="1628398887"/>
+    <nd ref="1376748674"/>
+    <nd ref="1628398885"/>
+    <nd ref="1376748663"/>
+    <nd ref="1376748635"/>
+    <nd ref="1628398868"/>
+    <nd ref="1628398869"/>
+    <nd ref="1376748633"/>
+    <nd ref="1376748636"/>
+    <nd ref="1628398881"/>
+    <nd ref="1376748669"/>
+    <nd ref="1628398876"/>
+    <nd ref="1376748660"/>
+    <nd ref="1628398884"/>
+    <nd ref="1376748655"/>
+    <nd ref="1376748680"/>
+    <nd ref="1376748696"/>
+    <nd ref="1628398896"/>
+    <nd ref="1628398892"/>
+    <nd ref="1376748692"/>
+    <nd ref="1628398894"/>
+    <nd ref="1376748700"/>
+    <nd ref="1628398901"/>
+    <nd ref="1376748702"/>
+    <nd ref="1628398900"/>
+    <nd ref="1376748697"/>
+    <nd ref="1628398897"/>
+    <nd ref="1628398893"/>
+    <nd ref="1376748693"/>
+    <nd ref="1376748691"/>
+    <nd ref="1628398891"/>
+    <nd ref="1376748673"/>
+    <nd ref="1376748630"/>
+    <nd ref="1628398864"/>
+    <nd ref="1628398863"/>
+    <nd ref="1628398862"/>
+    <nd ref="1376748627"/>
+    <nd ref="1628398865"/>
+    <nd ref="1376748628"/>
+    <nd ref="1628398867"/>
+    <nd ref="1376748632"/>
+    <nd ref="1628398875"/>
+    <nd ref="1628398877"/>
+    <nd ref="1628398879"/>
+    <nd ref="3221643576"/>
+    <nd ref="1376748665"/>
+    <nd ref="1376748653"/>
+    <nd ref="3221643575"/>
+    <nd ref="1376748624"/>
+    <nd ref="1628398859"/>
+    <nd ref="1628398857"/>
+    <nd ref="1376748614"/>
+    <nd ref="1376748612"/>
+    <nd ref="1628398858"/>
+    <nd ref="1376748617"/>
+    <nd ref="1628398860"/>
+    <nd ref="1376748620"/>
+    <nd ref="1376748606"/>
+    <nd ref="1628398856"/>
+    <nd ref="1376748605"/>
+    <nd ref="1628398854"/>
+    <nd ref="1376748602"/>
+    <nd ref="1376748600"/>
+    <nd ref="1628398846"/>
+    <nd ref="1376748591"/>
+    <nd ref="1628398838"/>
+    <nd ref="1376748580"/>
+    <nd ref="1628398820"/>
+    <nd ref="1628398817"/>
+    <nd ref="1376748575"/>
+    <nd ref="1628398815"/>
+    <nd ref="1376748564"/>
+    <nd ref="1628398814"/>
+    <nd ref="1376748557"/>
+    <nd ref="1628398813"/>
+    <nd ref="1376748555"/>
+    <nd ref="1376748560"/>
+    <nd ref="1376748582"/>
+    <nd ref="1376748594"/>
+    <nd ref="1628398842"/>
+    <nd ref="1376748597"/>
+    <nd ref="1628398840"/>
+    <nd ref="1376748588"/>
+    <nd ref="1628398837"/>
+    <nd ref="1376748577"/>
+    <nd ref="1628398822"/>
+    <nd ref="1376748562"/>
+    <nd ref="1628398816"/>
+    <nd ref="1376748565"/>
+    <nd ref="1376748578"/>
+    <nd ref="1376748584"/>
+    <nd ref="1628398836"/>
+    <nd ref="1628398835"/>
+    <nd ref="1376748585"/>
+    <tag k="description" v="Átkötő erdei út a szép Deszkametsző völgyön keresztül Kóspallag és Szokolya-Királyrét között. Hossza: 4,2km"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Deszkametsző-völgy; Börzsöny; Királyrét"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="name" v="Királyréti út"/>
+    <tag k="oneway" v="no"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="729007025" version="1" timestamp="2019-09-27T09:29:16Z" uid="622084" user="ITineris" changeset="74998449">
+    <nd ref="6030680467"/>
+    <nd ref="6030680466"/>
+    <nd ref="6030680465"/>
+    <nd ref="6030680464"/>
+    <nd ref="6030680454"/>
+    <nd ref="6030680453"/>
+    <nd ref="6030680452"/>
+    <nd ref="6030680451"/>
+    <nd ref="3480587273"/>
+    <nd ref="6030680450"/>
+    <nd ref="6030680449"/>
+    <nd ref="6030680448"/>
+    <nd ref="1326263119"/>
+    <nd ref="3292185013"/>
+    <tag k="intermittent" v="yes"/>
+    
+    <tag k="name" v="Kondoros"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="729007026" version="1" timestamp="2019-09-27T09:29:16Z" uid="622084" user="ITineris" changeset="74998449">
+    <nd ref="6030680468"/>
+    <nd ref="6030680467"/>
+    <tag k="intermittent" v="yes"/>
+    
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Kondoros"/>
+    <tag k="tunnel" v="culvert"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="70586779" version="9" timestamp="2019-08-16T08:44:07Z" uid="2077889" user="zsolt d" changeset="73402780">
+    <nd ref="752681258"/>
+    <nd ref="842333451"/>
+    <nd ref="842333455"/>
+    <nd ref="3507655811"/>
+    <nd ref="842333463"/>
+    <nd ref="842333467"/>
+    <nd ref="842333472"/>
+    <nd ref="3513151082"/>
+    <nd ref="3507654991"/>
+    <nd ref="3513151081"/>
+    <nd ref="842333479"/>
+    <nd ref="842333493"/>
+    <nd ref="842330813"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Mázsaház; Börzsöny"/>
+    <tag k="name" v="egykori Nyír-réti kisvasút"/>
+    <tag k="railway" v="abandoned"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+  <way id="383067478" version="2" timestamp="2019-10-26T16:30:30Z" uid="2077889" user="zsolt d" changeset="76247422">
+    <nd ref="6918672831"/>
+    <nd ref="3862674049"/>
+    <nd ref="3862674050"/>
+    <nd ref="6918672807"/>
+    <nd ref="3862674051"/>
+    <nd ref="3862674052"/>
+    <nd ref="3862674053"/>
+    <nd ref="6918672801"/>
+    <nd ref="6918672800"/>
+    <nd ref="6918672799"/>
+    <nd ref="6918672798"/>
+    <nd ref="6918672797"/>
+    <nd ref="6918672796"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="track"/>
+    
+    <tag k="operator" v="Hortobágyi NP"/>
+    <tag k="smoothness" v="very_bad"/>
+    <tag k="surface" v="grass"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="500508130" version="4" timestamp="2019-10-13T09:15:35Z" uid="2077889" user="zsolt d" changeset="75618228">
+    <nd ref="4915443628"/>
+    <nd ref="6875069435"/>
+    <nd ref="6875069476"/>
+    <nd ref="4915443627"/>
+    <nd ref="4915443626"/>
+    <nd ref="4915443625"/>
+    <nd ref="5926356643"/>
+    <nd ref="4915443624"/>
+    <nd ref="4915443623"/>
+    <nd ref="4915443622"/>
+    <nd ref="6875069450"/>
+    <nd ref="6875069475"/>
+    <nd ref="6875069474"/>
+    <nd ref="4915443621"/>
+    <nd ref="4915443628"/>
+    <tag k="is_in" v="Cserepes; 3316-os út; Hortobágyi Csillagoségbolt-Park; Hortobágyi Nemzeti Park; Tiszacsege"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Cserepes"/>
+    <tag k="place" v="locality"/>
+  </way>
+  <way id="708558871" version="3" timestamp="2019-10-02T05:22:30Z" uid="2077889" user="zsolt d" changeset="75177285">
+    <nd ref="3587831913"/>
+    <nd ref="3587831914"/>
+    <nd ref="6842633226"/>
+    <nd ref="3587831916"/>
+    <nd ref="3587831917"/>
+    <nd ref="4425382746"/>
+    <nd ref="3587831918"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="730308782" version="3" timestamp="2019-10-05T12:17:33Z" uid="2077889" user="zsolt d" changeset="75316785">
+    <nd ref="6853504665"/>
+    <nd ref="6853504663"/>
+    <nd ref="6853504664"/>
+    <nd ref="6853504662"/>
+    <nd ref="6853504661"/>
+    <nd ref="6853504660"/>
+    <nd ref="6853504659"/>
+    <nd ref="6853504658"/>
+    <nd ref="6853504657"/>
+    <nd ref="6853504656"/>
+    <nd ref="6853504655"/>
+    <nd ref="6853504654"/>
+    <nd ref="6853504653"/>
+    <nd ref="6853504652"/>
+    <nd ref="6853504651"/>
+    <nd ref="6853504650"/>
+    <nd ref="6853504649"/>
+    <nd ref="6853504648"/>
+    <nd ref="6853504647"/>
+    <nd ref="6853504646"/>
+    <nd ref="6853504645"/>
+    <nd ref="6853504644"/>
+    <nd ref="6853504643"/>
+    <nd ref="6853504642"/>
+    <nd ref="6841773210"/>
+    <nd ref="6841773211"/>
+    <nd ref="6841773212"/>
+    <nd ref="6841773213"/>
+    <nd ref="6841773214"/>
+    <nd ref="6841773215"/>
+    <nd ref="6841773216"/>
+    <nd ref="6841773217"/>
+    <nd ref="6841773218"/>
+    <nd ref="6841773219"/>
+    <nd ref="6841773220"/>
+    <nd ref="6841773221"/>
+    <nd ref="6841773222"/>
+    <nd ref="6841727476"/>
+    <nd ref="6841773223"/>
+    <nd ref="6841773224"/>
+    <nd ref="6841768624"/>
+    <nd ref="6841768625"/>
+    <nd ref="6841768626"/>
+    <nd ref="6853504673"/>
+    <nd ref="6841768627"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Elepi-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="operator" v="HNP"/>
+    <tag k="smoothness" v="bad"/>
+    <tag k="surface" v="grass"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="730308783" version="2" timestamp="2019-10-02T05:06:38Z" uid="2077889" user="zsolt d" changeset="75177285">
+    <nd ref="6841768661"/>
+    <nd ref="6841768658"/>
+    <nd ref="6841768657"/>
+    <nd ref="6841768656"/>
+    <nd ref="6841768655"/>
+    <nd ref="6841768654"/>
+    <nd ref="6841768653"/>
+    <nd ref="6841768652"/>
+    <nd ref="6841768651"/>
+    <nd ref="6841768650"/>
+    <nd ref="6841768649"/>
+    <nd ref="6841768648"/>
+    <nd ref="6841768647"/>
+    <nd ref="6841768646"/>
+    <nd ref="6841768645"/>
+    <nd ref="6841768644"/>
+    <nd ref="6841773491"/>
+    <nd ref="6841768643"/>
+    <nd ref="6841768642"/>
+    <nd ref="6841768641"/>
+    <nd ref="6841768640"/>
+    <nd ref="6841768639"/>
+    <nd ref="6841768638"/>
+    <nd ref="6841768637"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+  </way>
+  <way id="730440818" version="1" timestamp="2019-10-02T05:06:37Z" uid="2077889" user="zsolt d" changeset="75177285">
+    <nd ref="6842630170"/>
+    <nd ref="6842630169"/>
+    <nd ref="6842630168"/>
+    <nd ref="6842630167"/>
+    <nd ref="6842630166"/>
+    <nd ref="6842630165"/>
+    <nd ref="6842630164"/>
+    <nd ref="6842630163"/>
+    <nd ref="6842630162"/>
+    <nd ref="6842630161"/>
+    <nd ref="6842646177"/>
+    <nd ref="6842646176"/>
+    <nd ref="6842646175"/>
+    <nd ref="6842646174"/>
+    <nd ref="6842646173"/>
+    <nd ref="6842646172"/>
+    <nd ref="3587831918"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+  </way>
+  <way id="730440826" version="2" timestamp="2019-10-02T05:10:43Z" uid="2077889" user="zsolt d" changeset="75177285">
+    <nd ref="4005412751"/>
+    <nd ref="6842643670"/>
+    <nd ref="6842646209"/>
+    <nd ref="6842646208"/>
+    <nd ref="6842646207"/>
+    <nd ref="6842646206"/>
+    <nd ref="6842646205"/>
+    <nd ref="6842646204"/>
+    <nd ref="6842646203"/>
+    <nd ref="6842646202"/>
+    <nd ref="6842646201"/>
+    <nd ref="6842646200"/>
+    <nd ref="6842646199"/>
+    <nd ref="6842646198"/>
+    <nd ref="6842646197"/>
+    <nd ref="6842646196"/>
+    <nd ref="6842646195"/>
+    <nd ref="6842646194"/>
+    <nd ref="6842646193"/>
+    <nd ref="6842646192"/>
+    <nd ref="6842646191"/>
+    <nd ref="3587135179"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="730440830" version="2" timestamp="2019-10-02T05:10:43Z" uid="2077889" user="zsolt d" changeset="75177285">
+    <nd ref="6842646239"/>
+    <nd ref="6842646238"/>
+    <nd ref="6842646237"/>
+    <nd ref="6842646236"/>
+    <nd ref="6842646235"/>
+    <nd ref="6842646234"/>
+    <nd ref="6842646233"/>
+    <nd ref="6842646232"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="730440917" version="1" timestamp="2019-10-02T05:10:43Z" uid="2077889" user="zsolt d" changeset="75177285">
+    <nd ref="6842643668"/>
+    <nd ref="6842643667"/>
+    <nd ref="6842646209"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="730440918" version="1" timestamp="2019-10-02T05:10:43Z" uid="2077889" user="zsolt d" changeset="75177285">
+    <nd ref="4005412749"/>
+    <nd ref="6842643671"/>
+    <nd ref="4005412750"/>
+    <nd ref="6842643669"/>
+    <nd ref="4005412751"/>
+    <nd ref="6842643668"/>
+    <nd ref="6842643673"/>
+    <nd ref="6842643672"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Hortobágyi Nemzeti Park"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="731882217" version="2" timestamp="2019-10-05T15:04:56Z" uid="2077889" user="zsolt d" changeset="75319716">
+    <nd ref="3587129168"/>
+    <nd ref="6853504665"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Elepi-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="lanes" v="1"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="731882218" version="3" timestamp="2019-10-05T12:54:39Z" uid="2077889" user="zsolt d" changeset="75316785">
+    <nd ref="3587129169"/>
+    <nd ref="3587129170"/>
+    <nd ref="3587129172"/>
+    <nd ref="3587129176"/>
+    <nd ref="6853557544"/>
+    <nd ref="3587129177"/>
+    <nd ref="3587129179"/>
+    <nd ref="3587129180"/>
+    <nd ref="6853557545"/>
+    <nd ref="3587129181"/>
+    <nd ref="6853557546"/>
+    <nd ref="6853557547"/>
+    <nd ref="3587129182"/>
+    <nd ref="3587129183"/>
+    <nd ref="3587129187"/>
+    <nd ref="3587129190"/>
+    <nd ref="3587129398"/>
+    <nd ref="6853504674"/>
+    <nd ref="6841768629"/>
+    <nd ref="6853504672"/>
+    <nd ref="6853557560"/>
+    <nd ref="6841768628"/>
+    <nd ref="6841768627"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Elepi-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Elepi-tóegység"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="start_date" v="2006"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="731882220" version="1" timestamp="2019-10-05T12:17:32Z" uid="2077889" user="zsolt d" changeset="75316785">
+    <nd ref="3587129190"/>
+    <nd ref="6853504671"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Elepi-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Elepi-tóegység"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="731882221" version="1" timestamp="2019-10-05T12:17:32Z" uid="2077889" user="zsolt d" changeset="75316785">
+    <nd ref="3587129398"/>
+    <nd ref="6841768630"/>
+    <nd ref="6841768631"/>
+    <nd ref="6841768632"/>
+    <nd ref="6841768633"/>
+    <nd ref="6841768634"/>
+    <nd ref="6841768635"/>
+    <nd ref="6841768636"/>
+    <nd ref="6841768660"/>
+    <nd ref="6841768659"/>
+    <nd ref="6841768661"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="track"/>
+    <tag k="is_in" v="Elepi-tóegység; Hortobágyi Nemzeti Park"/>
+  </way>
+  <way id="731885777" version="1" timestamp="2019-10-05T12:30:46Z" uid="2077889" user="zsolt d" changeset="75316785">
+    <nd ref="6841768683"/>
+    <nd ref="6853557536"/>
+    <nd ref="3587129181"/>
+    <nd ref="6841768682"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Elepi-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Elepi-tóegység"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="731885778" version="1" timestamp="2019-10-05T12:30:46Z" uid="2077889" user="zsolt d" changeset="75316785">
+    <nd ref="6853557543"/>
+    <nd ref="6853557542"/>
+    <nd ref="6853557541"/>
+    <nd ref="6853557540"/>
+    <nd ref="6853557539"/>
+    <nd ref="6853557538"/>
+    <nd ref="6853557537"/>
+    <nd ref="6853557536"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="is_in" v="Elepi-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Elepi-tóegység"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="731906548" version="3" timestamp="2019-10-26T10:14:56Z" uid="2077889" user="zsolt d" changeset="76238546">
+    <nd ref="6853706481"/>
+    <nd ref="4915443682"/>
+    <nd ref="6853706480"/>
+    <nd ref="6853706479"/>
+    <nd ref="6853706478"/>
+    <nd ref="6853706481"/>
+    <tag k="is_in" v="Tiszcsege-Cserepes; 3316-os út; Újszentmargita külterület; Hortobágyi Csillagoségbolt-Park; Hortobágyi Nemzeti Park; Tiszacsege"/>
+    <tag k="name" v="bivak"/>
+    <tag k="natural" v="heath"/>
+  </way>
+  <way id="734514917" version="1" timestamp="2019-10-14T16:18:45Z" uid="2077889" user="zsolt d" changeset="75675157">
+    <nd ref="6878823981"/>
+    <nd ref="6878823982"/>
+    <nd ref="6878823978"/>
+    <nd ref="6878823983"/>
+    <nd ref="6878823980"/>
+    <nd ref="6878823979"/>
+    <tag k="access" v="agricultural"/>
+    <tag k="highway" v="track"/>
+    
+    <tag k="operator" v="Hortobágyi NP"/>
+    <tag k="smoothness" v="very_bad"/>
+    <tag k="surface" v="grass"/>
+    <tag k="tracktype" v="grade5"/>
+  </way>
+  <way id="734711285" version="1" timestamp="2019-10-15T06:12:50Z" uid="7664411" user="vzsolo" changeset="75698918">
+    <nd ref="5527684206"/>
+    <nd ref="1223003761"/>
+    <nd ref="1223003487"/>
+    <nd ref="1223003611"/>
+    <nd ref="1223003896"/>
+    <nd ref="1223003730"/>
+    <nd ref="6728803874"/>
+    <nd ref="6728803875"/>
+    <nd ref="6720387858"/>
+    <nd ref="1223003784"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="7.5"/>
+    <tag k="name" v="Dóra Sándor körút"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="734715076" version="1" timestamp="2019-10-15T06:41:25Z" uid="2077889" user="zsolt d" changeset="75699899">
+    <nd ref="6880595167"/>
+    <nd ref="3736474853"/>
+    <nd ref="3736474854"/>
+    <nd ref="3736474855"/>
+    <nd ref="3736474856"/>
+    <nd ref="6880595174"/>
+    <nd ref="6880595175"/>
+    <nd ref="3736474836"/>
+    <nd ref="3736474837"/>
+    <nd ref="3736474838"/>
+    <nd ref="3736474839"/>
+    <nd ref="6880595167"/>
+    <tag k="barrier" v="wall"/>
+    <tag k="height" v="1"/>
+    <tag k="heritage" v="2"/>
+    <tag k="historic" v="ruins"/>
+    <tag k="material" v="stone"/>
+    <tag k="ref" v="Műemléki azonosító: 6266; törzsszám: 2520"/>
+    <tag k="ruins" v="yes"/>
+    <tag k="start_date" v="1287"/>
+  </way>
+  <way id="734715077" version="1" timestamp="2019-10-15T06:41:25Z" uid="2077889" user="zsolt d" changeset="75699899">
+    <nd ref="6880595176"/>
+    <nd ref="3736474691"/>
+    <nd ref="3736474692"/>
+    <nd ref="3736474693"/>
+    <nd ref="3736474694"/>
+    <nd ref="3736474695"/>
+    <nd ref="3736474696"/>
+    <nd ref="6880595177"/>
+    <nd ref="6880595176"/>
+    <tag k="barrier" v="wall"/>
+    <tag k="height" v="1"/>
+    <tag k="heritage" v="2"/>
+    <tag k="historic" v="ruins"/>
+    <tag k="material" v="stone"/>
+    <tag k="ref" v="Műemléki azonosító: 6266; törzsszám: 2520"/>
+    <tag k="ruins" v="yes"/>
+    <tag k="start_date" v="1287"/>
+  </way>
+  <way id="734715078" version="1" timestamp="2019-10-15T06:41:25Z" uid="2077889" user="zsolt d" changeset="75699899">
+    <nd ref="6880595184"/>
+    <nd ref="3736474847"/>
+    <nd ref="3736474848"/>
+    <nd ref="6880656585"/>
+    <nd ref="6880595184"/>
+    <tag k="barrier" v="wall"/>
+    <tag k="height" v="1"/>
+    <tag k="material" v="stone"/>
+  </way>
+  <relation id="8162320" version="3" timestamp="2019-10-26T17:55:52Z" uid="2077889" user="zsolt d" changeset="76247422">
+    <member type="way" ref="33235884" role="outer"/>
+    <member type="way" ref="574725604" role="outer"/>
+    <tag k="ele" v="84"/>
+    <tag k="is_in" v="Gyökérkút-tóegység; Hortobágyi Nemzeti Park"/>
+    <tag k="name" v="Pince-lapos-tó"/>
+    <tag k="natural" v="water"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="10036809" version="1" timestamp="2019-09-13T21:15:12Z" uid="9864016" user="dgtezai" changeset="74455420">
+    <member type="way" ref="724441411" role="outer"/>
+    <member type="way" ref="724441337" role="outer"/>
+    <member type="way" ref="724441327" role="outer"/>
+    <member type="way" ref="481611739" role="outer"/>
+    <member type="way" ref="724441774" role="outer"/>
+    <member type="way" ref="724441851" role="outer"/>
+    <tag k="addr:city" v="Mátraderecske"/>
+    <tag k="addr:country" v="HU"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:postcode" v="3246"/>
+    <tag k="addr:province" v="Heves Megye"/>
+    <tag k="addr:street" v="Baross Gábor utca"/>
+    <tag k="email" v="matraderecske@leier.hu"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="name" v="Leier Téglagyár"/>
+    <tag k="operator" v="Leier Hungária Kft."/>
+    <tag k="phone" v="+36 36 576-010"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="website" v="https://www.leier.hu/kapcsolat"/>
+    <tag k="wikipedia" v="hu:Leier cégcsoport"/>
+  </relation>
+ </modify>
+</osmChange>
