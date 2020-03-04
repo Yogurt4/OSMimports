@@ -1,0 +1,137 @@
+<osmChange version="0.6" generator="acme osm editor">
+  <modify>
+
+  <way id="4380045" version="36" timestamp="2018-07-24T09:14:00Z" uid="622084" user="ITineris" changeset="61014250">
+    <nd ref="26730314"/>
+    <nd ref="705903288"/>
+    <nd ref="1864992619"/>
+    <nd ref="26730308"/>
+    <nd ref="2539307693"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Fő út"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="4"/>
+    <tag k="turn:lanes" v="slight_left|through|through|slight_right"/>
+  </way>
+  <way id="570794490" version="6" timestamp="2018-03-21T08:43:40Z" uid="7664411" user="vzsolo" changeset="57376659">
+    <nd ref="5487427729"/>
+    <nd ref="5490386429"/>
+    <tag k="change:lanes:backward" v="not_left|yes"/>
+    <tag k="change:lanes:forward" v="not_left|yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Pesti út"/>
+    <tag k="oneway" v="no"/>
+    <tag k="overtaking" v="no"/>
+    <tag k="ref" v="4"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:backward" v="through|merge_to_left"/>
+    <tag k="turn:lanes:forward" v="left|through"/>
+  </way>
+  <way id="571214461" version="3" timestamp="2018-03-21T08:43:40Z" uid="7664411" user="vzsolo" changeset="57376659">
+    <nd ref="5490386429"/>
+    <nd ref="1223003850"/>
+    <tag k="change:lanes:backward" v="not_left|yes"/>
+    <tag k="change:lanes:forward" v="no|no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Pesti út"/>
+    <tag k="oneway" v="no"/>
+    <tag k="overtaking" v="no"/>
+    <tag k="ref" v="4"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:backward" v="through|merge_to_left"/>
+    <tag k="turn:lanes:forward" v="left|through"/>
+  </way>
+
+  </modify>
+  <delete>
+  <relation id="38610" version="32" timestamp="2019-09-22T11:25:19Z" uid="2561972" user="Tompika" changeset="74769761">
+    <member type="way" ref="480100047" role=""/>
+    <member type="way" ref="135427111" role=""/>
+    <member type="way" ref="727241861" role=""/>
+    <member type="way" ref="296837466" role=""/>
+    <member type="way" ref="262232254" role=""/>
+    <member type="way" ref="546792414" role=""/>
+    <member type="way" ref="571444711" role=""/>
+    <member type="way" ref="570794500" role=""/>
+    <member type="way" ref="571439400" role=""/>
+    <member type="way" ref="570794499" role=""/>
+    <member type="way" ref="571444708" role=""/>
+    <member type="way" ref="571249629" role=""/>
+    <member type="way" ref="682514192" role=""/>
+    <member type="way" ref="203823867" role=""/>
+    <member type="way" ref="203823874" role=""/>
+    <member type="way" ref="682514193" role=""/>
+    <member type="way" ref="154681650" role=""/>
+    <member type="way" ref="262232256" role=""/>
+    <member type="way" ref="570794498" role=""/>
+    <member type="way" ref="570794497" role=""/>
+    <member type="way" ref="570794496" role=""/>
+    <member type="way" ref="570794495" role=""/>
+    <member type="way" ref="571249628" role=""/>
+    <member type="way" ref="571249627" role=""/>
+    <member type="way" ref="571249626" role=""/>
+    <member type="way" ref="571249625" role=""/>
+    <member type="way" ref="570794493" role=""/>
+    <member type="way" ref="571249624" role=""/>
+    <member type="way" ref="106233177" role=""/>
+    <member type="way" ref="571249623" role=""/>
+    <member type="way" ref="570794492" role=""/>
+    <member type="way" ref="570884635" role=""/>
+    <member type="way" ref="570794491" role=""/>
+    <member type="way" ref="571249622" role=""/>
+    <member type="way" ref="571242352" role=""/>
+    <member type="way" ref="571242350" role=""/>
+    <member type="way" ref="571242351" role=""/>
+    <member type="way" ref="571242348" role=""/>
+    <member type="way" ref="571242345" role=""/>
+    <member type="way" ref="570884639" role=""/>
+    <member type="way" ref="570794484" role=""/>
+    <member type="way" ref="570794486" role=""/>
+    <member type="way" ref="570794485" role=""/>
+    <member type="way" ref="571220772" role=""/>
+    <member type="way" ref="570794487" role=""/>
+    <member type="way" ref="570794483" role=""/>
+    <member type="way" ref="571085501" role=""/>
+    <member type="way" ref="570794488" role=""/>
+    <member type="way" ref="570794489" role=""/>
+    <member type="way" ref="571214462" role=""/>
+    <member type="way" ref="571214461" role=""/>
+    <member type="way" ref="570794490" role=""/>
+    <member type="way" ref="262232255" role=""/>
+    <member type="way" ref="571084691" role=""/>
+    <member type="way" ref="571242353" role=""/>
+    <member type="way" ref="106233233" role=""/>
+    <member type="way" ref="106233222" role=""/>
+    <member type="way" ref="4380045" role=""/>
+    <member type="way" ref="246974827" role=""/>
+    <member type="way" ref="246974828" role=""/>
+    <member type="way" ref="552301743" role=""/>
+    <member type="way" ref="552301745" role=""/>
+    <member type="way" ref="299849595" role=""/>
+    <member type="way" ref="552301746" role=""/>
+    <member type="way" ref="24203209" role=""/>
+    <member type="way" ref="24203212" role=""/>
+    <member type="way" ref="24203210" role=""/>
+    <member type="way" ref="24203203" role=""/>
+    <member type="way" ref="552301742" role=""/>
+    <member type="way" ref="552301739" role=""/>
+    <member type="way" ref="552301740" role=""/>
+    <member type="way" ref="154109979" role=""/>
+    <member type="way" ref="106233202" role=""/>
+    <tag k="network" v="HU:national"/>
+    <tag k="ref" v="400"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  </delete>
+</osmChange>

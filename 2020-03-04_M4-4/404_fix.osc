@@ -1,0 +1,33 @@
+<osmChange version="0.6" generator="acme osm editor">
+  <modify>
+  <way id="567564661" version="18">
+    <nd ref="5588498743"/>
+    <nd ref="6602469728"/>
+    <nd ref="6602469729"/>
+    <nd ref="5464034317"/>
+    <nd ref="5464034318"/>
+    <nd ref="5462877670"/>
+    <nd ref="6602469725"/>
+    <nd ref="5462877667"/>
+    <nd ref="6439961972"/>
+    <nd ref="5229102197"/>
+    <nd ref="5462877668"/>
+    <nd ref="6602469726"/>
+    <nd ref="5462877663"/>
+    <nd ref="6439961973"/>
+    <nd ref="5462877671"/>
+    <nd ref="5588498738"/>
+    <nd ref="6901461874"/>
+    <nd ref="5468272110"/>
+    <nd ref="6439961971"/>
+    <nd ref="6602469727"/>
+    <nd ref="5468272111"/>
+    <nd ref="5588498743"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="1"/>
+      <tag k="ref" v="404;4603"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  </modify>
+</osmChange>

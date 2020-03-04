@@ -1,0 +1,630 @@
+<osmChange version="0.6" generator="acme osm editor">
+  <modify>
+
+  <way id="271022683" version="8" timestamp="2019-12-31T07:34:52Z" uid="7187009" user="ITineris_bulk" changeset="79045447">
+    <nd ref="922727471"/>
+    <nd ref="922727556"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="M4u75k185m"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+  <way id="271022678" version="6" timestamp="2019-12-31T07:34:52Z" uid="7187009" user="ITineris_bulk" changeset="79045447">
+    <nd ref="922727609"/>
+    <nd ref="922727471"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="forward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="M4u75k185m"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+  <way id="294498355" version="3" timestamp="2019-12-31T07:34:52Z" uid="7187009" user="ITineris_bulk" changeset="79045447">
+    <nd ref="2980952298"/>
+    <nd ref="922727471"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed:backward" v="60"/>
+    <tag k="maxspeed:forward" v="90"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u56k20712m"/>
+    <tag k="source:maxspeed:backward" v="sign"/>
+    <tag k="source:maxspeed:forward" v="HU:rural"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+  <way id="294498507" version="7" timestamp="2019-12-31T07:34:52Z" uid="7187009" user="ITineris_bulk" changeset="79045447">
+    <nd ref="2980952345"/>
+    <nd ref="6311385875"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u56k20712m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+  <way id="294498284" version="5" timestamp="2019-12-31T07:34:52Z" uid="7187009" user="ITineris_bulk" changeset="79045447">
+    <nd ref="305951381"/>
+    <nd ref="6311385882"/>
+    <nd ref="2980952345"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lanes:backward" v="3"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u56k20712m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="turn:lanes:backward" v="left|through|right"/>
+  </way>
+  <way id="756886077" version="2" timestamp="2019-12-31T07:34:52Z" uid="7187009" user="ITineris_bulk" changeset="79045447">
+    <nd ref="6311385875"/>
+    <nd ref="1494149559"/>
+    <nd ref="3274431524"/>
+    <nd ref="2980952341"/>
+    <nd ref="142280070"/>
+    <nd ref="2980952339"/>
+    <nd ref="2980952298"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u56k20712m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+  <way id="294498345" version="5" timestamp="2020-02-22T16:24:54Z" uid="934472" user="Leothemapper" changeset="81349426">
+    <nd ref="414965675"/>
+    <nd ref="7235393228"/>
+    <nd ref="3191333667"/>
+    <nd ref="2033191726"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u77k630m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="turn:lanes:backward" v="left|through;right"/>
+  </way>
+  <way id="294498361" version="3" timestamp="2018-06-12T16:57:00Z" uid="7187009" user="ITineris_bulk" changeset="59784182">
+    <nd ref="2980952305"/>
+    <nd ref="305951381"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u77k630m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="turn:lanes:forward" v="left|through;right"/>
+  </way>
+  <way id="294498408" version="4" timestamp="2018-06-12T16:57:10Z" uid="7187009" user="ITineris_bulk" changeset="59784182">
+    <nd ref="2033191717"/>
+    <nd ref="142280076"/>
+    <nd ref="2318674505"/>
+    <nd ref="2980947804"/>
+    <nd ref="142280075"/>
+    <nd ref="2980952178"/>
+    <nd ref="1494149565"/>
+    <nd ref="2319961002"/>
+    <nd ref="2980947796"/>
+    <nd ref="142280074"/>
+    <nd ref="2980947792"/>
+    <nd ref="84782249"/>
+    <nd ref="2980952533"/>
+    <nd ref="1494149563"/>
+    <nd ref="2980952321"/>
+    <nd ref="142280073"/>
+    <nd ref="2980952315"/>
+    <nd ref="1494149561"/>
+    <nd ref="2980952311"/>
+    <nd ref="3274431526"/>
+    <nd ref="84782248"/>
+    <nd ref="3274431525"/>
+    <nd ref="2980952305"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u77k630m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+  <way id="294498503" version="5" timestamp="2018-06-12T16:57:28Z" uid="7187009" user="ITineris_bulk" changeset="59784182">
+    <nd ref="2033191726"/>
+    <nd ref="3191333666"/>
+    <nd ref="142280077"/>
+    <nd ref="1494149573"/>
+    <nd ref="1494149572"/>
+    <nd ref="3202682872"/>
+    <nd ref="2033191717"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u77k630m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+  <way id="294498282" version="6" timestamp="2020-02-22T16:24:54Z" uid="934472" user="Leothemapper" changeset="81349426">
+    <nd ref="928132574"/>
+    <nd ref="3202682882"/>
+    <nd ref="142280080"/>
+    <nd ref="2980952707"/>
+    <nd ref="928132676"/>
+    <nd ref="2980952709"/>
+    <nd ref="142280079"/>
+    <nd ref="2980952710"/>
+    <nd ref="928132549"/>
+    <nd ref="2320479284"/>
+    <nd ref="3202682884"/>
+    <nd ref="928132658"/>
+    <nd ref="3202682883"/>
+    <nd ref="2980952706"/>
+    <nd ref="3202682881"/>
+    <nd ref="142280078"/>
+    <nd ref="3202682879"/>
+    <nd ref="2980952705"/>
+    <nd ref="3202682878"/>
+    <nd ref="928132667"/>
+    <nd ref="2980952703"/>
+    <nd ref="1494149575"/>
+    <nd ref="2980952702"/>
+    <nd ref="7235393218"/>
+    <nd ref="84782250"/>
+    <nd ref="3191333668"/>
+    <nd ref="1494149574"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u83k42m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+  <way id="294498367" version="5" timestamp="2020-02-22T16:24:54Z" uid="934472" user="Leothemapper" changeset="81349426">
+    <nd ref="465617803"/>
+    <nd ref="3202682880"/>
+    <nd ref="7235393272"/>
+    <nd ref="928132574"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u83k42m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="turn:lanes:backward" v="left|through;right"/>
+  </way>
+  <way id="294498451" version="4" timestamp="2020-02-20T07:50:28Z" uid="622084" user="ITineris" changeset="81258856">
+    <nd ref="1494149574"/>
+    <nd ref="7229701678"/>
+    <nd ref="2033191733"/>
+    <nd ref="414965675"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="overtaking" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u83k42m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="turn:lanes:forward" v="left|through;right"/>
+  </way>
+  <way id="294498330" version="3" timestamp="2018-06-12T16:56:52Z" uid="7187009" user="ITineris_bulk" changeset="59784182">
+    <nd ref="2980952704"/>
+    <nd ref="465617803"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u86k10m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="turn:lanes:forward" v="left|through;right"/>
+  </way>
+  <way id="778109159" visible="true" version="1" changeset="81746611" timestamp="2020-03-03T22:14:42Z" user="ITineris" uid="622084">
+    <nd ref="1494149569"/>
+    <nd ref="674026238"/>
+    <nd ref="1494149570"/>
+    <nd ref="142280082"/>
+    <nd ref="1494149571"/>
+    <nd ref="674026241"/>
+    <nd ref="3202682873"/>
+    <nd ref="674026240"/>
+    <nd ref="3202682874"/>
+    <nd ref="2980952448"/>
+    <nd ref="84782251"/>
+    <nd ref="3202682875"/>
+    <nd ref="3339530414"/>
+    <nd ref="2462077799"/>
+    <nd ref="674026181"/>
+    <nd ref="3274443999"/>
+    <nd ref="3202682876"/>
+    <nd ref="3202682877"/>
+    <nd ref="674026184"/>
+    <nd ref="2980952704"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="M4"/>
+    <tag k="ref:HU:edid" v="4u86k10m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+
+ <relation id="9758619" visible="true" version="13" changeset="81746762" timestamp="2020-03-03T22:22:43Z" user="ITineris" uid="622084">
+  <member type="way" ref="320799257" role=""/>
+  <member type="way" ref="78671961" role=""/>
+  <member type="way" ref="294498445" role=""/>
+  <member type="way" ref="294498324" role=""/>
+  <member type="way" ref="294498370" role=""/>
+  <member type="way" ref="223059712" role=""/>
+  <member type="way" ref="223059715" role=""/>
+  <member type="way" ref="294498329" role=""/>
+  <member type="way" ref="294498467" role=""/>
+  <member type="way" ref="294498283" role=""/>
+  <member type="way" ref="294498487" role=""/>
+  <member type="way" ref="294498468" role=""/>
+  <member type="way" ref="294498292" role=""/>
+  <member type="way" ref="294498399" role=""/>
+  <member type="way" ref="294498333" role=""/>
+  <member type="way" ref="271022677" role=""/>
+  <member type="way" ref="271022680" role=""/>
+  <member type="way" ref="271022682" role=""/>
+  <member type="way" ref="78671979" role=""/>
+  <member type="way" ref="756885523" role=""/>
+  <member type="way" ref="732263711" role=""/>
+  <member type="way" ref="222895797" role=""/>
+  <member type="way" ref="294498519" role=""/>
+  <member type="way" ref="732263712" role=""/>
+  <member type="way" ref="294498327" role=""/>
+  <member type="way" ref="294498403" role=""/>
+  <member type="way" ref="294498374" role=""/>
+  <member type="way" ref="656589608" role=""/>
+  <member type="way" ref="619424739" role=""/>
+  <member type="way" ref="699883464" role=""/>
+  <member type="way" ref="699784257" role=""/>
+  <member type="way" ref="701545938" role=""/>
+  <member type="way" ref="294498458" role=""/>
+  <member type="way" ref="753572739" role=""/>
+  <member type="way" ref="699781208" role=""/>
+  <member type="way" ref="78671983" role=""/>
+  <member type="way" ref="563640929" role=""/>
+  <member type="way" ref="294498438" role=""/>
+  <member type="way" ref="294498342" role=""/>
+  <member type="way" ref="294498495" role=""/>
+  <member type="way" ref="294498319" role=""/>
+  <member type="way" ref="294498459" role=""/>
+  <member type="way" ref="294498289" role=""/>
+  <member type="way" ref="294498501" role=""/>
+  <member type="way" ref="294498305" role=""/>
+  <member type="way" ref="294498341" role=""/>
+  <member type="way" ref="294498349" role=""/>
+  <member type="way" ref="294498504" role=""/>
+  <member type="way" ref="223059714" role=""/>
+  <member type="way" ref="223059716" role=""/>
+  <member type="way" ref="619424743" role=""/>
+  <member type="way" ref="294498320" role=""/>
+  <member type="way" ref="204716607" role=""/>
+  <member type="way" ref="204716598" role=""/>
+  <member type="way" ref="294498453" role=""/>
+  <member type="way" ref="294498440" role=""/>
+  <member type="way" ref="294498387" role=""/>
+  <member type="way" ref="656589593" role=""/>
+  <member type="way" ref="656589599" role=""/>
+  <member type="way" ref="656589595" role=""/>
+  <member type="way" ref="619424746" role=""/>
+  <member type="way" ref="619424749" role=""/>
+  <member type="way" ref="294498491" role=""/>
+  <member type="way" ref="294498334" role=""/>
+  <member type="way" ref="79506048" role=""/>
+  <member type="way" ref="294498287" role=""/>
+  <member type="way" ref="657056439" role=""/>
+  <member type="way" ref="204716603" role=""/>
+  <member type="way" ref="204716605" role=""/>
+  <member type="way" ref="294498277" role=""/>
+  <member type="way" ref="737519261" role=""/>
+  <member type="way" ref="294498439" role=""/>
+  <member type="way" ref="294498437" role=""/>
+  <member type="way" ref="294498391" role=""/>
+  <member type="way" ref="630474001" role=""/>
+  <member type="way" ref="294498278" role=""/>
+  <member type="way" ref="657056438" role=""/>
+  <member type="way" ref="79505963" role=""/>
+  <member type="way" ref="619424748" role=""/>
+  <member type="way" ref="656589594" role=""/>
+  <member type="way" ref="294498441" role=""/>
+  <member type="way" ref="79506049" role=""/>
+  <member type="way" ref="656589607" role=""/>
+  <member type="way" ref="294498280" role=""/>
+  <member type="way" ref="656589592" role=""/>
+  <member type="way" ref="656589603" role=""/>
+  <member type="way" ref="294498356" role=""/>
+  <member type="way" ref="294498290" role=""/>
+  <member type="way" ref="733173815" role="forward"/>
+  <member type="way" ref="238218722" role=""/>
+  <member type="way" ref="725789972" role=""/>
+  <member type="way" ref="725789971" role=""/>
+  <member type="way" ref="79505964" role=""/>
+  <member type="way" ref="715017812" role=""/>
+  <member type="way" ref="715017813" role=""/>
+  <member type="way" ref="715017809" role="backward"/>
+  <member type="way" ref="715017810" role="backward"/>
+  <member type="way" ref="616862487" role=""/>
+  <member type="way" ref="616862488" role=""/>
+  <member type="way" ref="770631522" role="backward"/>
+  <member type="way" ref="770631521" role="backward"/>
+  <member type="way" ref="770631520" role="backward"/>
+  <member type="way" ref="770631519" role="backward"/>
+  <member type="way" ref="770631518" role="backward"/>
+  <member type="way" ref="770631517" role="backward"/>
+  <member type="way" ref="602163960" role="backward"/>
+  <member type="way" ref="602163967" role=""/>
+  <member type="way" ref="770631513" role="backward"/>
+  <member type="way" ref="770631512" role="backward"/>
+  <member type="way" ref="753572734" role="backward"/>
+  <member type="way" ref="778109997" role="backward"/>
+  <member type="way" ref="732986757" role="backward"/>
+  <member type="way" ref="222302029" role=""/>
+  <member type="way" ref="584693596" role=""/>
+  <member type="way" ref="222302039" role=""/>
+  <member type="way" ref="734292857" role=""/>
+  <member type="way" ref="734292856" role="forward"/>
+  <member type="way" ref="715017808" role=""/>
+  <member type="way" ref="734292850" role="forward"/>
+  <member type="way" ref="616862489" role=""/>
+  <member type="way" ref="616862490" role="forward"/>
+  <member type="way" ref="770631505" role="forward"/>
+  <member type="way" ref="778108653" role="forward"/>
+  <member type="way" ref="770631506" role="forward"/>
+  <member type="way" ref="770631507" role=""/>
+  <member type="way" ref="770631508" role="forward"/>
+  <member type="way" ref="770631509" role="forward"/>
+  <member type="way" ref="770631510" role="forward"/>
+  <member type="way" ref="602163970" role=""/>
+  <member type="way" ref="602163972" role="forward"/>
+  <member type="way" ref="770631511" role=""/>
+  <member type="way" ref="778108652" role=""/>
+  <member type="way" ref="24203223" role=""/>
+  <member type="way" ref="25648777" role=""/>
+  <member type="way" ref="25648781" role=""/>
+  <member type="way" ref="25648790" role=""/>
+  <member type="way" ref="71900380" role=""/>
+  <member type="way" ref="71900381" role=""/>
+  <member type="way" ref="106233173" role=""/>
+  <member type="way" ref="106233181" role=""/>
+  <member type="way" ref="106233210" role=""/>
+  <member type="way" ref="106233219" role=""/>
+  <member type="way" ref="106233228" role=""/>
+  <member type="way" ref="106233231" role=""/>
+  <member type="way" ref="106233241" role=""/>
+  <member type="way" ref="106233289" role=""/>
+  <member type="way" ref="146849444" role=""/>
+  <member type="way" ref="154109952" role=""/>
+  <member type="way" ref="154109977" role=""/>
+  <member type="way" ref="270723141" role=""/>
+  <member type="way" ref="270723142" role=""/>
+  <member type="way" ref="271299032" role=""/>
+  <member type="way" ref="294498313" role=""/>
+  <member type="way" ref="294498318" role=""/>
+  <member type="way" ref="294498388" role=""/>
+  <member type="way" ref="294498413" role=""/>
+  <member type="way" ref="294498464" role=""/>
+  <member type="way" ref="319274453" role=""/>
+  <member type="way" ref="320102925" role=""/>
+  <member type="way" ref="320102926" role=""/>
+  <member type="way" ref="412610163" role=""/>
+  <member type="way" ref="412610167" role=""/>
+  <member type="way" ref="412610171" role=""/>
+  <member type="way" ref="412610174" role=""/>
+  <member type="way" ref="500113553" role=""/>
+  <member type="way" ref="546792408" role=""/>
+  <member type="way" ref="546792409" role=""/>
+  <member type="way" ref="552266668" role=""/>
+  <member type="way" ref="552296521" role=""/>
+  <member type="way" ref="552296522" role=""/>
+  <member type="way" ref="552296527" role=""/>
+  <member type="way" ref="563640572" role=""/>
+  <member type="way" ref="563640573" role=""/>
+  <member type="way" ref="563640576" role=""/>
+  <member type="way" ref="607351014" role=""/>
+  <member type="way" ref="612286751" role=""/>
+  <member type="way" ref="612288643" role=""/>
+  <member type="way" ref="612288644" role=""/>
+  <member type="way" ref="621543149" role=""/>
+  <member type="way" ref="621543157" role=""/>
+  <member type="way" ref="628749664" role=""/>
+  <member type="way" ref="656470721" role=""/>
+  <member type="way" ref="656470726" role=""/>
+  <member type="way" ref="656470728" role=""/>
+  <member type="way" ref="666708265" role=""/>
+  <member type="way" ref="694416495" role=""/>
+  <member type="way" ref="699608621" role=""/>
+  <member type="way" ref="763387591" role=""/>
+
+  <member type="way" ref="271022683" role=""/>
+  <member type="way" ref="271022678" role=""/>
+
+  <member type="way" ref="294498355" role=""/>
+  <member type="way" ref="294498507" role=""/>
+  <member type="way" ref="294498284" role=""/>
+  <member type="way" ref="756886077" role=""/>
+
+  <member type="way" ref="294498345" role=""/>
+  <member type="way" ref="294498361" role=""/>
+  <member type="way" ref="294498408" role=""/>
+  <member type="way" ref="294498503" role=""/>
+
+  <member type="way" ref="294498282" role=""/>
+  <member type="way" ref="294498367" role=""/>
+  <member type="way" ref="294498451" role=""/>
+
+  <member type="way" ref="294498330" role=""/>
+  <member type="way" ref="778109159" role=""/>
+
+  <tag k="network" v="HU:national"/>
+  <tag k="ref" v="M4"/>
+  <tag k="route" v="road"/>
+  <tag k="type" v="route"/>
+ </relation>
+
+  </modify>
+</osmChange>
+

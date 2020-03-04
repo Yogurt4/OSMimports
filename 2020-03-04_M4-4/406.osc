@@ -1,0 +1,175 @@
+<osmChange version="0.6" generator="acme osm editor">
+  <modify>
+  <way id="271022679" version="7" timestamp="2019-05-29T18:48:33Z" uid="9038947" user="Kormi2003kutyA" changeset="70744452">
+    <nd ref="305929674"/>
+    <nd ref="2980951726"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="destination:lanes:backward" v="Debrecen;Szolnok-Iparterület;E60;4|Jászberény;Szolnok-Centrum;Abony;32;40"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="overtaking" v="no"/>
+    <tag k="ref" v="406"/>
+    <tag k="ref:HU:edid" v="4u86k10m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="turn:lanes:backward" v="through|slight_right"/>
+  </way>
+  <way id="271022685" version="4" timestamp="2018-06-12T16:56:27Z" uid="7187009" user="ITineris_bulk" changeset="59784182">
+    <nd ref="142280089"/>
+    <nd ref="2980952333"/>
+    <nd ref="922774977"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="overtaking" v="no"/>
+    <tag k="ref" v="406"/>
+    <tag k="ref:HU:edid" v="4u86k10m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+    <tag k="turn:lanes:forward" v="through|merge_to_left"/>
+  </way>
+  <way id="294498377" version="4" timestamp="2018-06-12T16:57:04Z" uid="7187009" user="ITineris_bulk" changeset="59784182">
+    <nd ref="2980951726"/>
+    <nd ref="142280089"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="overtaking" v="no"/>
+    <tag k="ref" v="406"/>
+    <tag k="ref:HU:edid" v="4u86k10m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+  <way id="294498426" version="7" timestamp="2018-06-12T16:57:12Z" uid="7187009" user="ITineris_bulk" changeset="59784182">
+    <nd ref="2663770932"/>
+    <nd ref="674026207"/>
+    <nd ref="1494149562"/>
+    <nd ref="3202682867"/>
+    <nd ref="142280086"/>
+    <nd ref="3202682868"/>
+    <nd ref="1494149564"/>
+    <nd ref="3202682869"/>
+    <nd ref="142280085"/>
+    <nd ref="3202682870"/>
+    <nd ref="674026237"/>
+    <nd ref="1494149566"/>
+    <nd ref="142280084"/>
+    <nd ref="3202682871"/>
+    <nd ref="1494149567"/>
+    <nd ref="142280083"/>
+    <nd ref="1494149568"/>
+    <nd ref="674026239"/>
+    <nd ref="1494149569"/>
+    <nd ref="674026238"/>
+    <nd ref="1494149570"/>
+    <nd ref="142280082"/>
+    <nd ref="1494149571"/>
+    <nd ref="674026241"/>
+    <nd ref="3202682873"/>
+    <nd ref="674026240"/>
+    <nd ref="3202682874"/>
+    <nd ref="2980952448"/>
+    <nd ref="84782251"/>
+    <nd ref="3202682875"/>
+    <nd ref="3339530414"/>
+    <nd ref="2462077799"/>
+    <nd ref="674026181"/>
+    <nd ref="3274443999"/>
+    <nd ref="3202682876"/>
+    <nd ref="3202682877"/>
+    <nd ref="674026184"/>
+    <nd ref="2980952704"/>
+    <tag k="agricultural" v="no"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="406"/>
+    <tag k="ref:HU:edid" v="4u86k10m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+  <way id="294498524" version="5" timestamp="2018-06-12T16:57:32Z" uid="7187009" user="ITineris_bulk" changeset="59784182">
+    <nd ref="922774977"/>
+    <nd ref="3246787829"/>
+    <nd ref="3246787828"/>
+    <nd ref="922774946"/>
+    <nd ref="674026205"/>
+    <nd ref="142280088"/>
+    <nd ref="674026203"/>
+    <nd ref="142280087"/>
+    <nd ref="3202682866"/>
+    <nd ref="1494149560"/>
+    <nd ref="2663770932"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="HU:ed_direction" v="backward"/>
+    <tag k="int_ref" v="E 60"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="maxspeed:bus" v="70"/>
+    <tag k="maxspeed:hgv" v="70"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="406"/>
+    <tag k="ref:HU:edid" v="4u86k10m"/>
+    <tag k="source:maxspeed" v="HU:rural"/>
+    <tag k="source:maxspeed:bus" v="HU:rural:bus"/>
+    <tag k="source:maxspeed:hgv" v="HU:rural:hgv"/>
+    <tag k="toll:hgv" v="yes"/>
+  </way>
+  </modify>
+  <create>
+    <relation id="-1">
+      <member type="way" ref="271022679" role=""/>
+      <member type="way" ref="271022685" role=""/>
+      <member type="way" ref="294498377" role=""/>
+      <member type="way" ref="294498426" role=""/>
+      <member type="way" ref="294498524" role=""/>
+      <tag k="network" v="HU:national"/>
+      <tag k="ref" v="406"/>
+      <tag k="route" v="road"/>
+      <tag k="type" v="route"/>
+    </relation>
+  </create>
+</osmChange>
