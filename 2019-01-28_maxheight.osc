@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="acme osm editor">
+<modify>
+  <way id="11406497" version="15" timestamp="2018-06-05T10:49:12Z" uid="2800067" user="Fazu" changeset="59565325">
+    <nd ref="221535171"/>
+    <nd ref="221533095"/>
+    <nd ref="5666398320"/>
+    <nd ref="683302470"/>
+    <nd ref="683302472"/>
+    <nd ref="101493245"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="is_in" v="Budapest"/>
+    <tag k="maxheight" v="3.8"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Bihari utca"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="HU:urban"/>
+  </way>
+  <way id="24052445" version="24" timestamp="2017-09-30T14:54:18Z" uid="2282410" user="leveskockaa" changeset="52513879">
+    <nd ref="272926139"/>
+    <nd ref="84703605"/>
+    <nd ref="4958473016"/>
+    <nd ref="4958473015"/>
+    <nd ref="5139665968"/>
+    <nd ref="84703606"/>
+    <nd ref="4958473014"/>
+    <nd ref="215427389"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="3.8"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Carl Lutz rakpart"/>
+    <tag k="old_name" v="Pesti alsó rakpart"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25217062" version="8" timestamp="2018-03-21T09:45:02Z" uid="2282410" user="leveskockaa" changeset="57378088">
+    <nd ref="57520563"/>
+    <nd ref="272110322"/>
+    <nd ref="651538481"/>
+    <nd ref="274970921"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="is_in" v="Budapest"/>
+    <tag k="lanes" v="6"/>
+    <tag k="lanes:backward" v="3"/>
+    <tag k="lanes:forward" v="3"/>
+    <tag k="layer" v="-1"/>
+    <tag k="maxheight" v="4.1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Dózsa György út"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="turn:lanes:backward" v="through|through|through;slight_right"/>
+    <tag k="turn:lanes:forward" v="through|through|slight_right"/>
+  </way>
+  <way id="26481031" version="11" timestamp="2018-10-17T07:19:18Z" uid="7915113" user="Unique_3" changeset="63599458">
+    <nd ref="474798822"/>
+    <nd ref="474798827"/>
+    <nd ref="2985280789"/>
+    <nd ref="474798831"/>
+    <nd ref="5164745331"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxheight" v="2.8"/>
+    <tag k="name" v="Ruzsinszőlő dűlő"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="96695986" version="3" timestamp="2017-12-02T14:59:47Z" uid="351235" user="Mezey Béla" changeset="54272204">
+    <nd ref="1119815147"/>
+    <nd ref="1795955865"/>
+    <nd ref="1795955869"/>
+    <nd ref="1795955871"/>
+    <nd ref="1795955875"/>
+    <nd ref="1119815149"/>
+    <nd ref="1795955867"/>
+    <nd ref="1795955864"/>
+    <nd ref="1119815150"/>
+    <nd ref="1795955838"/>
+    <nd ref="1795955833"/>
+    <nd ref="1119815148"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxheight" v="2.8"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="local knowledge"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="119083287" version="5" timestamp="2018-09-24T12:18:16Z" uid="622084" user="ITineris" changeset="62878134">
+    <nd ref="1338792587"/>
+    <nd ref="1338793808"/>
+    <tag k="access" v="permit"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="mapillary" v="wQYx4NkEGNm-kpmURpoE3Q"/>
+    <tag k="maxheight" v="2.1"/>
+    <tag k="maxspeed" v="5"/>
+    <tag k="maxweight" v="20"/>
+    <tag k="name" v="Nyitható híd"/>
+  </way>
+  <way id="172779394" version="8" timestamp="2017-07-08T13:45:19Z" uid="2282410" user="leveskockaa" changeset="50131914">
+    <nd ref="260644513"/>
+    <nd ref="4958473010"/>
+    <nd ref="4958473017"/>
+    <nd ref="272926139"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxheight" v="3.8"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Carl Lutz rakpart"/>
+    <tag k="old_name" v="Pesti alsó rakpart"/>
+    <tag k="oneway" v="no"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="445504521" version="3" timestamp="2017-08-12T08:54:28Z" uid="2902353" user="Tomiii" changeset="51052600">
+    <nd ref="2242820397"/>
+    <nd ref="4429226880"/>
+    <nd ref="4429226881"/>
+    <nd ref="4429226882"/>
+    <nd ref="4429226883"/>
+    <nd ref="4429226885"/>
+    <nd ref="4429226886"/>
+    <nd ref="4429226887"/>
+    <nd ref="4429226888"/>
+    <nd ref="4429226890"/>
+    <nd ref="4429226891"/>
+    <nd ref="4429226902"/>
+    <tag k="highway" v="service"/>
+    <tag k="maxheight" v="2.6"/>
+    <tag k="maxspeed" v="5"/>
+    <tag k="name" v="McDrive"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="service" v="driveway"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="456882797" version="2" timestamp="2018-09-01T16:45:38Z" uid="3217895" user="winefly" changeset="62202118">
+    <nd ref="703584271"/>
+    <nd ref="2297203769"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxheight" v="3.1"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Pótharaszti út"/>
+    <tag k="ref" v="4601"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="620434618" version="2" timestamp="2018-10-05T19:40:46Z" uid="179818" user="zolikonta" changeset="63241247">
+    <nd ref="280309421"/>
+    <nd ref="280309417"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lcn" v="proposed"/>
+    <tag k="level" v="-1"/>
+    <tag k="maxheight" v="4.2"/>
+    <tag k="name" v="Hajóállomás utca"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+</modify>
+</osmChange>

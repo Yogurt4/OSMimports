@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version="0.6" generator="acme osm editor">
+<modify>
+  <node id="4795419732" version="2" timestamp="2018-09-03T09:14:19Z" uid="2800067" user="Fazu" changeset="62240785" lat="47.4694414" lon="19.1663194">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="2"/>
+    <tag k="fire_hydrant:position" v="green"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="2969902543" version="2" timestamp="2017-02-18T21:28:25Z" uid="1483972" user="Kádár Iván" changeset="46202503" lat="47.4902982" lon="19.06898">
+    <tag k="emergency" v="dry_riser_inlet"/>
+    <tag k="fire_hydrant:type" v="wall"/>
+  </node>
+  <node id="6063029974" version="1" timestamp="2018-11-15T09:09:47Z" uid="2077889" user="zsolt d" changeset="64519363" lat="47.5110175" lon="19.0356368">
+    <tag k="emergency" v="dry_riser_inlet"/>
+    <tag k="fire_hydrant:type" v="wall"/>
+    <tag k="operator" v="irodaház"/>
+  </node>
+  <node id="5658786399" version="1" timestamp="2018-06-02T14:22:44Z" uid="622084" user="ITineris" changeset="59486787" lat="47.5517309" lon="19.140334">
+    <tag k="couplings:diameters" v="A;B;B"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+</modify>
+</osmChange>
