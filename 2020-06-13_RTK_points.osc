@@ -1,0 +1,38 @@
+<osmChange version="0.6" generator="acme osm editor">
+ <modify>
+ <node id="7590252213" visible="true" version="1" changeset="86150544" timestamp="2020-06-03T19:12:20Z" user="ITineris" uid="622084" lat="47.558676333" lon="18.920744833">
+  <tag k="accuracy" v="0.05"/>
+  <tag k="description" v="A kőfal sarkánál, az ahhoz csatlakozó fém kerítés tetején, a kőfaltól 6 cm-re az út felé."/>
+  <tag k="ele" v="307.5"/>
+  <tag k="lat" v="47.558676333"/>
+  <tag k="lon" v="18.920744833"/>
+  <tag k="man_made" v="survey_point"/>
+  <tag k="source" v="RTK"/>
+  <tag k="survey" v="ground_control_point"/>
+ </node>
+ </modify>
+ <create>
+
+ <node id="-1" lat="47.5712941667" lon="18.8994410">
+  <tag k="accuracy" v="0.05"/>
+  <tag k="description" v="A zebra közepén levő szigetnél, a középső felfestés DK-i végén a csík közepe."/>
+  <tag k="ele" v="321.9"/>
+  <tag k="lat" v="47.5712941667"/>
+  <tag k="lon" v="18.8994410"/>
+  <tag k="man_made" v="survey_point"/>
+  <tag k="source" v="RTK"/>
+  <tag k="survey" v="ground_control_point"/>
+ </node>
+ <node id="-2" lat="47.5713065" lon="18.8994056667">
+  <tag k="accuracy" v="0.05"/>
+  <tag k="description" v="A zebra közepén levő szigetnél, a középső felfestés ÉNY-i végén a csík közepe."/>
+  <tag k="ele" v="322.0"/>
+  <tag k="lat" v="47.5713065"/>
+  <tag k="lon" v="18.8994056667"/>
+  <tag k="man_made" v="survey_point"/>
+  <tag k="source" v="RTK"/>
+  <tag k="survey" v="ground_control_point"/>
+ </node>
+
+ </create>
+</osmChange>
