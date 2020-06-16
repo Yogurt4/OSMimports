@@ -1,0 +1,463 @@
+<osmChange version="0.6" generator="acme osm editor">
+ <modify>
+ <way id="757978389" visible="true" version="2" changeset="78746246" timestamp="2019-12-22T23:08:15Z" user="vakulya" uid="1559158">
+  <nd ref="7078600200"/>
+  <nd ref="7078613973"/>
+  <nd ref="7078600201"/>
+  <nd ref="7078613974"/>
+  <nd ref="7078600202"/>
+  <nd ref="7078613975"/>
+  <nd ref="7078600203"/>
+  <nd ref="7078613976"/>
+  <nd ref="7078600204"/>
+  <nd ref="7078613977"/>
+  <nd ref="7078600205"/>
+  <nd ref="7078613978"/>
+  <nd ref="7078600187"/>
+  <nd ref="7078613979"/>
+  <nd ref="7078600188"/>
+  <nd ref="7078613980"/>
+  <nd ref="7078600189"/>
+  <nd ref="7078613962"/>
+  <nd ref="7078600190"/>
+  <nd ref="7078613963"/>
+  <nd ref="7078600195"/>
+  <nd ref="7078613964"/>
+  <nd ref="7078600196"/>
+  <nd ref="7078613965"/>
+  <nd ref="7078600197"/>
+  <nd ref="7078613966"/>
+  <nd ref="7078600198"/>
+  <nd ref="7078613967"/>
+  <nd ref="7078600199"/>
+  <nd ref="7078613968"/>
+  <nd ref="7078600191"/>
+  <nd ref="7078613969"/>
+  <nd ref="7078600192"/>
+  <nd ref="7078613970"/>
+  <nd ref="7078600193"/>
+  <nd ref="7078613971"/>
+  <nd ref="7078600194"/>
+  <nd ref="7078613972"/>
+  <nd ref="7078600200"/>
+  <tag k="building" v="yes"/>
+  <tag k="man_made" v="tower"/>
+  <tag k="name" v="Tompapuszta (mérőtorony)"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="ele" v="101"/>
+   <tag k="height" v="30"/>
+   <tag k="description" v="28-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+
+ <way id="225893058" visible="true" version="3" changeset="82429166" timestamp="2020-03-20T11:17:14Z" user="ITineris" uid="622084">
+  <nd ref="7312139360"/>
+  <nd ref="7312139361"/>
+  <nd ref="7312139362"/>
+  <nd ref="7312139363"/>
+  <nd ref="7312139364"/>
+  <nd ref="7312139365"/>
+  <nd ref="7312139366"/>
+  <nd ref="1908958367"/>
+  <nd ref="2347110362"/>
+  <nd ref="2347110360"/>
+  <nd ref="7312139355"/>
+  <nd ref="7312139356"/>
+  <nd ref="7312139357"/>
+  <nd ref="7312139358"/>
+  <nd ref="7312139359"/>
+  <nd ref="2347110358"/>
+  <nd ref="2347110359"/>
+  <nd ref="2347110361"/>
+  <nd ref="2347110363"/>
+  <nd ref="7312139360"/>
+  <tag k="access" v="private"/>
+  <tag k="building" v="yes"/>
+  <tag k="ele" v="306"/>
+  <tag k="man_made" v="tower"/>
+   <tag k="name" v="Kandikó (mérőtorony)"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="41-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+
+ <way id="295821170" visible="true" version="3" changeset="82405948" timestamp="2020-03-19T20:46:02Z" user="ITineris" uid="622084">
+  <nd ref="7310371805"/>
+  <nd ref="7310371806"/>
+  <nd ref="7310371807"/>
+  <nd ref="7310371808"/>
+  <nd ref="7310371809"/>
+  <nd ref="7310371810"/>
+  <nd ref="7310371811"/>
+  <nd ref="2995807527"/>
+  <nd ref="2995807529"/>
+  <nd ref="2995807528"/>
+  <nd ref="7310371800"/>
+  <nd ref="7310371801"/>
+  <nd ref="7310371802"/>
+  <nd ref="7310371803"/>
+  <nd ref="7310371804"/>
+  <nd ref="2995807526"/>
+  <nd ref="2995807524"/>
+  <nd ref="2995807523"/>
+  <nd ref="2995807525"/>
+  <nd ref="7310371805"/>
+  <tag k="building" v="yes"/>
+  <tag k="man_made" v="tower"/>
+  <tag k="name" v="Ólom-hegyi kilátó"/>
+  <tag k="start_date" v="1979"/>
+  <tag k="tower:type" v="observation"/>
+   <tag k="ele" v="170"/>
+   <tag k="height" v="26"/>
+   <tag k="description" v="25-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+
+ <way id="380699331" visible="true" version="7" changeset="82329956" timestamp="2020-03-18T05:30:34Z" user="utvonalfelmeresek" uid="1544697">
+  <nd ref="3840233719"/>
+  <nd ref="3840660946"/>
+  <nd ref="3840233716"/>
+  <nd ref="3840233715"/>
+  <nd ref="3840233712"/>
+  <nd ref="3840233713"/>
+  <nd ref="3840233714"/>
+  <nd ref="3840660945"/>
+  <nd ref="3840233718"/>
+  <nd ref="3840233717"/>
+  <nd ref="3840233721"/>
+  <nd ref="3840233720"/>
+  <nd ref="3840660947"/>
+  <nd ref="3840233719"/>
+  <tag k="ele" v="938"/>
+  <tag k="fixme" v="Más forrásban 920 m a tengerszint feletti magassága."/>
+  <tag k="man_made" v="tower"/>
+  <tag k="mapillary" v="fq6-iYi7wC_niMP5HdAm4Q"/>
+  <tag k="material" v="concrete"/>
+  <tag k="name" v="Csóványos-kilátó"/>
+  <tag k="start_date" v="1978"/>
+  <tag k="tourism" v="viewpoint"/>
+  <tag k="tower:type" v="observation"/>
+   <tag k="height" v="26"/>
+   <tag k="description" v="85-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+
+ <way id="708324906" visible="true" version="1" changeset="72747287" timestamp="2019-07-28T20:55:56Z" user="vakulya" uid="1559158">
+  <nd ref="6655923876"/>
+  <nd ref="6655923877"/>
+  <nd ref="6655923878"/>
+  <nd ref="6655923879"/>
+  <nd ref="6655923880"/>
+  <nd ref="6655923881"/>
+  <nd ref="6655923882"/>
+  <nd ref="6655923864"/>
+  <nd ref="6655923865"/>
+  <nd ref="6655923866"/>
+  <nd ref="6655923871"/>
+  <nd ref="6655923872"/>
+  <nd ref="6655923873"/>
+  <nd ref="6655923874"/>
+  <nd ref="6655923875"/>
+  <nd ref="6655923867"/>
+  <nd ref="6655923868"/>
+  <nd ref="6655923869"/>
+  <nd ref="6655923870"/>
+  <nd ref="6655923876"/>
+  <tag k="building" v="yes"/>
+  <tag k="ele" v="218"/>
+  <tag k="fixme" v="Más forrásban 227 m a tengerszint feletti magassága."/>
+  <tag k="height" v="20"/>
+  <tag k="man_made" v="tower"/>
+  <tag k="name" v="Garábhegy (mérőtorony)"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="description" v="34-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+
+ <way id="251955985" visible="true" version="7" changeset="82406268" timestamp="2020-03-19T21:00:24Z" user="ITineris" uid="622084">
+  <nd ref="2580977312"/>
+  <nd ref="2580977308"/>
+  <nd ref="2580977305"/>
+  <nd ref="2580977303"/>
+  <nd ref="2580977299"/>
+  <nd ref="2580977295"/>
+  <nd ref="2580977288"/>
+  <nd ref="2580977286"/>
+  <nd ref="2580977282"/>
+  <nd ref="2580977278"/>
+  <nd ref="2580977274"/>
+  <nd ref="2580977272"/>
+  <nd ref="2580977276"/>
+  <nd ref="2580977280"/>
+  <nd ref="2580977284"/>
+  <nd ref="2580977290"/>
+  <nd ref="2580977297"/>
+  <nd ref="2580977301"/>
+  <nd ref="2580977307"/>
+  <nd ref="2580977310"/>
+  <nd ref="2580977314"/>
+  <nd ref="2580977312"/>
+  <tag k="building" v="yes"/>
+  <tag k="man_made" v="tower"/>
+  <tag k="name" v="Lila-hegyi kilátó"/>
+  <tag k="tower:type" v="observation"/>
+   <tag k="alt_name" v="Magashegy (mérőtorony)"/>
+   <tag k="ele" v="312"/>
+   <tag k="height" v="12"/>
+   <tag k="start_date" v="1977"/>
+   <tag k="description" v="63-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+
+ <way id="514477029" visible="true" version="1" changeset="50997375" timestamp="2017-08-10T10:39:31Z" user="vakulya" uid="1559158">
+  <nd ref="5026174948"/>
+  <nd ref="5026174949"/>
+  <nd ref="5026174950"/>
+  <nd ref="5026174951"/>
+  <nd ref="5026174952"/>
+  <nd ref="5026174953"/>
+  <nd ref="5026174935"/>
+  <nd ref="5026174936"/>
+  <nd ref="5026174937"/>
+  <nd ref="5026174941"/>
+  <nd ref="5026174942"/>
+  <nd ref="5026174943"/>
+  <nd ref="5026174944"/>
+  <nd ref="5026174945"/>
+  <nd ref="5026174946"/>
+  <nd ref="5026174947"/>
+  <nd ref="5026174938"/>
+  <nd ref="5026174939"/>
+  <nd ref="5026174940"/>
+  <nd ref="5026174948"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="26"/>
+  <tag k="man_made" v="tower"/>
+  <tag k="name" v="Laponyahalom (mérőtorony)"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="alt_name" v="Leponyahalom"/>
+   <tag k="ele" v="136"/>
+   <tag k="description" v="59-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+
+ <way id="320313872" visible="true" version="2" changeset="82406425" timestamp="2020-03-19T21:07:20Z" user="ITineris" uid="622084">
+  <nd ref="7310440938"/>
+  <nd ref="7310440939"/>
+  <nd ref="7310440940"/>
+  <nd ref="7310440941"/>
+  <nd ref="7310440942"/>
+  <nd ref="3268173536"/>
+  <nd ref="3268173537"/>
+  <nd ref="3268173534"/>
+  <nd ref="3268174460"/>
+  <nd ref="7310440932"/>
+  <nd ref="7310440933"/>
+  <nd ref="7310440934"/>
+  <nd ref="7310440935"/>
+  <nd ref="7310440936"/>
+  <nd ref="7310440937"/>
+  <nd ref="3268174456"/>
+  <nd ref="3268174455"/>
+  <nd ref="3268174458"/>
+  <nd ref="3268174461"/>
+  <nd ref="7310440938"/>
+  <tag k="building" v="yes"/>
+  <tag k="man_made" v="tower"/>
+  <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Csókahegy (mérőtorony)"/>
+   <tag k="ele" v="482"/>
+   <tag k="height" v="9"/>
+   <tag k="start_date" v="1977"/>
+   <tag k="description" v="15-1002 számú alapponton épült vasbeton geodéziai mérőtorony. A tetején toldás: oszlop kosárral."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+
+ <way id="414962910" visible="true" version="2" changeset="82406600" timestamp="2020-03-19T21:15:00Z" user="ITineris" uid="622084">
+  <nd ref="4160870182"/>
+  <nd ref="4160870184"/>
+  <nd ref="4160870186"/>
+  <nd ref="4160870188"/>
+  <nd ref="4160870187"/>
+  <nd ref="4160870185"/>
+  <nd ref="4160870183"/>
+  <nd ref="4160870181"/>
+  <nd ref="4160870179"/>
+  <nd ref="4160870177"/>
+  <nd ref="4160870175"/>
+  <nd ref="4160870173"/>
+  <nd ref="4160870174"/>
+  <nd ref="4160870176"/>
+  <nd ref="4160870178"/>
+  <nd ref="4160870180"/>
+  <nd ref="4160870182"/>
+  <tag k="building" v="yes"/>
+  <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Pétihegy (mérőtorony)"/>
+   <tag k="ele" v="210"/>
+   <tag k="height" v="8"/>
+   <tag k="start_date" v="1986"/>
+   <tag k="description" v="54-3011 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+
+ <way id="625672090" visible="true" version="1" changeset="62598235" timestamp="2018-09-14T23:20:56Z" user="vakulya" uid="1559158">
+  <nd ref="5907322213"/>
+  <nd ref="5907322214"/>
+  <nd ref="5907322215"/>
+  <nd ref="5907322216"/>
+  <nd ref="5907322198"/>
+  <nd ref="5907322199"/>
+  <nd ref="5907322200"/>
+  <nd ref="5907322201"/>
+  <nd ref="5907322202"/>
+  <nd ref="5907322209"/>
+  <nd ref="5907322210"/>
+  <nd ref="5907322211"/>
+  <nd ref="5907322212"/>
+  <nd ref="5907322203"/>
+  <nd ref="5907322204"/>
+  <nd ref="5907322205"/>
+  <nd ref="5907322206"/>
+  <nd ref="5907322207"/>
+  <nd ref="5907322208"/>
+  <nd ref="5907322213"/>
+  <tag k="building" v="yes"/>
+  <tag k="man_made" v="tower"/>
+  <tag k="name" v="Szőlőhegy (mérőtorony)"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="ele" v="230"/>
+   <tag k="height" v="18"/>
+   <tag k="start_date" v="1978"/>
+   <tag k="description" v="56-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+
+ <way id="253496077" visible="true" version="10" changeset="76645326" timestamp="2019-11-05T12:25:16Z" user="ITineris_bulk" uid="7187009">
+  <nd ref="2594205018"/>
+  <nd ref="2594205015"/>
+  <nd ref="2594205012"/>
+  <nd ref="2594205009"/>
+  <nd ref="2594205004"/>
+  <nd ref="2594205001"/>
+  <nd ref="2594204994"/>
+  <nd ref="2594204992"/>
+  <nd ref="2594204989"/>
+  <nd ref="2594204986"/>
+  <nd ref="2594204982"/>
+  <nd ref="2594204984"/>
+  <nd ref="2594204988"/>
+  <nd ref="2594204990"/>
+  <nd ref="2594204995"/>
+  <nd ref="2594204999"/>
+  <nd ref="2594205003"/>
+  <nd ref="2594205006"/>
+  <nd ref="2594205007"/>
+  <nd ref="2594205010"/>
+  <nd ref="2594205014"/>
+  <nd ref="2594205017"/>
+  <nd ref="2594205018"/>
+  <tag k="building" v="yes"/>
+  <tag k="description" v="Volt geodéziai mérőtorony, 2014-től kilátó"/>
+  <tag k="height" v="20"/>
+  <tag k="is_in" v="Pilis-hegy; Pilis-hegység"/>
+  <tag k="man_made" v="tower"/>
+  <tag k="material" v="concrete"/>
+  <tag k="name" v="Boldog Özséb kilátó"/>
+  <tag k="operator" v="Pilisi Parkerdő Zrt."/>
+  <tag k="start_date" v="1976"/>
+  <tag k="tourism" v="viewpoint"/>
+  <tag k="tower:type" v="observation"/>
+   <tag k="old_name" v="Pilis (mérőtorony)"/>
+   <tag k="ele" v="745"/>
+  </way>
+
+ <way id="313475035" visible="true" version="2" changeset="82406752" timestamp="2020-03-19T21:22:47Z" user="ITineris" uid="622084">
+  <nd ref="3194587128"/>
+  <nd ref="3194587129"/>
+  <nd ref="3194587130"/>
+  <nd ref="3194587131"/>
+  <nd ref="3194587132"/>
+  <nd ref="3194587133"/>
+  <nd ref="3194587134"/>
+  <nd ref="3194587135"/>
+  <nd ref="3194587136"/>
+  <nd ref="3194587137"/>
+  <nd ref="3194587119"/>
+  <nd ref="3194587120"/>
+  <nd ref="3194587123"/>
+  <nd ref="3194587124"/>
+  <nd ref="3194587125"/>
+  <nd ref="3194587126"/>
+  <nd ref="3194587127"/>
+  <nd ref="3194587121"/>
+  <nd ref="3194587122"/>
+  <nd ref="3194587128"/>
+  <tag k="building" v="yes"/>
+  <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Sárgapart (mérőtorony)"/>
+   <tag k="ele" v="91"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="88-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+
+ <way id="683599106" visible="true" version="1" changeset="69186805" timestamp="2019-04-13T19:41:02Z" user="vakulya" uid="1559158">
+  <nd ref="6402924402"/>
+  <nd ref="6402924403"/>
+  <nd ref="6402924404"/>
+  <nd ref="6402924405"/>
+  <nd ref="6402924406"/>
+  <nd ref="6402924388"/>
+  <nd ref="6402924389"/>
+  <nd ref="6402924390"/>
+  <nd ref="6402924391"/>
+  <nd ref="6402924397"/>
+  <nd ref="6402924398"/>
+  <nd ref="6402924399"/>
+  <nd ref="6402924400"/>
+  <nd ref="6402924401"/>
+  <nd ref="6402924392"/>
+  <nd ref="6402924393"/>
+  <nd ref="6402924394"/>
+  <nd ref="6402924395"/>
+  <nd ref="6402924396"/>
+  <nd ref="6402924402"/>
+  <tag k="building" v="yes"/>
+  <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Frankhegy (mérőtorony)"/>
+   <tag k="ele" v="270"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="88-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+ </modify>
+</osmChange>

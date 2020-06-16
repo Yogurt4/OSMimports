@@ -1,0 +1,3264 @@
+<osmChange version="0.6" generator="acme osm editor">
+ <modify>
+  <node id="1703204677" version="2" timestamp="2015-04-19T21:05:52Z" uid="610781" user="szali" changeset="30341703" lat="47.1708386" lon="17.6450154">
+    <tag k="ele" v="435"/>
+    <tag k="name" v="Szőlő-hegy"/>
+    <tag k="natural" v="peak"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="53-3014"/>
+  </node>
+  <node id="3042970919" version="2" timestamp="2014-08-26T09:10:14Z" uid="1645575" user="GeoLaci" changeset="25022306" lat="47.9571134" lon="21.714527">
+    <tag k="ele" v="110.34"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="3100167380" version="6" timestamp="2019-08-18T17:41:20Z" uid="2077889" user="zsolt d" changeset="73469641" lat="47.9968357" lon="18.9026197">
+    <tag k="alt_name" v="Börzsönyi szintezési főalappont"/>
+    <tag k="description" v="Börzsönyi főalappont, geodéziai alappont. Ideális a GPS magasságmérőjének ellenőrzésére és kalibrálására."/>
+    <tag k="ele" v="253"/>
+    <tag k="is_in" v="Nagy-völgy; Börzsöny; Deszkáspuszta"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="mapillary" v="3W0jCUM1MhtOULIk3Oc5dw"/>
+    <tag k="name" v="Börzsönyi főalappont"/>
+    <tag k="start_date" v="1953"/>
+    <tag k="tourism" v="yes"/>
+    <tag k="url:gc" v="https://geocaching.hu/poi.geo?id=242"/>
+    <tag k="url:tuhu" v="https://www.turistautak.hu/poi.php?id=242"/>
+  </node>
+  <node id="3111006452" version="1" timestamp="2014-10-04T14:19:10Z" uid="170666" user="Kolesár" changeset="25852145" lat="47.5790145" lon="18.9866896">
+    <tag k="ele" v="191.795"/>
+    <tag k="ref" v="65-1284"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="fixme" v="A helye alapján adtam neki a 65-ös előtagot, de a Fömi alappont adatbázisában a környéken nem szerepel pont."/>
+  </node>
+  <node id="3123466589" version="1" timestamp="2014-10-11T06:25:39Z" uid="170666" user="Kolesár" changeset="25997081" lat="47.5810412" lon="18.9909933">
+    <tag k="ref" v="65-1283"/>
+    <tag k="ele" v="169.786"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="fixme" v="A helye alapján adtam neki a 65-ös előtagot, de a Fömi alappont adatbázisában a környéken nem szerepel pont."/>
+  </node>
+  <node id="3331548383" version="2" timestamp="2015-03-12T19:20:36Z" uid="1092768" user="kla25" changeset="29433111" lat="46.5849725" lon="20.3429757">
+    <tag k="name" v="Háromszögelési pont"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="83"/>
+  </node>
+  <node id="3331548413" version="2" timestamp="2015-03-12T19:20:36Z" uid="1092768" user="kla25" changeset="29433111" lat="46.5930717" lon="20.3396502">
+    <tag k="name" v="Háromszögelési pont"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="84"/>
+  </node>
+  <node id="3331548423" version="2" timestamp="2015-03-12T19:20:36Z" uid="1092768" user="kla25" changeset="29433111" lat="46.5952675" lon="20.3240609">
+    <tag k="name" v="Háromszögelési pont"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="84"/>
+  </node>
+  <node id="3395668912" version="1" timestamp="2015-03-12T17:57:36Z" uid="610781" user="szali" changeset="29431568" lat="47.4775064" lon="19.3853618">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37556"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+	<tag k="ref" v="66-3001"/>
+    <tag k="description" v="1976-ban épült 16 m magas vasbeton geodéziai mérőtorony."/>
+  </node>
+  <node id="3399781762" version="1" timestamp="2015-03-15T12:51:24Z" uid="610781" user="szali" changeset="29494344" lat="47.51791" lon="18.9596">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=128646"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+	<tag k="ref" v="65-1001/3"/>
+	<tag k="ele" v="526"/>
+  </node>
+  <node id="3399781763" version="1" timestamp="2015-03-15T12:51:24Z" uid="610781" user="szali" changeset="29494344" lat="47.51888" lon="18.95845">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=128647"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="65-1001/2"/>
+  </node>
+  <node id="3399781776" version="1" timestamp="2015-03-15T12:51:24Z" uid="610781" user="szali" changeset="29494344" lat="47.53703" lon="18.9568">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=139854"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="historic" v="yes"/>
+    <tag k="description" v="1872-es vasasztal - LXXXIV. - 350 m"/>
+    <tag k="ele" v="350"/>
+  </node>
+  <node id="3432048443" version="1" timestamp="2015-04-02T19:59:22Z" uid="610781" user="szali" changeset="29936825" lat="46.974086" lon="19.49538">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=127097"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1059"/>
+    <tag k="ele" v="123"/>
+  </node>
+  <node id="3432048444" version="1" timestamp="2015-04-02T19:59:22Z" uid="610781" user="szali" changeset="29936825" lat="46.986382" lon="19.514673">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=166095"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1428"/>
+    <tag k="ele" v="125"/>
+  </node>
+  <node id="3432048445" version="1" timestamp="2015-04-02T19:59:22Z" uid="610781" user="szali" changeset="29936825" lat="46.987814" lon="19.556722">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=97230"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1427"/>
+    <tag k="ele" v="131"/>
+  </node>
+  <node id="3432048448" version="1" timestamp="2015-04-02T19:59:22Z" uid="610781" user="szali" changeset="29936825" lat="46.994172" lon="19.539146">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=166092"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1426"/>
+    <tag k="ele" v="132"/>
+  </node>
+  <node id="3432048450" version="1" timestamp="2015-04-02T19:59:22Z" uid="610781" user="szali" changeset="29936825" lat="46.99513" lon="19.652904">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=109785"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2304"/>
+    <tag k="ele" v="131"/>
+  </node>
+  <node id="3432048452" version="1" timestamp="2015-04-02T19:59:23Z" uid="610781" user="szali" changeset="29936825" lat="46.995778" lon="19.664766">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=109789"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2303"/>
+    <tag k="ele" v="133"/>
+  </node>
+  <node id="3432048455" version="1" timestamp="2015-04-02T19:59:23Z" uid="610781" user="szali" changeset="29936825" lat="46.996976" lon="19.588621">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=126376"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1424"/>
+    <tag k="ele" v="132"/>
+  </node>
+  <node id="3432048457" version="1" timestamp="2015-04-02T19:59:23Z" uid="610781" user="szali" changeset="29936825" lat="47.002067" lon="19.64727">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=106007"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1212"/>
+    <tag k="ele" v="134"/>
+  </node>
+  <node id="3432048458" version="1" timestamp="2015-04-02T19:59:23Z" uid="610781" user="szali" changeset="29936825" lat="47.002741" lon="19.569263">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=132484"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1246"/>
+    <tag k="ele" v="132"/>
+  </node>
+  <node id="3432048459" version="1" timestamp="2015-04-02T19:59:23Z" uid="610781" user="szali" changeset="29936825" lat="47.003099" lon="19.55018">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=126396"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1245"/>
+    <tag k="ele" v="134"/>
+  </node>
+  <node id="3432048460" version="1" timestamp="2015-04-02T19:59:23Z" uid="610781" user="szali" changeset="29936825" lat="47.004198" lon="19.608416">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=126379"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1244"/>
+    <tag k="ele" v="131"/>
+  </node>
+  <node id="3432048462" version="1" timestamp="2015-04-02T19:59:23Z" uid="610781" user="szali" changeset="29936825" lat="47.008618" lon="19.506102">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=166096"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1243"/>
+    <tag k="ele" v="130"/>
+  </node>
+  <node id="3432048463" version="1" timestamp="2015-04-02T19:59:23Z" uid="610781" user="szali" changeset="29936825" lat="47.010768" lon="19.527312">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=79317"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1055"/>
+    <tag k="ele" v="137"/>
+  </node>
+  <node id="3432048464" version="1" timestamp="2015-04-02T19:59:23Z" uid="610781" user="szali" changeset="29936825" lat="47.013718" lon="19.550254">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=126395"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1240"/>
+    <tag k="ele" v="135"/>
+  </node>
+  <node id="3432048467" version="1" timestamp="2015-04-02T19:59:24Z" uid="610781" user="szali" changeset="29936825" lat="47.014901" lon="19.617832">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=106016"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1241"/>
+    <tag k="ele" v="134"/>
+  </node>
+  <node id="3432048469" version="1" timestamp="2015-04-02T19:59:24Z" uid="610781" user="szali" changeset="29936825" lat="47.015035" lon="19.5248">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=80363"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1239"/>
+    <tag k="ele" v="136"/>
+  </node>
+  <node id="3432048476" version="1" timestamp="2015-04-02T19:59:24Z" uid="610781" user="szali" changeset="29936825" lat="47.01805" lon="19.655512">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=106021"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2182"/>
+    <tag k="ele" v="135"/>
+  </node>
+  <node id="3432048493" version="1" timestamp="2015-04-02T19:59:25Z" uid="610781" user="szali" changeset="29936825" lat="47.022663" lon="19.635075">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=85713"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Lajos-hegy"/>
+    <tag k="ref" v="46-1013"/>
+    <tag k="ele" v="145"/>
+  </node>
+  <node id="3432048499" version="1" timestamp="2015-04-02T19:59:26Z" uid="610781" user="szali" changeset="29936825" lat="47.024399" lon="19.604156">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=106015"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1235"/>
+    <tag k="ele" v="137"/>
+  </node>
+  <node id="3432048505" version="1" timestamp="2015-04-02T19:59:26Z" uid="610781" user="szali" changeset="29936825" lat="47.025681" lon="19.575305">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=80995"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1234"/>
+    <tag k="ele" v="137"/>
+  </node>
+  <node id="3432048523" version="1" timestamp="2015-04-02T19:59:27Z" uid="610781" user="szali" changeset="29936825" lat="47.030665" lon="19.644172">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=79316"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1209"/>
+    <tag k="ele" v="136"/>
+  </node>
+  <node id="3432048526" version="1" timestamp="2015-04-02T19:59:28Z" uid="610781" user="szali" changeset="29936825" lat="47.03236" lon="19.621918">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=88334"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1208"/>
+    <tag k="ele" v="138"/>
+  </node>
+  <node id="3432048532" version="1" timestamp="2015-04-02T19:59:28Z" uid="610781" user="szali" changeset="29936825" lat="47.037569" lon="19.579507">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=72711"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1053"/>
+    <tag k="ele" v="141"/>
+  </node>
+  <node id="3432048534" version="1" timestamp="2015-04-02T19:59:28Z" uid="610781" user="szali" changeset="29936825" lat="47.037654" lon="19.521107">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=112329"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1228"/>
+    <tag k="ele" v="135"/>
+  </node>
+  <node id="3432048539" version="1" timestamp="2015-04-02T19:59:28Z" uid="610781" user="szali" changeset="29936825" lat="47.042884" lon="19.533761">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=126388"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1226"/>
+    <tag k="ele" v="134"/>
+  </node>
+  <node id="3432048540" version="1" timestamp="2015-04-02T19:59:28Z" uid="610781" user="szali" changeset="29936825" lat="47.045883" lon="19.62471">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=132175"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1052"/>
+    <tag k="ele" v="139"/>
+  </node>
+  <node id="3432048541" version="1" timestamp="2015-04-02T19:59:28Z" uid="610781" user="szali" changeset="29936825" lat="47.046353" lon="19.575532">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=125701"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="szintezési gomb kőben"/>
+    <tag k="ele" v="139"/>
+  </node>
+  <node id="3432048543" version="2" timestamp="2017-03-05T08:11:08Z" uid="2077889" user="zsolt d" changeset="46588989" lat="47.0478558" lon="19.6240627">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=132174"/>
+    <tag k="ref" v="46-1063"/>
+    <tag k="ele" v="139"/>
+  </node>
+  <node id="3432048545" version="1" timestamp="2015-04-02T19:59:29Z" uid="610781" user="szali" changeset="29936825" lat="47.051451" lon="19.517864">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=126386"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1222"/>
+    <tag k="ele" v="133"/>
+  </node>
+  <node id="3432048547" version="1" timestamp="2015-04-02T19:59:29Z" uid="610781" user="szali" changeset="29936825" lat="47.052877" lon="19.519745">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=126385"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="Szintezési gomb állandósítási kőben"/>
+    <tag k="ele" v="135"/>
+  </node>
+  <node id="3432048548" version="1" timestamp="2015-04-02T19:59:29Z" uid="610781" user="szali" changeset="29936825" lat="47.053902" lon="19.582592">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=125700"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1220"/>
+    <tag k="ele" v="140"/>
+  </node>
+  <node id="3432048549" version="1" timestamp="2015-04-02T19:59:29Z" uid="610781" user="szali" changeset="29936825" lat="47.053913" lon="19.616908">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=131477"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1206"/>
+    <tag k="ele" v="140"/>
+  </node>
+  <node id="3432048550" version="1" timestamp="2015-04-02T19:59:29Z" uid="610781" user="szali" changeset="29936825" lat="47.054022" lon="19.555832">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=122034"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1221"/>
+    <tag k="ele" v="141"/>
+  </node>
+  <node id="3432048551" version="1" timestamp="2015-04-02T19:59:29Z" uid="610781" user="szali" changeset="29936825" lat="47.056035" lon="19.540849">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=122029"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1219"/>
+    <tag k="ele" v="137"/>
+  </node>
+  <node id="3432048552" version="1" timestamp="2015-04-02T19:59:29Z" uid="610781" user="szali" changeset="29936825" lat="47.057527" lon="19.585816">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=125699"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="MP"/>
+    <tag k="ele" v="140"/>
+  </node>
+  <node id="3432048553" version="1" timestamp="2015-04-02T19:59:29Z" uid="610781" user="szali" changeset="29936825" lat="47.062545" lon="19.604145">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=131478"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1203"/>
+    <tag k="ele" v="140"/>
+  </node>
+  <node id="3432048555" version="1" timestamp="2015-04-02T19:59:29Z" uid="610781" user="szali" changeset="29936825" lat="47.063813" lon="19.588836">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=122098"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1218"/>
+    <tag k="ele" v="141"/>
+  </node>
+  <node id="3432048557" version="1" timestamp="2015-04-02T19:59:30Z" uid="610781" user="szali" changeset="29936825" lat="47.06923" lon="19.592956">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=122099"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="MP"/>
+    <tag k="ele" v="139"/>
+  </node>
+  <node id="3432048558" version="5" timestamp="2019-11-05T12:25:12Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.0705973" lon="19.5951387">
+    <tag k="name" v="Habós-halom"/>
+    <tag k="is_in" v="Mizse"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=85788"/>
+    <tag k="ref" v="46-1011"/>
+    <tag k="ele" v="144"/>
+  </node>
+  <node id="3432048560" version="1" timestamp="2015-04-02T19:59:30Z" uid="610781" user="szali" changeset="29936825" lat="47.076034" lon="19.516575">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=82031"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3433"/>
+    <tag k="ele" v="135"/>
+  </node>
+  <node id="3432048561" version="1" timestamp="2015-04-02T19:59:30Z" uid="610781" user="szali" changeset="29936825" lat="47.085622" lon="19.530361">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=97436"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3058"/>
+    <tag k="ele" v="139"/>
+  </node>
+  <node id="3432048562" version="1" timestamp="2015-04-02T19:59:30Z" uid="610781" user="szali" changeset="29936825" lat="47.086993" lon="19.590762">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=79983"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3431"/>
+    <tag k="ele" v="139"/>
+  </node>
+  <node id="3432048563" version="1" timestamp="2015-04-02T19:59:30Z" uid="610781" user="szali" changeset="29936825" lat="47.090742" lon="19.608158">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=122100"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3410"/>
+    <tag k="ele" v="140"/>
+  </node>
+  <node id="3432048564" version="1" timestamp="2015-04-02T19:59:30Z" uid="610781" user="szali" changeset="29936825" lat="47.09161" lon="19.565395">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=122033"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3429"/>
+    <tag k="ele" v="141"/>
+  </node>
+  <node id="3432048567" version="1" timestamp="2015-04-02T19:59:31Z" uid="610781" user="szali" changeset="29936825" lat="47.096263" lon="19.498219">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=129045"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="OP"/>
+    <tag k="ref" v="56-3015/a"/>
+  </node>
+  <node id="3432048569" version="1" timestamp="2015-04-02T19:59:31Z" uid="610781" user="szali" changeset="29936825" lat="47.101402" lon="19.527799">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=79985"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3427"/>
+    <tag k="ele" v="138"/>
+  </node>
+  <node id="3432048571" version="1" timestamp="2015-04-02T19:59:31Z" uid="610781" user="szali" changeset="29936825" lat="47.103034" lon="19.583468">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=125704"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3437"/>
+  </node>
+  <node id="3432048572" version="1" timestamp="2015-04-02T19:59:31Z" uid="610781" user="szali" changeset="29936825" lat="47.104133" lon="19.576435">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=79984"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3438"/>
+  </node>
+  <node id="3432048574" version="1" timestamp="2015-04-02T19:59:31Z" uid="610781" user="szali" changeset="29936825" lat="47.106235" lon="19.580246">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=125703"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3065"/>
+  </node>
+  <node id="3432048576" version="1" timestamp="2015-04-02T19:59:31Z" uid="610781" user="szali" changeset="29936825" lat="47.106877" lon="19.561378">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=79324"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="54-3426"/>
+    <tag k="ele" v="140"/>
+  </node>
+  <node id="3432048577" version="1" timestamp="2015-04-02T19:59:31Z" uid="610781" user="szali" changeset="29936825" lat="47.107483" lon="19.599433">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=79323"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3425"/>
+    <tag k="ele" v="138"/>
+  </node>
+  <node id="3437115959" version="4" timestamp="2019-02-17T15:36:53Z" uid="3335899" user="GBAB" changeset="67283149" lat="46.2347212" lon="20.1249613">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="material" v="metal"/>
+    <tag k="name" v="Geodéziai vasasztal"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2012-10-15"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=50616"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="3437115974" version="1" timestamp="2015-04-04T11:45:15Z" uid="610781" user="szali" changeset="29970273" lat="46.2514" lon="20.197067">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=124679"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="historic" v="boundary_stone"/>
+    <tag k="description" v="Határkő"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3437115977" version="3" timestamp="2016-12-14T09:58:22Z" uid="513712" user="csehpacilla" changeset="44393525" lat="46.2528893" lon="20.1483324">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31079"/>
+    <tag k="name" v="Geodéziai vasasztal"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2012-10-15"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="3437115982" version="3" timestamp="2018-09-19T21:26:16Z" uid="6626963" user="gabro00" changeset="62744199" lat="46.2573579" lon="20.1450362">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Geodéziai vasasztal"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2012-10-15"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=36706"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="3437115990" version="2" timestamp="2016-10-19T12:31:26Z" uid="3335899" user="GBAB" changeset="43007454" lat="46.2678" lon="20.157267">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=36707"/>
+    <tag k="name" v="Geodéziai vasasztal"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2012-10-15"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="3437150265" version="1" timestamp="2015-04-04T12:17:29Z" uid="610781" user="szali" changeset="29970823" lat="48.060865" lon="20.658219">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=127198"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-3011"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437752993" version="2" timestamp="2019-04-13T19:41:03Z" uid="1559158" user="vakulya" changeset="69186805" lat="48.2085966" lon="20.8806144">
+    <tag k="ref" v="88-1001"/>
+    <tag k="description" v="16 m magas vasbeton geodéziai mérőtorony"/>
+    <tag k="ele" v="267"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Frankhegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2013-06-02"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31241"/>
+  </node>
+  <node id="3437755234" version="1" timestamp="2015-04-04T17:34:34Z" uid="610781" user="szali" changeset="29977338" lat="47.980629" lon="20.798883">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=105005"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-3409"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437755257" version="1" timestamp="2015-04-04T17:34:37Z" uid="610781" user="szali" changeset="29977338" lat="47.988307" lon="20.756131">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=104996"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-3301"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437755271" version="1" timestamp="2015-04-04T17:34:38Z" uid="610781" user="szali" changeset="29977338" lat="47.990924" lon="20.668883">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=104721"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-3310"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437755595" version="1" timestamp="2015-04-04T17:34:41Z" uid="610781" user="szali" changeset="29977338" lat="47.995524" lon="20.747211">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=106120"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-3120"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437755596" version="1" timestamp="2015-04-04T17:34:41Z" uid="610781" user="szali" changeset="29977338" lat="47.996205" lon="20.787752">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=104715"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-3102"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437755653" version="1" timestamp="2015-04-04T17:34:45Z" uid="610781" user="szali" changeset="29977338" lat="48.009053" lon="20.779611">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=119300"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="80-3012"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437755684" version="1" timestamp="2015-04-04T17:34:48Z" uid="610781" user="szali" changeset="29977338" lat="48.013292" lon="20.779768">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=119301"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-3012/a"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437755685" version="1" timestamp="2015-04-04T17:34:48Z" uid="610781" user="szali" changeset="29977338" lat="48.013338" lon="20.779781">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=119302"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-3012/b"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437756228" version="4" timestamp="2016-03-04T20:39:48Z" uid="850621" user="mgpx" changeset="37616348" lat="48.0253991" lon="20.6753198">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=163868"/>
+    <tag k="name" v="Ásottfa-tető"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="tourism" v="viewpoint"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2013-12-12"/>
+  </node>
+  <node id="3437756598" version="2" timestamp="2020-01-11T16:23:27Z" uid="445131" user="vajko1970" changeset="79455553" lat="48.039486" lon="20.614756">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4209"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2014-01-14"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=164836"/>
+  </node>
+  <node id="3437756805" version="2" timestamp="2016-11-20T17:28:46Z" uid="445131" user="vajko1970" changeset="43827403" lat="48.070058" lon="20.589501">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=167705"/>
+    <tag k="ref" v="87-2013/a"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2014-04-14"/>
+  </node>
+  <node id="3437756806" version="2" timestamp="2016-11-20T17:28:46Z" uid="445131" user="vajko1970" changeset="43827403" lat="48.0701882" lon="20.5890877">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=167704"/>
+    <tag k="ref" v="87-2013/b"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2014-04-14"/>
+  </node>
+  <node id="3437757064" version="1" timestamp="2015-04-04T17:35:25Z" uid="610781" user="szali" changeset="29977338" lat="48.196917" lon="20.702767">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=169695"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="Háromszögelési pontként használt vasrúd beton talapzatban."/>
+    <tag k="source:date" v="2014-06-30"/>
+    <tag k="ele" v="283.4"/>
+  </node>
+  <node id="3437757071" version="1" timestamp="2015-04-04T17:35:25Z" uid="610781" user="szali" changeset="29977338" lat="48.199181" lon="20.650359">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=149276"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-1108"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437757081" version="1" timestamp="2015-04-04T17:35:26Z" uid="610781" user="szali" changeset="29977338" lat="48.2025" lon="20.580287">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150957"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437757594" version="1" timestamp="2015-04-04T17:35:27Z" uid="610781" user="szali" changeset="29977338" lat="48.207425" lon="20.664736">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=147928"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3437757603" version="1" timestamp="2015-04-04T17:35:28Z" uid="610781" user="szali" changeset="29977338" lat="48.2139" lon="20.598283">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=166421"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="Szimpla betonkocka X-szel a tetején, HP felirattal az oldalain. Eddig egyetlen adatbázisban sem találtam meg."/>
+    <tag k="source:date" v="2014-03-05"/>
+  </node>
+  <node id="3438328426" version="1" timestamp="2015-04-04T22:38:49Z" uid="610781" user="szali" changeset="29982678" lat="46.238354" lon="17.726492">
+    <tag k="ele" v="261"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37574"/>
+    <tag k="name" v="Hindaibérc (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="23-3001"/>
+    <tag k="description" v="1980-ban épített 28 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3438328462" version="1" timestamp="2015-04-04T22:38:52Z" uid="610781" user="szali" changeset="29982678" lat="46.5041" lon="17.70445">
+    <tag k="ele" v="172"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31951"/>
+    <tag k="name" v="Jád (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="33-3001"/>
+    <tag k="description" v="20 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2013-01-02"/>
+  </node>
+  <node id="3438330783" version="1" timestamp="2015-04-04T22:39:40Z" uid="610781" user="szali" changeset="29982678" lat="46.260717" lon="17.7098">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=159472"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2015-01-12"/>
+    <tag k="ref" v="23-3409"/>
+  </node>
+  <node id="3438332321" version="1" timestamp="2015-04-04T22:40:35Z" uid="610781" user="szali" changeset="29982678" lat="46.58255" lon="17.829217">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=144846"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="33-4131"/>
+    <tag k="source:date" v="2012-10-14"/>
+  </node>
+  <node id="3439051389" version="1" timestamp="2015-04-05T11:21:24Z" uid="610781" user="szali" changeset="29990609" lat="47.78093" lon="18.93084">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=125245"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="75-3015/1a"/>
+    <tag k="source:date" v="2014-10-16"/>
+  </node>
+  <node id="3439051392" version="1" timestamp="2015-04-05T11:21:24Z" uid="610781" user="szali" changeset="29990609" lat="47.7839" lon="18.93311">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=125244"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="75-3015/1"/>
+    <tag k="source:date" v="2014-10-16"/>
+  </node>
+  <node id="3439051755" version="1" timestamp="2015-04-05T11:21:44Z" uid="610781" user="szali" changeset="29990609" lat="47.89414" lon="18.95265">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=159430"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="75-1017/a"/>
+    <tag k="source:date" v="2014-10-16"/>
+  </node>
+  <node id="3439442981" version="1" timestamp="2015-04-05T16:03:36Z" uid="610781" user="szali" changeset="29995019" lat="46.930808" lon="19.630513">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=75031"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1421"/>
+    <tag k="ele" v="128"/>
+    <tag k="source:date" v="2014-03-14"/>
+  </node>
+  <node id="3439442982" version="1" timestamp="2015-04-05T16:03:36Z" uid="610781" user="szali" changeset="29995019" lat="46.931212" lon="19.834294">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=127435"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2418"/>
+    <tag k="ele" v="111"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444276" version="1" timestamp="2015-04-05T16:03:16Z" uid="610781" user="szali" changeset="29995019" lat="46.7921" lon="19.692933">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=41903"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4064"/>
+    <tag k="ele" v="121"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444277" version="1" timestamp="2015-04-05T16:03:16Z" uid="610781" user="szali" changeset="29995019" lat="46.800583" lon="19.676395">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=41902"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4336"/>
+    <tag k="ele" v="112"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444282" version="1" timestamp="2015-04-05T16:03:17Z" uid="610781" user="szali" changeset="29995019" lat="46.829887" lon="19.676687">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=41901"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4059"/>
+    <tag k="ele" v="123"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444284" version="1" timestamp="2015-04-05T16:03:17Z" uid="610781" user="szali" changeset="29995019" lat="46.835693" lon="19.673453">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=41900"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4313"/>
+    <tag k="ele" v="121"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444285" version="1" timestamp="2015-04-05T16:03:17Z" uid="610781" user="szali" changeset="29995019" lat="46.838718" lon="19.653345">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=67944"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4309"/>
+    <tag k="ele" v="122"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444286" version="1" timestamp="2015-04-05T16:03:17Z" uid="610781" user="szali" changeset="29995019" lat="46.844382" lon="19.707863">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=48298"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444288" version="1" timestamp="2015-04-05T16:03:17Z" uid="610781" user="szali" changeset="29995019" lat="46.85113" lon="19.638517">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=67490"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-3403"/>
+    <tag k="ele" v="121"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444289" version="1" timestamp="2015-04-05T16:03:18Z" uid="610781" user="szali" changeset="29995019" lat="46.852088" lon="19.689595">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=50619"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4302"/>
+    <tag k="ele" v="122"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444291" version="1" timestamp="2015-04-05T16:03:18Z" uid="610781" user="szali" changeset="29995019" lat="46.853508" lon="19.643388">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=67942"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-3402"/>
+    <tag k="ele" v="121"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444294" version="1" timestamp="2015-04-05T16:03:18Z" uid="610781" user="szali" changeset="29995019" lat="46.856905" lon="19.67514">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=59581"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4512"/>
+    <tag k="ele" v="124"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444295" version="1" timestamp="2015-04-05T16:03:18Z" uid="610781" user="szali" changeset="29995019" lat="46.862501" lon="19.695491">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=59582"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4510"/>
+    <tag k="ele" v="118"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444296" version="1" timestamp="2015-04-05T16:03:18Z" uid="610781" user="szali" changeset="29995019" lat="46.863864" lon="19.635229">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=142263"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-3212"/>
+    <tag k="ele" v="124"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444302" version="1" timestamp="2015-04-05T16:03:19Z" uid="610781" user="szali" changeset="29995019" lat="46.871245" lon="19.663467">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=41921"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4503"/>
+    <tag k="ele" v="120"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444304" version="1" timestamp="2015-04-05T16:03:19Z" uid="610781" user="szali" changeset="29995019" lat="46.874087" lon="19.688892">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=67935"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4199"/>
+    <tag k="ele" v="120"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444306" version="1" timestamp="2015-04-05T16:03:19Z" uid="610781" user="szali" changeset="29995019" lat="46.874443" lon="19.677684">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=143486"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4198"/>
+    <tag k="ele" v="120"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444312" version="1" timestamp="2015-04-05T16:03:20Z" uid="610781" user="szali" changeset="29995019" lat="46.876811" lon="19.666621">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=67489"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4519"/>
+    <tag k="ele" v="118"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444313" version="1" timestamp="2015-04-05T16:03:20Z" uid="610781" user="szali" changeset="29995019" lat="46.879576" lon="19.679166">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=143485"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4194"/>
+    <tag k="ele" v="120"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444317" version="1" timestamp="2015-04-05T16:03:20Z" uid="610781" user="szali" changeset="29995019" lat="46.881312" lon="19.707838">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=38481"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="OP?"/>
+    <tag k="source:date" v="2013-03-12"/>
+    <tag k="ele" v="116"/>
+  </node>
+  <node id="3439444321" version="1" timestamp="2015-04-05T16:03:20Z" uid="610781" user="szali" changeset="29995019" lat="46.883794" lon="19.680479">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=71085"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="Kecskemét szintezése"/>
+    <tag k="source:date" v="2013-03-12"/>
+    <tag k="ele" v="117"/>
+  </node>
+  <node id="3439444323" version="1" timestamp="2015-04-05T16:03:21Z" uid="610781" user="szali" changeset="29995019" lat="46.884276" lon="19.737499">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=71089"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4185"/>
+    <tag k="ele" v="116"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444336" version="1" timestamp="2015-04-05T16:03:21Z" uid="610781" user="szali" changeset="29995019" lat="46.890993" lon="19.698668">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=34790"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4179"/>
+    <tag k="ele" v="115"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444341" version="1" timestamp="2015-04-05T16:03:22Z" uid="610781" user="szali" changeset="29995019" lat="46.891971" lon="19.740469">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=71090"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="OP"/>
+    <tag k="source:date" v="2013-03-12"/>
+    <tag k="ele" v="110"/>
+  </node>
+  <node id="3439444342" version="1" timestamp="2015-04-05T16:03:22Z" uid="610781" user="szali" changeset="29995019" lat="46.891992" lon="19.719277">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=38482"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4174"/>
+    <tag k="ele" v="114"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444379" version="1" timestamp="2015-04-05T16:03:25Z" uid="610781" user="szali" changeset="29995019" lat="46.900433" lon="19.640523">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=41002"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Ferenczi-halom"/>
+    <tag k="ref" v="46-3052"/>
+    <tag k="ele" v="129"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444395" version="1" timestamp="2015-04-05T16:03:26Z" uid="610781" user="szali" changeset="29995019" lat="46.902998" lon="19.66696">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=42493"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4149"/>
+    <tag k="ele" v="118"/>
+    <tag k="source:date" v="2011-06-24"/>
+  </node>
+  <node id="3439444420" version="1" timestamp="2015-04-05T16:03:28Z" uid="610781" user="szali" changeset="29995019" lat="46.908117" lon="19.719437">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=38487"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="HP?"/>
+    <tag k="source:date" v="2011-06-24"/>
+    <tag k="ele" v="117"/>
+  </node>
+  <node id="3439444477" version="1" timestamp="2015-04-05T16:03:33Z" uid="610781" user="szali" changeset="29995019" lat="46.917883" lon="19.653105">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=41520"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4111"/>
+    <tag k="ele" v="128"/>
+    <tag k="source:date" v="2014-03-14"/>
+  </node>
+  <node id="3439444480" version="1" timestamp="2015-04-05T16:03:33Z" uid="610781" user="szali" changeset="29995019" lat="46.918652" lon="19.618632">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=137641"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-3264"/>
+    <tag k="ele" v="125"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444481" version="1" timestamp="2015-04-05T16:03:33Z" uid="610781" user="szali" changeset="29995019" lat="46.918723" lon="19.692037">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=41473"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-4108"/>
+    <tag k="ele" v="118"/>
+    <tag k="source:date" v="2011-06-24"/>
+  </node>
+  <node id="3439444486" version="1" timestamp="2015-04-05T16:03:34Z" uid="610781" user="szali" changeset="29995019" lat="46.919953" lon="19.64101">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=41001"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="HP 46-3203"/>
+    <tag k="ele" v="125"/>
+    <tag k="source:date" v="2014-03-14"/>
+  </node>
+  <node id="3439444496" version="1" timestamp="2015-04-05T16:03:37Z" uid="610781" user="szali" changeset="29995019" lat="46.937777" lon="19.613072">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=95620"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1420"/>
+    <tag k="ele" v="127"/>
+    <tag k="source:date" v="2014-03-14"/>
+  </node>
+  <node id="3439444498" version="1" timestamp="2015-04-05T16:03:37Z" uid="610781" user="szali" changeset="29995019" lat="46.942633" lon="19.62977">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=40716"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1416"/>
+    <tag k="ele" v="122"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444499" version="1" timestamp="2015-04-05T16:03:37Z" uid="610781" user="szali" changeset="29995019" lat="46.944667" lon="19.711242">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=41469"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2338"/>
+    <tag k="ele" v="121"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444501" version="1" timestamp="2015-04-05T16:03:38Z" uid="610781" user="szali" changeset="29995019" lat="46.949998" lon="19.615405">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=35856"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1415"/>
+    <tag k="ele" v="127"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444502" version="1" timestamp="2015-04-05T16:03:38Z" uid="610781" user="szali" changeset="29995019" lat="46.950709" lon="19.574191">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=137638"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1436"/>
+    <tag k="ele" v="125"/>
+    <tag k="source:date" v="2014-03-14"/>
+  </node>
+  <node id="3439444504" version="1" timestamp="2015-04-05T16:03:38Z" uid="610781" user="szali" changeset="29995019" lat="46.951178" lon="19.812107">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=35845"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2063"/>
+    <tag k="ele" v="117"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444511" version="1" timestamp="2015-04-05T16:03:39Z" uid="610781" user="szali" changeset="29995019" lat="46.95769" lon="19.687514">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=58203"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2061"/>
+    <tag k="ele" v="128"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444512" version="1" timestamp="2015-04-05T16:03:39Z" uid="610781" user="szali" changeset="29995019" lat="46.957692" lon="19.558966">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=104234"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1434"/>
+    <tag k="ele" v="126"/>
+    <tag k="source:date" v="2014-03-14"/>
+  </node>
+  <node id="3439444514" version="1" timestamp="2015-04-05T16:03:39Z" uid="610781" user="szali" changeset="29995019" lat="46.96076" lon="19.64446">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=38174"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1017"/>
+    <tag k="ele" v="129"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444520" version="1" timestamp="2015-04-05T16:03:39Z" uid="610781" user="szali" changeset="29995019" lat="46.970811" lon="19.568522">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=104233"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1431"/>
+    <tag k="ele" v="127"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444529" version="1" timestamp="2015-04-05T16:03:40Z" uid="610781" user="szali" changeset="29995019" lat="46.980526" lon="19.621291">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=106642"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="MP"/>
+    <tag k="source:date" v="2013-03-12"/>
+    <tag k="ele" v="128"/>
+  </node>
+  <node id="3439444530" version="1" timestamp="2015-04-05T16:03:40Z" uid="610781" user="szali" changeset="29995019" lat="46.981022" lon="19.574587">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=85793"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1015"/>
+    <tag k="ele" v="134"/>
+    <tag k="source:date" v="2014-03-08"/>
+  </node>
+  <node id="3439444531" version="1" timestamp="2015-04-05T16:03:40Z" uid="610781" user="szali" changeset="29995019" lat="46.981054" lon="19.64621">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=82368"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1406"/>
+    <tag k="ele" v="134"/>
+    <tag k="source:date" v="2013-03-12"/>
+  </node>
+  <node id="3439444534" version="1" timestamp="2015-04-05T16:03:40Z" uid="610781" user="szali" changeset="29995019" lat="46.995305" lon="19.593067">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=126375"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="HP"/>
+    <tag k="source:date" v="2013-03-12"/>
+    <tag k="ele" v="136.7"/>
+  </node>
+  <node id="3439444537" version="1" timestamp="2015-04-05T16:03:40Z" uid="610781" user="szali" changeset="29995019" lat="46.99836" lon="19.683768">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=58205"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2301"/>
+    <tag k="ele" v="136"/>
+    <tag k="source:date" v="2013-04-07"/>
+  </node>
+  <node id="3439664853" version="1" timestamp="2015-04-05T18:15:59Z" uid="610781" user="szali" changeset="29998012" lat="48.31238" lon="21.301052">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=147013"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="99-3012"/>
+    <tag k="source:date" v="2013-01-02"/>
+  </node>
+  <node id="3440813748" version="1" timestamp="2015-04-06T12:09:15Z" uid="610781" user="szali" changeset="30013841" lat="46.085007" lon="18.146025">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=149804"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-1358"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3440813767" version="1" timestamp="2015-04-06T12:09:17Z" uid="610781" user="szali" changeset="30013841" lat="46.093597" lon="18.139791">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=152011"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-1002/1a"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3440813769" version="1" timestamp="2015-04-06T12:09:17Z" uid="610781" user="szali" changeset="30013841" lat="46.09378" lon="18.139498">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=152010"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-100/1b"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3440813870" version="1" timestamp="2015-04-06T12:09:10Z" uid="610781" user="szali" changeset="30013841" lat="46.054534" lon="18.287224">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=119539"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-3207"/>
+    <tag k="source:date" v="2011-09-08"/>
+  </node>
+  <node id="3440814423" version="1" timestamp="2015-04-06T12:09:22Z" uid="610781" user="szali" changeset="30013841" lat="46.140602" lon="18.137821">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=83557"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="Kidőlt."/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3440814593" version="1" timestamp="2015-04-06T12:09:28Z" uid="610781" user="szali" changeset="30013841" lat="46.174729" lon="18.100666">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=136075"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="IV. rendű"/>
+    <tag k="ref" v="14-1110"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3440859675" version="1" timestamp="2015-04-06T12:45:39Z" uid="610781" user="szali" changeset="30014668" lat="46.128885" lon="18.207169">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=137131"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="IV. rendű"/>
+    <tag k="ref" v="14-1725"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3440859687" version="2" timestamp="2019-04-05T06:58:38Z" uid="833873" user="narancsmag" changeset="68909954" lat="46.143939" lon="18.331441">
+    <tag k="ele" v="262"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2015-01-12"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=93109"/>
+  </node>
+  <node id="3440860478" version="1" timestamp="2015-04-06T12:45:33Z" uid="610781" user="szali" changeset="30014668" lat="46.098406" lon="18.234574">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=165340"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-1333"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3440860628" version="3" timestamp="2017-07-09T14:56:24Z" uid="3335899" user="GBAB" changeset="50154696" lat="46.1241372" lon="18.2262034">
+    <tag k="ref" v="11-3517"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2015-01-12"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=132337"/>
+  </node>
+  <node id="3441412624" version="1" timestamp="2015-04-06T17:36:56Z" uid="610781" user="szali" changeset="30021618" lat="47.605993" lon="17.63412">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=32882"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="63-1055"/>
+    <tag k="source:date" v="2015-01-30"/>
+  </node>
+  <node id="3441442861" version="1" timestamp="2015-04-06T17:59:43Z" uid="610781" user="szali" changeset="30022314" lat="46.76305" lon="17.8759">
+    <tag k="ele" v="309"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31952"/>
+    <tag k="name" v="Csillagó (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="33-2001"/>
+    <tag k="description" v="21 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2012-10-14"/>
+  </node>
+  <node id="3441443317" version="1" timestamp="2015-04-06T17:59:52Z" uid="610781" user="szali" changeset="30022314" lat="46.89735" lon="18.210267">
+    <tag k="ele" v="142"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31948"/>
+    <tag k="name" v="Kustyán (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="44-3011"/>
+    <tag k="description" v="III. rendű alapponton épített 24 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2012-10-14"/>
+  </node>
+  <node id="3441443572" version="1" timestamp="2015-04-06T18:00:11Z" uid="610781" user="szali" changeset="30022314" lat="46.725549" lon="17.837295">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=83649"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="33-2054"/>
+    <tag k="source:date" v="2013-08-03"/>
+  </node>
+  <node id="3441705212" version="2" timestamp="2017-11-05T13:17:39Z" uid="2077889" user="zsolt d" changeset="53527977" lat="47.6486756" lon="18.9297235">
+    <tag k="ref" v="75-3419"/>
+    <tag k="ele" v="410"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Ziribár"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2014-02-06"/>
+    <tag k="tourism" v="viewpoint"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=16892"/>
+  </node>
+  <node id="3441705213" version="1" timestamp="2015-04-06T20:57:39Z" uid="610781" user="szali" changeset="30026398" lat="47.649278" lon="19.089345">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=124618"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="75-4018"/>
+    <tag k="source:date" v="2014-02-06"/>
+  </node>
+  <node id="3445368037" version="1" timestamp="2015-04-08T19:21:38Z" uid="610781" user="szali" changeset="30072322" lat="47.042248" lon="21.480162">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=148379"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="49-1213"/>
+    <tag k="source:date" v="2012-12-27"/>
+  </node>
+  <node id="3445368045" version="1" timestamp="2015-04-08T19:21:39Z" uid="610781" user="szali" changeset="30072322" lat="47.053534" lon="21.347846">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=152368"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="59-3070"/>
+    <tag k="source:date" v="2013-04-14"/>
+  </node>
+  <node id="3445368047" version="1" timestamp="2015-04-08T19:21:39Z" uid="610781" user="szali" changeset="30072322" lat="47.061307" lon="21.412346">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=148943"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="59-3407"/>
+    <tag k="source:date" v="2012-12-27"/>
+  </node>
+  <node id="3445368118" version="1" timestamp="2015-04-08T19:21:45Z" uid="610781" user="szali" changeset="30072322" lat="47.10059" lon="21.462429">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=148378"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="59-3063"/>
+    <tag k="source:date" v="2012-12-11"/>
+  </node>
+  <node id="3445368350" version="1" timestamp="2015-04-08T19:22:04Z" uid="610781" user="szali" changeset="30072322" lat="47.213855" lon="21.588355">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=124503"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="59-2313"/>
+    <tag k="source:date" v="2012-08-01"/>
+  </node>
+  <node id="3445368354" version="1" timestamp="2015-04-08T19:22:04Z" uid="610781" user="szali" changeset="30072322" lat="47.219031" lon="21.59814">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=124504"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="59-2312"/>
+    <tag k="source:date" v="2012-08-01"/>
+  </node>
+  <node id="3445368707" version="1" timestamp="2015-04-08T19:22:09Z" uid="610781" user="szali" changeset="30072322" lat="47.259018" lon="21.601368">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=144325"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="59-2351"/>
+    <tag k="description" v="= 59-2061/a OP"/>
+    <tag k="source:date" v="2012-09-07"/>
+  </node>
+  <node id="3445425495" version="1" timestamp="2015-04-08T19:49:36Z" uid="610781" user="szali" changeset="30073031" lat="45.88731" lon="18.388159">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=131358"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="04-1217"/>
+    <tag k="ele" v="210"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3445463715" version="1" timestamp="2015-04-08T20:08:18Z" uid="610781" user="szali" changeset="30073498" lat="47.95975" lon="20.550923">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=137507"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4075"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3445463808" version="1" timestamp="2015-04-08T20:08:25Z" uid="610781" user="szali" changeset="30073498" lat="48.023336" lon="20.543875">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=125670"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="HP vagy OP"/>
+    <tag k="ele" v="461"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3445463810" version="1" timestamp="2015-04-08T20:08:26Z" uid="610781" user="szali" changeset="30073498" lat="48.024004" lon="20.545545">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=125678"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4214"/>
+    <tag k="ele" v="497"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3445507064" version="1" timestamp="2015-04-08T20:42:00Z" uid="610781" user="szali" changeset="30074306" lat="47.742707" lon="19.835382">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=28473"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="76-4247"/>
+    <tag k="source:date" v="2013-06-22"/>
+  </node>
+  <node id="3445507950" version="1" timestamp="2015-04-08T20:42:18Z" uid="610781" user="szali" changeset="30074306" lat="47.840683" lon="20.019067">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=149944"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="77-1061"/>
+    <tag k="source:date" v="2013-06-22"/>
+  </node>
+  <node id="3446561065" version="1" timestamp="2015-04-09T12:30:53Z" uid="610781" user="szali" changeset="30092948" lat="46.58155" lon="18.269467">
+    <tag k="ele" v="225"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31956"/>
+    <tag k="name" v="Macskahegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="34-3012"/>
+    <tag k="description" v="III. rendű alapponton épült 20 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2013-08-04"/>
+  </node>
+  <node id="3446564325" version="1" timestamp="2015-04-09T12:30:41Z" uid="610781" user="szali" changeset="30092948" lat="46.53585" lon="18.4143">
+    <tag k="ele" v="237"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31965"/>
+    <tag k="name" v="Csernéd (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="34-4001"/>
+    <tag k="description" v="16 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2012-10-14"/>
+  </node>
+  <node id="3446564335" version="1" timestamp="2015-04-09T12:30:43Z" uid="610781" user="szali" changeset="30092948" lat="46.7465" lon="18.378317">
+    <tag k="ele" v="207"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=35951"/>
+    <tag k="name" v="Döbröntehegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="34-1012"/>
+    <tag k="description" v="III. rendű alapponton épült 12 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2012-10-14"/>
+  </node>
+  <node id="3446564348" version="3" timestamp="2019-07-28T20:55:56Z" uid="1559158" user="vakulya" changeset="72747287" lat="46.7781251" lon="18.2545274">
+    <tag k="ele" v="218"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="34-1001"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2012-10-14"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31955"/>
+  </node>
+  <node id="3446891207" version="1" timestamp="2015-04-09T15:25:20Z" uid="610781" user="szali" changeset="30095974" lat="47.831767" lon="19.710167">
+    <tag k="ele" v="496"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37554"/>
+    <tag k="name" v="Jobbágyihegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="76-2001"/>
+    <tag k="description" v="A Nagy-Hársas-hegyen 1975-ben épült 20 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2013-06-22"/>
+  </node>
+  <node id="3446893987" version="1" timestamp="2015-04-09T15:25:55Z" uid="610781" user="szali" changeset="30095974" lat="47.888183" lon="19.759383">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=167826"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="76-2020"/>
+    <tag k="source:date" v="2014-04-21"/>
+  </node>
+  <node id="3446895772" version="1" timestamp="2015-04-09T15:26:18Z" uid="610781" user="szali" changeset="30095974" lat="47.97482" lon="19.748285">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=148781"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="tourism" v="viewpoint"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="86-4315"/>
+    <tag k="ele" v="277"/>
+    <tag k="source:date" v="2014-10-15"/>
+  </node>
+  <node id="3452836131" version="1" timestamp="2015-04-12T22:26:32Z" uid="610781" user="szali" changeset="30175101" lat="46.590046" lon="18.578887">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=125545"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2012-10-14"/>
+    <tag k="ele" v="197"/>
+  </node>
+  <node id="3452836179" version="1" timestamp="2015-04-12T22:26:35Z" uid="610781" user="szali" changeset="30175101" lat="46.624067" lon="18.817458">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=24378"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="35-3011/a"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3452836262" version="1" timestamp="2015-04-12T22:26:42Z" uid="610781" user="szali" changeset="30175101" lat="46.679084" lon="18.879998">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=119564"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="35-1420"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3452836271" version="3" timestamp="2016-07-10T05:40:29Z" uid="2475421" user="DéBé70" changeset="40623573" lat="46.687355" lon="18.842598">
+    <tag k="ref" v="35-1060"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=116603"/>
+    <tag k="name" v="Földmérési alappont"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3452836280" version="1" timestamp="2015-04-12T22:26:43Z" uid="610781" user="szali" changeset="30175101" lat="46.695522" lon="18.704852">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=28347"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="34-2431"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3452836286" version="2" timestamp="2016-05-01T15:57:53Z" uid="2475421" user="DéBé70" changeset="39019614" lat="46.705604" lon="18.845136">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=116602"/>
+    <tag k="name" v="Földmérési alappont"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="35-1321"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3452836357" version="1" timestamp="2015-04-12T22:26:50Z" uid="610781" user="szali" changeset="30175101" lat="46.849952" lon="18.919882">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=24373"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="45-3408"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3454463347" version="1" timestamp="2015-04-13T19:12:07Z" uid="610781" user="szali" changeset="30196120" lat="48.2264" lon="20.603546">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150833"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="97-4469"/>
+    <tag k="description" v="62 m-rel odébb van az előzőleg ismert koordinátáitól (Helyszínrajz alapján azonosítva.)"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3454463349" version="1" timestamp="2015-04-13T19:12:07Z" uid="610781" user="szali" changeset="30196120" lat="48.227146" lon="20.630486">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150042"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="97-4466"/>
+    <tag k="description" v="Felirat:KF"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3454463357" version="1" timestamp="2015-04-13T19:12:08Z" uid="610781" user="szali" changeset="30196120" lat="48.228935" lon="20.621962">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150041"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="97-4461"/>
+    <tag k="description" v="Felirat: HP 1968 Egyszerű betonkocka X-szel a tetején"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3454463361" version="1" timestamp="2015-04-13T19:12:09Z" uid="610781" user="szali" changeset="30196120" lat="48.229737" lon="20.647316">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=149813"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="98-3022/a"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3454464052" version="1" timestamp="2015-04-13T19:12:03Z" uid="610781" user="szali" changeset="30196120" lat="48.21461" lon="20.599931">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=152202"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="FÖMI nyilvántartásban nem szerepel."/>
+    <tag k="source:date" v="2013-12-02"/>
+    <tag k="ele" v="347.2"/>
+  </node>
+  <node id="3454464055" version="1" timestamp="2015-04-13T19:12:03Z" uid="610781" user="szali" changeset="30196120" lat="48.215408" lon="20.478912">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=167608"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2014-04-10"/>
+    <tag k="ele" v="277.9"/>
+  </node>
+  <node id="3454464057" version="1" timestamp="2015-04-13T19:12:03Z" uid="610781" user="szali" changeset="30196120" lat="48.215477" lon="20.667898">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=149811"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="98-3373"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3454464061" version="1" timestamp="2015-04-13T19:12:04Z" uid="610781" user="szali" changeset="30196120" lat="48.216125" lon="20.593945">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150837"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="97-4478"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3454464063" version="1" timestamp="2015-04-13T19:12:04Z" uid="610781" user="szali" changeset="30196120" lat="48.216504" lon="20.629621">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=132649"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="97-4477"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3454464068" version="1" timestamp="2015-04-13T19:12:04Z" uid="610781" user="szali" changeset="30196120" lat="48.2175" lon="20.68598">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150385"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="98-3066/b"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3454464072" version="1" timestamp="2015-04-13T19:12:05Z" uid="610781" user="szali" changeset="30196120" lat="48.21797" lon="20.69422">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150386"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="= 98-3066/a"/>
+    <tag k="ref" v="98-3370"/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3454478469" version="1" timestamp="2015-04-13T19:26:30Z" uid="610781" user="szali" changeset="30196487" lat="47.028117" lon="18.83915">
+    <tag k="ele" v="183"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=27572"/>
+    <tag k="name" v="Nagyperkáta (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="45-1001"/>
+    <tag k="description" v="16 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3454542452" version="1" timestamp="2015-04-13T19:47:40Z" uid="610781" user="szali" changeset="30197047" lat="47.482276" lon="18.963723">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=19853"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="438 mBf"/>
+    <tag k="source:date" v="2014-02-04"/>
+  </node>
+  <node id="3454542455" version="1" timestamp="2015-04-13T19:47:40Z" uid="610781" user="szali" changeset="30197047" lat="47.482401" lon="18.963511">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=84737"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="historic" v="boundary_stone"/>
+    <tag k="description" v="Közepes méretű régi Budapest határkő a nyiladék felső végén."/>
+    <tag k="source:date" v="2014-03-23"/>
+  </node>
+  <node id="3454542456" version="1" timestamp="2015-04-13T19:47:40Z" uid="610781" user="szali" changeset="30197047" lat="47.482585" lon="18.963149">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=84736"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="historic" v="boundary_stone"/>
+    <tag k="description" v="Kisméretű régi Budapest határkő a hegycsúcsra vezető nyiladék közepe táján."/>
+    <tag k="source:date" v="2014-02-04"/>
+  </node>
+  <node id="3454542457" version="1" timestamp="2015-04-13T19:47:40Z" uid="610781" user="szali" changeset="30197047" lat="47.482922" lon="18.962517">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=84735"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="historic" v="boundary_stone"/>
+    <tag k="description" v="Kisméretű régi Budapest-határkő a hegycsúcsra vezető nyiladék kezdetén."/>
+    <tag k="source:date" v="2014-02-04"/>
+  </node>
+  <node id="3454580710" version="1" timestamp="2015-04-13T20:06:31Z" uid="610781" user="szali" changeset="30197565" lat="47.102652" lon="19.68517">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=153115"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-4331"/>
+    <tag k="source:date" v="2013-05-03"/>
+  </node>
+  <node id="3454580711" version="1" timestamp="2015-04-13T20:06:31Z" uid="610781" user="szali" changeset="30197565" lat="47.102915" lon="19.685496">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=153114"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2013-05-03"/>
+  </node>
+  <node id="3454580719" version="1" timestamp="2015-04-13T20:06:32Z" uid="610781" user="szali" changeset="30197565" lat="47.117356" lon="19.74913">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=153122"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-4320"/>
+    <tag k="source:date" v="2013-05-03"/>
+  </node>
+  <node id="3454580763" version="1" timestamp="2015-04-13T20:06:37Z" uid="610781" user="szali" changeset="30197565" lat="47.18075" lon="19.66095">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=176861"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-4145"/>
+    <tag k="source:date" v="2015-03-13"/>
+  </node>
+  <node id="3454581950" version="1" timestamp="2015-04-13T20:06:29Z" uid="610781" user="szali" changeset="30197565" lat="47.094113" lon="19.712966">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=153104"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-4336"/>
+    <tag k="source:date" v="2013-05-03"/>
+  </node>
+  <node id="3454581964" version="1" timestamp="2015-04-13T20:06:43Z" uid="610781" user="szali" changeset="30197565" lat="47.228133" lon="19.546517">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=169222"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-1016"/>
+    <tag k="ele" v="140"/>
+    <tag k="source:date" v="2014-06-11"/>
+  </node>
+  <node id="3454649945" version="1" timestamp="2015-04-13T20:39:17Z" uid="610781" user="szali" changeset="30198330" lat="46.691532" lon="17.041933">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=143966"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="32-1404"/>
+    <tag k="source:date" v="2012-08-28"/>
+  </node>
+  <node id="3456369434" version="1" timestamp="2015-04-14T21:21:39Z" uid="610781" user="szali" changeset="30222811" lat="47.782517" lon="19.27195">
+    <tag k="ele" v="275"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=1026"/>
+    <tag k="name" v="Látóhegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="75-4019"/>
+    <tag k="description" v="III. rendű alapponton épült 20 m magas vasbeton geodéziai mérőtorony. A Penci obszervatóriumtól könnyen megközelíthető."/>
+    <tag k="source:date" v="2014-10-15"/>
+  </node>
+  <node id="3456418350" version="1" timestamp="2015-04-14T21:46:03Z" uid="610781" user="szali" changeset="30223306" lat="47.72735" lon="17.2394">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31963"/>
+    <tag k="name" v="Szállástető (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="72-4001"/>
+    <tag k="description" v="26 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2015-01-30"/>
+  </node>
+  <node id="3456439525" version="1" timestamp="2015-04-14T21:58:57Z" uid="610781" user="szali" changeset="30223577" lat="46.623684" lon="17.096983">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=143264"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="32-1066"/>
+    <tag k="source:date" v="2012-08-16"/>
+  </node>
+  <node id="3456439569" version="1" timestamp="2015-04-14T21:59:00Z" uid="610781" user="szali" changeset="30223577" lat="46.648766" lon="17.070616">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=151290"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="32-1425"/>
+    <tag k="source:date" v="2013-03-09"/>
+  </node>
+  <node id="3458274565" version="1" timestamp="2015-04-15T21:17:19Z" uid="610781" user="szali" changeset="30250187" lat="47.284917" lon="17.591418">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=25595"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="53-1159"/>
+    <tag k="source:date" v="2013-04-21"/>
+  </node>
+  <node id="3458295936" version="1" timestamp="2015-04-15T21:28:53Z" uid="610781" user="szali" changeset="30250385" lat="46.180536" lon="18.19793">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=152658"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-1129"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3458295943" version="1" timestamp="2015-04-15T21:28:54Z" uid="610781" user="szali" changeset="30250385" lat="46.187539" lon="18.2585">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=160022"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-1230"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3458296514" version="1" timestamp="2015-04-15T21:29:00Z" uid="610781" user="szali" changeset="30250385" lat="46.231079" lon="18.368179">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=151672"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-3438"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3458296523" version="1" timestamp="2015-04-15T21:29:00Z" uid="610781" user="szali" changeset="30250385" lat="46.233085" lon="18.380747">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=148720"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-3436"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3458296579" version="1" timestamp="2015-04-15T21:29:05Z" uid="610781" user="szali" changeset="30250385" lat="46.343553" lon="18.254811">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=155256"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-3204"/>
+    <tag k="source:date" v="2013-06-21"/>
+  </node>
+  <node id="3458342296" version="1" timestamp="2015-04-15T21:42:21Z" uid="610781" user="szali" changeset="30250631" lat="46.978463" lon="17.895194">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=167123"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="43-2014"/>
+    <tag k="source:date" v="2014-03-28"/>
+  </node>
+  <node id="3458378454" version="1" timestamp="2015-04-15T21:58:33Z" uid="610781" user="szali" changeset="30250953" lat="46.579865" lon="20.178652">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=171710"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="81"/>
+    <tag k="source:date" v="2014-09-18"/>
+  </node>
+  <node id="3458378466" version="1" timestamp="2015-04-15T21:58:34Z" uid="610781" user="szali" changeset="30250953" lat="46.586252" lon="20.327966">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=170100"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="84"/>
+    <tag k="source:date" v="2014-09-14"/>
+  </node>
+  <node id="3458379020" version="1" timestamp="2015-04-15T21:58:37Z" uid="610781" user="szali" changeset="30250953" lat="46.618286" lon="20.302843">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=169832"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="83"/>
+    <tag k="source:date" v="2014-09-14"/>
+  </node>
+  <node id="3458379062" version="1" timestamp="2015-04-15T21:58:41Z" uid="610781" user="szali" changeset="30250953" lat="46.670876" lon="20.301557">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=165167"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="87"/>
+    <tag k="source:date" v="2014-09-11"/>
+  </node>
+  <node id="3458379065" version="1" timestamp="2015-04-15T21:58:41Z" uid="610781" user="szali" changeset="30250953" lat="46.67511" lon="20.332187">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=165158"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="84"/>
+    <tag k="source:date" v="2014-09-11"/>
+  </node>
+  <node id="3458379068" version="1" timestamp="2015-04-15T21:58:42Z" uid="610781" user="szali" changeset="30250953" lat="46.675956" lon="20.311473">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=165166"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="87"/>
+    <tag k="source:date" v="2014-09-11"/>
+  </node>
+  <node id="3458379075" version="1" timestamp="2015-04-15T21:58:42Z" uid="610781" user="szali" changeset="30250953" lat="46.681717" lon="20.348343">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=165159"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="84"/>
+    <tag k="source:date" v="2014-09-11"/>
+  </node>
+  <node id="3458379085" version="1" timestamp="2015-04-15T21:58:43Z" uid="610781" user="szali" changeset="30250953" lat="46.691593" lon="20.233325">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=171190"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2014-08-24"/>
+  </node>
+  <node id="3458379088" version="1" timestamp="2015-04-15T21:58:44Z" uid="610781" user="szali" changeset="30250953" lat="46.693476" lon="20.335971">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=165203"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="85"/>
+    <tag k="source:date" v="2014-09-11"/>
+  </node>
+  <node id="3459826696" version="1" timestamp="2015-04-16T17:33:41Z" uid="610781" user="szali" changeset="30270465" lat="47.22055" lon="18.280917">
+    <tag k="ele" v="250"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=4676"/>
+    <tag k="name" v="Iszkahegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="54-1017"/>
+    <tag k="description" v="III. rendű alapponton, az Iszka-hegyen épített 8 m magas vasbeton geodéziai mérőtorony. Látszólag stabil lépcsők, renoválásnak nem láttam nyomát."/>
+    <tag k="source:date" v="2013-03-01"/>
+  </node>
+  <node id="3459827704" version="1" timestamp="2015-04-16T17:34:13Z" uid="610781" user="szali" changeset="30270465" lat="47.445942" lon="18.36302">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=112675"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="64-3013"/>
+    <tag k="source:date" v="2013-01-14"/>
+  </node>
+  <node id="3459827727" version="1" timestamp="2015-04-16T17:34:15Z" uid="610781" user="szali" changeset="30270465" lat="47.1117" lon="18.6274">
+    <tag k="ele" v="123"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=11571"/>
+    <tag k="name" v="Öreghegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="54-4016"/>
+    <tag k="description" v="III. rendű alapponton 1986-ban épített 16 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3459931142" version="1" timestamp="2015-04-16T18:11:16Z" uid="610781" user="szali" changeset="30271240" lat="48.083057" lon="19.400852">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=129030"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2014-10-15"/>
+  </node>
+  <node id="3459944572" version="1" timestamp="2015-04-16T18:17:17Z" uid="610781" user="szali" changeset="30271379" lat="46.970178" lon="19.429394">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=103464"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1016"/>
+    <tag k="ele" v="125"/>
+    <tag k="description" v="Búhegy/Görögök homokja"/>
+    <tag k="source:date" v="2013-05-13"/>
+  </node>
+  <node id="3459944589" version="1" timestamp="2015-04-16T18:17:19Z" uid="610781" user="szali" changeset="30271379" lat="47.035194" lon="19.424974">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=154714"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1121"/>
+    <tag k="ele" v="122"/>
+    <tag k="source:date" v="2013-06-09"/>
+  </node>
+  <node id="3459946888" version="1" timestamp="2015-04-16T18:17:10Z" uid="610781" user="szali" changeset="30271379" lat="46.7304" lon="19.638285">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=163985"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="OP"/>
+    <tag k="ref" v="36-1056/b"/>
+    <tag k="ele" v="114"/>
+    <tag k="source:date" v="2013-12-17"/>
+  </node>
+  <node id="3459946892" version="1" timestamp="2015-04-16T18:17:10Z" uid="610781" user="szali" changeset="30271379" lat="46.743149" lon="19.572581">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=140375"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="MP"/>
+    <tag k="ref" v="0530102-1"/>
+    <tag k="source:date" v="2014-03-14"/>
+  </node>
+  <node id="3459947804" version="1" timestamp="2015-04-16T18:17:11Z" uid="610781" user="szali" changeset="30271379" lat="46.764903" lon="19.609747">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=48295"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="Talán a 36-1011/b számú iránypont?"/>
+    <tag k="source:date" v="2011-06-24"/>
+  </node>
+  <node id="3459947817" version="1" timestamp="2015-04-16T18:17:12Z" uid="610781" user="szali" changeset="30271379" lat="46.834987" lon="19.45357">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=71366"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-3313"/>
+    <tag k="ele" v="115"/>
+    <tag k="source:date" v="2012-10-15"/>
+  </node>
+  <node id="3459947822" version="1" timestamp="2015-04-16T18:17:12Z" uid="610781" user="szali" changeset="30271379" lat="46.838889" lon="19.448928">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=71367"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Selyem-halom"/>
+    <tag k="ref" v="46-3015"/>
+    <tag k="source:date" v="2012-10-15"/>
+  </node>
+  <node id="3459947848" version="1" timestamp="2015-04-16T18:17:14Z" uid="610781" user="szali" changeset="30271379" lat="46.869183" lon="19.418783">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=149875"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2013-11-06"/>
+  </node>
+  <node id="3459947850" version="1" timestamp="2015-04-16T18:17:14Z" uid="610781" user="szali" changeset="30271379" lat="46.871858" lon="19.404362">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=161842"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="125"/>
+    <tag k="description" v="Régi HP a bucka tetején."/>
+    <tag k="source:date" v="2014-01-20"/>
+  </node>
+  <node id="3459948104" version="1" timestamp="2015-04-16T18:17:20Z" uid="610781" user="szali" changeset="30271379" lat="47.07556" lon="19.487843">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=160579"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3339"/>
+    <tag k="ele" v="132"/>
+    <tag k="source:date" v="2013-10-15"/>
+  </node>
+  <node id="3459966337" version="1" timestamp="2015-04-16T18:28:51Z" uid="610781" user="szali" changeset="30271597" lat="47.888519" lon="20.109181">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=167797"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="77-1012"/>
+    <tag k="source:date" v="2014-04-18"/>
+  </node>
+  <node id="3461930707" version="1" timestamp="2015-04-17T18:32:36Z" uid="610781" user="szali" changeset="30292206" lat="47.603944" lon="19.025513">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=124759"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="65-2127"/>
+    <tag k="ele" v="222"/>
+    <tag k="source:date" v="2014-02-06"/>
+  </node>
+  <node id="3461942723" version="1" timestamp="2015-04-17T18:42:48Z" uid="610781" user="szali" changeset="30292411" lat="47.012739" lon="19.31918">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=145369"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="45-2234"/>
+    <tag k="ele" v="107"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3461942763" version="1" timestamp="2015-04-17T18:42:51Z" uid="610781" user="szali" changeset="30292411" lat="47.035903" lon="19.295362">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150246"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="45-2221"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3461942772" version="1" timestamp="2015-04-17T18:42:52Z" uid="610781" user="szali" changeset="30292411" lat="47.085188" lon="19.338644">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150232"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-3059"/>
+    <tag k="ele" v="105"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3462187038" version="1" timestamp="2015-04-17T20:52:38Z" uid="610781" user="szali" changeset="30295190" lat="46.3624" lon="18.674567">
+    <tag k="ele" v="265"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37575"/>
+    <tag k="name" v="Cserháthegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-2001"/>
+    <tag k="description" v="1982-ben épült 14 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3462187039" version="1" timestamp="2015-04-17T20:52:38Z" uid="610781" user="szali" changeset="30295190" lat="46.12625" lon="18.784367">
+    <tag k="ele" v="165"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37572"/>
+    <tag k="name" v="Csókahegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="15-1002"/>
+    <tag k="description" v="1984-ben épült 9 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3462188423" version="1" timestamp="2015-04-17T20:52:56Z" uid="610781" user="szali" changeset="30295190" lat="46.270111" lon="18.654306">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150199"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-4407"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3462294781" version="1" timestamp="2015-04-17T21:32:23Z" uid="610781" user="szali" changeset="30296109" lat="46.992748" lon="21.131672">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=125984"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="48-2215"/>
+    <tag k="source:date" v="2012-08-01"/>
+  </node>
+  <node id="3462304272" version="1" timestamp="2015-04-17T21:32:15Z" uid="610781" user="szali" changeset="30296109" lat="46.932467" lon="21.1491">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=146247"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="48-2433"/>
+    <tag k="description" v="Körösladány 5 km-re, Bélmegyertől 7 km-re."/>
+    <tag k="source:date" v="2012-10-22"/>
+  </node>
+  <node id="3462304276" version="1" timestamp="2015-04-17T21:32:15Z" uid="610781" user="szali" changeset="30296109" lat="46.937783" lon="21.1608">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=146246"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="48-2409"/>
+    <tag k="description" v="Körösladánytól 6 km-re, Bélmegyertől 8 km-re."/>
+    <tag k="source:date" v="2012-10-22"/>
+  </node>
+  <node id="3462305693" version="1" timestamp="2015-04-17T21:32:24Z" uid="610781" user="szali" changeset="30296109" lat="47.017097" lon="21.103251">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=123650"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="48-2224"/>
+    <tag k="source:date" v="2012-08-01"/>
+  </node>
+  <node id="3462305703" version="1" timestamp="2015-04-17T21:32:25Z" uid="610781" user="szali" changeset="30296109" lat="47.0771" lon="21.273485">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=124924"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="59-3068"/>
+    <tag k="source:date" v="2012-08-01"/>
+  </node>
+  <node id="3463077783" version="1" timestamp="2015-04-18T09:10:25Z" uid="610781" user="szali" changeset="30303127" lat="47.229803" lon="18.457">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=26051"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="54-2338"/>
+    <tag k="source:date" v="2012-03-29"/>
+  </node>
+  <node id="3463086127" version="1" timestamp="2015-04-18T09:20:59Z" uid="610781" user="szali" changeset="30303262" lat="46.634138" lon="20.029988">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=171948"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="84"/>
+    <tag k="source:date" v="2014-09-21"/>
+  </node>
+  <node id="3463086137" version="1" timestamp="2015-04-18T09:21:00Z" uid="610781" user="szali" changeset="30303262" lat="46.63943" lon="20.041936">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=171950"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="87"/>
+    <tag k="source:date" v="2014-09-21"/>
+  </node>
+  <node id="3463086164" version="1" timestamp="2015-04-18T09:21:03Z" uid="610781" user="szali" changeset="30303262" lat="46.669655" lon="20.000116">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=171803"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="88"/>
+    <tag k="source:date" v="2014-09-18"/>
+  </node>
+  <node id="3463086173" version="1" timestamp="2015-04-18T09:21:04Z" uid="610781" user="szali" changeset="30303262" lat="46.675108" lon="20.048236">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=171799"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="87"/>
+    <tag k="source:date" v="2014-09-28"/>
+  </node>
+  <node id="3463086177" version="1" timestamp="2015-04-18T09:21:04Z" uid="610781" user="szali" changeset="30303262" lat="46.678621" lon="20.015873">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=171804"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="86"/>
+    <tag k="source:date" v="2014-09-18"/>
+  </node>
+  <node id="3463086405" version="1" timestamp="2015-04-18T09:21:06Z" uid="610781" user="szali" changeset="30303262" lat="46.70641" lon="20.014438">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=170281"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="87"/>
+    <tag k="source:date" v="2014-07-21"/>
+  </node>
+  <node id="3463086439" version="1" timestamp="2015-04-18T09:21:09Z" uid="610781" user="szali" changeset="30303262" lat="46.717552" lon="20.047556">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=170276"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="88"/>
+    <tag k="source:date" v="2014-07-21"/>
+  </node>
+  <node id="3463086441" version="1" timestamp="2015-04-18T09:21:09Z" uid="610781" user="szali" changeset="30303262" lat="46.71807" lon="19.982659">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=170218"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="OP"/>
+    <tag k="ele" v="88"/>
+    <tag k="source:date" v="2014-07-21"/>
+  </node>
+  <node id="3463086443" version="1" timestamp="2015-04-18T09:21:09Z" uid="610781" user="szali" changeset="30303262" lat="46.719344" lon="20.01318">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=170296"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="87"/>
+    <tag k="source:date" v="2014-07-21"/>
+  </node>
+  <node id="3463086458" version="1" timestamp="2015-04-18T09:21:11Z" uid="610781" user="szali" changeset="30303262" lat="46.731553" lon="20.043275">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=170309"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="88"/>
+    <tag k="source:date" v="2014-07-21"/>
+  </node>
+  <node id="3463086462" version="1" timestamp="2015-04-18T09:21:11Z" uid="610781" user="szali" changeset="30303262" lat="46.73631" lon="20.065623">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=169734"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="89"/>
+    <tag k="source:date" v="2014-07-01"/>
+  </node>
+  <node id="3463086463" version="1" timestamp="2015-04-18T09:21:11Z" uid="610781" user="szali" changeset="30303262" lat="46.737953" lon="20.028329">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=170226"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="90"/>
+    <tag k="source:date" v="2014-07-21"/>
+  </node>
+  <node id="3463086464" version="1" timestamp="2015-04-18T09:21:11Z" uid="610781" user="szali" changeset="30303262" lat="46.745363" lon="20.098471">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=170336"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="90"/>
+    <tag k="source:date" v="2014-07-21"/>
+  </node>
+  <node id="3463086467" version="1" timestamp="2015-04-18T09:21:11Z" uid="610781" user="szali" changeset="30303262" lat="46.749051" lon="20.071461">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=170084"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="95"/>
+    <tag k="source:date" v="2014-07-14"/>
+  </node>
+  <node id="3463086470" version="1" timestamp="2015-04-18T09:21:12Z" uid="610781" user="szali" changeset="30303262" lat="46.753843" lon="20.095605">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=170094"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="85"/>
+    <tag k="source:date" v="2014-07-14"/>
+  </node>
+  <node id="3463086473" version="1" timestamp="2015-04-18T09:21:12Z" uid="610781" user="szali" changeset="30303262" lat="46.780528" lon="20.024638">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=23041"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="96"/>
+    <tag k="ref" v="47-3066"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3464280022" version="1" timestamp="2015-04-18T21:56:04Z" uid="610781" user="szali" changeset="30317424" lat="46.083361" lon="18.437849">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=159691"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-2330"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3464281303" version="1" timestamp="2015-04-18T21:56:11Z" uid="610781" user="szali" changeset="30317424" lat="46.176038" lon="18.441783">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=154868"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-2116"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3464281332" version="1" timestamp="2015-04-18T21:56:13Z" uid="610781" user="szali" changeset="30317424" lat="46.207199" lon="18.505867">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=154611"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-2101"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3464291918" version="1" timestamp="2015-04-18T22:01:56Z" uid="610781" user="szali" changeset="30317510" lat="45.976856" lon="18.650793">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=166506"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-4415"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3465129565" version="1" timestamp="2015-04-19T11:12:32Z" uid="610781" user="szali" changeset="30326941" lat="46.85205" lon="18.596733">
+    <tag k="ele" v="105"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37540"/>
+    <tag k="name" v="Ráchalom (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="44-4001"/>
+    <tag k="description" v="1978-1979-ben épült 12 m magas geodéziai vabeton mérőtorony."/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3465143560" version="1" timestamp="2015-04-19T11:33:10Z" uid="610781" user="szali" changeset="30327329" lat="47.377941" lon="16.594336">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150819"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="61-4317"/>
+    <tag k="source:date" v="2015-03-03"/>
+  </node>
+  <node id="3465143603" version="1" timestamp="2015-04-19T11:33:14Z" uid="610781" user="szali" changeset="30327329" lat="47.392953" lon="16.531905">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=141571"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="61-4331"/>
+    <tag k="source:date" v="2015-03-03"/>
+  </node>
+  <node id="3465206238" version="1" timestamp="2015-04-19T12:22:52Z" uid="610781" user="szali" changeset="30328174" lat="46.85364" lon="20.98246">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=143868"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="48-4111"/>
+    <tag k="source:date" v="2012-09-02"/>
+  </node>
+  <node id="3465206285" version="1" timestamp="2015-04-19T12:22:56Z" uid="610781" user="szali" changeset="30328174" lat="46.932129" lon="21.001826">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=122429"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="48-2345"/>
+    <tag k="source:date" v="2012-09-02"/>
+  </node>
+  <node id="3465218058" version="1" timestamp="2015-04-19T12:28:41Z" uid="610781" user="szali" changeset="30328281" lat="46.53995" lon="16.76981">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=18331"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="31-4013"/>
+    <tag k="source:date" v="2012-01-20"/>
+  </node>
+  <node id="3465219366" version="1" timestamp="2015-04-19T12:28:24Z" uid="610781" user="szali" changeset="30328281" lat="46.50725" lon="16.826567">
+    <tag k="ele" v="305"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37550"/>
+    <tag k="name" v="Gurgóhegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="31-4001"/>
+    <tag k="description" v="1978-ban épült 16 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2012-01-20"/>
+  </node>
+  <node id="3465219837" version="1" timestamp="2015-04-19T12:28:38Z" uid="610781" user="szali" changeset="30328281" lat="46.525636" lon="16.736964">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=116639"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="31-4058"/>
+    <tag k="source:date" v="2011-09-19"/>
+  </node>
+  <node id="3465236440" version="2" timestamp="2017-05-28T20:11:25Z" uid="2114480" user="efemm" changeset="49054012" lat="47.6067052" lon="19.0342429">
+    <tag k="ref" v="65-2123"/>
+    <tag k="ele" v="219"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:date" v="2014-02-06"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=124758"/>
+  </node>
+  <node id="3465769303" version="1" timestamp="2015-04-19T17:31:07Z" uid="610781" user="szali" changeset="30336162" lat="46.301717" lon="17.99235">
+    <tag k="ele" v="261"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37573"/>
+    <tag k="name" v="Rókahegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="23-4001"/>
+    <tag k="description" v="A Róka-hegyen 1977-ben épült 21 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3465769335" version="1" timestamp="2015-04-19T17:31:11Z" uid="610781" user="szali" changeset="30336162" lat="46.200086" lon="18.043413">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150615"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="23-2203"/>
+    <tag k="ele" v="285"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3465769337" version="1" timestamp="2015-04-19T17:31:12Z" uid="610781" user="szali" changeset="30336162" lat="46.202653" lon="18.052477">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150614"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3465769514" version="1" timestamp="2015-04-19T17:31:19Z" uid="610781" user="szali" changeset="30336162" lat="46.294417" lon="18.137833">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=159787"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-3136"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3465769548" version="1" timestamp="2015-04-19T17:31:22Z" uid="610781" user="szali" changeset="30336162" lat="46.38032" lon="18.268496">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=150294"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-1424"/>
+    <tag k="source:date" v="2013-02-01"/>
+  </node>
+  <node id="3466253924" version="1" timestamp="2015-04-19T20:52:51Z" uid="610781" user="szali" changeset="30341424" lat="47.538383" lon="16.820717">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37541"/>
+    <tag k="name" v="Lövőidomb (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="62-1001"/>
+    <tag k="description" v="1977-ben épített 24 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2015-01-15"/>
+  </node>
+  <node id="3466279856" version="1" timestamp="2015-04-19T21:05:43Z" uid="610781" user="szali" changeset="30341703" lat="47.109633" lon="17.538833">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=135784"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="53-3383"/>
+    <tag k="ele" v="213"/>
+    <tag k="source:date" v="2012-03-18"/>
+  </node>
+  <node id="3466293465" version="1" timestamp="2015-04-19T21:09:35Z" uid="610781" user="szali" changeset="30341792" lat="47.165767" lon="17.463233">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=143128"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="53-3118"/>
+    <tag k="ele" v="209"/>
+    <tag k="source:date" v="2012-08-13"/>
+  </node>
+  <node id="3466293481" version="1" timestamp="2015-04-19T21:09:37Z" uid="610781" user="szali" changeset="30341792" lat="47.179333" lon="17.4656">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=136941"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="53-3133"/>
+    <tag k="ele" v="208"/>
+    <tag k="source:date" v="2012-04-09"/>
+  </node>
+  <node id="3466293482" version="1" timestamp="2015-04-19T21:09:37Z" uid="610781" user="szali" changeset="30341792" lat="47.17955" lon="17.465583">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=136947"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="53-3132"/>
+    <tag k="ele" v="208"/>
+    <tag k="source:date" v="2012-04-09"/>
+  </node>
+  <node id="3468009692" version="1" timestamp="2015-04-20T17:41:38Z" uid="610781" user="szali" changeset="30359841" lat="46.728683" lon="18.086517">
+    <tag k="ele" v="273"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31954"/>
+    <tag k="name" v="Dékánhegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="34-1013"/>
+    <tag k="description" v="III. rendű alapponton épült 24 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2012-10-14"/>
+  </node>
+  <node id="3468009908" version="3" timestamp="2016-05-30T19:07:01Z" uid="2100547" user="hadidoki" changeset="39672795" lat="46.5709137" lon="17.9979491">
+    <tag k="ele" v="295"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=22024"/>
+    <tag k="name" v="Józsefhegy (mérőtorony)"/>
+    <tag k="height" v="21"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="33-4001"/>
+    <tag k="description" v="21 m magas vasbeton geodéziai mérőtorony. A DDP útvonalában van."/>
+    <tag k="source:date" v="2012-10-14"/>
+  </node>
+  <node id="3468036643" version="1" timestamp="2015-04-20T18:04:48Z" uid="610781" user="szali" changeset="30360367" lat="46.227435" lon="18.403521">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=151664"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-4360"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3468036648" version="1" timestamp="2015-04-20T18:04:48Z" uid="610781" user="szali" changeset="30360367" lat="46.230515" lon="18.387048">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=151671"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-3066"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3468036714" version="1" timestamp="2015-04-20T18:04:55Z" uid="610781" user="szali" changeset="30360367" lat="46.391687" lon="18.563809">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=148413"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-2446"/>
+    <tag k="description" v="IV. rendű alappont"/>
+    <tag k="source:date" v="2012-12-12"/>
+  </node>
+  <node id="3468036996" version="1" timestamp="2015-04-20T18:04:53Z" uid="610781" user="szali" changeset="30360367" lat="46.308533" lon="18.4595">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=169707"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="169"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3468037002" version="2" timestamp="2015-10-06T17:22:36Z" uid="95680" user="falu" changeset="34473623" lat="46.32015" lon="18.4309">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=169708"/>
+    <tag k="name" v="24-4136"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="172"/>
+    <tag k="source:date" v="2014-06-30"/>
+  </node>
+  <node id="3468037013" version="1" timestamp="2015-04-20T18:04:54Z" uid="610781" user="szali" changeset="30360367" lat="46.378785" lon="18.562174">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=148412"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-2452"/>
+    <tag k="description" v="IV. rendű GPS alappont"/>
+    <tag k="source:date" v="2012-12-12"/>
+  </node>
+  <node id="3468037015" version="1" timestamp="2015-04-20T18:04:54Z" uid="610781" user="szali" changeset="30360367" lat="46.385046" lon="18.633019">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=148418"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="24-2065/b"/>
+    <tag k="source:date" v="2012-12-12"/>
+  </node>
+  <node id="3468045789" version="1" timestamp="2015-04-20T18:18:27Z" uid="610781" user="szali" changeset="30360752" lat="47.474767" lon="21.997767">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31959"/>
+    <tag k="name" v="Bagamérierdő (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="610-1001"/>
+    <tag k="description" v="24 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2013-04-21"/>
+  </node>
+  <node id="3468078789" version="1" timestamp="2015-04-20T18:25:41Z" uid="610781" user="szali" changeset="30360926" lat="46.566556" lon="16.503361">
+    <tag k="ele" v="327"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=93258"/>
+    <tag k="name" v="Felsőtenke (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="31-3001"/>
+    <tag k="description" v="24 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2012-01-20"/>
+  </node>
+  <node id="3469960842" version="1" timestamp="2015-04-21T17:45:16Z" uid="610781" user="szali" changeset="30385448" lat="48.025805" lon="19.856171">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=166028"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="86-4219"/>
+    <tag k="ele" v="310"/>
+    <tag k="source:date" v="2014-02-22"/>
+  </node>
+  <node id="3469965889" version="1" timestamp="2015-04-21T17:51:10Z" uid="610781" user="szali" changeset="30385621" lat="46.582332" lon="17.36598">
+    <tag k="ele" v="224"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=29546"/>
+    <tag k="name" v="Marcalihegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="32-4001"/>
+    <tag k="description" v="21 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2012-10-14"/>
+  </node>
+  <node id="3469985753" version="1" timestamp="2015-04-21T17:54:39Z" uid="610781" user="szali" changeset="30385729" lat="47.0412" lon="16.811183">
+    <tag k="ele" v="222"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37544"/>
+    <tag k="name" v="Gesztenyés (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="42-1001"/>
+    <tag k="description" v="1979-ben épített 20 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2012-01-20"/>
+  </node>
+  <node id="3470004312" version="1" timestamp="2015-04-21T18:07:09Z" uid="610781" user="szali" changeset="30386072" lat="47.691867" lon="16.633717">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=17152"/>
+    <tag k="name" v="Cárhalom/Pintytető (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="71-4001"/>
+    <tag k="description" v="A Pinty-tetőn 1978-79-ben épített 16 m magas vasbeton geodéziai mérőtorony. A mérőpont megnevezése a környező Szárhalmi-erdő téves rögzítéséből származik!"/>
+    <tag k="source:date" v="2015-01-15"/>
+  </node>
+  <node id="3470011793" version="1" timestamp="2015-04-21T18:13:21Z" uid="610781" user="szali" changeset="30386249" lat="47.029073" lon="18.229452">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=25648"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="44-1056"/>
+    <tag k="source:date" v="2011-06-25"/>
+  </node>
+  <node id="3470021837" version="1" timestamp="2015-04-21T18:18:47Z" uid="610781" user="szali" changeset="30386375" lat="46.887966" lon="17.123417">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=149140"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="42-4011/b"/>
+    <tag k="source:date" v="2012-12-31"/>
+  </node>
+  <node id="3470096826" version="2" timestamp="2018-07-15T09:09:13Z" uid="8460161" user="FLBBB" changeset="60727827" lat="47.518198" lon="17.9201395">
+    <tag k="ref" v="63-2001"/>
+    <tag k="description" v="1974-ben épült 8 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Bársonyos (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2015-01-30"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37526"/>
+  </node>
+  <node id="3470096827" version="1" timestamp="2015-04-21T19:16:57Z" uid="610781" user="szali" changeset="30387962" lat="47.396667" lon="17.973133">
+    <tag k="ele" v="345"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37576"/>
+    <tag k="name" v="Bükkfej (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="63-4015"/>
+    <tag k="description" v="III. rendű alapponton 1985-ben épült 16 m magas vasbeton geodéziai mérőtorony"/>
+    <tag k="source:date" v="2012-03-29"/>
+  </node>
+  <node id="3470096870" version="2" timestamp="2020-01-26T16:08:10Z" uid="3186535" user="tete007" changeset="80101900" lat="47.470917" lon="18.153867">
+    <tag k="ref" v="64-3012"/>
+    <tag k="description" v="III. rendű alapponton, a Kopasz-hegy tetején, 1985-ben épült 24 m magas vasbeton geodéziai mérőtorony. (A vadaskert területén)."/>
+    <tag k="ele" v="298"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Tizenhatostag (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2011-09-03"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37525"/>
+  </node>
+  <node id="3470097314" version="1" timestamp="2015-04-21T19:17:05Z" uid="610781" user="szali" changeset="30387962" lat="47.451603" lon="18.03908">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=142882"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="63-4232"/>
+    <tag k="description" v="IV. rendű vízszintes alappont a Nagybéri-erdőben, a Kopasz-hegyen, sűrű fás részen. EOV: E573961 N234673"/>
+    <tag k="source:date" v="2012-08-07"/>
+  </node>
+  <node id="3471735304" version="1" timestamp="2015-04-22T18:26:11Z" uid="610781" user="szali" changeset="30411585" lat="47.67565" lon="22.20095">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37538"/>
+    <tag k="name" v="Károlypuszta (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="710-3001"/>
+    <tag k="description" v="1984-ben épült 24 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2013-04-21"/>
+  </node>
+  <node id="3471746484" version="3" timestamp="2017-04-09T08:14:35Z" uid="30747" user="kepenu" changeset="47586982" lat="47.2255581" lon="18.032684">
+    <tag k="ref" v="53-2017"/>
+    <tag k="description" v="III. rendű alapponton épült 16 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="ele" v="575"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Köveshegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2012-03-29"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=80667"/>
+    <tag k="website" v="http://geocaching.hu/caches.geo?id=593"/>
+  </node>
+  <node id="3471757557" version="1" timestamp="2015-04-22T18:32:55Z" uid="610781" user="szali" changeset="30411723" lat="47.204952" lon="18.162373">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=25569"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="54-3108"/>
+    <tag k="source:date" v="2012-03-29"/>
+  </node>
+  <node id="3471757558" version="1" timestamp="2015-04-22T18:32:55Z" uid="610781" user="szali" changeset="30411723" lat="47.205876" lon="18.17134">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=104701"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="54-3106"/>
+    <tag k="source:date" v="2012-03-29"/>
+  </node>
+  <node id="3471757559" version="1" timestamp="2015-04-22T18:32:55Z" uid="610781" user="szali" changeset="30411723" lat="47.207328" lon="18.181848">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=25875"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="54-3105"/>
+    <tag k="source:date" v="2012-03-29"/>
+  </node>
+  <node id="3471870303" version="1" timestamp="2015-04-22T19:06:54Z" uid="610781" user="szali" changeset="30412804" lat="46.0201" lon="18.437483">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=8267"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-4125"/>
+    <tag k="description" v="4 db vasbeton lappal körülvéve 25x25x60-as betonkő EOV Kordináta: y=602760,27 x=75233,52"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3471929548" version="1" timestamp="2015-04-22T19:40:36Z" uid="610781" user="szali" changeset="30413653" lat="47.051533" lon="19.400683">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=161214"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1001/1"/>
+    <tag k="source:date" v="2014-05-27"/>
+  </node>
+  <node id="3471929550" version="1" timestamp="2015-04-22T19:40:36Z" uid="610781" user="szali" changeset="30413653" lat="47.064501" lon="19.481134">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=83841"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-1143"/>
+    <tag k="ele" v="131"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3471930930" version="1" timestamp="2015-04-22T19:40:51Z" uid="610781" user="szali" changeset="30413653" lat="47.2362" lon="19.370117">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=176179"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-1015"/>
+    <tag k="source:date" v="2015-01-24"/>
+  </node>
+  <node id="3471930956" version="1" timestamp="2015-04-22T19:40:53Z" uid="610781" user="szali" changeset="30413653" lat="47.2667" lon="19.309667">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=171890"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="Egy másik Op pont az első mellett"/>
+    <tag k="source:date" v="2014-09-20"/>
+  </node>
+  <node id="3471931008" version="1" timestamp="2015-04-22T19:40:41Z" uid="610781" user="szali" changeset="30413653" lat="47.182333" lon="19.2617">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=152957"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="55-4220"/>
+    <tag k="source:date" v="2013-06-02"/>
+  </node>
+  <node id="3473637849" version="1" timestamp="2015-04-23T17:51:19Z" uid="610781" user="szali" changeset="30435655" lat="47.259333" lon="19.53585">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=169241"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-1064"/>
+    <tag k="ele" v="143"/>
+    <tag k="source:date" v="2014-06-11"/>
+  </node>
+  <node id="3473637897" version="1" timestamp="2015-04-23T17:51:23Z" uid="610781" user="szali" changeset="30435655" lat="47.294367" lon="19.401133">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=176982"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-1147"/>
+    <tag k="source:date" v="2015-03-25"/>
+  </node>
+  <node id="3473637942" version="1" timestamp="2015-04-23T17:51:26Z" uid="610781" user="szali" changeset="30435655" lat="47.326867" lon="19.512883">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=17707"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-1054"/>
+    <tag k="description" v="Negyedrendű főpont"/>
+    <tag k="ele" v="169"/>
+    <tag k="source:date" v="2012-08-13"/>
+  </node>
+  <node id="3473637967" version="1" timestamp="2015-04-23T17:51:29Z" uid="610781" user="szali" changeset="30435655" lat="47.35415" lon="19.603217">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31860"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="56-1051"/>
+    <tag k="source:date" v="2011-05-16"/>
+  </node>
+  <node id="3473873391" version="1" timestamp="2015-04-23T19:25:11Z" uid="610781" user="szali" changeset="30437762" lat="47.609792" lon="19.038387">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=124757"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="65-2119"/>
+    <tag k="ele" v="211"/>
+    <tag k="source:date" v="2014-02-06"/>
+  </node>
+  <node id="3474949614" version="1" timestamp="2015-04-24T12:33:56Z" uid="610781" user="szali" changeset="30452980" lat="47.49285" lon="18.655">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=127127"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="64-4205"/>
+    <tag k="ele" v="158"/>
+    <tag k="source:date" v="2011-11-01"/>
+  </node>
+  <node id="3474949660" version="1" timestamp="2015-04-24T12:34:00Z" uid="610781" user="szali" changeset="30452980" lat="47.329033" lon="18.496383">
+    <tag k="ele" v="199"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=35751"/>
+    <tag k="name" v="Öregszőlőhegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="54-2012"/>
+    <tag k="description" v="III. rendű alapponton épített 24 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2011-09-03"/>
+  </node>
+  <node id="3479942033" version="1" timestamp="2015-04-26T21:31:28Z" uid="610781" user="szali" changeset="30518904" lat="46.871552" lon="16.844683">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=151288"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="42-3121"/>
+    <tag k="source:date" v="2013-03-09"/>
+  </node>
+  <node id="3479961256" version="1" timestamp="2015-04-26T21:39:50Z" uid="610781" user="szali" changeset="30519137" lat="47.737448" lon="19.791323">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=28470"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="76-4014"/>
+    <tag k="source:date" v="2013-06-22"/>
+  </node>
+  <node id="3484805360" version="1" timestamp="2015-04-28T18:46:10Z" uid="610781" user="szali" changeset="30591905" lat="45.796902" lon="17.844206">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=138023"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="03-2341"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3484805361" version="1" timestamp="2015-04-28T18:46:10Z" uid="610781" user="szali" changeset="30591905" lat="45.799015" lon="17.866463">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=138036"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="03-2325"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3484823508" version="1" timestamp="2015-04-28T18:49:28Z" uid="610781" user="szali" changeset="30592027" lat="47.841067" lon="22.307483">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37537"/>
+    <tag k="name" v="Barókhegy (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="710-2001"/>
+    <tag k="description" v="1983-ban épült 26 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2013-04-21"/>
+  </node>
+  <node id="3485076798" version="2" timestamp="2016-03-09T12:55:40Z" uid="2573778" user="sargasso" changeset="37707581" lat="46.2958529" lon="16.9815669">
+    <tag k="ele" v="215"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=31949"/>
+    <tag k="name" v="Dombhát (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="22-3001"/>
+    <tag k="description" v="24 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2012-10-14"/>
+  </node>
+  <node id="3485076808" version="1" timestamp="2015-04-28T19:50:38Z" uid="610781" user="szali" changeset="30594452" lat="46.1939" lon="17.220767">
+    <tag k="ele" v="150"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37539"/>
+    <tag k="name" v="Homokorra (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="22-4001"/>
+    <tag k="description" v="1980-ban épült 24 m magas vasbeton geodéziai mérőtorony. A HM erdészet tölgyese melletti fenyőerdőben."/>
+    <tag k="source:date" v="2012-10-14"/>
+  </node>
+  <node id="3485199031" version="1" timestamp="2015-04-28T20:52:43Z" uid="610781" user="szali" changeset="30596950" lat="46.650513" lon="19.645435">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=163992"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="109"/>
+    <tag k="source:date" v="2013-12-17"/>
+  </node>
+  <node id="3485199038" version="1" timestamp="2015-04-28T20:52:44Z" uid="610781" user="szali" changeset="30596950" lat="46.666943" lon="19.688653">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=163972"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="115"/>
+    <tag k="source:date" v="2014-03-28"/>
+  </node>
+  <node id="3485199062" version="1" timestamp="2015-04-28T20:52:47Z" uid="610781" user="szali" changeset="30596950" lat="46.722801" lon="19.975168">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=170217"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ele" v="91"/>
+    <tag k="source:date" v="2014-07-18"/>
+  </node>
+  <node id="3487703962" version="1" timestamp="2015-04-29T22:10:53Z" uid="610781" user="szali" changeset="30639574" lat="46.193712" lon="18.885326">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=73000"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="15-1203"/>
+    <tag k="source:date" v="2015-01-12"/>
+  </node>
+  <node id="3487703973" version="1" timestamp="2015-04-29T22:10:55Z" uid="610781" user="szali" changeset="30639574" lat="46.2328" lon="19.052317">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=175468"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="HP1962 &quot;Nagy Homok hegy&quot;"/>
+    <tag k="source:date" v="2014-12-23"/>
+  </node>
+  <node id="3488393022" version="1" timestamp="2015-04-30T09:01:27Z" uid="610781" user="szali" changeset="30652562" lat="46.97254" lon="19.945501">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=127624"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2435"/>
+    <tag k="ele" v="101"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3488393023" version="1" timestamp="2015-04-30T09:01:27Z" uid="610781" user="szali" changeset="30652562" lat="46.974202" lon="19.929259">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=127621"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2445"/>
+    <tag k="ele" v="102"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3488393024" version="1" timestamp="2015-04-30T09:01:27Z" uid="610781" user="szali" changeset="30652562" lat="46.989582" lon="19.885705">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=127618"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2446"/>
+    <tag k="ele" v="106"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3488393025" version="1" timestamp="2015-04-30T09:01:27Z" uid="610781" user="szali" changeset="30652562" lat="46.992472" lon="19.874389">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=127619"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2058"/>
+    <tag k="description" v="Kenyérváró-halom"/>
+    <tag k="ele" v="112"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3488425543" version="1" timestamp="2015-04-30T09:18:54Z" uid="610781" user="szali" changeset="30652974" lat="46.952498" lon="19.847215">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=127631"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2413"/>
+    <tag k="description" v="HP-1972"/>
+    <tag k="ele" v="113"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3488425544" version="1" timestamp="2015-04-30T09:18:54Z" uid="610781" user="szali" changeset="30652974" lat="46.99789" lon="19.876622">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=127617"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2236"/>
+    <tag k="description" v="OP"/>
+    <tag k="ele" v="108"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3488425590" version="1" timestamp="2015-04-30T09:18:57Z" uid="610781" user="szali" changeset="30652974" lat="47.061303" lon="19.709992">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=153112"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="46-2105"/>
+    <tag k="source:date" v="2013-05-03"/>
+  </node>
+  <node id="3490719870" version="1" timestamp="2015-05-01T09:48:42Z" uid="610781" user="szali" changeset="30686326" lat="47.843167" lon="20.5298">
+    <tag k="ele" v="154"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37553"/>
+    <tag k="name" v="Pazsag (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="77-2002"/>
+    <tag k="description" v="1983-ban épült 12 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2013-12-02"/>
+  </node>
+  <node id="3490721363" version="1" timestamp="2015-05-01T09:50:16Z" uid="610781" user="szali" changeset="30686373" lat="48.333667" lon="22.1643">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37534"/>
+    <tag k="name" v="Tetenke (mérőtorony)"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="910-1002"/>
+    <tag k="description" v="1984-ben épült 12 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="source:date" v="2013-04-21"/>
+  </node>
+  <node id="3490736611" version="2" timestamp="2018-01-30T16:18:24Z" uid="7548632" user="Sodiz" changeset="55899013" lat="46.3787175" lon="19.332958">
+    <tag k="ele" v="154"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="source:date" v="2013-11-13"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=162921"/>
+  </node>
+  <node id="3490739705" version="1" timestamp="2015-05-01T10:01:28Z" uid="610781" user="szali" changeset="30686674" lat="46.571038" lon="19.871457">
+    <tag k="url" v="http://turistautak.hu/poi.php?id=24342"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="36-4236"/>
+    <tag k="ele" v="94"/>
+    <tag k="source:date" v="2013-03-17"/>
+  </node>
+  <node id="3561885641" version="7" timestamp="2019-11-05T12:25:12Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.5518465" lon="18.9890477">
+    <tag k="is_in" v="Hármashatár-hegy"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="material" v="metal"/>
+    <tag k="name" v="Geodéziai vasasztal"/>
+    <tag k="historic" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3602868814" version="1" timestamp="2015-06-18T15:15:30Z" uid="2996899" user="dzsoky" changeset="32053556" lat="47.6946868" lon="19.1690916">
+    <tag k="ref" v="75-4016"/>
+    <tag k="note" v="hompos kő"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="3737309708" version="4" timestamp="2017-05-15T19:03:42Z" uid="104584" user="brncsk" changeset="48710059" lat="47.400155" lon="19.049375">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="65-4015"/>
+    <tag k="description" v="GPS alappont"/>
+  </node>
+  <node id="3760818967" version="1" timestamp="2015-09-26T21:20:52Z" uid="2114480" user="efemm" changeset="34272331" lat="46.6645763" lon="17.6869167">
+    <tag k="description" v="magassági pont"/>
+    <tag k="source" v="survey"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="3780215122" version="6" timestamp="2019-11-05T12:25:12Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.5559191" lon="19.0026257">
+    <tag k="is_in" v="Hármashatár-hegy"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="material" v="metal"/>
+    <tag k="name" v="Geodéziai vasasztal"/>
+    <tag k="historic" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3901535966" version="2" timestamp="2018-09-25T23:53:16Z" uid="1559158" user="vakulya" changeset="62930353" lat="46.0355182" lon="18.2306383">
+    <tag k="ele" v="192.74"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-3055"/>
+    <tag k="source" v="mapbox, geoshop.hu"/>
+    <tag k="url" v="http://www.geoshop.hu/geoportal/VAB/14-3055.pdf"/>
+  </node>
+  <node id="3913569530" version="1" timestamp="2015-12-27T22:52:48Z" uid="445131" user="vajko1970" changeset="36208064" lat="48.0743462" lon="20.5543918">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="Háromszögelési kő 1922"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="3954393128" version="2" timestamp="2017-01-17T03:15:56Z" uid="1559158" user="vakulya" changeset="45232624" lat="45.9976292" lon="18.9264631">
+    <tag k="ele" v="88.1"/>
+    <tag k="source" v="http://vasutifilm.znet.hu/hajtanyok/egyeb%20temak/baja/tkp%20davod.JPG"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4094919674" version="2" timestamp="2019-03-31T06:16:39Z" uid="445131" user="vajko1970" changeset="68715974" lat="47.985396" lon="20.586617">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4072"/>
+  </node>
+  <node id="4094919675" version="2" timestamp="2019-03-31T06:16:39Z" uid="445131" user="vajko1970" changeset="68715974" lat="47.9910218" lon="20.5955906">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4072/a"/>
+  </node>
+  <node id="4094919676" version="2" timestamp="2019-03-31T06:16:39Z" uid="445131" user="vajko1970" changeset="68715974" lat="47.990977" lon="20.5957675">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4405"/>
+  </node>
+  <node id="4094919677" version="1" timestamp="2016-04-03T06:33:32Z" uid="445131" user="vajko1970" changeset="38261131" lat="48.0090528" lon="20.5935186">
+    <tag k="description" v="Régi háromszögelési kő"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4151716590" version="2" timestamp="2016-04-30T05:45:44Z" uid="2475421" user="DéBé70" changeset="38993667" lat="46.6387408" lon="18.8294615">
+    <tag k="ele" v="133"/>
+    <tag k="ref" v="35-3122"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4164305593" version="1" timestamp="2016-05-04T04:05:48Z" uid="2475421" user="DéBé70" changeset="39086418" lat="46.6329105" lon="18.8460128">
+    <tag k="ref" v="35-3133áth"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4185277512" version="2" timestamp="2016-07-10T05:36:11Z" uid="2475421" user="DéBé70" changeset="40623537" lat="46.6694814" lon="18.892386">
+    <tag k="ele" v="94"/>
+    <tag k="ref" v="35-1418"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4185277670" version="2" timestamp="2016-07-10T05:38:06Z" uid="2475421" user="DéBé70" changeset="40623556" lat="46.6741563" lon="18.9275747">
+    <tag k="ele" v="94"/>
+    <tag k="ref" v="35-1414"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4240732836" version="1" timestamp="2016-06-13T04:37:51Z" uid="2475421" user="DéBé70" changeset="39983509" lat="47.226263" lon="18.5182965">
+    <tag k="ref" v="54-2072"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4276850747" version="1" timestamp="2016-07-01T20:14:35Z" uid="445131" user="vajko1970" changeset="40427030" lat="47.9660698" lon="20.5536412">
+    <tag k="ref" v="87-4075/a"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4276850748" version="1" timestamp="2016-07-01T20:14:35Z" uid="445131" user="vajko1970" changeset="40427030" lat="47.9774576" lon="20.5674989">
+    <tag k="ref" v="87-4408"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4276870876" version="1" timestamp="2016-07-01T20:17:55Z" uid="445131" user="vajko1970" changeset="40427107" lat="47.9835077" lon="20.526597">
+    <tag k="description" v="Régi háromszögelési kő"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="4294005798" version="1" timestamp="2016-07-10T05:32:09Z" uid="2475421" user="DéBé70" changeset="40623502" lat="46.6626252" lon="18.8775363">
+    <tag k="ref" v="35-1421/1"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4294502747" version="1" timestamp="2016-07-10T12:52:38Z" uid="445131" user="vajko1970" changeset="40629965" lat="48.1051164" lon="20.5798986">
+    <tag k="ref" v="87-2071"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4294502748" version="1" timestamp="2016-07-10T12:52:38Z" uid="445131" user="vajko1970" changeset="40629965" lat="48.0975818" lon="20.5891204">
+    <tag k="ref" v="87-2071/a"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4294502749" version="1" timestamp="2016-07-10T12:52:38Z" uid="445131" user="vajko1970" changeset="40629965" lat="48.0984048" lon="20.5747306">
+    <tag k="ref" v="87-2071/b"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4294502750" version="1" timestamp="2016-07-10T12:52:38Z" uid="445131" user="vajko1970" changeset="40629965" lat="48.1021934" lon="20.6020012">
+    <tag k="ref" v="87-2411"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4329721063" version="1" timestamp="2016-07-31T18:06:23Z" uid="445131" user="vajko1970" changeset="41151155" lat="48.304337" lon="21.2804308">
+    <tag k="ref" v="98-4229"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4329721064" version="1" timestamp="2016-07-31T18:06:23Z" uid="445131" user="vajko1970" changeset="41151155" lat="48.3159603" lon="21.2836917">
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4329772121" version="1" timestamp="2016-07-31T18:30:35Z" uid="445131" user="vajko1970" changeset="41151580" lat="48.3026552" lon="21.2719023">
+    <tag k="ref" v="98-4232"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4341040975" version="1" timestamp="2016-08-08T12:47:56Z" uid="4386323" user="kovacsgabbor" changeset="41323684" lat="47.2585383" lon="18.5968373">
+    <tag k="ref" v="54-2001"/>
+    <tag k="description" v="Vasbeton mérőtorony"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4348764252" version="1" timestamp="2016-08-13T16:25:50Z" uid="445131" user="vajko1970" changeset="41432399" lat="48.0894866" lon="20.5663">
+    <tag k="ref" v="87-2414"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4348764253" version="1" timestamp="2016-08-13T16:25:50Z" uid="445131" user="vajko1970" changeset="41432399" lat="48.0755889" lon="20.5639131">
+    <tag k="ref" v="87-2418"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4348764254" version="1" timestamp="2016-08-13T16:25:50Z" uid="445131" user="vajko1970" changeset="41432399" lat="48.0793035" lon="20.5674193">
+    <tag k="ref" v="87-2418/a"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4348764255" version="1" timestamp="2016-08-13T16:25:50Z" uid="445131" user="vajko1970" changeset="41432399" lat="48.0792542" lon="20.5675038">
+    <tag k="ref" v="87-2418/b"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4358101076" version="1" timestamp="2016-08-19T22:20:14Z" uid="445131" user="vajko1970" changeset="41566849" lat="48.0232136" lon="20.4429175">
+    <tag k="ref" v="87-4067"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4362807407" version="5" timestamp="2020-01-01T14:56:24Z" uid="2982309" user="vasony" changeset="79083444" lat="47.4746678" lon="18.9798266">
+    <tag k="inscription" v="Dn. sp.f. x13&apos; Ádr. t.f. 819&apos;; Dél.m. 714°892.; Ny.r. 2687°678; XXXVII. Hsz.á.p. 1872."/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="start_date" v="1872"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="4370338293" version="2" timestamp="2016-12-17T23:56:19Z" uid="3905346" user="bkil" changeset="44481422" lat="47.4848471" lon="18.9828274">
+    <tag k="accuracy" v="10"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="inscription" v="H.P. xxxxxx 1933"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="4383925233" version="2" timestamp="2016-10-19T12:31:24Z" uid="3335899" user="GBAB" changeset="43007454" lat="46.2319928" lon="20.129759">
+    <tag k="name" v="Geodéziai vasasztal"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="4394825308" version="3" timestamp="2018-06-19T07:45:47Z" uid="3335899" user="GBAB" changeset="59968206" lat="46.2381712" lon="20.1271293">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="material" v="metal"/>
+    <tag k="name" v="Geodéziai vasasztal"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="4403520506" version="1" timestamp="2016-09-15T23:01:52Z" uid="2323152" user="Mirecnet" changeset="42191290" lat="48.1712033" lon="19.856136">
+    <tag k="name" v="Hranica"/>
+    <tag k="boundary" v="marker"/>
+  </node>
+  <node id="4403520507" version="1" timestamp="2016-09-15T23:01:52Z" uid="2323152" user="Mirecnet" changeset="42191290" lat="48.1714546" lon="19.8562533">
+    <tag k="name" v="Hranica"/>
+    <tag k="boundary" v="marker"/>
+  </node>
+  <node id="4403520508" version="1" timestamp="2016-09-15T23:01:53Z" uid="2323152" user="Mirecnet" changeset="42191290" lat="48.1717563" lon="19.8570815">
+    <tag k="name" v="Hraničný znak"/>
+    <tag k="boundary" v="marker"/>
+  </node>
+  <node id="4454993670" version="1" timestamp="2016-10-19T12:31:23Z" uid="3335899" user="GBAB" changeset="43007454" lat="46.2532406" lon="20.1319467">
+    <tag k="name" v="Geodéziai vasasztal"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="4468692362" version="1" timestamp="2016-10-28T18:22:33Z" uid="445131" user="vajko1970" changeset="43251984" lat="47.3876619" lon="18.7090443">
+    <tag k="ref" v="65-3068"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4498936406" version="1" timestamp="2016-11-13T18:53:15Z" uid="445131" user="vajko1970" changeset="43613023" lat="48.0821754" lon="20.7403033">
+    <tag k="ref" v="88-1061"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4512414586" version="1" timestamp="2016-11-20T17:28:46Z" uid="445131" user="vajko1970" changeset="43827403" lat="48.074212" lon="20.5800676">
+    <tag k="name" v="Régi háromszögelési kő 1927"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="4512414587" version="1" timestamp="2016-11-20T17:28:46Z" uid="445131" user="vajko1970" changeset="43827403" lat="48.0763009" lon="20.5851461">
+    <tag k="ele" v="778"/>
+    <tag k="ref" v="87-2013"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="4512415389" version="1" timestamp="2016-11-20T17:28:46Z" uid="445131" user="vajko1970" changeset="43827403" lat="48.0778719" lon="20.5915198">
+    <tag k="name" v="Háromszögelési kő 1927"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="4512415396" version="1" timestamp="2016-11-20T17:28:46Z" uid="445131" user="vajko1970" changeset="43827403" lat="48.0768303" lon="20.6011208">
+    <tag k="name" v="Régi háromszögelési kő"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="4717111376" version="1" timestamp="2017-03-04T19:26:43Z" uid="445131" user="vajko1970" changeset="46580380" lat="48.2065377" lon="20.4473353">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-2014"/>
+  </node>
+  <node id="4728731701" version="10" timestamp="2018-05-17T13:12:49Z" uid="693098" user="radek-drlicka" changeset="59050770" lat="47.2557299" lon="18.618838">
+    <tag k="alt_name" v="Szintezési alappont"/>
+    <tag k="date" v="1888"/>
+    <tag k="description" v="https://velenceito.info/cimlapon/szintezesi-osjegy-nadapon-hogy-is-van-ez/"/>
+    <tag k="ele" v="173.1638"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Nadapi Adriai Szintezési Ősjegy"/>
+    <tag k="ref" v="Bf 173,1638; Af 173,8385 m"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="url" v="http://www.turautak.com/cikkek/latnivalok/epiteszeti-ertekeink/nadapi-szintezesi-osjegy.html"/>
+    <tag k="url:velenceito" v="https://velenceito.info/latnivalok-a-velencei-to-kornyeken/szintezesi-osjegy-nadap/"/>
+    <tag k="website" v="http://www.nadap.hu/page.php?page=41"/>
+  </node>
+  <node id="4832266087" version="1" timestamp="2017-05-03T07:43:58Z" uid="2475421" user="DéBé70" changeset="48356808" lat="46.6679521" lon="18.8203418">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="35-1309"/>
+  </node>
+  <node id="4922283823" version="1" timestamp="2017-06-18T14:22:28Z" uid="2077889" user="zsolt d" changeset="49636352" lat="47.4775428" lon="19.3852673">
+    <tag k="ref" v="66-3001"/>
+    <tag k="description" v="1976-ban épült 16 m magas vasbeton geodéziai mérőtorony."/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="source" v="turistautak.hu"/>
+    <tag k="url" v="http://turistautak.hu/poi.php?id=37556"/>
+  </node>
+  <node id="5376040088" version="1" timestamp="2018-01-31T18:36:33Z" uid="445131" user="vajko1970" changeset="55942209" lat="48.0302972" lon="20.6285055">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4213"/>
+  </node>
+  <node id="5376040089" version="1" timestamp="2018-01-31T18:36:33Z" uid="445131" user="vajko1970" changeset="55942209" lat="48.0327586" lon="20.6328947">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4066/a"/>
+  </node>
+  <node id="5376040090" version="1" timestamp="2018-01-31T18:36:33Z" uid="445131" user="vajko1970" changeset="55942209" lat="48.0327009" lon="20.633481">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4066/b"/>
+  </node>
+  <node id="5398529735" version="4" timestamp="2018-09-09T15:42:40Z" uid="2934904" user="vampire303" changeset="62428068" lat="46.9794896" lon="17.8450665">
+    <tag k="ele" v="282"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="5553175308" version="1" timestamp="2018-04-14T19:51:00Z" uid="445131" user="vajko1970" changeset="58096705" lat="48.0059288" lon="20.6529504">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-3116"/>
+  </node>
+  <node id="5585647564" version="1" timestamp="2018-04-29T05:59:46Z" uid="445131" user="vajko1970" changeset="58518844" lat="48.4885803" lon="20.7460207">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="98-1031/b"/>
+  </node>
+  <node id="5585647565" version="1" timestamp="2018-04-29T05:59:46Z" uid="445131" user="vajko1970" changeset="58518844" lat="48.4888276" lon="20.7456229">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="98-1031/a"/>
+  </node>
+  <node id="5585647569" version="1" timestamp="2018-04-29T05:59:46Z" uid="445131" user="vajko1970" changeset="58518844" lat="48.501888" lon="20.7533941">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="108-3058"/>
+  </node>
+  <node id="5599224464" version="1" timestamp="2018-05-05T19:33:21Z" uid="445131" user="vajko1970" changeset="58714764" lat="48.0363757" lon="20.5711682">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4211"/>
+  </node>
+  <node id="5599224465" version="1" timestamp="2018-05-05T19:33:21Z" uid="445131" user="vajko1970" changeset="58714764" lat="48.0357012" lon="20.5879205">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4063/b"/>
+  </node>
+  <node id="5599224466" version="1" timestamp="2018-05-05T19:33:21Z" uid="445131" user="vajko1970" changeset="58714764" lat="48.0357443" lon="20.5883322">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4063/a"/>
+  </node>
+  <node id="5599224467" version="1" timestamp="2018-05-05T19:33:21Z" uid="445131" user="vajko1970" changeset="58714764" lat="48.03509" lon="20.5888882">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4212"/>
+  </node>
+  <node id="5600772613" version="1" timestamp="2018-05-06T20:09:19Z" uid="2934904" user="vampire303" changeset="58739479" lat="46.9805306" lon="17.8584163">
+    <tag k="ele" v="286"/>
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="5679047621" version="1" timestamp="2018-06-10T07:04:54Z" uid="445131" user="vajko1970" changeset="59705038" lat="48.0457596" lon="20.5898458">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4063"/>
+  </node>
+  <node id="5679047623" version="1" timestamp="2018-06-10T07:04:54Z" uid="445131" user="vajko1970" changeset="59705038" lat="48.0583223" lon="20.6035822">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4204"/>
+  </node>
+  <node id="5707279048" version="1" timestamp="2018-06-21T05:49:23Z" uid="1544697" user="utvonalfelmeresek" changeset="60030813" lat="47.1989649" lon="19.739437">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="mapillary" v="stt79MYevI1JNi1tvxZx6w"/>
+    <tag k="ref" v="56-4123áth"/>
+    <tag k="website" v="https://map.fomi.hu/alappont/56-4123%C3%A1th"/>
+  </node>
+  <node id="5731072642" version="2" timestamp="2018-06-30T21:39:38Z" uid="445131" user="vajko1970" changeset="60310850" lat="48.4619284" lon="20.7317852">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="98-1125"/>
+  </node>
+  <node id="5734175738" version="1" timestamp="2018-07-02T14:39:35Z" uid="95680" user="falu" changeset="60350139" lat="46.0415609" lon="18.2549992">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="14-3218"/>
+  </node>
+  <node id="5744895169" version="1" timestamp="2018-07-07T06:40:32Z" uid="445131" user="vajko1970" changeset="60482794" lat="48.3870845" lon="20.9007664">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="98-1413"/>
+  </node>
+  <node id="5961331910" version="1" timestamp="2018-10-06T12:22:21Z" uid="38952" user="grin" changeset="63255804" lat="47.5607176" lon="19.0609476">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="H.P. 1933"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="6001324117" version="1" timestamp="2018-10-20T19:53:22Z" uid="445131" user="vajko1970" changeset="63713055" lat="48.4201939" lon="21.3477964">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Régi HP kő 1936-ból"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="6034080678" version="1" timestamp="2018-11-03T14:46:15Z" uid="445131" user="vajko1970" changeset="64141891" lat="48.0214743" lon="20.5968748">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4215"/>
+  </node>
+  <node id="6036164015" version="3" timestamp="2019-11-05T12:25:15Z" uid="7187009" user="ITineris_bulk" changeset="76645326" lat="47.5491327" lon="19.0101941">
+    <tag k="is_in" v="Tábor-hegy"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="H. P. 1933"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="6046670325" version="1" timestamp="2018-11-08T15:49:27Z" uid="2362013" user="szhv" changeset="64296880" lat="46.2346253" lon="18.3611879">
+    <tag k="ele" v="572"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="1923"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="6046670326" version="1" timestamp="2018-11-08T15:49:27Z" uid="2362013" user="szhv" changeset="64296880" lat="46.2346337" lon="18.3611155">
+    <tag k="ele" v="572"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="1962"/>
+  </node>
+  <node id="6340581267" version="1" timestamp="2019-03-15T20:43:41Z" uid="445131" user="vajko1970" changeset="68189088" lat="47.9781805" lon="21.1047329">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-4309"/>
+  </node>
+  <node id="6346513563" version="1" timestamp="2019-03-19T05:10:45Z" uid="445131" user="vajko1970" changeset="68281121" lat="48.5212955" lon="20.550486">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="HP pont 1931"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="6373441986" version="1" timestamp="2019-03-31T06:16:38Z" uid="445131" user="vajko1970" changeset="68715974" lat="48.0125297" lon="20.5827774">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4014"/>
+  </node>
+  <node id="6373441995" version="1" timestamp="2019-03-31T06:16:38Z" uid="445131" user="vajko1970" changeset="68715974" lat="48.0189333" lon="20.5842208">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4014/a"/>
+  </node>
+  <node id="6373441996" version="1" timestamp="2019-03-31T06:16:38Z" uid="445131" user="vajko1970" changeset="68715974" lat="48.0188207" lon="20.5846067">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4014/b"/>
+  </node>
+  <node id="6418833832" version="1" timestamp="2019-04-21T07:09:30Z" uid="445131" user="vajko1970" changeset="69417710" lat="48.5476378" lon="20.6609472">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="108-3064/b"/>
+  </node>
+  <node id="6418833833" version="1" timestamp="2019-04-21T07:09:30Z" uid="445131" user="vajko1970" changeset="69417710" lat="48.5474697" lon="20.6610279">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="108-3064/a"/>
+  </node>
+  <node id="6418871744" version="1" timestamp="2019-04-21T08:17:59Z" uid="445131" user="vajko1970" changeset="69418712" lat="48.3976391" lon="20.481855">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="97-2414"/>
+  </node>
+  <node id="6418871745" version="1" timestamp="2019-04-21T08:17:59Z" uid="445131" user="vajko1970" changeset="69418712" lat="48.4204282" lon="20.4752956">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="97-2057"/>
+  </node>
+  <node id="6418871746" version="1" timestamp="2019-04-21T08:17:59Z" uid="445131" user="vajko1970" changeset="69418712" lat="48.4408905" lon="20.4650938">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="97-2103"/>
+  </node>
+  <node id="6418871747" version="1" timestamp="2019-04-21T08:17:59Z" uid="445131" user="vajko1970" changeset="69418712" lat="48.4525635" lon="20.4704985">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="97-2102"/>
+  </node>
+  <node id="6418871748" version="1" timestamp="2019-04-21T08:17:59Z" uid="445131" user="vajko1970" changeset="69418712" lat="48.4643388" lon="20.4725611">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="97-2101"/>
+  </node>
+  <node id="6486209039" version="1" timestamp="2019-05-20T16:58:53Z" uid="445131" user="vajko1970" changeset="70449028" lat="48.0237162" lon="20.6796197">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-3075"/>
+  </node>
+  <node id="6486209040" version="1" timestamp="2019-05-20T16:58:53Z" uid="445131" user="vajko1970" changeset="70449028" lat="48.0265195" lon="20.6997514">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-3107"/>
+  </node>
+  <node id="6486209043" version="1" timestamp="2019-05-20T16:58:53Z" uid="445131" user="vajko1970" changeset="70449028" lat="48.0282745" lon="20.6975448">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Régi HP kő"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="6720764518" version="1" timestamp="2019-08-18T11:50:18Z" uid="2077889" user="zsolt d" changeset="73459702" lat="47.9660144" lon="18.9634672">
+    <tag k="description" v="állandósítás: kő; pontvédő: nincs; rendűség: IV. rendű; nyilvántartott állapot: rendben; Nagymána hegy"/>
+    <tag k="ele" v="707"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="85-3412"/>
+    <tag k="website" v="https://map.fomi.hu/alappont/85-3412"/>
+  </node>
+  <node id="6720764519" version="1" timestamp="2019-08-18T11:50:18Z" uid="2077889" user="zsolt d" changeset="73459702" lat="48.0189941" lon="18.8927078">
+    <tag k="description" v="állandósítás: torony; pontvédő: nincs; rendűség: IV. rendű; nyilvántartott állapot: rendben; Kemence templomtorony gombja."/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="85-3220"/>
+    <tag k="website" v="https://map.fomi.hu/alappont/85-3220"/>
+  </node>
+  <node id="6720767544" version="3" timestamp="2019-11-06T15:53:32Z" uid="7187009" user="ITineris_bulk" changeset="76711869" lat="47.9961992" lon="18.9364687">
+    <tag k="description" v="állandósítás: kő; pontvédő: rövid jelzőoszlop; rendűség: IV. rendű; nyilvántartott állapot: rendben; Zöldbükk, Varjastető; 47° 59.772&apos;É 18° 56.188&apos;K"/>
+    <tag k="ele" v="489"/>
+    <tag k="is_in" v="Börzsöny; Zöldbükk; Varjastető"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Zöldbükk, Varjastető alappont"/>
+    <tag k="ref" v="85-3401"/>
+    <tag k="website" v="https://map.fomi.hu/alappont/85-3401"/>
+  </node>
+  <node id="6720774692" version="1" timestamp="2019-08-18T12:03:48Z" uid="2077889" user="zsolt d" changeset="73459702" lat="47.9781274" lon="18.9422331">
+    <tag k="description" v="állandósítás: kő; pontvédő: rövid jelzőoszlop; rendűség: IV. rendű; nyilvántartott állapot: rendben; Mogyorósbérc; 47° 58.688&apos;É 18° 56.534&apos;K"/>
+    <tag k="ele" v="624"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Mogyorósbérc alappont"/>
+    <tag k="ref" v="85-3403"/>
+    <tag k="website" v="https://map.fomi.hu/alappont/85-3403"/>
+  </node>
+  <node id="6720774716" version="1" timestamp="2019-08-18T12:03:48Z" uid="2077889" user="zsolt d" changeset="73459702" lat="47.9723195" lon="18.9131892">
+    <tag k="description" v="állandósítás: kő; pontvédő: rövid jelzőoszlop; rendűség: IV. rendű; nyilvántartott állapot: rendben; Miklós-tető hegy"/>
+    <tag k="ele" v="724"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="85-3404"/>
+    <tag k="website" v="https://map.fomi.hu/alappont/85-3404"/>
+  </node>
+  <node id="6720785109" version="1" timestamp="2019-08-18T12:11:10Z" uid="2077889" user="zsolt d" changeset="73459702" lat="47.9579601" lon="18.9377958">
+    <tag k="description" v="állandósítás: kő; pontvédő: nincs; rendűség: IV. rendű; nyilvántartott állapot: rendben; Magosfa Tátralátó; 47° 57.478&apos;É 18° 56.268&apos;K"/>
+    <tag k="ele" v="916"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Magosfa alappont"/>
+    <tag k="ref" v="85-3405"/>
+    <tag k="website" v="https://map.fomi.hu/alappont/85-3405"/>
+  </node>
+  <node id="6720791945" version="2" timestamp="2020-02-18T16:33:59Z" uid="6626963" user="gabro00" changeset="81180397" lat="47.9783465" lon="18.9758707">
+    <tag k="description" v="állandósítás: kő; pontvédő: rövid jelzőoszlop; rendűség: IV. rendű; nyilvántartott állapot: rendben; 47° 58.701&apos;É 18° 58.522&apos;K"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Királyháza alappont"/>
+    <tag k="ref" v="85-3417"/>
+    <tag k="website" v="https://map.fomi.hu/alappont/85-3417"/>
+  </node>
+  <node id="6790909631" version="1" timestamp="2019-09-12T16:44:50Z" uid="2362013" user="szhv" changeset="74401115" lat="46.2145018" lon="18.4388244">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="description" v="1962"/>
+  </node>
+  <node id="6790909632" version="1" timestamp="2019-09-12T16:44:50Z" uid="2362013" user="szhv" changeset="74401115" lat="46.2143905" lon="18.4386608">
+    <tag k="man_made" v="survey_point"/>
+  </node>
+  <node id="6795717185" version="1" timestamp="2019-09-14T17:30:03Z" uid="445131" user="vajko1970" changeset="74480207" lat="48.0698959" lon="20.6906328">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Régi HP pont 1927-ből"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="7009817259" version="1" timestamp="2019-11-25T20:55:03Z" uid="445131" user="vajko1970" changeset="77543112" lat="48.0041656" lon="20.5581417">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4068/a"/>
+  </node>
+  <node id="7009817260" version="1" timestamp="2019-11-25T20:55:03Z" uid="445131" user="vajko1970" changeset="77543112" lat="48.0043612" lon="20.5579546">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4068/b"/>
+  </node>
+  <node id="7009817261" version="1" timestamp="2019-11-25T20:55:03Z" uid="445131" user="vajko1970" changeset="77543112" lat="48.00694" lon="20.556635">
+    <tag k="ele" v="648"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4068"/>
+  </node>
+  <node id="7092618519" version="1" timestamp="2019-12-29T05:58:59Z" uid="445131" user="vajko1970" changeset="78971396" lat="48.4672293" lon="21.4049728">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Régi HP kő"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="7100010126" version="1" timestamp="2020-01-01T18:59:46Z" uid="445131" user="vajko1970" changeset="79089121" lat="48.078208" lon="20.4681784">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-2333"/>
+  </node>
+  <node id="7104135779" version="1" timestamp="2020-01-03T09:43:44Z" uid="445131" user="vajko1970" changeset="79148824" lat="48.028021" lon="20.5062242">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Régi HP kő 1937"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="7124589199" version="1" timestamp="2020-01-11T16:23:27Z" uid="445131" user="vajko1970" changeset="79455553" lat="48.0224772" lon="20.6191705">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="87-4066"/>
+  </node>
+  <node id="7131676596" version="1" timestamp="2020-01-14T17:52:48Z" uid="445131" user="vajko1970" changeset="79576837" lat="48.1134665" lon="21.2814778">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="89-1321"/>
+  </node>
+  <node id="7131736546" version="1" timestamp="2020-01-14T18:45:20Z" uid="445131" user="vajko1970" changeset="79578438" lat="48.1094836" lon="21.2511903">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-2415"/>
+  </node>
+  <node id="7133760402" version="1" timestamp="2020-01-15T17:58:34Z" uid="445131" user="vajko1970" changeset="79616859" lat="48.117363" lon="21.2364324">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Régi iránypont"/>
+    <tag k="historic" v="yes"/>
+  </node>
+  <node id="7154814267" version="1" timestamp="2020-01-23T20:09:25Z" uid="445131" user="vajko1970" changeset="79995245" lat="48.0581997" lon="21.2413533">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-4202"/>
+  </node>
+  <node id="7154892523" version="1" timestamp="2020-01-23T20:53:09Z" uid="445131" user="vajko1970" changeset="79996338" lat="48.0533304" lon="21.2895244">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="89-3105"/>
+  </node>
+  <node id="7154892524" version="1" timestamp="2020-01-23T20:53:09Z" uid="445131" user="vajko1970" changeset="79996338" lat="48.0668811" lon="21.2668222">
+    <tag k="man_made" v="survey_point"/>
+    <tag k="ref" v="88-2444"/>
+  </node>
+ </modify>
+</osmChange>

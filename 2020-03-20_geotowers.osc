@@ -1,0 +1,4819 @@
+<osmChange version="0.6" generator="acme osm editor">
+ <create>
+  <node id="-1" lat="47.34414917" lon="16.74333333"/>
+  <node id="-2" lat="47.34414831" lon="16.74334091"/>
+  <node id="-3" lat="47.34414583" lon="16.74334766"/>
+  <node id="-4" lat="47.34414199" lon="16.74335287"/>
+  <node id="-5" lat="47.34413722" lon="16.74335595"/>
+  <node id="-6" lat="47.34413203" lon="16.74335659"/>
+  <node id="-7" lat="47.34412697" lon="16.74335470"/>
+  <node id="-8" lat="47.34412261" lon="16.74335050"/>
+  <node id="-9" lat="47.34411941" lon="16.74334444"/>
+  <node id="-10" lat="47.34411772" lon="16.74333717"/>
+  <node id="-11" lat="47.34411772" lon="16.74332949"/>
+  <node id="-12" lat="47.34411941" lon="16.74332223"/>
+  <node id="-13" lat="47.34412261" lon="16.74331617"/>
+  <node id="-14" lat="47.34412697" lon="16.74331197"/>
+  <node id="-15" lat="47.34413203" lon="16.74331008"/>
+  <node id="-16" lat="47.34413722" lon="16.74331071"/>
+  <node id="-17" lat="47.34414199" lon="16.74331380"/>
+  <node id="-18" lat="47.34414583" lon="16.74331900"/>
+  <node id="-19" lat="47.34414831" lon="16.74332576"/>
+  <way id="-20">
+   <nd ref="-1"/>
+   <nd ref="-2"/>
+   <nd ref="-3"/>
+   <nd ref="-4"/>
+   <nd ref="-5"/>
+   <nd ref="-6"/>
+   <nd ref="-7"/>
+   <nd ref="-8"/>
+   <nd ref="-9"/>
+   <nd ref="-10"/>
+   <nd ref="-11"/>
+   <nd ref="-12"/>
+   <nd ref="-13"/>
+   <nd ref="-14"/>
+   <nd ref="-15"/>
+   <nd ref="-16"/>
+   <nd ref="-17"/>
+   <nd ref="-18"/>
+   <nd ref="-19"/>
+   <nd ref="-1"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Ablánc (mérőtorony)"/>
+   <tag k="ele" v="221"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="61-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-21" lat="47.43738250" lon="18.62736667"/>
+  <node id="-22" lat="47.43738164" lon="18.62737424"/>
+  <node id="-23" lat="47.43737916" lon="18.62738100"/>
+  <node id="-24" lat="47.43737533" lon="18.62738620"/>
+  <node id="-25" lat="47.43737055" lon="18.62738929"/>
+  <node id="-26" lat="47.43736536" lon="18.62738992"/>
+  <node id="-27" lat="47.43736031" lon="18.62738803"/>
+  <node id="-28" lat="47.43735594" lon="18.62738383"/>
+  <node id="-29" lat="47.43735274" lon="18.62737777"/>
+  <node id="-30" lat="47.43735105" lon="18.62737051"/>
+  <node id="-31" lat="47.43735105" lon="18.62736283"/>
+  <node id="-32" lat="47.43735274" lon="18.62735556"/>
+  <node id="-33" lat="47.43735594" lon="18.62734950"/>
+  <node id="-34" lat="47.43736031" lon="18.62734530"/>
+  <node id="-35" lat="47.43736536" lon="18.62734341"/>
+  <node id="-36" lat="47.43737055" lon="18.62734405"/>
+  <node id="-37" lat="47.43737533" lon="18.62734713"/>
+  <node id="-38" lat="47.43737916" lon="18.62735234"/>
+  <node id="-39" lat="47.43738164" lon="18.62735909"/>
+  <way id="-40">
+   <nd ref="-21"/>
+   <nd ref="-22"/>
+   <nd ref="-23"/>
+   <nd ref="-24"/>
+   <nd ref="-25"/>
+   <nd ref="-26"/>
+   <nd ref="-27"/>
+   <nd ref="-28"/>
+   <nd ref="-29"/>
+   <nd ref="-30"/>
+   <nd ref="-31"/>
+   <nd ref="-32"/>
+   <nd ref="-33"/>
+   <nd ref="-34"/>
+   <nd ref="-35"/>
+   <nd ref="-36"/>
+   <nd ref="-37"/>
+   <nd ref="-38"/>
+   <nd ref="-39"/>
+   <nd ref="-21"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Szalánka (mérőtorony)"/>
+   <tag k="ele" v="248"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="64-4014 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-41" lat="48.34991583" lon="21.28660000"/>
+  <node id="-42" lat="48.34991498" lon="21.28660767"/>
+  <node id="-43" lat="48.34991249" lon="21.28661450"/>
+  <node id="-44" lat="48.34990866" lon="21.28661977"/>
+  <node id="-45" lat="48.34990389" lon="21.28662289"/>
+  <node id="-46" lat="48.34989869" lon="21.28662353"/>
+  <node id="-47" lat="48.34989364" lon="21.28662162"/>
+  <node id="-48" lat="48.34988928" lon="21.28661737"/>
+  <node id="-49" lat="48.34988607" lon="21.28661124"/>
+  <node id="-50" lat="48.34988438" lon="21.28660389"/>
+  <node id="-51" lat="48.34988438" lon="21.28659611"/>
+  <node id="-52" lat="48.34988607" lon="21.28658876"/>
+  <node id="-53" lat="48.34988928" lon="21.28658263"/>
+  <node id="-54" lat="48.34989364" lon="21.28657838"/>
+  <node id="-55" lat="48.34989869" lon="21.28657647"/>
+  <node id="-56" lat="48.34990389" lon="21.28657711"/>
+  <node id="-57" lat="48.34990866" lon="21.28658023"/>
+  <node id="-58" lat="48.34991249" lon="21.28658550"/>
+  <node id="-59" lat="48.34991498" lon="21.28659233"/>
+  <way id="-60">
+   <nd ref="-41"/>
+   <nd ref="-42"/>
+   <nd ref="-43"/>
+   <nd ref="-44"/>
+   <nd ref="-45"/>
+   <nd ref="-46"/>
+   <nd ref="-47"/>
+   <nd ref="-48"/>
+   <nd ref="-49"/>
+   <nd ref="-50"/>
+   <nd ref="-51"/>
+   <nd ref="-52"/>
+   <nd ref="-53"/>
+   <nd ref="-54"/>
+   <nd ref="-55"/>
+   <nd ref="-56"/>
+   <nd ref="-57"/>
+   <nd ref="-58"/>
+   <nd ref="-59"/>
+   <nd ref="-41"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation;communication"/>
+   <tag k="name" v="Magoska (mérőtorony)"/>
+   <tag k="ele" v="721"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="98-2002 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-61" lat="47.47473250" lon="21.99768333"/>
+  <node id="-62" lat="47.47473164" lon="21.99769091"/>
+  <node id="-63" lat="47.47472916" lon="21.99769766"/>
+  <node id="-64" lat="47.47472533" lon="21.99770287"/>
+  <node id="-65" lat="47.47472055" lon="21.99770595"/>
+  <node id="-66" lat="47.47471536" lon="21.99770659"/>
+  <node id="-67" lat="47.47471031" lon="21.99770470"/>
+  <node id="-68" lat="47.47470594" lon="21.99770050"/>
+  <node id="-69" lat="47.47470274" lon="21.99769444"/>
+  <node id="-70" lat="47.47470105" lon="21.99768717"/>
+  <node id="-71" lat="47.47470105" lon="21.99767949"/>
+  <node id="-72" lat="47.47470274" lon="21.99767223"/>
+  <node id="-73" lat="47.47470594" lon="21.99766617"/>
+  <node id="-74" lat="47.47471031" lon="21.99766197"/>
+  <node id="-75" lat="47.47471536" lon="21.99766008"/>
+  <node id="-76" lat="47.47472055" lon="21.99766071"/>
+  <node id="-77" lat="47.47472533" lon="21.99766380"/>
+  <node id="-78" lat="47.47472916" lon="21.99766900"/>
+  <node id="-79" lat="47.47473164" lon="21.99767576"/>
+  <way id="-80">
+   <nd ref="-61"/>
+   <nd ref="-62"/>
+   <nd ref="-63"/>
+   <nd ref="-64"/>
+   <nd ref="-65"/>
+   <nd ref="-66"/>
+   <nd ref="-67"/>
+   <nd ref="-68"/>
+   <nd ref="-69"/>
+   <nd ref="-70"/>
+   <nd ref="-71"/>
+   <nd ref="-72"/>
+   <nd ref="-73"/>
+   <nd ref="-74"/>
+   <nd ref="-75"/>
+   <nd ref="-76"/>
+   <nd ref="-77"/>
+   <nd ref="-78"/>
+   <nd ref="-79"/>
+   <nd ref="-61"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Bagamérierdő (mérőtorony)"/>
+   <tag k="ele" v="142"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="610-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-81" lat="47.05128250" lon="18.08226667"/>
+  <node id="-82" lat="47.05128164" lon="18.08227415"/>
+  <node id="-83" lat="47.05127916" lon="18.08228083"/>
+  <node id="-84" lat="47.05127533" lon="18.08228597"/>
+  <node id="-85" lat="47.05127055" lon="18.08228902"/>
+  <node id="-86" lat="47.05126536" lon="18.08228964"/>
+  <node id="-87" lat="47.05126031" lon="18.08228778"/>
+  <node id="-88" lat="47.05125594" lon="18.08228363"/>
+  <node id="-89" lat="47.05125274" lon="18.08227764"/>
+  <node id="-90" lat="47.05125105" lon="18.08227046"/>
+  <node id="-91" lat="47.05125105" lon="18.08226287"/>
+  <node id="-92" lat="47.05125274" lon="18.08225569"/>
+  <node id="-93" lat="47.05125594" lon="18.08224970"/>
+  <node id="-94" lat="47.05126031" lon="18.08224555"/>
+  <node id="-95" lat="47.05126536" lon="18.08224369"/>
+  <node id="-96" lat="47.05127055" lon="18.08224432"/>
+  <node id="-97" lat="47.05127533" lon="18.08224737"/>
+  <node id="-98" lat="47.05127916" lon="18.08225251"/>
+  <node id="-99" lat="47.05128164" lon="18.08225918"/>
+  <way id="-100">
+   <nd ref="-81"/>
+   <nd ref="-82"/>
+   <nd ref="-83"/>
+   <nd ref="-84"/>
+   <nd ref="-85"/>
+   <nd ref="-86"/>
+   <nd ref="-87"/>
+   <nd ref="-88"/>
+   <nd ref="-89"/>
+   <nd ref="-90"/>
+   <nd ref="-91"/>
+   <nd ref="-92"/>
+   <nd ref="-93"/>
+   <nd ref="-94"/>
+   <nd ref="-95"/>
+   <nd ref="-96"/>
+   <nd ref="-97"/>
+   <nd ref="-98"/>
+   <nd ref="-99"/>
+   <nd ref="-81"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Sérhegy (mérőtorony)"/>
+   <tag k="ele" v="189"/>
+   <tag k="height" v="16"/>
+   <tag k="start_date" v="1984"/>
+   <tag k="description" v="44-1012 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-101" lat="46.86611583" lon="19.59640000"/>
+  <node id="-102" lat="46.86611498" lon="19.59640749"/>
+  <node id="-103" lat="46.86611249" lon="19.59641416"/>
+  <node id="-104" lat="46.86610866" lon="19.59641930"/>
+  <node id="-105" lat="46.86610389" lon="19.59642235"/>
+  <node id="-106" lat="46.86609869" lon="19.59642298"/>
+  <node id="-107" lat="46.86609364" lon="19.59642111"/>
+  <node id="-108" lat="46.86608928" lon="19.59641696"/>
+  <node id="-109" lat="46.86608607" lon="19.59641097"/>
+  <node id="-110" lat="46.86608438" lon="19.59640379"/>
+  <node id="-111" lat="46.86608438" lon="19.59639621"/>
+  <node id="-112" lat="46.86608607" lon="19.59638903"/>
+  <node id="-113" lat="46.86608928" lon="19.59638304"/>
+  <node id="-114" lat="46.86609364" lon="19.59637889"/>
+  <node id="-115" lat="46.86609869" lon="19.59637702"/>
+  <node id="-116" lat="46.86610389" lon="19.59637765"/>
+  <node id="-117" lat="46.86610866" lon="19.59638070"/>
+  <node id="-118" lat="46.86611249" lon="19.59638584"/>
+  <node id="-119" lat="46.86611498" lon="19.59639251"/>
+  <way id="-120">
+   <nd ref="-101"/>
+   <nd ref="-102"/>
+   <nd ref="-103"/>
+   <nd ref="-104"/>
+   <nd ref="-105"/>
+   <nd ref="-106"/>
+   <nd ref="-107"/>
+   <nd ref="-108"/>
+   <nd ref="-109"/>
+   <nd ref="-110"/>
+   <nd ref="-111"/>
+   <nd ref="-112"/>
+   <nd ref="-113"/>
+   <nd ref="-114"/>
+   <nd ref="-115"/>
+   <nd ref="-116"/>
+   <nd ref="-117"/>
+   <nd ref="-118"/>
+   <nd ref="-119"/>
+   <nd ref="-101"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Kadafalva (mérőtorony)"/>
+   <tag k="ele" v="128"/>
+   <tag k="height" v="30"/>
+   <tag k="description" v="46-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-121" lat="47.51811583" lon="17.92001667"/>
+  <node id="-122" lat="47.51811498" lon="17.92002424"/>
+  <node id="-123" lat="47.51811249" lon="17.92003100"/>
+  <node id="-124" lat="47.51810866" lon="17.92003620"/>
+  <node id="-125" lat="47.51810389" lon="17.92003929"/>
+  <node id="-126" lat="47.51809869" lon="17.92003992"/>
+  <node id="-127" lat="47.51809364" lon="17.92003803"/>
+  <node id="-128" lat="47.51808928" lon="17.92003383"/>
+  <node id="-129" lat="47.51808607" lon="17.92002777"/>
+  <node id="-130" lat="47.51808438" lon="17.92002051"/>
+  <node id="-131" lat="47.51808438" lon="17.92001283"/>
+  <node id="-132" lat="47.51808607" lon="17.92000556"/>
+  <node id="-133" lat="47.51808928" lon="17.91999950"/>
+  <node id="-134" lat="47.51809364" lon="17.91999530"/>
+  <node id="-135" lat="47.51809869" lon="17.91999341"/>
+  <node id="-136" lat="47.51810389" lon="17.91999405"/>
+  <node id="-137" lat="47.51810866" lon="17.91999713"/>
+  <node id="-138" lat="47.51811249" lon="17.92000234"/>
+  <node id="-139" lat="47.51811498" lon="17.92000909"/>
+  <way id="-140">
+   <nd ref="-121"/>
+   <nd ref="-122"/>
+   <nd ref="-123"/>
+   <nd ref="-124"/>
+   <nd ref="-125"/>
+   <nd ref="-126"/>
+   <nd ref="-127"/>
+   <nd ref="-128"/>
+   <nd ref="-129"/>
+   <nd ref="-130"/>
+   <nd ref="-131"/>
+   <nd ref="-132"/>
+   <nd ref="-133"/>
+   <nd ref="-134"/>
+   <nd ref="-135"/>
+   <nd ref="-136"/>
+   <nd ref="-137"/>
+   <nd ref="-138"/>
+   <nd ref="-139"/>
+   <nd ref="-121"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Bársonyos (mérőtorony)"/>
+   <tag k="ele" v="230"/>
+   <tag k="height" v="8"/>
+   <tag k="start_date" v="1974"/>
+   <tag k="description" v="63-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-141" lat="46.12628250" lon="18.78435000"/>
+  <node id="-142" lat="46.12628164" lon="18.78435740"/>
+  <node id="-143" lat="46.12627916" lon="18.78436399"/>
+  <node id="-144" lat="46.12627533" lon="18.78436907"/>
+  <node id="-145" lat="46.12627055" lon="18.78437208"/>
+  <node id="-146" lat="46.12626536" lon="18.78437270"/>
+  <node id="-147" lat="46.12626031" lon="18.78437086"/>
+  <node id="-148" lat="46.12625594" lon="18.78436676"/>
+  <node id="-149" lat="46.12625274" lon="18.78436084"/>
+  <node id="-150" lat="46.12625105" lon="18.78435375"/>
+  <node id="-151" lat="46.12625105" lon="18.78434625"/>
+  <node id="-152" lat="46.12625274" lon="18.78433916"/>
+  <node id="-153" lat="46.12625594" lon="18.78433324"/>
+  <node id="-154" lat="46.12626031" lon="18.78432914"/>
+  <node id="-155" lat="46.12626536" lon="18.78432730"/>
+  <node id="-156" lat="46.12627055" lon="18.78432792"/>
+  <node id="-157" lat="46.12627533" lon="18.78433093"/>
+  <node id="-158" lat="46.12627916" lon="18.78433601"/>
+  <node id="-159" lat="46.12628164" lon="18.78434260"/>
+  <way id="-160">
+   <nd ref="-141"/>
+   <nd ref="-142"/>
+   <nd ref="-143"/>
+   <nd ref="-144"/>
+   <nd ref="-145"/>
+   <nd ref="-146"/>
+   <nd ref="-147"/>
+   <nd ref="-148"/>
+   <nd ref="-149"/>
+   <nd ref="-150"/>
+   <nd ref="-151"/>
+   <nd ref="-152"/>
+   <nd ref="-153"/>
+   <nd ref="-154"/>
+   <nd ref="-155"/>
+   <nd ref="-156"/>
+   <nd ref="-157"/>
+   <nd ref="-158"/>
+   <nd ref="-159"/>
+   <nd ref="-141"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Csókahegy (mérőtorony)"/>
+   <tag k="ele" v="177"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="15-1002 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-161" lat="47.51474917" lon="18.56336667"/>
+  <node id="-162" lat="47.51474831" lon="18.56337424"/>
+  <node id="-163" lat="47.51474583" lon="18.56338100"/>
+  <node id="-164" lat="47.51474199" lon="18.56338620"/>
+  <node id="-165" lat="47.51473722" lon="18.56338929"/>
+  <node id="-166" lat="47.51473203" lon="18.56338992"/>
+  <node id="-167" lat="47.51472697" lon="18.56338803"/>
+  <node id="-168" lat="47.51472261" lon="18.56338383"/>
+  <node id="-169" lat="47.51471941" lon="18.56337777"/>
+  <node id="-170" lat="47.51471772" lon="18.56337051"/>
+  <node id="-171" lat="47.51471772" lon="18.56336283"/>
+  <node id="-172" lat="47.51471941" lon="18.56335556"/>
+  <node id="-173" lat="47.51472261" lon="18.56334950"/>
+  <node id="-174" lat="47.51472697" lon="18.56334530"/>
+  <node id="-175" lat="47.51473203" lon="18.56334341"/>
+  <node id="-176" lat="47.51473722" lon="18.56334405"/>
+  <node id="-177" lat="47.51474199" lon="18.56334713"/>
+  <node id="-178" lat="47.51474583" lon="18.56335234"/>
+  <node id="-179" lat="47.51474831" lon="18.56335909"/>
+  <way id="-180">
+   <nd ref="-161"/>
+   <nd ref="-162"/>
+   <nd ref="-163"/>
+   <nd ref="-164"/>
+   <nd ref="-165"/>
+   <nd ref="-166"/>
+   <nd ref="-167"/>
+   <nd ref="-168"/>
+   <nd ref="-169"/>
+   <nd ref="-170"/>
+   <nd ref="-171"/>
+   <nd ref="-172"/>
+   <nd ref="-173"/>
+   <nd ref="-174"/>
+   <nd ref="-175"/>
+   <nd ref="-176"/>
+   <nd ref="-177"/>
+   <nd ref="-178"/>
+   <nd ref="-179"/>
+   <nd ref="-161"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation;communication"/>
+   <tag k="name" v="Lóingató (mérőtorony)"/>
+   <tag k="alt_name" v="Lófingató"/>
+   <tag k="ele" v="302"/>
+   <tag k="height" v="18"/>
+   <tag k="start_date" v="1975"/>
+   <tag k="description" v="64-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-181" lat="46.70063250" lon="19.62148333"/>
+  <node id="-182" lat="46.70063164" lon="19.62149082"/>
+  <node id="-183" lat="46.70062916" lon="19.62149749"/>
+  <node id="-184" lat="46.70062533" lon="19.62150263"/>
+  <node id="-185" lat="46.70062055" lon="19.62150568"/>
+  <node id="-186" lat="46.70061536" lon="19.62150631"/>
+  <node id="-187" lat="46.70061031" lon="19.62150445"/>
+  <node id="-188" lat="46.70060594" lon="19.62150030"/>
+  <node id="-189" lat="46.70060274" lon="19.62149431"/>
+  <node id="-190" lat="46.70060105" lon="19.62148713"/>
+  <node id="-191" lat="46.70060105" lon="19.62147954"/>
+  <node id="-192" lat="46.70060274" lon="19.62147236"/>
+  <node id="-193" lat="46.70060594" lon="19.62146637"/>
+  <node id="-194" lat="46.70061031" lon="19.62146222"/>
+  <node id="-195" lat="46.70061536" lon="19.62146036"/>
+  <node id="-196" lat="46.70062055" lon="19.62146098"/>
+  <node id="-197" lat="46.70062533" lon="19.62146403"/>
+  <node id="-198" lat="46.70062916" lon="19.62146917"/>
+  <node id="-199" lat="46.70063164" lon="19.62147585"/>
+  <way id="-200">
+   <nd ref="-181"/>
+   <nd ref="-182"/>
+   <nd ref="-183"/>
+   <nd ref="-184"/>
+   <nd ref="-185"/>
+   <nd ref="-186"/>
+   <nd ref="-187"/>
+   <nd ref="-188"/>
+   <nd ref="-189"/>
+   <nd ref="-190"/>
+   <nd ref="-191"/>
+   <nd ref="-192"/>
+   <nd ref="-193"/>
+   <nd ref="-194"/>
+   <nd ref="-195"/>
+   <nd ref="-196"/>
+   <nd ref="-197"/>
+   <nd ref="-198"/>
+   <nd ref="-199"/>
+   <nd ref="-181"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Pusztaház (mérőtorony)"/>
+   <tag k="ele" v="124"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="36-1015 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-201" lat="47.24759917" lon="19.14271667"/>
+  <node id="-202" lat="47.24759831" lon="19.14272415"/>
+  <node id="-203" lat="47.24759583" lon="19.14273083"/>
+  <node id="-204" lat="47.24759199" lon="19.14273597"/>
+  <node id="-205" lat="47.24758722" lon="19.14273902"/>
+  <node id="-206" lat="47.24758203" lon="19.14273964"/>
+  <node id="-207" lat="47.24757697" lon="19.14273778"/>
+  <node id="-208" lat="47.24757261" lon="19.14273363"/>
+  <node id="-209" lat="47.24756941" lon="19.14272764"/>
+  <node id="-210" lat="47.24756772" lon="19.14272046"/>
+  <node id="-211" lat="47.24756772" lon="19.14271287"/>
+  <node id="-212" lat="47.24756941" lon="19.14270569"/>
+  <node id="-213" lat="47.24757261" lon="19.14269970"/>
+  <node id="-214" lat="47.24757697" lon="19.14269555"/>
+  <node id="-215" lat="47.24758203" lon="19.14269369"/>
+  <node id="-216" lat="47.24758722" lon="19.14269432"/>
+  <node id="-217" lat="47.24759199" lon="19.14269737"/>
+  <node id="-218" lat="47.24759583" lon="19.14270251"/>
+  <node id="-219" lat="47.24759831" lon="19.14270918"/>
+  <way id="-220">
+   <nd ref="-201"/>
+   <nd ref="-202"/>
+   <nd ref="-203"/>
+   <nd ref="-204"/>
+   <nd ref="-205"/>
+   <nd ref="-206"/>
+   <nd ref="-207"/>
+   <nd ref="-208"/>
+   <nd ref="-209"/>
+   <nd ref="-210"/>
+   <nd ref="-211"/>
+   <nd ref="-212"/>
+   <nd ref="-213"/>
+   <nd ref="-214"/>
+   <nd ref="-215"/>
+   <nd ref="-216"/>
+   <nd ref="-217"/>
+   <nd ref="-218"/>
+   <nd ref="-219"/>
+   <nd ref="-201"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Tarhegy (mérőtorony)"/>
+   <tag k="ele" v="121"/>
+   <tag k="height" v="30"/>
+   <tag k="description" v="55-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-221" lat="48.51834917" lon="21.08533333"/>
+  <node id="-222" lat="48.51834831" lon="21.08534100"/>
+  <node id="-223" lat="48.51834583" lon="21.08534784"/>
+  <node id="-224" lat="48.51834199" lon="21.08535310"/>
+  <node id="-225" lat="48.51833722" lon="21.08535622"/>
+  <node id="-226" lat="48.51833203" lon="21.08535686"/>
+  <node id="-227" lat="48.51832697" lon="21.08535496"/>
+  <node id="-228" lat="48.51832261" lon="21.08535070"/>
+  <node id="-229" lat="48.51831941" lon="21.08534457"/>
+  <node id="-230" lat="48.51831772" lon="21.08533722"/>
+  <node id="-231" lat="48.51831772" lon="21.08532945"/>
+  <node id="-232" lat="48.51831941" lon="21.08532210"/>
+  <node id="-233" lat="48.51832261" lon="21.08531596"/>
+  <node id="-234" lat="48.51832697" lon="21.08531171"/>
+  <node id="-235" lat="48.51833203" lon="21.08530980"/>
+  <node id="-236" lat="48.51833722" lon="21.08531044"/>
+  <node id="-237" lat="48.51834199" lon="21.08531357"/>
+  <node id="-238" lat="48.51834583" lon="21.08531883"/>
+  <node id="-239" lat="48.51834831" lon="21.08532567"/>
+  <way id="-240">
+   <nd ref="-221"/>
+   <nd ref="-222"/>
+   <nd ref="-223"/>
+   <nd ref="-224"/>
+   <nd ref="-225"/>
+   <nd ref="-226"/>
+   <nd ref="-227"/>
+   <nd ref="-228"/>
+   <nd ref="-229"/>
+   <nd ref="-230"/>
+   <nd ref="-231"/>
+   <nd ref="-232"/>
+   <nd ref="-233"/>
+   <nd ref="-234"/>
+   <nd ref="-235"/>
+   <nd ref="-236"/>
+   <nd ref="-237"/>
+   <nd ref="-238"/>
+   <nd ref="-239"/>
+   <nd ref="-221"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Ortás (mérőtorony)"/>
+   <tag k="ele" v="327"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="108-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-241" lat="47.32913250" lon="18.49630000"/>
+  <node id="-242" lat="47.32913164" lon="18.49630749"/>
+  <node id="-243" lat="47.32912916" lon="18.49631416"/>
+  <node id="-244" lat="47.32912533" lon="18.49631930"/>
+  <node id="-245" lat="47.32912055" lon="18.49632235"/>
+  <node id="-246" lat="47.32911536" lon="18.49632298"/>
+  <node id="-247" lat="47.32911031" lon="18.49632111"/>
+  <node id="-248" lat="47.32910594" lon="18.49631696"/>
+  <node id="-249" lat="47.32910274" lon="18.49631097"/>
+  <node id="-250" lat="47.32910105" lon="18.49630379"/>
+  <node id="-251" lat="47.32910105" lon="18.49629621"/>
+  <node id="-252" lat="47.32910274" lon="18.49628903"/>
+  <node id="-253" lat="47.32910594" lon="18.49628304"/>
+  <node id="-254" lat="47.32911031" lon="18.49627889"/>
+  <node id="-255" lat="47.32911536" lon="18.49627702"/>
+  <node id="-256" lat="47.32912055" lon="18.49627765"/>
+  <node id="-257" lat="47.32912533" lon="18.49628070"/>
+  <node id="-258" lat="47.32912916" lon="18.49628584"/>
+  <node id="-259" lat="47.32913164" lon="18.49629251"/>
+  <way id="-260">
+   <nd ref="-241"/>
+   <nd ref="-242"/>
+   <nd ref="-243"/>
+   <nd ref="-244"/>
+   <nd ref="-245"/>
+   <nd ref="-246"/>
+   <nd ref="-247"/>
+   <nd ref="-248"/>
+   <nd ref="-249"/>
+   <nd ref="-250"/>
+   <nd ref="-251"/>
+   <nd ref="-252"/>
+   <nd ref="-253"/>
+   <nd ref="-254"/>
+   <nd ref="-255"/>
+   <nd ref="-256"/>
+   <nd ref="-257"/>
+   <nd ref="-258"/>
+   <nd ref="-259"/>
+   <nd ref="-241"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Öregszőlőhegy (mérőtorony)"/>
+   <tag k="ele" v="197"/>
+   <tag k="height" v="24"/>
+   <tag k="start_date" v="1984"/>
+   <tag k="description" v="54-2012 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-261" lat="47.47096583" lon="18.15391667"/>
+  <node id="-262" lat="47.47096498" lon="18.15392424"/>
+  <node id="-263" lat="47.47096249" lon="18.15393100"/>
+  <node id="-264" lat="47.47095866" lon="18.15393620"/>
+  <node id="-265" lat="47.47095389" lon="18.15393929"/>
+  <node id="-266" lat="47.47094869" lon="18.15393992"/>
+  <node id="-267" lat="47.47094364" lon="18.15393803"/>
+  <node id="-268" lat="47.47093928" lon="18.15393383"/>
+  <node id="-269" lat="47.47093607" lon="18.15392777"/>
+  <node id="-270" lat="47.47093438" lon="18.15392051"/>
+  <node id="-271" lat="47.47093438" lon="18.15391283"/>
+  <node id="-272" lat="47.47093607" lon="18.15390556"/>
+  <node id="-273" lat="47.47093928" lon="18.15389950"/>
+  <node id="-274" lat="47.47094364" lon="18.15389530"/>
+  <node id="-275" lat="47.47094869" lon="18.15389341"/>
+  <node id="-276" lat="47.47095389" lon="18.15389405"/>
+  <node id="-277" lat="47.47095866" lon="18.15389713"/>
+  <node id="-278" lat="47.47096249" lon="18.15390234"/>
+  <node id="-279" lat="47.47096498" lon="18.15390909"/>
+  <way id="-280">
+   <nd ref="-261"/>
+   <nd ref="-262"/>
+   <nd ref="-263"/>
+   <nd ref="-264"/>
+   <nd ref="-265"/>
+   <nd ref="-266"/>
+   <nd ref="-267"/>
+   <nd ref="-268"/>
+   <nd ref="-269"/>
+   <nd ref="-270"/>
+   <nd ref="-271"/>
+   <nd ref="-272"/>
+   <nd ref="-273"/>
+   <nd ref="-274"/>
+   <nd ref="-275"/>
+   <nd ref="-276"/>
+   <nd ref="-277"/>
+   <nd ref="-278"/>
+   <nd ref="-279"/>
+   <nd ref="-261"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Tizenhatostag (mérőtorony)"/>
+   <tag k="ele" v="305"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="64-3012 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-281" lat="47.39671583" lon="17.97308333"/>
+  <node id="-282" lat="47.39671498" lon="17.97309091"/>
+  <node id="-283" lat="47.39671249" lon="17.97309766"/>
+  <node id="-284" lat="47.39670866" lon="17.97310287"/>
+  <node id="-285" lat="47.39670389" lon="17.97310595"/>
+  <node id="-286" lat="47.39669869" lon="17.97310659"/>
+  <node id="-287" lat="47.39669364" lon="17.97310470"/>
+  <node id="-288" lat="47.39668928" lon="17.97310050"/>
+  <node id="-289" lat="47.39668607" lon="17.97309444"/>
+  <node id="-290" lat="47.39668438" lon="17.97308717"/>
+  <node id="-291" lat="47.39668438" lon="17.97307949"/>
+  <node id="-292" lat="47.39668607" lon="17.97307223"/>
+  <node id="-293" lat="47.39668928" lon="17.97306617"/>
+  <node id="-294" lat="47.39669364" lon="17.97306197"/>
+  <node id="-295" lat="47.39669869" lon="17.97306008"/>
+  <node id="-296" lat="47.39670389" lon="17.97306071"/>
+  <node id="-297" lat="47.39670866" lon="17.97306380"/>
+  <node id="-298" lat="47.39671249" lon="17.97306900"/>
+  <node id="-299" lat="47.39671498" lon="17.97307576"/>
+  <way id="-300">
+   <nd ref="-281"/>
+   <nd ref="-282"/>
+   <nd ref="-283"/>
+   <nd ref="-284"/>
+   <nd ref="-285"/>
+   <nd ref="-286"/>
+   <nd ref="-287"/>
+   <nd ref="-288"/>
+   <nd ref="-289"/>
+   <nd ref="-290"/>
+   <nd ref="-291"/>
+   <nd ref="-292"/>
+   <nd ref="-293"/>
+   <nd ref="-294"/>
+   <nd ref="-295"/>
+   <nd ref="-296"/>
+   <nd ref="-297"/>
+   <nd ref="-298"/>
+   <nd ref="-299"/>
+   <nd ref="-281"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Bükkfej (mérőtorony)"/>
+   <tag k="ele" v="357"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="63-4015 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-301" lat="47.11201583" lon="19.71986667"/>
+  <node id="-302" lat="47.11201498" lon="19.71987415"/>
+  <node id="-303" lat="47.11201249" lon="19.71988083"/>
+  <node id="-304" lat="47.11200866" lon="19.71988597"/>
+  <node id="-305" lat="47.11200389" lon="19.71988902"/>
+  <node id="-306" lat="47.11199869" lon="19.71988964"/>
+  <node id="-307" lat="47.11199364" lon="19.71988778"/>
+  <node id="-308" lat="47.11198928" lon="19.71988363"/>
+  <node id="-309" lat="47.11198607" lon="19.71987764"/>
+  <node id="-310" lat="47.11198438" lon="19.71987046"/>
+  <node id="-311" lat="47.11198438" lon="19.71986287"/>
+  <node id="-312" lat="47.11198607" lon="19.71985569"/>
+  <node id="-313" lat="47.11198928" lon="19.71984970"/>
+  <node id="-314" lat="47.11199364" lon="19.71984555"/>
+  <node id="-315" lat="47.11199869" lon="19.71984369"/>
+  <node id="-316" lat="47.11200389" lon="19.71984432"/>
+  <node id="-317" lat="47.11200866" lon="19.71984737"/>
+  <node id="-318" lat="47.11201249" lon="19.71985251"/>
+  <node id="-319" lat="47.11201498" lon="19.71985918"/>
+  <way id="-320">
+   <nd ref="-301"/>
+   <nd ref="-302"/>
+   <nd ref="-303"/>
+   <nd ref="-304"/>
+   <nd ref="-305"/>
+   <nd ref="-306"/>
+   <nd ref="-307"/>
+   <nd ref="-308"/>
+   <nd ref="-309"/>
+   <nd ref="-310"/>
+   <nd ref="-311"/>
+   <nd ref="-312"/>
+   <nd ref="-313"/>
+   <nd ref="-314"/>
+   <nd ref="-315"/>
+   <nd ref="-316"/>
+   <nd ref="-317"/>
+   <nd ref="-318"/>
+   <nd ref="-319"/>
+   <nd ref="-301"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Sashegy (mérőtorony)"/>
+   <tag k="ele" v="132"/>
+   <tag k="height" v="30"/>
+   <tag k="start_date" v="1981"/>
+   <tag k="description" v="56-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-321" lat="46.76631583" lon="20.07855000"/>
+  <node id="-322" lat="46.76631498" lon="20.07855749"/>
+  <node id="-323" lat="46.76631249" lon="20.07856416"/>
+  <node id="-324" lat="46.76630866" lon="20.07856930"/>
+  <node id="-325" lat="46.76630389" lon="20.07857235"/>
+  <node id="-326" lat="46.76629869" lon="20.07857298"/>
+  <node id="-327" lat="46.76629364" lon="20.07857111"/>
+  <node id="-328" lat="46.76628928" lon="20.07856696"/>
+  <node id="-329" lat="46.76628607" lon="20.07856097"/>
+  <node id="-330" lat="46.76628438" lon="20.07855379"/>
+  <node id="-331" lat="46.76628438" lon="20.07854621"/>
+  <node id="-332" lat="46.76628607" lon="20.07853903"/>
+  <node id="-333" lat="46.76628928" lon="20.07853304"/>
+  <node id="-334" lat="46.76629364" lon="20.07852889"/>
+  <node id="-335" lat="46.76629869" lon="20.07852702"/>
+  <node id="-336" lat="46.76630389" lon="20.07852765"/>
+  <node id="-337" lat="46.76630866" lon="20.07853070"/>
+  <node id="-338" lat="46.76631249" lon="20.07853584"/>
+  <node id="-339" lat="46.76631498" lon="20.07854251"/>
+  <way id="-340">
+   <nd ref="-321"/>
+   <nd ref="-322"/>
+   <nd ref="-323"/>
+   <nd ref="-324"/>
+   <nd ref="-325"/>
+   <nd ref="-326"/>
+   <nd ref="-327"/>
+   <nd ref="-328"/>
+   <nd ref="-329"/>
+   <nd ref="-330"/>
+   <nd ref="-331"/>
+   <nd ref="-332"/>
+   <nd ref="-333"/>
+   <nd ref="-334"/>
+   <nd ref="-335"/>
+   <nd ref="-336"/>
+   <nd ref="-337"/>
+   <nd ref="-338"/>
+   <nd ref="-339"/>
+   <nd ref="-321"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Jovákipart (mérőtorony)"/>
+   <tag k="ele" v="97"/>
+   <tag k="height" v="24"/>
+   <tag k="start_date" v="1979"/>
+   <tag k="description" v="37-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-341" lat="46.53593250" lon="18.41408333"/>
+  <node id="-342" lat="46.53593164" lon="18.41409073"/>
+  <node id="-343" lat="46.53592916" lon="18.41409732"/>
+  <node id="-344" lat="46.53592533" lon="18.41410240"/>
+  <node id="-345" lat="46.53592055" lon="18.41410541"/>
+  <node id="-346" lat="46.53591536" lon="18.41410603"/>
+  <node id="-347" lat="46.53591031" lon="18.41410419"/>
+  <node id="-348" lat="46.53590594" lon="18.41410009"/>
+  <node id="-349" lat="46.53590274" lon="18.41409417"/>
+  <node id="-350" lat="46.53590105" lon="18.41408708"/>
+  <node id="-351" lat="46.53590105" lon="18.41407958"/>
+  <node id="-352" lat="46.53590274" lon="18.41407249"/>
+  <node id="-353" lat="46.53590594" lon="18.41406658"/>
+  <node id="-354" lat="46.53591031" lon="18.41406247"/>
+  <node id="-355" lat="46.53591536" lon="18.41406063"/>
+  <node id="-356" lat="46.53592055" lon="18.41406125"/>
+  <node id="-357" lat="46.53592533" lon="18.41406426"/>
+  <node id="-358" lat="46.53592916" lon="18.41406934"/>
+  <node id="-359" lat="46.53593164" lon="18.41407594"/>
+  <way id="-360">
+   <nd ref="-341"/>
+   <nd ref="-342"/>
+   <nd ref="-343"/>
+   <nd ref="-344"/>
+   <nd ref="-345"/>
+   <nd ref="-346"/>
+   <nd ref="-347"/>
+   <nd ref="-348"/>
+   <nd ref="-349"/>
+   <nd ref="-350"/>
+   <nd ref="-351"/>
+   <nd ref="-352"/>
+   <nd ref="-353"/>
+   <nd ref="-354"/>
+   <nd ref="-355"/>
+   <nd ref="-356"/>
+   <nd ref="-357"/>
+   <nd ref="-358"/>
+   <nd ref="-359"/>
+   <nd ref="-341"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Csernéd (mérőtorony)"/>
+   <tag k="ele" v="251"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="34-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-361" lat="46.66039917" lon="17.06240000"/>
+  <node id="-362" lat="46.66039831" lon="17.06240740"/>
+  <node id="-363" lat="46.66039583" lon="17.06241399"/>
+  <node id="-364" lat="46.66039199" lon="17.06241907"/>
+  <node id="-365" lat="46.66038722" lon="17.06242208"/>
+  <node id="-366" lat="46.66038203" lon="17.06242270"/>
+  <node id="-367" lat="46.66037697" lon="17.06242086"/>
+  <node id="-368" lat="46.66037261" lon="17.06241676"/>
+  <node id="-369" lat="46.66036941" lon="17.06241084"/>
+  <node id="-370" lat="46.66036772" lon="17.06240375"/>
+  <node id="-371" lat="46.66036772" lon="17.06239625"/>
+  <node id="-372" lat="46.66036941" lon="17.06238916"/>
+  <node id="-373" lat="46.66037261" lon="17.06238324"/>
+  <node id="-374" lat="46.66037697" lon="17.06237914"/>
+  <node id="-375" lat="46.66038203" lon="17.06237730"/>
+  <node id="-376" lat="46.66038722" lon="17.06237792"/>
+  <node id="-377" lat="46.66039199" lon="17.06238093"/>
+  <node id="-378" lat="46.66039583" lon="17.06238601"/>
+  <node id="-379" lat="46.66039831" lon="17.06239260"/>
+  <way id="-380">
+   <nd ref="-361"/>
+   <nd ref="-362"/>
+   <nd ref="-363"/>
+   <nd ref="-364"/>
+   <nd ref="-365"/>
+   <nd ref="-366"/>
+   <nd ref="-367"/>
+   <nd ref="-368"/>
+   <nd ref="-369"/>
+   <nd ref="-370"/>
+   <nd ref="-371"/>
+   <nd ref="-372"/>
+   <nd ref="-373"/>
+   <nd ref="-374"/>
+   <nd ref="-375"/>
+   <nd ref="-376"/>
+   <nd ref="-377"/>
+   <nd ref="-378"/>
+   <nd ref="-379"/>
+   <nd ref="-361"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Alsópogányvár (mérőtorony)"/>
+   <tag k="ele" v="300"/>
+   <tag k="height" v="10"/>
+   <tag k="description" v="32-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-381" lat="46.89728250" lon="18.21018333"/>
+  <node id="-382" lat="46.89728164" lon="18.21019082"/>
+  <node id="-383" lat="46.89727916" lon="18.21019749"/>
+  <node id="-384" lat="46.89727533" lon="18.21020263"/>
+  <node id="-385" lat="46.89727055" lon="18.21020568"/>
+  <node id="-386" lat="46.89726536" lon="18.21020631"/>
+  <node id="-387" lat="46.89726031" lon="18.21020445"/>
+  <node id="-388" lat="46.89725594" lon="18.21020030"/>
+  <node id="-389" lat="46.89725274" lon="18.21019431"/>
+  <node id="-390" lat="46.89725105" lon="18.21018713"/>
+  <node id="-391" lat="46.89725105" lon="18.21017954"/>
+  <node id="-392" lat="46.89725274" lon="18.21017236"/>
+  <node id="-393" lat="46.89725594" lon="18.21016637"/>
+  <node id="-394" lat="46.89726031" lon="18.21016222"/>
+  <node id="-395" lat="46.89726536" lon="18.21016036"/>
+  <node id="-396" lat="46.89727055" lon="18.21016098"/>
+  <node id="-397" lat="46.89727533" lon="18.21016403"/>
+  <node id="-398" lat="46.89727916" lon="18.21016917"/>
+  <node id="-399" lat="46.89728164" lon="18.21017585"/>
+  <way id="-400">
+   <nd ref="-381"/>
+   <nd ref="-382"/>
+   <nd ref="-383"/>
+   <nd ref="-384"/>
+   <nd ref="-385"/>
+   <nd ref="-386"/>
+   <nd ref="-387"/>
+   <nd ref="-388"/>
+   <nd ref="-389"/>
+   <nd ref="-390"/>
+   <nd ref="-391"/>
+   <nd ref="-392"/>
+   <nd ref="-393"/>
+   <nd ref="-394"/>
+   <nd ref="-395"/>
+   <nd ref="-396"/>
+   <nd ref="-397"/>
+   <nd ref="-398"/>
+   <nd ref="-399"/>
+   <nd ref="-381"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Kustyán (mérőtorony)"/>
+   <tag k="ele" v="156"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="44-3011 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-401" lat="47.84114917" lon="22.30743333"/>
+  <node id="-402" lat="47.84114831" lon="22.30744091"/>
+  <node id="-403" lat="47.84114583" lon="22.30744766"/>
+  <node id="-404" lat="47.84114199" lon="22.30745287"/>
+  <node id="-405" lat="47.84113722" lon="22.30745595"/>
+  <node id="-406" lat="47.84113203" lon="22.30745659"/>
+  <node id="-407" lat="47.84112697" lon="22.30745470"/>
+  <node id="-408" lat="47.84112261" lon="22.30745050"/>
+  <node id="-409" lat="47.84111941" lon="22.30744444"/>
+  <node id="-410" lat="47.84111772" lon="22.30743717"/>
+  <node id="-411" lat="47.84111772" lon="22.30742949"/>
+  <node id="-412" lat="47.84111941" lon="22.30742223"/>
+  <node id="-413" lat="47.84112261" lon="22.30741617"/>
+  <node id="-414" lat="47.84112697" lon="22.30741197"/>
+  <node id="-415" lat="47.84113203" lon="22.30741008"/>
+  <node id="-416" lat="47.84113722" lon="22.30741071"/>
+  <node id="-417" lat="47.84114199" lon="22.30741380"/>
+  <node id="-418" lat="47.84114583" lon="22.30741900"/>
+  <node id="-419" lat="47.84114831" lon="22.30742576"/>
+  <way id="-420">
+   <nd ref="-401"/>
+   <nd ref="-402"/>
+   <nd ref="-403"/>
+   <nd ref="-404"/>
+   <nd ref="-405"/>
+   <nd ref="-406"/>
+   <nd ref="-407"/>
+   <nd ref="-408"/>
+   <nd ref="-409"/>
+   <nd ref="-410"/>
+   <nd ref="-411"/>
+   <nd ref="-412"/>
+   <nd ref="-413"/>
+   <nd ref="-414"/>
+   <nd ref="-415"/>
+   <nd ref="-416"/>
+   <nd ref="-417"/>
+   <nd ref="-418"/>
+   <nd ref="-419"/>
+   <nd ref="-401"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Barokhegy (mérőtorony)"/>
+   <tag k="ele" v="141"/>
+   <tag k="height" v="26"/>
+   <tag k="description" v="710-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-421" lat="47.20148250" lon="16.42268333"/>
+  <node id="-422" lat="47.20148164" lon="16.42269082"/>
+  <node id="-423" lat="47.20147916" lon="16.42269749"/>
+  <node id="-424" lat="47.20147533" lon="16.42270263"/>
+  <node id="-425" lat="47.20147055" lon="16.42270568"/>
+  <node id="-426" lat="47.20146536" lon="16.42270631"/>
+  <node id="-427" lat="47.20146031" lon="16.42270445"/>
+  <node id="-428" lat="47.20145594" lon="16.42270030"/>
+  <node id="-429" lat="47.20145274" lon="16.42269431"/>
+  <node id="-430" lat="47.20145105" lon="16.42268713"/>
+  <node id="-431" lat="47.20145105" lon="16.42267954"/>
+  <node id="-432" lat="47.20145274" lon="16.42267236"/>
+  <node id="-433" lat="47.20145594" lon="16.42266637"/>
+  <node id="-434" lat="47.20146031" lon="16.42266222"/>
+  <node id="-435" lat="47.20146536" lon="16.42266036"/>
+  <node id="-436" lat="47.20147055" lon="16.42266098"/>
+  <node id="-437" lat="47.20147533" lon="16.42266403"/>
+  <node id="-438" lat="47.20147916" lon="16.42266917"/>
+  <node id="-439" lat="47.20148164" lon="16.42267585"/>
+  <way id="-440">
+   <nd ref="-421"/>
+   <nd ref="-422"/>
+   <nd ref="-423"/>
+   <nd ref="-424"/>
+   <nd ref="-425"/>
+   <nd ref="-426"/>
+   <nd ref="-427"/>
+   <nd ref="-428"/>
+   <nd ref="-429"/>
+   <nd ref="-430"/>
+   <nd ref="-431"/>
+   <nd ref="-432"/>
+   <nd ref="-433"/>
+   <nd ref="-434"/>
+   <nd ref="-435"/>
+   <nd ref="-436"/>
+   <nd ref="-437"/>
+   <nd ref="-438"/>
+   <nd ref="-439"/>
+   <nd ref="-421"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Nagyvilágos (mérőtorony)"/>
+   <tag k="ele" v="384"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="51-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-441" lat="47.02274917" lon="17.98163333"/>
+  <node id="-442" lat="47.02274831" lon="17.98164082"/>
+  <node id="-443" lat="47.02274583" lon="17.98164749"/>
+  <node id="-444" lat="47.02274199" lon="17.98165263"/>
+  <node id="-445" lat="47.02273722" lon="17.98165568"/>
+  <node id="-446" lat="47.02273203" lon="17.98165631"/>
+  <node id="-447" lat="47.02272697" lon="17.98165445"/>
+  <node id="-448" lat="47.02272261" lon="17.98165030"/>
+  <node id="-449" lat="47.02271941" lon="17.98164431"/>
+  <node id="-450" lat="47.02271772" lon="17.98163713"/>
+  <node id="-451" lat="47.02271772" lon="17.98162954"/>
+  <node id="-452" lat="47.02271941" lon="17.98162236"/>
+  <node id="-453" lat="47.02272261" lon="17.98161637"/>
+  <node id="-454" lat="47.02272697" lon="17.98161222"/>
+  <node id="-455" lat="47.02273203" lon="17.98161036"/>
+  <node id="-456" lat="47.02273722" lon="17.98161098"/>
+  <node id="-457" lat="47.02274199" lon="17.98161403"/>
+  <node id="-458" lat="47.02274583" lon="17.98161917"/>
+  <node id="-459" lat="47.02274831" lon="17.98162585"/>
+  <way id="-460">
+   <nd ref="-441"/>
+   <nd ref="-442"/>
+   <nd ref="-443"/>
+   <nd ref="-444"/>
+   <nd ref="-445"/>
+   <nd ref="-446"/>
+   <nd ref="-447"/>
+   <nd ref="-448"/>
+   <nd ref="-449"/>
+   <nd ref="-450"/>
+   <nd ref="-451"/>
+   <nd ref="-452"/>
+   <nd ref="-453"/>
+   <nd ref="-454"/>
+   <nd ref="-455"/>
+   <nd ref="-456"/>
+   <nd ref="-457"/>
+   <nd ref="-458"/>
+   <nd ref="-459"/>
+   <nd ref="-441"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Felsőőrihegy (mérőtorony)"/>
+   <tag k="ele" v="323"/>
+   <tag k="height" v="16"/>
+   <tag k="start_date" v="1974"/>
+   <tag k="description" v="43-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-461" lat="48.40909917" lon="20.97931667"/>
+  <node id="-462" lat="48.40909831" lon="20.97932433"/>
+  <node id="-463" lat="48.40909583" lon="20.97933117"/>
+  <node id="-464" lat="48.40909199" lon="20.97933643"/>
+  <node id="-465" lat="48.40908722" lon="20.97933956"/>
+  <node id="-466" lat="48.40908203" lon="20.97934020"/>
+  <node id="-467" lat="48.40907697" lon="20.97933829"/>
+  <node id="-468" lat="48.40907261" lon="20.97933404"/>
+  <node id="-469" lat="48.40906941" lon="20.97932790"/>
+  <node id="-470" lat="48.40906772" lon="20.97932055"/>
+  <node id="-471" lat="48.40906772" lon="20.97931278"/>
+  <node id="-472" lat="48.40906941" lon="20.97930543"/>
+  <node id="-473" lat="48.40907261" lon="20.97929930"/>
+  <node id="-474" lat="48.40907697" lon="20.97929504"/>
+  <node id="-475" lat="48.40908203" lon="20.97929314"/>
+  <node id="-476" lat="48.40908722" lon="20.97929378"/>
+  <node id="-477" lat="48.40909199" lon="20.97929690"/>
+  <node id="-478" lat="48.40909583" lon="20.97930216"/>
+  <node id="-479" lat="48.40909831" lon="20.97930900"/>
+  <way id="-480">
+   <nd ref="-461"/>
+   <nd ref="-462"/>
+   <nd ref="-463"/>
+   <nd ref="-464"/>
+   <nd ref="-465"/>
+   <nd ref="-466"/>
+   <nd ref="-467"/>
+   <nd ref="-468"/>
+   <nd ref="-469"/>
+   <nd ref="-470"/>
+   <nd ref="-471"/>
+   <nd ref="-472"/>
+   <nd ref="-473"/>
+   <nd ref="-474"/>
+   <nd ref="-475"/>
+   <nd ref="-476"/>
+   <nd ref="-477"/>
+   <nd ref="-478"/>
+   <nd ref="-479"/>
+   <nd ref="-461"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Gagyapátimagas (mérőtorony)"/>
+   <tag k="ele" v="319"/>
+   <tag k="height" v="8"/>
+   <tag k="description" v="98-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-481" lat="46.30168250" lon="17.99233333"/>
+  <node id="-482" lat="46.30168164" lon="17.99234073"/>
+  <node id="-483" lat="46.30167916" lon="17.99234732"/>
+  <node id="-484" lat="46.30167533" lon="17.99235240"/>
+  <node id="-485" lat="46.30167055" lon="17.99235541"/>
+  <node id="-486" lat="46.30166536" lon="17.99235603"/>
+  <node id="-487" lat="46.30166031" lon="17.99235419"/>
+  <node id="-488" lat="46.30165594" lon="17.99235009"/>
+  <node id="-489" lat="46.30165274" lon="17.99234417"/>
+  <node id="-490" lat="46.30165105" lon="17.99233708"/>
+  <node id="-491" lat="46.30165105" lon="17.99232958"/>
+  <node id="-492" lat="46.30165274" lon="17.99232249"/>
+  <node id="-493" lat="46.30165594" lon="17.99231658"/>
+  <node id="-494" lat="46.30166031" lon="17.99231247"/>
+  <node id="-495" lat="46.30166536" lon="17.99231063"/>
+  <node id="-496" lat="46.30167055" lon="17.99231125"/>
+  <node id="-497" lat="46.30167533" lon="17.99231426"/>
+  <node id="-498" lat="46.30167916" lon="17.99231934"/>
+  <node id="-499" lat="46.30168164" lon="17.99232594"/>
+  <way id="-500">
+   <nd ref="-481"/>
+   <nd ref="-482"/>
+   <nd ref="-483"/>
+   <nd ref="-484"/>
+   <nd ref="-485"/>
+   <nd ref="-486"/>
+   <nd ref="-487"/>
+   <nd ref="-488"/>
+   <nd ref="-489"/>
+   <nd ref="-490"/>
+   <nd ref="-491"/>
+   <nd ref="-492"/>
+   <nd ref="-493"/>
+   <nd ref="-494"/>
+   <nd ref="-495"/>
+   <nd ref="-496"/>
+   <nd ref="-497"/>
+   <nd ref="-498"/>
+   <nd ref="-499"/>
+   <nd ref="-481"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Rókahegy (mérőtorony)"/>
+   <tag k="ele" v="274"/>
+   <tag k="height" v="21"/>
+   <tag k="description" v="23-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-501" lat="46.61311583" lon="18.72370000"/>
+  <node id="-502" lat="46.61311498" lon="18.72370740"/>
+  <node id="-503" lat="46.61311249" lon="18.72371399"/>
+  <node id="-504" lat="46.61310866" lon="18.72371907"/>
+  <node id="-505" lat="46.61310389" lon="18.72372208"/>
+  <node id="-506" lat="46.61309869" lon="18.72372270"/>
+  <node id="-507" lat="46.61309364" lon="18.72372086"/>
+  <node id="-508" lat="46.61308928" lon="18.72371676"/>
+  <node id="-509" lat="46.61308607" lon="18.72371084"/>
+  <node id="-510" lat="46.61308438" lon="18.72370375"/>
+  <node id="-511" lat="46.61308438" lon="18.72369625"/>
+  <node id="-512" lat="46.61308607" lon="18.72368916"/>
+  <node id="-513" lat="46.61308928" lon="18.72368324"/>
+  <node id="-514" lat="46.61309364" lon="18.72367914"/>
+  <node id="-515" lat="46.61309869" lon="18.72367730"/>
+  <node id="-516" lat="46.61310389" lon="18.72367792"/>
+  <node id="-517" lat="46.61310866" lon="18.72368093"/>
+  <node id="-518" lat="46.61311249" lon="18.72368601"/>
+  <node id="-519" lat="46.61311498" lon="18.72369260"/>
+  <way id="-520">
+   <nd ref="-501"/>
+   <nd ref="-502"/>
+   <nd ref="-503"/>
+   <nd ref="-504"/>
+   <nd ref="-505"/>
+   <nd ref="-506"/>
+   <nd ref="-507"/>
+   <nd ref="-508"/>
+   <nd ref="-509"/>
+   <nd ref="-510"/>
+   <nd ref="-511"/>
+   <nd ref="-512"/>
+   <nd ref="-513"/>
+   <nd ref="-514"/>
+   <nd ref="-515"/>
+   <nd ref="-516"/>
+   <nd ref="-517"/>
+   <nd ref="-518"/>
+   <nd ref="-519"/>
+   <nd ref="-501"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Grábericsföld (mérőtorony)"/>
+   <tag k="ele" v="213"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="35-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-521" lat="48.24623250" lon="20.13556667"/>
+  <node id="-522" lat="48.24623164" lon="20.13557433"/>
+  <node id="-523" lat="48.24622916" lon="20.13558117"/>
+  <node id="-524" lat="48.24622533" lon="20.13558643"/>
+  <node id="-525" lat="48.24622055" lon="20.13558956"/>
+  <node id="-526" lat="48.24621536" lon="20.13559020"/>
+  <node id="-527" lat="48.24621031" lon="20.13558829"/>
+  <node id="-528" lat="48.24620594" lon="20.13558404"/>
+  <node id="-529" lat="48.24620274" lon="20.13557790"/>
+  <node id="-530" lat="48.24620105" lon="20.13557055"/>
+  <node id="-531" lat="48.24620105" lon="20.13556278"/>
+  <node id="-532" lat="48.24620274" lon="20.13555543"/>
+  <node id="-533" lat="48.24620594" lon="20.13554930"/>
+  <node id="-534" lat="48.24621031" lon="20.13554504"/>
+  <node id="-535" lat="48.24621536" lon="20.13554314"/>
+  <node id="-536" lat="48.24622055" lon="20.13554378"/>
+  <node id="-537" lat="48.24622533" lon="20.13554690"/>
+  <node id="-538" lat="48.24622916" lon="20.13555216"/>
+  <node id="-539" lat="48.24623164" lon="20.13555900"/>
+  <way id="-540">
+   <nd ref="-521"/>
+   <nd ref="-522"/>
+   <nd ref="-523"/>
+   <nd ref="-524"/>
+   <nd ref="-525"/>
+   <nd ref="-526"/>
+   <nd ref="-527"/>
+   <nd ref="-528"/>
+   <nd ref="-529"/>
+   <nd ref="-530"/>
+   <nd ref="-531"/>
+   <nd ref="-532"/>
+   <nd ref="-533"/>
+   <nd ref="-534"/>
+   <nd ref="-535"/>
+   <nd ref="-536"/>
+   <nd ref="-537"/>
+   <nd ref="-538"/>
+   <nd ref="-539"/>
+   <nd ref="-521"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Vösdobor (mérőtorony)"/>
+   <tag k="ele" v="401"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="97-3001/1 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-541" lat="46.17994917" lon="18.37720000"/>
+  <node id="-542" lat="46.17994831" lon="18.37720740"/>
+  <node id="-543" lat="46.17994583" lon="18.37721399"/>
+  <node id="-544" lat="46.17994199" lon="18.37721907"/>
+  <node id="-545" lat="46.17993722" lon="18.37722208"/>
+  <node id="-546" lat="46.17993203" lon="18.37722270"/>
+  <node id="-547" lat="46.17992697" lon="18.37722086"/>
+  <node id="-548" lat="46.17992261" lon="18.37721676"/>
+  <node id="-549" lat="46.17991941" lon="18.37721084"/>
+  <node id="-550" lat="46.17991772" lon="18.37720375"/>
+  <node id="-551" lat="46.17991772" lon="18.37719625"/>
+  <node id="-552" lat="46.17991941" lon="18.37718916"/>
+  <node id="-553" lat="46.17992261" lon="18.37718324"/>
+  <node id="-554" lat="46.17992697" lon="18.37717914"/>
+  <node id="-555" lat="46.17993203" lon="18.37717730"/>
+  <node id="-556" lat="46.17993722" lon="18.37717792"/>
+  <node id="-557" lat="46.17994199" lon="18.37718093"/>
+  <node id="-558" lat="46.17994583" lon="18.37718601"/>
+  <node id="-559" lat="46.17994831" lon="18.37719260"/>
+  <way id="-560">
+   <nd ref="-541"/>
+   <nd ref="-542"/>
+   <nd ref="-543"/>
+   <nd ref="-544"/>
+   <nd ref="-545"/>
+   <nd ref="-546"/>
+   <nd ref="-547"/>
+   <nd ref="-548"/>
+   <nd ref="-549"/>
+   <nd ref="-550"/>
+   <nd ref="-551"/>
+   <nd ref="-552"/>
+   <nd ref="-553"/>
+   <nd ref="-554"/>
+   <nd ref="-555"/>
+   <nd ref="-556"/>
+   <nd ref="-557"/>
+   <nd ref="-558"/>
+   <nd ref="-559"/>
+   <nd ref="-541"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Zengővár (mérőtorony)"/>
+   <tag k="ele" v="680"/>
+   <tag k="height" v="17"/>
+   <tag k="start_date" v="1984"/>
+   <tag k="description" v="14-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-561" lat="47.22054917" lon="18.28083333"/>
+  <node id="-562" lat="47.22054831" lon="18.28084082"/>
+  <node id="-563" lat="47.22054583" lon="18.28084749"/>
+  <node id="-564" lat="47.22054199" lon="18.28085263"/>
+  <node id="-565" lat="47.22053722" lon="18.28085568"/>
+  <node id="-566" lat="47.22053203" lon="18.28085631"/>
+  <node id="-567" lat="47.22052697" lon="18.28085445"/>
+  <node id="-568" lat="47.22052261" lon="18.28085030"/>
+  <node id="-569" lat="47.22051941" lon="18.28084431"/>
+  <node id="-570" lat="47.22051772" lon="18.28083713"/>
+  <node id="-571" lat="47.22051772" lon="18.28082954"/>
+  <node id="-572" lat="47.22051941" lon="18.28082236"/>
+  <node id="-573" lat="47.22052261" lon="18.28081637"/>
+  <node id="-574" lat="47.22052697" lon="18.28081222"/>
+  <node id="-575" lat="47.22053203" lon="18.28081036"/>
+  <node id="-576" lat="47.22053722" lon="18.28081098"/>
+  <node id="-577" lat="47.22054199" lon="18.28081403"/>
+  <node id="-578" lat="47.22054583" lon="18.28081917"/>
+  <node id="-579" lat="47.22054831" lon="18.28082585"/>
+  <way id="-580">
+   <nd ref="-561"/>
+   <nd ref="-562"/>
+   <nd ref="-563"/>
+   <nd ref="-564"/>
+   <nd ref="-565"/>
+   <nd ref="-566"/>
+   <nd ref="-567"/>
+   <nd ref="-568"/>
+   <nd ref="-569"/>
+   <nd ref="-570"/>
+   <nd ref="-571"/>
+   <nd ref="-572"/>
+   <nd ref="-573"/>
+   <nd ref="-574"/>
+   <nd ref="-575"/>
+   <nd ref="-576"/>
+   <nd ref="-577"/>
+   <nd ref="-578"/>
+   <nd ref="-579"/>
+   <nd ref="-561"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Iszkahegy (mérőtorony)"/>
+   <tag k="ele" v="265"/>
+   <tag k="height" v="8"/>
+   <tag k="description" v="54-1017 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-581" lat="47.72721583" lon="17.23931667"/>
+  <node id="-582" lat="47.72721498" lon="17.23932424"/>
+  <node id="-583" lat="47.72721249" lon="17.23933100"/>
+  <node id="-584" lat="47.72720866" lon="17.23933620"/>
+  <node id="-585" lat="47.72720389" lon="17.23933929"/>
+  <node id="-586" lat="47.72719869" lon="17.23933992"/>
+  <node id="-587" lat="47.72719364" lon="17.23933803"/>
+  <node id="-588" lat="47.72718928" lon="17.23933383"/>
+  <node id="-589" lat="47.72718607" lon="17.23932777"/>
+  <node id="-590" lat="47.72718438" lon="17.23932051"/>
+  <node id="-591" lat="47.72718438" lon="17.23931283"/>
+  <node id="-592" lat="47.72718607" lon="17.23930556"/>
+  <node id="-593" lat="47.72718928" lon="17.23929950"/>
+  <node id="-594" lat="47.72719364" lon="17.23929530"/>
+  <node id="-595" lat="47.72719869" lon="17.23929341"/>
+  <node id="-596" lat="47.72720389" lon="17.23929405"/>
+  <node id="-597" lat="47.72720866" lon="17.23929713"/>
+  <node id="-598" lat="47.72721249" lon="17.23930234"/>
+  <node id="-599" lat="47.72721498" lon="17.23930909"/>
+  <way id="-600">
+   <nd ref="-581"/>
+   <nd ref="-582"/>
+   <nd ref="-583"/>
+   <nd ref="-584"/>
+   <nd ref="-585"/>
+   <nd ref="-586"/>
+   <nd ref="-587"/>
+   <nd ref="-588"/>
+   <nd ref="-589"/>
+   <nd ref="-590"/>
+   <nd ref="-591"/>
+   <nd ref="-592"/>
+   <nd ref="-593"/>
+   <nd ref="-594"/>
+   <nd ref="-595"/>
+   <nd ref="-596"/>
+   <nd ref="-597"/>
+   <nd ref="-598"/>
+   <nd ref="-599"/>
+   <nd ref="-581"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Szállástető (mérőtorony)"/>
+   <tag k="ele" v="112"/>
+   <tag k="height" v="26"/>
+   <tag k="description" v="72-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-601" lat="47.83179917" lon="19.71003333"/>
+  <node id="-602" lat="47.83179831" lon="19.71004091"/>
+  <node id="-603" lat="47.83179583" lon="19.71004766"/>
+  <node id="-604" lat="47.83179199" lon="19.71005287"/>
+  <node id="-605" lat="47.83178722" lon="19.71005595"/>
+  <node id="-606" lat="47.83178203" lon="19.71005659"/>
+  <node id="-607" lat="47.83177697" lon="19.71005470"/>
+  <node id="-608" lat="47.83177261" lon="19.71005050"/>
+  <node id="-609" lat="47.83176941" lon="19.71004444"/>
+  <node id="-610" lat="47.83176772" lon="19.71003717"/>
+  <node id="-611" lat="47.83176772" lon="19.71002949"/>
+  <node id="-612" lat="47.83176941" lon="19.71002223"/>
+  <node id="-613" lat="47.83177261" lon="19.71001617"/>
+  <node id="-614" lat="47.83177697" lon="19.71001197"/>
+  <node id="-615" lat="47.83178203" lon="19.71001008"/>
+  <node id="-616" lat="47.83178722" lon="19.71001071"/>
+  <node id="-617" lat="47.83179199" lon="19.71001380"/>
+  <node id="-618" lat="47.83179583" lon="19.71001900"/>
+  <node id="-619" lat="47.83179831" lon="19.71002576"/>
+  <way id="-620">
+   <nd ref="-601"/>
+   <nd ref="-602"/>
+   <nd ref="-603"/>
+   <nd ref="-604"/>
+   <nd ref="-605"/>
+   <nd ref="-606"/>
+   <nd ref="-607"/>
+   <nd ref="-608"/>
+   <nd ref="-609"/>
+   <nd ref="-610"/>
+   <nd ref="-611"/>
+   <nd ref="-612"/>
+   <nd ref="-613"/>
+   <nd ref="-614"/>
+   <nd ref="-615"/>
+   <nd ref="-616"/>
+   <nd ref="-617"/>
+   <nd ref="-618"/>
+   <nd ref="-619"/>
+   <nd ref="-601"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Jobbágyihegy (mérőtorony)"/>
+   <tag k="ele" v="490"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="76-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-621" lat="46.91493250" lon="18.45926667"/>
+  <node id="-622" lat="46.91493164" lon="18.45927415"/>
+  <node id="-623" lat="46.91492916" lon="18.45928083"/>
+  <node id="-624" lat="46.91492533" lon="18.45928597"/>
+  <node id="-625" lat="46.91492055" lon="18.45928902"/>
+  <node id="-626" lat="46.91491536" lon="18.45928964"/>
+  <node id="-627" lat="46.91491031" lon="18.45928778"/>
+  <node id="-628" lat="46.91490594" lon="18.45928363"/>
+  <node id="-629" lat="46.91490274" lon="18.45927764"/>
+  <node id="-630" lat="46.91490105" lon="18.45927046"/>
+  <node id="-631" lat="46.91490105" lon="18.45926287"/>
+  <node id="-632" lat="46.91490274" lon="18.45925569"/>
+  <node id="-633" lat="46.91490594" lon="18.45924970"/>
+  <node id="-634" lat="46.91491031" lon="18.45924555"/>
+  <node id="-635" lat="46.91491536" lon="18.45924369"/>
+  <node id="-636" lat="46.91492055" lon="18.45924432"/>
+  <node id="-637" lat="46.91492533" lon="18.45924737"/>
+  <node id="-638" lat="46.91492916" lon="18.45925251"/>
+  <node id="-639" lat="46.91493164" lon="18.45925918"/>
+  <way id="-640">
+   <nd ref="-621"/>
+   <nd ref="-622"/>
+   <nd ref="-623"/>
+   <nd ref="-624"/>
+   <nd ref="-625"/>
+   <nd ref="-626"/>
+   <nd ref="-627"/>
+   <nd ref="-628"/>
+   <nd ref="-629"/>
+   <nd ref="-630"/>
+   <nd ref="-631"/>
+   <nd ref="-632"/>
+   <nd ref="-633"/>
+   <nd ref="-634"/>
+   <nd ref="-635"/>
+   <nd ref="-636"/>
+   <nd ref="-637"/>
+   <nd ref="-638"/>
+   <nd ref="-639"/>
+   <nd ref="-621"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Kishörcsög (mérőtorony)"/>
+   <tag k="ele" v="163"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="44-4012 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-641" lat="46.00614917" lon="19.19390000"/>
+  <node id="-642" lat="46.00614831" lon="19.19390731"/>
+  <node id="-643" lat="46.00614583" lon="19.19391382"/>
+  <node id="-644" lat="46.00614199" lon="19.19391884"/>
+  <node id="-645" lat="46.00613722" lon="19.19392181"/>
+  <node id="-646" lat="46.00613203" lon="19.19392242"/>
+  <node id="-647" lat="46.00612697" lon="19.19392060"/>
+  <node id="-648" lat="46.00612261" lon="19.19391655"/>
+  <node id="-649" lat="46.00611941" lon="19.19391071"/>
+  <node id="-650" lat="46.00611772" lon="19.19390370"/>
+  <node id="-651" lat="46.00611772" lon="19.19389630"/>
+  <node id="-652" lat="46.00611941" lon="19.19388929"/>
+  <node id="-653" lat="46.00612261" lon="19.19388345"/>
+  <node id="-654" lat="46.00612697" lon="19.19387940"/>
+  <node id="-655" lat="46.00613203" lon="19.19387758"/>
+  <node id="-656" lat="46.00613722" lon="19.19387819"/>
+  <node id="-657" lat="46.00614199" lon="19.19388116"/>
+  <node id="-658" lat="46.00614583" lon="19.19388618"/>
+  <node id="-659" lat="46.00614831" lon="19.19389269"/>
+  <way id="-660">
+   <nd ref="-641"/>
+   <nd ref="-642"/>
+   <nd ref="-643"/>
+   <nd ref="-644"/>
+   <nd ref="-645"/>
+   <nd ref="-646"/>
+   <nd ref="-647"/>
+   <nd ref="-648"/>
+   <nd ref="-649"/>
+   <nd ref="-650"/>
+   <nd ref="-651"/>
+   <nd ref="-652"/>
+   <nd ref="-653"/>
+   <nd ref="-654"/>
+   <nd ref="-655"/>
+   <nd ref="-656"/>
+   <nd ref="-657"/>
+   <nd ref="-658"/>
+   <nd ref="-659"/>
+   <nd ref="-641"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Guninhát (mérőtorony)"/>
+   <tag k="ele" v="130"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="15-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-661" lat="46.44268250" lon="19.38031667"/>
+  <node id="-662" lat="46.44268164" lon="19.38032406"/>
+  <node id="-663" lat="46.44267916" lon="19.38033066"/>
+  <node id="-664" lat="46.44267533" lon="19.38033574"/>
+  <node id="-665" lat="46.44267055" lon="19.38033875"/>
+  <node id="-666" lat="46.44266536" lon="19.38033937"/>
+  <node id="-667" lat="46.44266031" lon="19.38033753"/>
+  <node id="-668" lat="46.44265594" lon="19.38033342"/>
+  <node id="-669" lat="46.44265274" lon="19.38032751"/>
+  <node id="-670" lat="46.44265105" lon="19.38032042"/>
+  <node id="-671" lat="46.44265105" lon="19.38031292"/>
+  <node id="-672" lat="46.44265274" lon="19.38030583"/>
+  <node id="-673" lat="46.44265594" lon="19.38029991"/>
+  <node id="-674" lat="46.44266031" lon="19.38029581"/>
+  <node id="-675" lat="46.44266536" lon="19.38029397"/>
+  <node id="-676" lat="46.44267055" lon="19.38029459"/>
+  <node id="-677" lat="46.44267533" lon="19.38029760"/>
+  <node id="-678" lat="46.44267916" lon="19.38030268"/>
+  <node id="-679" lat="46.44268164" lon="19.38030927"/>
+  <way id="-680">
+   <nd ref="-661"/>
+   <nd ref="-662"/>
+   <nd ref="-663"/>
+   <nd ref="-664"/>
+   <nd ref="-665"/>
+   <nd ref="-666"/>
+   <nd ref="-667"/>
+   <nd ref="-668"/>
+   <nd ref="-669"/>
+   <nd ref="-670"/>
+   <nd ref="-671"/>
+   <nd ref="-672"/>
+   <nd ref="-673"/>
+   <nd ref="-674"/>
+   <nd ref="-675"/>
+   <nd ref="-676"/>
+   <nd ref="-677"/>
+   <nd ref="-678"/>
+   <nd ref="-679"/>
+   <nd ref="-661"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Kakashegy (mérőtorony)"/>
+   <tag k="ele" v="146"/>
+   <tag k="height" v="27"/>
+   <tag k="description" v="26-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-681" lat="47.58498250" lon="18.22665000"/>
+  <node id="-682" lat="47.58498164" lon="18.22665758"/>
+  <node id="-683" lat="47.58497916" lon="18.22666433"/>
+  <node id="-684" lat="47.58497533" lon="18.22666953"/>
+  <node id="-685" lat="47.58497055" lon="18.22667262"/>
+  <node id="-686" lat="47.58496536" lon="18.22667325"/>
+  <node id="-687" lat="47.58496031" lon="18.22667137"/>
+  <node id="-688" lat="47.58495594" lon="18.22666717"/>
+  <node id="-689" lat="47.58495274" lon="18.22666111"/>
+  <node id="-690" lat="47.58495105" lon="18.22665384"/>
+  <node id="-691" lat="47.58495105" lon="18.22664616"/>
+  <node id="-692" lat="47.58495274" lon="18.22663889"/>
+  <node id="-693" lat="47.58495594" lon="18.22663283"/>
+  <node id="-694" lat="47.58496031" lon="18.22662863"/>
+  <node id="-695" lat="47.58496536" lon="18.22662675"/>
+  <node id="-696" lat="47.58497055" lon="18.22662738"/>
+  <node id="-697" lat="47.58497533" lon="18.22663047"/>
+  <node id="-698" lat="47.58497916" lon="18.22663567"/>
+  <node id="-699" lat="47.58498164" lon="18.22664242"/>
+  <way id="-700">
+   <nd ref="-681"/>
+   <nd ref="-682"/>
+   <nd ref="-683"/>
+   <nd ref="-684"/>
+   <nd ref="-685"/>
+   <nd ref="-686"/>
+   <nd ref="-687"/>
+   <nd ref="-688"/>
+   <nd ref="-689"/>
+   <nd ref="-690"/>
+   <nd ref="-691"/>
+   <nd ref="-692"/>
+   <nd ref="-693"/>
+   <nd ref="-694"/>
+   <nd ref="-695"/>
+   <nd ref="-696"/>
+   <nd ref="-697"/>
+   <nd ref="-698"/>
+   <nd ref="-699"/>
+   <nd ref="-681"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Kocs (mérőtorony)"/>
+   <tag k="ele" v="218"/>
+   <tag k="height" v="12"/>
+   <tag k="description" v="64-1001 számú alapponton épült vasbeton geodéziai mérőtorony. Eltér az általános sablontól, előregyártott, &quot;C&quot; alakú elemekből építve. Évszám nincs, valószínűleg a legutolsó tornyok egyike."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-701" lat="47.09728250" lon="18.33010000"/>
+  <node id="-702" lat="47.09728164" lon="18.33010749"/>
+  <node id="-703" lat="47.09727916" lon="18.33011416"/>
+  <node id="-704" lat="47.09727533" lon="18.33011930"/>
+  <node id="-705" lat="47.09727055" lon="18.33012235"/>
+  <node id="-706" lat="47.09726536" lon="18.33012298"/>
+  <node id="-707" lat="47.09726031" lon="18.33012111"/>
+  <node id="-708" lat="47.09725594" lon="18.33011696"/>
+  <node id="-709" lat="47.09725274" lon="18.33011097"/>
+  <node id="-710" lat="47.09725105" lon="18.33010379"/>
+  <node id="-711" lat="47.09725105" lon="18.33009621"/>
+  <node id="-712" lat="47.09725274" lon="18.33008903"/>
+  <node id="-713" lat="47.09725594" lon="18.33008304"/>
+  <node id="-714" lat="47.09726031" lon="18.33007889"/>
+  <node id="-715" lat="47.09726536" lon="18.33007702"/>
+  <node id="-716" lat="47.09727055" lon="18.33007765"/>
+  <node id="-717" lat="47.09727533" lon="18.33008070"/>
+  <node id="-718" lat="47.09727916" lon="18.33008584"/>
+  <node id="-719" lat="47.09728164" lon="18.33009251"/>
+  <way id="-720">
+   <nd ref="-701"/>
+   <nd ref="-702"/>
+   <nd ref="-703"/>
+   <nd ref="-704"/>
+   <nd ref="-705"/>
+   <nd ref="-706"/>
+   <nd ref="-707"/>
+   <nd ref="-708"/>
+   <nd ref="-709"/>
+   <nd ref="-710"/>
+   <nd ref="-711"/>
+   <nd ref="-712"/>
+   <nd ref="-713"/>
+   <nd ref="-714"/>
+   <nd ref="-715"/>
+   <nd ref="-716"/>
+   <nd ref="-717"/>
+   <nd ref="-718"/>
+   <nd ref="-719"/>
+   <nd ref="-701"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Újszárhegy (mérőtorony)"/>
+   <tag k="ele" v="203"/>
+   <tag k="height" v="18"/>
+   <tag k="start_date" v="1978"/>
+   <tag k="description" v="54-3002 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-721" lat="46.76298250" lon="17.87613333"/>
+  <node id="-722" lat="46.76298164" lon="17.87614082"/>
+  <node id="-723" lat="46.76297916" lon="17.87614749"/>
+  <node id="-724" lat="46.76297533" lon="17.87615263"/>
+  <node id="-725" lat="46.76297055" lon="17.87615568"/>
+  <node id="-726" lat="46.76296536" lon="17.87615631"/>
+  <node id="-727" lat="46.76296031" lon="17.87615445"/>
+  <node id="-728" lat="46.76295594" lon="17.87615030"/>
+  <node id="-729" lat="46.76295274" lon="17.87614431"/>
+  <node id="-730" lat="46.76295105" lon="17.87613713"/>
+  <node id="-731" lat="46.76295105" lon="17.87612954"/>
+  <node id="-732" lat="46.76295274" lon="17.87612236"/>
+  <node id="-733" lat="46.76295594" lon="17.87611637"/>
+  <node id="-734" lat="46.76296031" lon="17.87611222"/>
+  <node id="-735" lat="46.76296536" lon="17.87611036"/>
+  <node id="-736" lat="46.76297055" lon="17.87611098"/>
+  <node id="-737" lat="46.76297533" lon="17.87611403"/>
+  <node id="-738" lat="46.76297916" lon="17.87611917"/>
+  <node id="-739" lat="46.76298164" lon="17.87612585"/>
+  <way id="-740">
+   <nd ref="-721"/>
+   <nd ref="-722"/>
+   <nd ref="-723"/>
+   <nd ref="-724"/>
+   <nd ref="-725"/>
+   <nd ref="-726"/>
+   <nd ref="-727"/>
+   <nd ref="-728"/>
+   <nd ref="-729"/>
+   <nd ref="-730"/>
+   <nd ref="-731"/>
+   <nd ref="-732"/>
+   <nd ref="-733"/>
+   <nd ref="-734"/>
+   <nd ref="-735"/>
+   <nd ref="-736"/>
+   <nd ref="-737"/>
+   <nd ref="-738"/>
+   <nd ref="-739"/>
+   <nd ref="-721"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Csillagó (mérőtorony)"/>
+   <tag k="ele" v="324"/>
+   <tag k="height" v="21"/>
+   <tag k="description" v="33-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-741" lat="46.79351583" lon="20.31506667"/>
+  <node id="-742" lat="46.79351498" lon="20.31507415"/>
+  <node id="-743" lat="46.79351249" lon="20.31508083"/>
+  <node id="-744" lat="46.79350866" lon="20.31508597"/>
+  <node id="-745" lat="46.79350389" lon="20.31508902"/>
+  <node id="-746" lat="46.79349869" lon="20.31508964"/>
+  <node id="-747" lat="46.79349364" lon="20.31508778"/>
+  <node id="-748" lat="46.79348928" lon="20.31508363"/>
+  <node id="-749" lat="46.79348607" lon="20.31507764"/>
+  <node id="-750" lat="46.79348438" lon="20.31507046"/>
+  <node id="-751" lat="46.79348438" lon="20.31506287"/>
+  <node id="-752" lat="46.79348607" lon="20.31505569"/>
+  <node id="-753" lat="46.79348928" lon="20.31504970"/>
+  <node id="-754" lat="46.79349364" lon="20.31504555"/>
+  <node id="-755" lat="46.79349869" lon="20.31504369"/>
+  <node id="-756" lat="46.79350389" lon="20.31504432"/>
+  <node id="-757" lat="46.79350866" lon="20.31504737"/>
+  <node id="-758" lat="46.79351249" lon="20.31505251"/>
+  <node id="-759" lat="46.79351498" lon="20.31505918"/>
+  <way id="-760">
+   <nd ref="-741"/>
+   <nd ref="-742"/>
+   <nd ref="-743"/>
+   <nd ref="-744"/>
+   <nd ref="-745"/>
+   <nd ref="-746"/>
+   <nd ref="-747"/>
+   <nd ref="-748"/>
+   <nd ref="-749"/>
+   <nd ref="-750"/>
+   <nd ref="-751"/>
+   <nd ref="-752"/>
+   <nd ref="-753"/>
+   <nd ref="-754"/>
+   <nd ref="-755"/>
+   <nd ref="-756"/>
+   <nd ref="-757"/>
+   <nd ref="-758"/>
+   <nd ref="-759"/>
+   <nd ref="-741"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Köttönhalom (mérőtorony)"/>
+   <tag k="ele" v="96"/>
+   <tag k="height" v="12"/>
+   <tag k="description" v="47-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-761" lat="47.53789917" lon="16.82058333"/>
+  <node id="-762" lat="47.53789831" lon="16.82059091"/>
+  <node id="-763" lat="47.53789583" lon="16.82059766"/>
+  <node id="-764" lat="47.53789199" lon="16.82060287"/>
+  <node id="-765" lat="47.53788722" lon="16.82060595"/>
+  <node id="-766" lat="47.53788203" lon="16.82060659"/>
+  <node id="-767" lat="47.53787697" lon="16.82060470"/>
+  <node id="-768" lat="47.53787261" lon="16.82060050"/>
+  <node id="-769" lat="47.53786941" lon="16.82059444"/>
+  <node id="-770" lat="47.53786772" lon="16.82058717"/>
+  <node id="-771" lat="47.53786772" lon="16.82057949"/>
+  <node id="-772" lat="47.53786941" lon="16.82057223"/>
+  <node id="-773" lat="47.53787261" lon="16.82056617"/>
+  <node id="-774" lat="47.53787697" lon="16.82056197"/>
+  <node id="-775" lat="47.53788203" lon="16.82056008"/>
+  <node id="-776" lat="47.53788722" lon="16.82056071"/>
+  <node id="-777" lat="47.53789199" lon="16.82056380"/>
+  <node id="-778" lat="47.53789583" lon="16.82056900"/>
+  <node id="-779" lat="47.53789831" lon="16.82057576"/>
+  <way id="-780">
+   <nd ref="-761"/>
+   <nd ref="-762"/>
+   <nd ref="-763"/>
+   <nd ref="-764"/>
+   <nd ref="-765"/>
+   <nd ref="-766"/>
+   <nd ref="-767"/>
+   <nd ref="-768"/>
+   <nd ref="-769"/>
+   <nd ref="-770"/>
+   <nd ref="-771"/>
+   <nd ref="-772"/>
+   <nd ref="-773"/>
+   <nd ref="-774"/>
+   <nd ref="-775"/>
+   <nd ref="-776"/>
+   <nd ref="-777"/>
+   <nd ref="-778"/>
+   <nd ref="-779"/>
+   <nd ref="-761"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Lövőidomb (mérőtorony)"/>
+   <tag k="ele" v="191"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="62-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-781" lat="46.79851583" lon="18.03815000"/>
+  <node id="-782" lat="46.79851498" lon="18.03815749"/>
+  <node id="-783" lat="46.79851249" lon="18.03816416"/>
+  <node id="-784" lat="46.79850866" lon="18.03816930"/>
+  <node id="-785" lat="46.79850389" lon="18.03817235"/>
+  <node id="-786" lat="46.79849869" lon="18.03817298"/>
+  <node id="-787" lat="46.79849364" lon="18.03817111"/>
+  <node id="-788" lat="46.79848928" lon="18.03816696"/>
+  <node id="-789" lat="46.79848607" lon="18.03816097"/>
+  <node id="-790" lat="46.79848438" lon="18.03815379"/>
+  <node id="-791" lat="46.79848438" lon="18.03814621"/>
+  <node id="-792" lat="46.79848607" lon="18.03813903"/>
+  <node id="-793" lat="46.79848928" lon="18.03813304"/>
+  <node id="-794" lat="46.79849364" lon="18.03812889"/>
+  <node id="-795" lat="46.79849869" lon="18.03812702"/>
+  <node id="-796" lat="46.79850389" lon="18.03812765"/>
+  <node id="-797" lat="46.79850866" lon="18.03813070"/>
+  <node id="-798" lat="46.79851249" lon="18.03813584"/>
+  <node id="-799" lat="46.79851498" lon="18.03814251"/>
+  <way id="-800">
+   <nd ref="-781"/>
+   <nd ref="-782"/>
+   <nd ref="-783"/>
+   <nd ref="-784"/>
+   <nd ref="-785"/>
+   <nd ref="-786"/>
+   <nd ref="-787"/>
+   <nd ref="-788"/>
+   <nd ref="-789"/>
+   <nd ref="-790"/>
+   <nd ref="-791"/>
+   <nd ref="-792"/>
+   <nd ref="-793"/>
+   <nd ref="-794"/>
+   <nd ref="-795"/>
+   <nd ref="-796"/>
+   <nd ref="-797"/>
+   <nd ref="-798"/>
+   <nd ref="-799"/>
+   <nd ref="-781"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Flórahegy (mérőtorony)"/>
+   <tag k="ele" v="287"/>
+   <tag k="height" v="12"/>
+   <tag k="description" v="43-4017 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-801" lat="46.75578250" lon="16.32330000"/>
+  <node id="-802" lat="46.75578164" lon="16.32330749"/>
+  <node id="-803" lat="46.75577916" lon="16.32331416"/>
+  <node id="-804" lat="46.75577533" lon="16.32331930"/>
+  <node id="-805" lat="46.75577055" lon="16.32332235"/>
+  <node id="-806" lat="46.75576536" lon="16.32332298"/>
+  <node id="-807" lat="46.75576031" lon="16.32332111"/>
+  <node id="-808" lat="46.75575594" lon="16.32331696"/>
+  <node id="-809" lat="46.75575274" lon="16.32331097"/>
+  <node id="-810" lat="46.75575105" lon="16.32330379"/>
+  <node id="-811" lat="46.75575105" lon="16.32329621"/>
+  <node id="-812" lat="46.75575274" lon="16.32328903"/>
+  <node id="-813" lat="46.75575594" lon="16.32328304"/>
+  <node id="-814" lat="46.75576031" lon="16.32327889"/>
+  <node id="-815" lat="46.75576536" lon="16.32327702"/>
+  <node id="-816" lat="46.75577055" lon="16.32327765"/>
+  <node id="-817" lat="46.75577533" lon="16.32328070"/>
+  <node id="-818" lat="46.75577916" lon="16.32328584"/>
+  <node id="-819" lat="46.75578164" lon="16.32329251"/>
+  <way id="-820">
+   <nd ref="-801"/>
+   <nd ref="-802"/>
+   <nd ref="-803"/>
+   <nd ref="-804"/>
+   <nd ref="-805"/>
+   <nd ref="-806"/>
+   <nd ref="-807"/>
+   <nd ref="-808"/>
+   <nd ref="-809"/>
+   <nd ref="-810"/>
+   <nd ref="-811"/>
+   <nd ref="-812"/>
+   <nd ref="-813"/>
+   <nd ref="-814"/>
+   <nd ref="-815"/>
+   <nd ref="-816"/>
+   <nd ref="-817"/>
+   <nd ref="-818"/>
+   <nd ref="-819"/>
+   <nd ref="-801"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Ritásidomb (mérőtorony)"/>
+   <tag k="ele" v="253"/>
+   <tag k="height" v="30"/>
+   <tag k="description" v="41-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-821" lat="48.33358250" lon="22.16433333"/>
+  <node id="-822" lat="48.33358164" lon="22.16434100"/>
+  <node id="-823" lat="48.33357916" lon="22.16434784"/>
+  <node id="-824" lat="48.33357533" lon="22.16435310"/>
+  <node id="-825" lat="48.33357055" lon="22.16435622"/>
+  <node id="-826" lat="48.33356536" lon="22.16435686"/>
+  <node id="-827" lat="48.33356031" lon="22.16435496"/>
+  <node id="-828" lat="48.33355594" lon="22.16435070"/>
+  <node id="-829" lat="48.33355274" lon="22.16434457"/>
+  <node id="-830" lat="48.33355105" lon="22.16433722"/>
+  <node id="-831" lat="48.33355105" lon="22.16432945"/>
+  <node id="-832" lat="48.33355274" lon="22.16432210"/>
+  <node id="-833" lat="48.33355594" lon="22.16431596"/>
+  <node id="-834" lat="48.33356031" lon="22.16431171"/>
+  <node id="-835" lat="48.33356536" lon="22.16430980"/>
+  <node id="-836" lat="48.33357055" lon="22.16431044"/>
+  <node id="-837" lat="48.33357533" lon="22.16431357"/>
+  <node id="-838" lat="48.33357916" lon="22.16431883"/>
+  <node id="-839" lat="48.33358164" lon="22.16432567"/>
+  <way id="-840">
+   <nd ref="-821"/>
+   <nd ref="-822"/>
+   <nd ref="-823"/>
+   <nd ref="-824"/>
+   <nd ref="-825"/>
+   <nd ref="-826"/>
+   <nd ref="-827"/>
+   <nd ref="-828"/>
+   <nd ref="-829"/>
+   <nd ref="-830"/>
+   <nd ref="-831"/>
+   <nd ref="-832"/>
+   <nd ref="-833"/>
+   <nd ref="-834"/>
+   <nd ref="-835"/>
+   <nd ref="-836"/>
+   <nd ref="-837"/>
+   <nd ref="-838"/>
+   <nd ref="-839"/>
+   <nd ref="-821"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Tetenke (mérőtorony)"/>
+   <tag k="ele" v="154"/>
+   <tag k="height" v="12"/>
+   <tag k="description" v="910-1002 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-841" lat="46.58211583" lon="17.36630000"/>
+  <node id="-842" lat="46.58211498" lon="17.36630740"/>
+  <node id="-843" lat="46.58211249" lon="17.36631399"/>
+  <node id="-844" lat="46.58210866" lon="17.36631907"/>
+  <node id="-845" lat="46.58210389" lon="17.36632208"/>
+  <node id="-846" lat="46.58209869" lon="17.36632270"/>
+  <node id="-847" lat="46.58209364" lon="17.36632086"/>
+  <node id="-848" lat="46.58208928" lon="17.36631676"/>
+  <node id="-849" lat="46.58208607" lon="17.36631084"/>
+  <node id="-850" lat="46.58208438" lon="17.36630375"/>
+  <node id="-851" lat="46.58208438" lon="17.36629625"/>
+  <node id="-852" lat="46.58208607" lon="17.36628916"/>
+  <node id="-853" lat="46.58208928" lon="17.36628324"/>
+  <node id="-854" lat="46.58209364" lon="17.36627914"/>
+  <node id="-855" lat="46.58209869" lon="17.36627730"/>
+  <node id="-856" lat="46.58210389" lon="17.36627792"/>
+  <node id="-857" lat="46.58210866" lon="17.36628093"/>
+  <node id="-858" lat="46.58211249" lon="17.36628601"/>
+  <node id="-859" lat="46.58211498" lon="17.36629260"/>
+  <way id="-860">
+   <nd ref="-841"/>
+   <nd ref="-842"/>
+   <nd ref="-843"/>
+   <nd ref="-844"/>
+   <nd ref="-845"/>
+   <nd ref="-846"/>
+   <nd ref="-847"/>
+   <nd ref="-848"/>
+   <nd ref="-849"/>
+   <nd ref="-850"/>
+   <nd ref="-851"/>
+   <nd ref="-852"/>
+   <nd ref="-853"/>
+   <nd ref="-854"/>
+   <nd ref="-855"/>
+   <nd ref="-856"/>
+   <nd ref="-857"/>
+   <nd ref="-858"/>
+   <nd ref="-859"/>
+   <nd ref="-841"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Marcalihegy (mérőtorony)"/>
+   <tag k="ele" v="240"/>
+   <tag k="height" v="21"/>
+   <tag k="description" v="32-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-861" lat="46.53386583" lon="20.97640000"/>
+  <node id="-862" lat="46.53386498" lon="20.97640740"/>
+  <node id="-863" lat="46.53386249" lon="20.97641399"/>
+  <node id="-864" lat="46.53385866" lon="20.97641907"/>
+  <node id="-865" lat="46.53385389" lon="20.97642208"/>
+  <node id="-866" lat="46.53384869" lon="20.97642270"/>
+  <node id="-867" lat="46.53384364" lon="20.97642086"/>
+  <node id="-868" lat="46.53383928" lon="20.97641676"/>
+  <node id="-869" lat="46.53383607" lon="20.97641084"/>
+  <node id="-870" lat="46.53383438" lon="20.97640375"/>
+  <node id="-871" lat="46.53383438" lon="20.97639625"/>
+  <node id="-872" lat="46.53383607" lon="20.97638916"/>
+  <node id="-873" lat="46.53383928" lon="20.97638324"/>
+  <node id="-874" lat="46.53384364" lon="20.97637914"/>
+  <node id="-875" lat="46.53384869" lon="20.97637730"/>
+  <node id="-876" lat="46.53385389" lon="20.97637792"/>
+  <node id="-877" lat="46.53385866" lon="20.97638093"/>
+  <node id="-878" lat="46.53386249" lon="20.97638601"/>
+  <node id="-879" lat="46.53386498" lon="20.97639260"/>
+  <way id="-880">
+   <nd ref="-861"/>
+   <nd ref="-862"/>
+   <nd ref="-863"/>
+   <nd ref="-864"/>
+   <nd ref="-865"/>
+   <nd ref="-866"/>
+   <nd ref="-867"/>
+   <nd ref="-868"/>
+   <nd ref="-869"/>
+   <nd ref="-870"/>
+   <nd ref="-871"/>
+   <nd ref="-872"/>
+   <nd ref="-873"/>
+   <nd ref="-874"/>
+   <nd ref="-875"/>
+   <nd ref="-876"/>
+   <nd ref="-877"/>
+   <nd ref="-878"/>
+   <nd ref="-879"/>
+   <nd ref="-861"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Bodzás (mérőtorony)"/>
+   <tag k="ele" v="101"/>
+   <tag k="height" v="26"/>
+   <tag k="description" v="38-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-881" lat="46.19149917" lon="19.42246667"/>
+  <node id="-882" lat="46.19149831" lon="19.42247406"/>
+  <node id="-883" lat="46.19149583" lon="19.42248066"/>
+  <node id="-884" lat="46.19149199" lon="19.42248574"/>
+  <node id="-885" lat="46.19148722" lon="19.42248875"/>
+  <node id="-886" lat="46.19148203" lon="19.42248937"/>
+  <node id="-887" lat="46.19147697" lon="19.42248753"/>
+  <node id="-888" lat="46.19147261" lon="19.42248342"/>
+  <node id="-889" lat="46.19146941" lon="19.42247751"/>
+  <node id="-890" lat="46.19146772" lon="19.42247042"/>
+  <node id="-891" lat="46.19146772" lon="19.42246292"/>
+  <node id="-892" lat="46.19146941" lon="19.42245583"/>
+  <node id="-893" lat="46.19147261" lon="19.42244991"/>
+  <node id="-894" lat="46.19147697" lon="19.42244581"/>
+  <node id="-895" lat="46.19148203" lon="19.42244397"/>
+  <node id="-896" lat="46.19148722" lon="19.42244459"/>
+  <node id="-897" lat="46.19149199" lon="19.42244760"/>
+  <node id="-898" lat="46.19149583" lon="19.42245268"/>
+  <node id="-899" lat="46.19149831" lon="19.42245927"/>
+  <way id="-900">
+   <nd ref="-881"/>
+   <nd ref="-882"/>
+   <nd ref="-883"/>
+   <nd ref="-884"/>
+   <nd ref="-885"/>
+   <nd ref="-886"/>
+   <nd ref="-887"/>
+   <nd ref="-888"/>
+   <nd ref="-889"/>
+   <nd ref="-890"/>
+   <nd ref="-891"/>
+   <nd ref="-892"/>
+   <nd ref="-893"/>
+   <nd ref="-894"/>
+   <nd ref="-895"/>
+   <nd ref="-896"/>
+   <nd ref="-897"/>
+   <nd ref="-898"/>
+   <nd ref="-899"/>
+   <nd ref="-881"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Bárányoshegy (mérőtorony)"/>
+   <tag k="ele" v="148"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="16-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-901" lat="47.84321583" lon="20.52898333"/>
+  <node id="-902" lat="47.84321498" lon="20.52899091"/>
+  <node id="-903" lat="47.84321249" lon="20.52899766"/>
+  <node id="-904" lat="47.84320866" lon="20.52900287"/>
+  <node id="-905" lat="47.84320389" lon="20.52900595"/>
+  <node id="-906" lat="47.84319869" lon="20.52900659"/>
+  <node id="-907" lat="47.84319364" lon="20.52900470"/>
+  <node id="-908" lat="47.84318928" lon="20.52900050"/>
+  <node id="-909" lat="47.84318607" lon="20.52899444"/>
+  <node id="-910" lat="47.84318438" lon="20.52898717"/>
+  <node id="-911" lat="47.84318438" lon="20.52897949"/>
+  <node id="-912" lat="47.84318607" lon="20.52897223"/>
+  <node id="-913" lat="47.84318928" lon="20.52896617"/>
+  <node id="-914" lat="47.84319364" lon="20.52896197"/>
+  <node id="-915" lat="47.84319869" lon="20.52896008"/>
+  <node id="-916" lat="47.84320389" lon="20.52896071"/>
+  <node id="-917" lat="47.84320866" lon="20.52896380"/>
+  <node id="-918" lat="47.84321249" lon="20.52896900"/>
+  <node id="-919" lat="47.84321498" lon="20.52897576"/>
+  <way id="-920">
+   <nd ref="-901"/>
+   <nd ref="-902"/>
+   <nd ref="-903"/>
+   <nd ref="-904"/>
+   <nd ref="-905"/>
+   <nd ref="-906"/>
+   <nd ref="-907"/>
+   <nd ref="-908"/>
+   <nd ref="-909"/>
+   <nd ref="-910"/>
+   <nd ref="-911"/>
+   <nd ref="-912"/>
+   <nd ref="-913"/>
+   <nd ref="-914"/>
+   <nd ref="-915"/>
+   <nd ref="-916"/>
+   <nd ref="-917"/>
+   <nd ref="-918"/>
+   <nd ref="-919"/>
+   <nd ref="-901"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Újpazsag (mérőtorony)"/>
+   <tag k="ele" v="144"/>
+   <tag k="height" v="12"/>
+   <tag k="description" v="77-2002 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-921" lat="47.25868250" lon="18.59680000"/>
+  <node id="-922" lat="47.25868164" lon="18.59680749"/>
+  <node id="-923" lat="47.25867916" lon="18.59681416"/>
+  <node id="-924" lat="47.25867533" lon="18.59681930"/>
+  <node id="-925" lat="47.25867055" lon="18.59682235"/>
+  <node id="-926" lat="47.25866536" lon="18.59682298"/>
+  <node id="-927" lat="47.25866031" lon="18.59682111"/>
+  <node id="-928" lat="47.25865594" lon="18.59681696"/>
+  <node id="-929" lat="47.25865274" lon="18.59681097"/>
+  <node id="-930" lat="47.25865105" lon="18.59680379"/>
+  <node id="-931" lat="47.25865105" lon="18.59679621"/>
+  <node id="-932" lat="47.25865274" lon="18.59678903"/>
+  <node id="-933" lat="47.25865594" lon="18.59678304"/>
+  <node id="-934" lat="47.25866031" lon="18.59677889"/>
+  <node id="-935" lat="47.25866536" lon="18.59677702"/>
+  <node id="-936" lat="47.25867055" lon="18.59677765"/>
+  <node id="-937" lat="47.25867533" lon="18.59678070"/>
+  <node id="-938" lat="47.25867916" lon="18.59678584"/>
+  <node id="-939" lat="47.25868164" lon="18.59679251"/>
+  <way id="-940">
+   <nd ref="-921"/>
+   <nd ref="-922"/>
+   <nd ref="-923"/>
+   <nd ref="-924"/>
+   <nd ref="-925"/>
+   <nd ref="-926"/>
+   <nd ref="-927"/>
+   <nd ref="-928"/>
+   <nd ref="-929"/>
+   <nd ref="-930"/>
+   <nd ref="-931"/>
+   <nd ref="-932"/>
+   <nd ref="-933"/>
+   <nd ref="-934"/>
+   <nd ref="-935"/>
+   <nd ref="-936"/>
+   <nd ref="-937"/>
+   <nd ref="-938"/>
+   <nd ref="-939"/>
+   <nd ref="-921"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation;communication"/>
+   <tag k="name" v="Meleghegy (mérőtorony)"/>
+   <tag k="ele" v="371"/>
+   <tag k="height" v="12"/>
+   <tag k="start_date" v="1975"/>
+   <tag k="description" v="54-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-941" lat="47.49001583" lon="20.89111667"/>
+  <node id="-942" lat="47.49001498" lon="20.89112424"/>
+  <node id="-943" lat="47.49001249" lon="20.89113100"/>
+  <node id="-944" lat="47.49000866" lon="20.89113620"/>
+  <node id="-945" lat="47.49000389" lon="20.89113929"/>
+  <node id="-946" lat="47.48999869" lon="20.89113992"/>
+  <node id="-947" lat="47.48999364" lon="20.89113803"/>
+  <node id="-948" lat="47.48998928" lon="20.89113383"/>
+  <node id="-949" lat="47.48998607" lon="20.89112777"/>
+  <node id="-950" lat="47.48998438" lon="20.89112051"/>
+  <node id="-951" lat="47.48998438" lon="20.89111283"/>
+  <node id="-952" lat="47.48998607" lon="20.89110556"/>
+  <node id="-953" lat="47.48998928" lon="20.89109950"/>
+  <node id="-954" lat="47.48999364" lon="20.89109530"/>
+  <node id="-955" lat="47.48999869" lon="20.89109341"/>
+  <node id="-956" lat="47.49000389" lon="20.89109405"/>
+  <node id="-957" lat="47.49000866" lon="20.89109713"/>
+  <node id="-958" lat="47.49001249" lon="20.89110234"/>
+  <node id="-959" lat="47.49001498" lon="20.89110909"/>
+  <way id="-960">
+   <nd ref="-941"/>
+   <nd ref="-942"/>
+   <nd ref="-943"/>
+   <nd ref="-944"/>
+   <nd ref="-945"/>
+   <nd ref="-946"/>
+   <nd ref="-947"/>
+   <nd ref="-948"/>
+   <nd ref="-949"/>
+   <nd ref="-950"/>
+   <nd ref="-951"/>
+   <nd ref="-952"/>
+   <nd ref="-953"/>
+   <nd ref="-954"/>
+   <nd ref="-955"/>
+   <nd ref="-956"/>
+   <nd ref="-957"/>
+   <nd ref="-958"/>
+   <nd ref="-959"/>
+   <nd ref="-941"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Bürökhalom (mérőtorony)"/>
+   <tag k="ele" v="105"/>
+   <tag k="height" v="8"/>
+   <tag k="description" v="68-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-961" lat="47.28709917" lon="20.41538333"/>
+  <node id="-962" lat="47.28709831" lon="20.41539082"/>
+  <node id="-963" lat="47.28709583" lon="20.41539749"/>
+  <node id="-964" lat="47.28709199" lon="20.41540263"/>
+  <node id="-965" lat="47.28708722" lon="20.41540568"/>
+  <node id="-966" lat="47.28708203" lon="20.41540631"/>
+  <node id="-967" lat="47.28707697" lon="20.41540445"/>
+  <node id="-968" lat="47.28707261" lon="20.41540030"/>
+  <node id="-969" lat="47.28706941" lon="20.41539431"/>
+  <node id="-970" lat="47.28706772" lon="20.41538713"/>
+  <node id="-971" lat="47.28706772" lon="20.41537954"/>
+  <node id="-972" lat="47.28706941" lon="20.41537236"/>
+  <node id="-973" lat="47.28707261" lon="20.41536637"/>
+  <node id="-974" lat="47.28707697" lon="20.41536222"/>
+  <node id="-975" lat="47.28708203" lon="20.41536036"/>
+  <node id="-976" lat="47.28708722" lon="20.41536098"/>
+  <node id="-977" lat="47.28709199" lon="20.41536403"/>
+  <node id="-978" lat="47.28709583" lon="20.41536917"/>
+  <node id="-979" lat="47.28709831" lon="20.41537585"/>
+  <way id="-980">
+   <nd ref="-961"/>
+   <nd ref="-962"/>
+   <nd ref="-963"/>
+   <nd ref="-964"/>
+   <nd ref="-965"/>
+   <nd ref="-966"/>
+   <nd ref="-967"/>
+   <nd ref="-968"/>
+   <nd ref="-969"/>
+   <nd ref="-970"/>
+   <nd ref="-971"/>
+   <nd ref="-972"/>
+   <nd ref="-973"/>
+   <nd ref="-974"/>
+   <nd ref="-975"/>
+   <nd ref="-976"/>
+   <nd ref="-977"/>
+   <nd ref="-978"/>
+   <nd ref="-979"/>
+   <nd ref="-961"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Csataszeg (mérőtorony)"/>
+   <tag k="ele" v="108"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="57-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-981" lat="47.97784917" lon="19.55195000"/>
+  <node id="-982" lat="47.97784831" lon="19.55195767"/>
+  <node id="-983" lat="47.97784583" lon="19.55196450"/>
+  <node id="-984" lat="47.97784199" lon="19.55196977"/>
+  <node id="-985" lat="47.97783722" lon="19.55197289"/>
+  <node id="-986" lat="47.97783203" lon="19.55197353"/>
+  <node id="-987" lat="47.97782697" lon="19.55197162"/>
+  <node id="-988" lat="47.97782261" lon="19.55196737"/>
+  <node id="-989" lat="47.97781941" lon="19.55196124"/>
+  <node id="-990" lat="47.97781772" lon="19.55195389"/>
+  <node id="-991" lat="47.97781772" lon="19.55194611"/>
+  <node id="-992" lat="47.97781941" lon="19.55193876"/>
+  <node id="-993" lat="47.97782261" lon="19.55193263"/>
+  <node id="-994" lat="47.97782697" lon="19.55192838"/>
+  <node id="-995" lat="47.97783203" lon="19.55192647"/>
+  <node id="-996" lat="47.97783722" lon="19.55192711"/>
+  <node id="-997" lat="47.97784199" lon="19.55193023"/>
+  <node id="-998" lat="47.97784583" lon="19.55193550"/>
+  <node id="-999" lat="47.97784831" lon="19.55194233"/>
+  <way id="-1000">
+   <nd ref="-981"/>
+   <nd ref="-982"/>
+   <nd ref="-983"/>
+   <nd ref="-984"/>
+   <nd ref="-985"/>
+   <nd ref="-986"/>
+   <nd ref="-987"/>
+   <nd ref="-988"/>
+   <nd ref="-989"/>
+   <nd ref="-990"/>
+   <nd ref="-991"/>
+   <nd ref="-992"/>
+   <nd ref="-993"/>
+   <nd ref="-994"/>
+   <nd ref="-995"/>
+   <nd ref="-996"/>
+   <nd ref="-997"/>
+   <nd ref="-998"/>
+   <nd ref="-999"/>
+   <nd ref="-981"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Dobogó (mérőtorony)"/>
+   <tag k="ele" v="511"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="86-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1001" lat="48.05333250" lon="22.17016667"/>
+  <node id="-1002" lat="48.05333164" lon="22.17017433"/>
+  <node id="-1003" lat="48.05332916" lon="22.17018117"/>
+  <node id="-1004" lat="48.05332533" lon="22.17018643"/>
+  <node id="-1005" lat="48.05332055" lon="22.17018956"/>
+  <node id="-1006" lat="48.05331536" lon="22.17019020"/>
+  <node id="-1007" lat="48.05331031" lon="22.17018829"/>
+  <node id="-1008" lat="48.05330594" lon="22.17018404"/>
+  <node id="-1009" lat="48.05330274" lon="22.17017790"/>
+  <node id="-1010" lat="48.05330105" lon="22.17017055"/>
+  <node id="-1011" lat="48.05330105" lon="22.17016278"/>
+  <node id="-1012" lat="48.05330274" lon="22.17015543"/>
+  <node id="-1013" lat="48.05330594" lon="22.17014930"/>
+  <node id="-1014" lat="48.05331031" lon="22.17014504"/>
+  <node id="-1015" lat="48.05331536" lon="22.17014314"/>
+  <node id="-1016" lat="48.05332055" lon="22.17014378"/>
+  <node id="-1017" lat="48.05332533" lon="22.17014690"/>
+  <node id="-1018" lat="48.05332916" lon="22.17015216"/>
+  <node id="-1019" lat="48.05333164" lon="22.17015900"/>
+  <way id="-1020">
+   <nd ref="-1001"/>
+   <nd ref="-1002"/>
+   <nd ref="-1003"/>
+   <nd ref="-1004"/>
+   <nd ref="-1005"/>
+   <nd ref="-1006"/>
+   <nd ref="-1007"/>
+   <nd ref="-1008"/>
+   <nd ref="-1009"/>
+   <nd ref="-1010"/>
+   <nd ref="-1011"/>
+   <nd ref="-1012"/>
+   <nd ref="-1013"/>
+   <nd ref="-1014"/>
+   <nd ref="-1015"/>
+   <nd ref="-1016"/>
+   <nd ref="-1017"/>
+   <nd ref="-1018"/>
+   <nd ref="-1019"/>
+   <nd ref="-1001"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Ricsóhegy (mérőtorony)"/>
+   <tag k="ele" v="142"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="810-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1021" lat="47.62773250" lon="21.90058333"/>
+  <node id="-1022" lat="47.62773164" lon="21.90059091"/>
+  <node id="-1023" lat="47.62772916" lon="21.90059766"/>
+  <node id="-1024" lat="47.62772533" lon="21.90060287"/>
+  <node id="-1025" lat="47.62772055" lon="21.90060595"/>
+  <node id="-1026" lat="47.62771536" lon="21.90060659"/>
+  <node id="-1027" lat="47.62771031" lon="21.90060470"/>
+  <node id="-1028" lat="47.62770594" lon="21.90060050"/>
+  <node id="-1029" lat="47.62770274" lon="21.90059444"/>
+  <node id="-1030" lat="47.62770105" lon="21.90058717"/>
+  <node id="-1031" lat="47.62770105" lon="21.90057949"/>
+  <node id="-1032" lat="47.62770274" lon="21.90057223"/>
+  <node id="-1033" lat="47.62770594" lon="21.90056617"/>
+  <node id="-1034" lat="47.62771031" lon="21.90056197"/>
+  <node id="-1035" lat="47.62771536" lon="21.90056008"/>
+  <node id="-1036" lat="47.62772055" lon="21.90056071"/>
+  <node id="-1037" lat="47.62772533" lon="21.90056380"/>
+  <node id="-1038" lat="47.62772916" lon="21.90056900"/>
+  <node id="-1039" lat="47.62773164" lon="21.90057576"/>
+  <way id="-1040">
+   <nd ref="-1021"/>
+   <nd ref="-1022"/>
+   <nd ref="-1023"/>
+   <nd ref="-1024"/>
+   <nd ref="-1025"/>
+   <nd ref="-1026"/>
+   <nd ref="-1027"/>
+   <nd ref="-1028"/>
+   <nd ref="-1029"/>
+   <nd ref="-1030"/>
+   <nd ref="-1031"/>
+   <nd ref="-1032"/>
+   <nd ref="-1033"/>
+   <nd ref="-1034"/>
+   <nd ref="-1035"/>
+   <nd ref="-1036"/>
+   <nd ref="-1037"/>
+   <nd ref="-1038"/>
+   <nd ref="-1039"/>
+   <nd ref="-1021"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Tűzőrzőhegy (mérőtorony)"/>
+   <tag k="ele" v="157"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="710-3002 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1041" lat="46.50726583" lon="16.82650000"/>
+  <node id="-1042" lat="46.50726498" lon="16.82650740"/>
+  <node id="-1043" lat="46.50726249" lon="16.82651399"/>
+  <node id="-1044" lat="46.50725866" lon="16.82651907"/>
+  <node id="-1045" lat="46.50725389" lon="16.82652208"/>
+  <node id="-1046" lat="46.50724869" lon="16.82652270"/>
+  <node id="-1047" lat="46.50724364" lon="16.82652086"/>
+  <node id="-1048" lat="46.50723928" lon="16.82651676"/>
+  <node id="-1049" lat="46.50723607" lon="16.82651084"/>
+  <node id="-1050" lat="46.50723438" lon="16.82650375"/>
+  <node id="-1051" lat="46.50723438" lon="16.82649625"/>
+  <node id="-1052" lat="46.50723607" lon="16.82648916"/>
+  <node id="-1053" lat="46.50723928" lon="16.82648324"/>
+  <node id="-1054" lat="46.50724364" lon="16.82647914"/>
+  <node id="-1055" lat="46.50724869" lon="16.82647730"/>
+  <node id="-1056" lat="46.50725389" lon="16.82647792"/>
+  <node id="-1057" lat="46.50725866" lon="16.82648093"/>
+  <node id="-1058" lat="46.50726249" lon="16.82648601"/>
+  <node id="-1059" lat="46.50726498" lon="16.82649260"/>
+  <way id="-1060">
+   <nd ref="-1041"/>
+   <nd ref="-1042"/>
+   <nd ref="-1043"/>
+   <nd ref="-1044"/>
+   <nd ref="-1045"/>
+   <nd ref="-1046"/>
+   <nd ref="-1047"/>
+   <nd ref="-1048"/>
+   <nd ref="-1049"/>
+   <nd ref="-1050"/>
+   <nd ref="-1051"/>
+   <nd ref="-1052"/>
+   <nd ref="-1053"/>
+   <nd ref="-1054"/>
+   <nd ref="-1055"/>
+   <nd ref="-1056"/>
+   <nd ref="-1057"/>
+   <nd ref="-1058"/>
+   <nd ref="-1059"/>
+   <nd ref="-1041"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Gurgóhegy (mérőtorony)"/>
+   <tag k="ele" v="316"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="31-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1061" lat="46.62699917" lon="20.63395000"/>
+  <node id="-1062" lat="46.62699831" lon="20.63395740"/>
+  <node id="-1063" lat="46.62699583" lon="20.63396399"/>
+  <node id="-1064" lat="46.62699199" lon="20.63396907"/>
+  <node id="-1065" lat="46.62698722" lon="20.63397208"/>
+  <node id="-1066" lat="46.62698203" lon="20.63397270"/>
+  <node id="-1067" lat="46.62697697" lon="20.63397086"/>
+  <node id="-1068" lat="46.62697261" lon="20.63396676"/>
+  <node id="-1069" lat="46.62696941" lon="20.63396084"/>
+  <node id="-1070" lat="46.62696772" lon="20.63395375"/>
+  <node id="-1071" lat="46.62696772" lon="20.63394625"/>
+  <node id="-1072" lat="46.62696941" lon="20.63393916"/>
+  <node id="-1073" lat="46.62697261" lon="20.63393324"/>
+  <node id="-1074" lat="46.62697697" lon="20.63392914"/>
+  <node id="-1075" lat="46.62698203" lon="20.63392730"/>
+  <node id="-1076" lat="46.62698722" lon="20.63392792"/>
+  <node id="-1077" lat="46.62699199" lon="20.63393093"/>
+  <node id="-1078" lat="46.62699583" lon="20.63393601"/>
+  <node id="-1079" lat="46.62699831" lon="20.63394260"/>
+  <way id="-1080">
+   <nd ref="-1061"/>
+   <nd ref="-1062"/>
+   <nd ref="-1063"/>
+   <nd ref="-1064"/>
+   <nd ref="-1065"/>
+   <nd ref="-1066"/>
+   <nd ref="-1067"/>
+   <nd ref="-1068"/>
+   <nd ref="-1069"/>
+   <nd ref="-1070"/>
+   <nd ref="-1071"/>
+   <nd ref="-1072"/>
+   <nd ref="-1073"/>
+   <nd ref="-1074"/>
+   <nd ref="-1075"/>
+   <nd ref="-1076"/>
+   <nd ref="-1077"/>
+   <nd ref="-1078"/>
+   <nd ref="-1079"/>
+   <nd ref="-1061"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Harasztos (mérőtorony)"/>
+   <tag k="ele" v="95"/>
+   <tag k="height" v="28"/>
+   <tag k="description" v="38-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1081" lat="46.74653250" lon="18.37808333"/>
+  <node id="-1082" lat="46.74653164" lon="18.37809082"/>
+  <node id="-1083" lat="46.74652916" lon="18.37809749"/>
+  <node id="-1084" lat="46.74652533" lon="18.37810263"/>
+  <node id="-1085" lat="46.74652055" lon="18.37810568"/>
+  <node id="-1086" lat="46.74651536" lon="18.37810631"/>
+  <node id="-1087" lat="46.74651031" lon="18.37810445"/>
+  <node id="-1088" lat="46.74650594" lon="18.37810030"/>
+  <node id="-1089" lat="46.74650274" lon="18.37809431"/>
+  <node id="-1090" lat="46.74650105" lon="18.37808713"/>
+  <node id="-1091" lat="46.74650105" lon="18.37807954"/>
+  <node id="-1092" lat="46.74650274" lon="18.37807236"/>
+  <node id="-1093" lat="46.74650594" lon="18.37806637"/>
+  <node id="-1094" lat="46.74651031" lon="18.37806222"/>
+  <node id="-1095" lat="46.74651536" lon="18.37806036"/>
+  <node id="-1096" lat="46.74652055" lon="18.37806098"/>
+  <node id="-1097" lat="46.74652533" lon="18.37806403"/>
+  <node id="-1098" lat="46.74652916" lon="18.37806917"/>
+  <node id="-1099" lat="46.74653164" lon="18.37807585"/>
+  <way id="-1100">
+   <nd ref="-1081"/>
+   <nd ref="-1082"/>
+   <nd ref="-1083"/>
+   <nd ref="-1084"/>
+   <nd ref="-1085"/>
+   <nd ref="-1086"/>
+   <nd ref="-1087"/>
+   <nd ref="-1088"/>
+   <nd ref="-1089"/>
+   <nd ref="-1090"/>
+   <nd ref="-1091"/>
+   <nd ref="-1092"/>
+   <nd ref="-1093"/>
+   <nd ref="-1094"/>
+   <nd ref="-1095"/>
+   <nd ref="-1096"/>
+   <nd ref="-1097"/>
+   <nd ref="-1098"/>
+   <nd ref="-1099"/>
+   <nd ref="-1081"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Döbröntehegy (mérőtorony)"/>
+   <tag k="ele" v="218"/>
+   <tag k="height" v="12"/>
+   <tag k="description" v="34-1012 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1101" lat="47.67563250" lon="22.20081667"/>
+  <node id="-1102" lat="47.67563164" lon="22.20082424"/>
+  <node id="-1103" lat="47.67562916" lon="22.20083100"/>
+  <node id="-1104" lat="47.67562533" lon="22.20083620"/>
+  <node id="-1105" lat="47.67562055" lon="22.20083929"/>
+  <node id="-1106" lat="47.67561536" lon="22.20083992"/>
+  <node id="-1107" lat="47.67561031" lon="22.20083803"/>
+  <node id="-1108" lat="47.67560594" lon="22.20083383"/>
+  <node id="-1109" lat="47.67560274" lon="22.20082777"/>
+  <node id="-1110" lat="47.67560105" lon="22.20082051"/>
+  <node id="-1111" lat="47.67560105" lon="22.20081283"/>
+  <node id="-1112" lat="47.67560274" lon="22.20080556"/>
+  <node id="-1113" lat="47.67560594" lon="22.20079950"/>
+  <node id="-1114" lat="47.67561031" lon="22.20079530"/>
+  <node id="-1115" lat="47.67561536" lon="22.20079341"/>
+  <node id="-1116" lat="47.67562055" lon="22.20079405"/>
+  <node id="-1117" lat="47.67562533" lon="22.20079713"/>
+  <node id="-1118" lat="47.67562916" lon="22.20080234"/>
+  <node id="-1119" lat="47.67563164" lon="22.20080909"/>
+  <way id="-1120">
+   <nd ref="-1101"/>
+   <nd ref="-1102"/>
+   <nd ref="-1103"/>
+   <nd ref="-1104"/>
+   <nd ref="-1105"/>
+   <nd ref="-1106"/>
+   <nd ref="-1107"/>
+   <nd ref="-1108"/>
+   <nd ref="-1109"/>
+   <nd ref="-1110"/>
+   <nd ref="-1111"/>
+   <nd ref="-1112"/>
+   <nd ref="-1113"/>
+   <nd ref="-1114"/>
+   <nd ref="-1115"/>
+   <nd ref="-1116"/>
+   <nd ref="-1117"/>
+   <nd ref="-1118"/>
+   <nd ref="-1119"/>
+   <nd ref="-1101"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Károlypuszta (mérőtorony)"/>
+   <tag k="ele" v="168"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="710-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1121" lat="46.51069917" lon="19.04866667"/>
+  <node id="-1122" lat="46.51069831" lon="19.04867406"/>
+  <node id="-1123" lat="46.51069583" lon="19.04868066"/>
+  <node id="-1124" lat="46.51069199" lon="19.04868574"/>
+  <node id="-1125" lat="46.51068722" lon="19.04868875"/>
+  <node id="-1126" lat="46.51068203" lon="19.04868937"/>
+  <node id="-1127" lat="46.51067697" lon="19.04868753"/>
+  <node id="-1128" lat="46.51067261" lon="19.04868342"/>
+  <node id="-1129" lat="46.51066941" lon="19.04867751"/>
+  <node id="-1130" lat="46.51066772" lon="19.04867042"/>
+  <node id="-1131" lat="46.51066772" lon="19.04866292"/>
+  <node id="-1132" lat="46.51066941" lon="19.04865583"/>
+  <node id="-1133" lat="46.51067261" lon="19.04864991"/>
+  <node id="-1134" lat="46.51067697" lon="19.04864581"/>
+  <node id="-1135" lat="46.51068203" lon="19.04864397"/>
+  <node id="-1136" lat="46.51068722" lon="19.04864459"/>
+  <node id="-1137" lat="46.51069199" lon="19.04864760"/>
+  <node id="-1138" lat="46.51069583" lon="19.04865268"/>
+  <node id="-1139" lat="46.51069831" lon="19.04865927"/>
+  <way id="-1140">
+   <nd ref="-1121"/>
+   <nd ref="-1122"/>
+   <nd ref="-1123"/>
+   <nd ref="-1124"/>
+   <nd ref="-1125"/>
+   <nd ref="-1126"/>
+   <nd ref="-1127"/>
+   <nd ref="-1128"/>
+   <nd ref="-1129"/>
+   <nd ref="-1130"/>
+   <nd ref="-1131"/>
+   <nd ref="-1132"/>
+   <nd ref="-1133"/>
+   <nd ref="-1134"/>
+   <nd ref="-1135"/>
+   <nd ref="-1136"/>
+   <nd ref="-1137"/>
+   <nd ref="-1138"/>
+   <nd ref="-1139"/>
+   <nd ref="-1121"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Halom (mérőtorony)"/>
+   <tag k="ele" v="104"/>
+   <tag k="height" v="21"/>
+   <tag k="description" v="35-4002 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1141" lat="46.26301583" lon="19.71066667"/>
+  <node id="-1142" lat="46.26301498" lon="19.71067406"/>
+  <node id="-1143" lat="46.26301249" lon="19.71068066"/>
+  <node id="-1144" lat="46.26300866" lon="19.71068574"/>
+  <node id="-1145" lat="46.26300389" lon="19.71068875"/>
+  <node id="-1146" lat="46.26299869" lon="19.71068937"/>
+  <node id="-1147" lat="46.26299364" lon="19.71068753"/>
+  <node id="-1148" lat="46.26298928" lon="19.71068342"/>
+  <node id="-1149" lat="46.26298607" lon="19.71067751"/>
+  <node id="-1150" lat="46.26298438" lon="19.71067042"/>
+  <node id="-1151" lat="46.26298438" lon="19.71066292"/>
+  <node id="-1152" lat="46.26298607" lon="19.71065583"/>
+  <node id="-1153" lat="46.26298928" lon="19.71064991"/>
+  <node id="-1154" lat="46.26299364" lon="19.71064581"/>
+  <node id="-1155" lat="46.26299869" lon="19.71064397"/>
+  <node id="-1156" lat="46.26300389" lon="19.71064459"/>
+  <node id="-1157" lat="46.26300866" lon="19.71064760"/>
+  <node id="-1158" lat="46.26301249" lon="19.71065268"/>
+  <node id="-1159" lat="46.26301498" lon="19.71065927"/>
+  <way id="-1160">
+   <nd ref="-1141"/>
+   <nd ref="-1142"/>
+   <nd ref="-1143"/>
+   <nd ref="-1144"/>
+   <nd ref="-1145"/>
+   <nd ref="-1146"/>
+   <nd ref="-1147"/>
+   <nd ref="-1148"/>
+   <nd ref="-1149"/>
+   <nd ref="-1150"/>
+   <nd ref="-1151"/>
+   <nd ref="-1152"/>
+   <nd ref="-1153"/>
+   <nd ref="-1154"/>
+   <nd ref="-1155"/>
+   <nd ref="-1156"/>
+   <nd ref="-1157"/>
+   <nd ref="-1158"/>
+   <nd ref="-1159"/>
+   <nd ref="-1141"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Őribukorhegy (mérőtorony)"/>
+   <tag k="ele" v="130"/>
+   <tag k="height" v="26"/>
+   <tag k="description" v="26-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1161" lat="46.58156583" lon="18.26936667"/>
+  <node id="-1162" lat="46.58156498" lon="18.26937406"/>
+  <node id="-1163" lat="46.58156249" lon="18.26938066"/>
+  <node id="-1164" lat="46.58155866" lon="18.26938574"/>
+  <node id="-1165" lat="46.58155389" lon="18.26938875"/>
+  <node id="-1166" lat="46.58154869" lon="18.26938937"/>
+  <node id="-1167" lat="46.58154364" lon="18.26938753"/>
+  <node id="-1168" lat="46.58153928" lon="18.26938342"/>
+  <node id="-1169" lat="46.58153607" lon="18.26937751"/>
+  <node id="-1170" lat="46.58153438" lon="18.26937042"/>
+  <node id="-1171" lat="46.58153438" lon="18.26936292"/>
+  <node id="-1172" lat="46.58153607" lon="18.26935583"/>
+  <node id="-1173" lat="46.58153928" lon="18.26934991"/>
+  <node id="-1174" lat="46.58154364" lon="18.26934581"/>
+  <node id="-1175" lat="46.58154869" lon="18.26934397"/>
+  <node id="-1176" lat="46.58155389" lon="18.26934459"/>
+  <node id="-1177" lat="46.58155866" lon="18.26934760"/>
+  <node id="-1178" lat="46.58156249" lon="18.26935268"/>
+  <node id="-1179" lat="46.58156498" lon="18.26935927"/>
+  <way id="-1180">
+   <nd ref="-1161"/>
+   <nd ref="-1162"/>
+   <nd ref="-1163"/>
+   <nd ref="-1164"/>
+   <nd ref="-1165"/>
+   <nd ref="-1166"/>
+   <nd ref="-1167"/>
+   <nd ref="-1168"/>
+   <nd ref="-1169"/>
+   <nd ref="-1170"/>
+   <nd ref="-1171"/>
+   <nd ref="-1172"/>
+   <nd ref="-1173"/>
+   <nd ref="-1174"/>
+   <nd ref="-1175"/>
+   <nd ref="-1176"/>
+   <nd ref="-1177"/>
+   <nd ref="-1178"/>
+   <nd ref="-1179"/>
+   <nd ref="-1161"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Macskahegy (mérőtorony)"/>
+   <tag k="ele" v="219"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="34-3012 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1181" lat="47.47748250" lon="19.38516667"/>
+  <node id="-1182" lat="47.47748164" lon="19.38517424"/>
+  <node id="-1183" lat="47.47747916" lon="19.38518100"/>
+  <node id="-1184" lat="47.47747533" lon="19.38518620"/>
+  <node id="-1185" lat="47.47747055" lon="19.38518929"/>
+  <node id="-1186" lat="47.47746536" lon="19.38518992"/>
+  <node id="-1187" lat="47.47746031" lon="19.38518803"/>
+  <node id="-1188" lat="47.47745594" lon="19.38518383"/>
+  <node id="-1189" lat="47.47745274" lon="19.38517777"/>
+  <node id="-1190" lat="47.47745105" lon="19.38517051"/>
+  <node id="-1191" lat="47.47745105" lon="19.38516283"/>
+  <node id="-1192" lat="47.47745274" lon="19.38515556"/>
+  <node id="-1193" lat="47.47745594" lon="19.38514950"/>
+  <node id="-1194" lat="47.47746031" lon="19.38514530"/>
+  <node id="-1195" lat="47.47746536" lon="19.38514341"/>
+  <node id="-1196" lat="47.47747055" lon="19.38514405"/>
+  <node id="-1197" lat="47.47747533" lon="19.38514713"/>
+  <node id="-1198" lat="47.47747916" lon="19.38515234"/>
+  <node id="-1199" lat="47.47748164" lon="19.38515909"/>
+  <way id="-1200">
+   <nd ref="-1181"/>
+   <nd ref="-1182"/>
+   <nd ref="-1183"/>
+   <nd ref="-1184"/>
+   <nd ref="-1185"/>
+   <nd ref="-1186"/>
+   <nd ref="-1187"/>
+   <nd ref="-1188"/>
+   <nd ref="-1189"/>
+   <nd ref="-1190"/>
+   <nd ref="-1191"/>
+   <nd ref="-1192"/>
+   <nd ref="-1193"/>
+   <nd ref="-1194"/>
+   <nd ref="-1195"/>
+   <nd ref="-1196"/>
+   <nd ref="-1197"/>
+   <nd ref="-1198"/>
+   <nd ref="-1199"/>
+   <nd ref="-1181"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Bajtemetés (mérőtorony)"/>
+   <tag k="ele" v="302"/>
+   <tag k="height" v="16"/>
+   <tag k="start_date" v="1973/1978"/>
+   <tag k="description" v="66-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1201" lat="47.78261583" lon="19.27248333"/>
+  <node id="-1202" lat="47.78261498" lon="19.27249091"/>
+  <node id="-1203" lat="47.78261249" lon="19.27249766"/>
+  <node id="-1204" lat="47.78260866" lon="19.27250287"/>
+  <node id="-1205" lat="47.78260389" lon="19.27250595"/>
+  <node id="-1206" lat="47.78259869" lon="19.27250659"/>
+  <node id="-1207" lat="47.78259364" lon="19.27250470"/>
+  <node id="-1208" lat="47.78258928" lon="19.27250050"/>
+  <node id="-1209" lat="47.78258607" lon="19.27249444"/>
+  <node id="-1210" lat="47.78258438" lon="19.27248717"/>
+  <node id="-1211" lat="47.78258438" lon="19.27247949"/>
+  <node id="-1212" lat="47.78258607" lon="19.27247223"/>
+  <node id="-1213" lat="47.78258928" lon="19.27246617"/>
+  <node id="-1214" lat="47.78259364" lon="19.27246197"/>
+  <node id="-1215" lat="47.78259869" lon="19.27246008"/>
+  <node id="-1216" lat="47.78260389" lon="19.27246071"/>
+  <node id="-1217" lat="47.78260866" lon="19.27246380"/>
+  <node id="-1218" lat="47.78261249" lon="19.27246900"/>
+  <node id="-1219" lat="47.78261498" lon="19.27247576"/>
+  <way id="-1220">
+   <nd ref="-1201"/>
+   <nd ref="-1202"/>
+   <nd ref="-1203"/>
+   <nd ref="-1204"/>
+   <nd ref="-1205"/>
+   <nd ref="-1206"/>
+   <nd ref="-1207"/>
+   <nd ref="-1208"/>
+   <nd ref="-1209"/>
+   <nd ref="-1210"/>
+   <nd ref="-1211"/>
+   <nd ref="-1212"/>
+   <nd ref="-1213"/>
+   <nd ref="-1214"/>
+   <nd ref="-1215"/>
+   <nd ref="-1216"/>
+   <nd ref="-1217"/>
+   <nd ref="-1218"/>
+   <nd ref="-1219"/>
+   <nd ref="-1201"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Látóhegy (mérőtorony)"/>
+   <tag k="ele" v="282"/>
+   <tag k="height" v="20"/>
+   <tag k="start_date" v="1976"/>
+   <tag k="description" v="75-4019 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1221" lat="47.02804917" lon="18.83905000"/>
+  <node id="-1222" lat="47.02804831" lon="18.83905749"/>
+  <node id="-1223" lat="47.02804583" lon="18.83906416"/>
+  <node id="-1224" lat="47.02804199" lon="18.83906930"/>
+  <node id="-1225" lat="47.02803722" lon="18.83907235"/>
+  <node id="-1226" lat="47.02803203" lon="18.83907298"/>
+  <node id="-1227" lat="47.02802697" lon="18.83907111"/>
+  <node id="-1228" lat="47.02802261" lon="18.83906696"/>
+  <node id="-1229" lat="47.02801941" lon="18.83906097"/>
+  <node id="-1230" lat="47.02801772" lon="18.83905379"/>
+  <node id="-1231" lat="47.02801772" lon="18.83904621"/>
+  <node id="-1232" lat="47.02801941" lon="18.83903903"/>
+  <node id="-1233" lat="47.02802261" lon="18.83903304"/>
+  <node id="-1234" lat="47.02802697" lon="18.83902889"/>
+  <node id="-1235" lat="47.02803203" lon="18.83902702"/>
+  <node id="-1236" lat="47.02803722" lon="18.83902765"/>
+  <node id="-1237" lat="47.02804199" lon="18.83903070"/>
+  <node id="-1238" lat="47.02804583" lon="18.83903584"/>
+  <node id="-1239" lat="47.02804831" lon="18.83904251"/>
+  <way id="-1240">
+   <nd ref="-1221"/>
+   <nd ref="-1222"/>
+   <nd ref="-1223"/>
+   <nd ref="-1224"/>
+   <nd ref="-1225"/>
+   <nd ref="-1226"/>
+   <nd ref="-1227"/>
+   <nd ref="-1228"/>
+   <nd ref="-1229"/>
+   <nd ref="-1230"/>
+   <nd ref="-1231"/>
+   <nd ref="-1232"/>
+   <nd ref="-1233"/>
+   <nd ref="-1234"/>
+   <nd ref="-1235"/>
+   <nd ref="-1236"/>
+   <nd ref="-1237"/>
+   <nd ref="-1238"/>
+   <nd ref="-1239"/>
+   <nd ref="-1221"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Nagyperkáta (mérőtorony)"/>
+   <tag k="ele" v="198"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="45-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1241" lat="47.00391583" lon="16.29636667"/>
+  <node id="-1242" lat="47.00391498" lon="16.29637415"/>
+  <node id="-1243" lat="47.00391249" lon="16.29638083"/>
+  <node id="-1244" lat="47.00390866" lon="16.29638597"/>
+  <node id="-1245" lat="47.00390389" lon="16.29638902"/>
+  <node id="-1246" lat="47.00389869" lon="16.29638964"/>
+  <node id="-1247" lat="47.00389364" lon="16.29638778"/>
+  <node id="-1248" lat="47.00388928" lon="16.29638363"/>
+  <node id="-1249" lat="47.00388607" lon="16.29637764"/>
+  <node id="-1250" lat="47.00388438" lon="16.29637046"/>
+  <node id="-1251" lat="47.00388438" lon="16.29636287"/>
+  <node id="-1252" lat="47.00388607" lon="16.29635569"/>
+  <node id="-1253" lat="47.00388928" lon="16.29634970"/>
+  <node id="-1254" lat="47.00389364" lon="16.29634555"/>
+  <node id="-1255" lat="47.00389869" lon="16.29634369"/>
+  <node id="-1256" lat="47.00390389" lon="16.29634432"/>
+  <node id="-1257" lat="47.00390866" lon="16.29634737"/>
+  <node id="-1258" lat="47.00391249" lon="16.29635251"/>
+  <node id="-1259" lat="47.00391498" lon="16.29635918"/>
+  <way id="-1260">
+   <nd ref="-1241"/>
+   <nd ref="-1242"/>
+   <nd ref="-1243"/>
+   <nd ref="-1244"/>
+   <nd ref="-1245"/>
+   <nd ref="-1246"/>
+   <nd ref="-1247"/>
+   <nd ref="-1248"/>
+   <nd ref="-1249"/>
+   <nd ref="-1250"/>
+   <nd ref="-1251"/>
+   <nd ref="-1252"/>
+   <nd ref="-1253"/>
+   <nd ref="-1254"/>
+   <nd ref="-1255"/>
+   <nd ref="-1256"/>
+   <nd ref="-1257"/>
+   <nd ref="-1258"/>
+   <nd ref="-1259"/>
+   <nd ref="-1241"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Csókás (mérőtorony)"/>
+   <tag k="ele" v="352"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="41-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1261" lat="46.56664917" lon="16.50325000"/>
+  <node id="-1262" lat="46.56664831" lon="16.50325740"/>
+  <node id="-1263" lat="46.56664583" lon="16.50326399"/>
+  <node id="-1264" lat="46.56664199" lon="16.50326907"/>
+  <node id="-1265" lat="46.56663722" lon="16.50327208"/>
+  <node id="-1266" lat="46.56663203" lon="16.50327270"/>
+  <node id="-1267" lat="46.56662697" lon="16.50327086"/>
+  <node id="-1268" lat="46.56662261" lon="16.50326676"/>
+  <node id="-1269" lat="46.56661941" lon="16.50326084"/>
+  <node id="-1270" lat="46.56661772" lon="16.50325375"/>
+  <node id="-1271" lat="46.56661772" lon="16.50324625"/>
+  <node id="-1272" lat="46.56661941" lon="16.50323916"/>
+  <node id="-1273" lat="46.56662261" lon="16.50323324"/>
+  <node id="-1274" lat="46.56662697" lon="16.50322914"/>
+  <node id="-1275" lat="46.56663203" lon="16.50322730"/>
+  <node id="-1276" lat="46.56663722" lon="16.50322792"/>
+  <node id="-1277" lat="46.56664199" lon="16.50323093"/>
+  <node id="-1278" lat="46.56664583" lon="16.50323601"/>
+  <node id="-1279" lat="46.56664831" lon="16.50324260"/>
+  <way id="-1280">
+   <nd ref="-1261"/>
+   <nd ref="-1262"/>
+   <nd ref="-1263"/>
+   <nd ref="-1264"/>
+   <nd ref="-1265"/>
+   <nd ref="-1266"/>
+   <nd ref="-1267"/>
+   <nd ref="-1268"/>
+   <nd ref="-1269"/>
+   <nd ref="-1270"/>
+   <nd ref="-1271"/>
+   <nd ref="-1272"/>
+   <nd ref="-1273"/>
+   <nd ref="-1274"/>
+   <nd ref="-1275"/>
+   <nd ref="-1276"/>
+   <nd ref="-1277"/>
+   <nd ref="-1278"/>
+   <nd ref="-1279"/>
+   <nd ref="-1261"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Felsőtenke (mérőtorony)"/>
+   <tag k="ele" v="325"/>
+   <tag k="height" v="24"/>
+   <tag k="start_date" v="1980"/>
+   <tag k="description" v="31-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1281" lat="46.85209917" lon="18.59688333"/>
+  <node id="-1282" lat="46.85209831" lon="18.59689082"/>
+  <node id="-1283" lat="46.85209583" lon="18.59689749"/>
+  <node id="-1284" lat="46.85209199" lon="18.59690263"/>
+  <node id="-1285" lat="46.85208722" lon="18.59690568"/>
+  <node id="-1286" lat="46.85208203" lon="18.59690631"/>
+  <node id="-1287" lat="46.85207697" lon="18.59690445"/>
+  <node id="-1288" lat="46.85207261" lon="18.59690030"/>
+  <node id="-1289" lat="46.85206941" lon="18.59689431"/>
+  <node id="-1290" lat="46.85206772" lon="18.59688713"/>
+  <node id="-1291" lat="46.85206772" lon="18.59687954"/>
+  <node id="-1292" lat="46.85206941" lon="18.59687236"/>
+  <node id="-1293" lat="46.85207261" lon="18.59686637"/>
+  <node id="-1294" lat="46.85207697" lon="18.59686222"/>
+  <node id="-1295" lat="46.85208203" lon="18.59686036"/>
+  <node id="-1296" lat="46.85208722" lon="18.59686098"/>
+  <node id="-1297" lat="46.85209199" lon="18.59686403"/>
+  <node id="-1298" lat="46.85209583" lon="18.59686917"/>
+  <node id="-1299" lat="46.85209831" lon="18.59687585"/>
+  <way id="-1300">
+   <nd ref="-1281"/>
+   <nd ref="-1282"/>
+   <nd ref="-1283"/>
+   <nd ref="-1284"/>
+   <nd ref="-1285"/>
+   <nd ref="-1286"/>
+   <nd ref="-1287"/>
+   <nd ref="-1288"/>
+   <nd ref="-1289"/>
+   <nd ref="-1290"/>
+   <nd ref="-1291"/>
+   <nd ref="-1292"/>
+   <nd ref="-1293"/>
+   <nd ref="-1294"/>
+   <nd ref="-1295"/>
+   <nd ref="-1296"/>
+   <nd ref="-1297"/>
+   <nd ref="-1298"/>
+   <nd ref="-1299"/>
+   <nd ref="-1281"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Ráchalom (mérőtorony)"/>
+   <tag k="ele" v="121"/>
+   <tag k="height" v="12"/>
+   <tag k="start_date" v="1978"/>
+   <tag k="description" v="44-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1301" lat="46.99171583" lon="18.61321667"/>
+  <node id="-1302" lat="46.99171498" lon="18.61322415"/>
+  <node id="-1303" lat="46.99171249" lon="18.61323083"/>
+  <node id="-1304" lat="46.99170866" lon="18.61323597"/>
+  <node id="-1305" lat="46.99170389" lon="18.61323902"/>
+  <node id="-1306" lat="46.99169869" lon="18.61323964"/>
+  <node id="-1307" lat="46.99169364" lon="18.61323778"/>
+  <node id="-1308" lat="46.99168928" lon="18.61323363"/>
+  <node id="-1309" lat="46.99168607" lon="18.61322764"/>
+  <node id="-1310" lat="46.99168438" lon="18.61322046"/>
+  <node id="-1311" lat="46.99168438" lon="18.61321287"/>
+  <node id="-1312" lat="46.99168607" lon="18.61320569"/>
+  <node id="-1313" lat="46.99168928" lon="18.61319970"/>
+  <node id="-1314" lat="46.99169364" lon="18.61319555"/>
+  <node id="-1315" lat="46.99169869" lon="18.61319369"/>
+  <node id="-1316" lat="46.99170389" lon="18.61319432"/>
+  <node id="-1317" lat="46.99170866" lon="18.61319737"/>
+  <node id="-1318" lat="46.99171249" lon="18.61320251"/>
+  <node id="-1319" lat="46.99171498" lon="18.61320918"/>
+  <way id="-1320">
+   <nd ref="-1301"/>
+   <nd ref="-1302"/>
+   <nd ref="-1303"/>
+   <nd ref="-1304"/>
+   <nd ref="-1305"/>
+   <nd ref="-1306"/>
+   <nd ref="-1307"/>
+   <nd ref="-1308"/>
+   <nd ref="-1309"/>
+   <nd ref="-1310"/>
+   <nd ref="-1311"/>
+   <nd ref="-1312"/>
+   <nd ref="-1313"/>
+   <nd ref="-1314"/>
+   <nd ref="-1315"/>
+   <nd ref="-1316"/>
+   <nd ref="-1317"/>
+   <nd ref="-1318"/>
+   <nd ref="-1319"/>
+   <nd ref="-1301"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Szilfamajor (mérőtorony)"/>
+   <tag k="ele" v="149"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="44-2014 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1321" lat="47.11178250" lon="18.62756667"/>
+  <node id="-1322" lat="47.11178164" lon="18.62757415"/>
+  <node id="-1323" lat="47.11177916" lon="18.62758083"/>
+  <node id="-1324" lat="47.11177533" lon="18.62758597"/>
+  <node id="-1325" lat="47.11177055" lon="18.62758902"/>
+  <node id="-1326" lat="47.11176536" lon="18.62758964"/>
+  <node id="-1327" lat="47.11176031" lon="18.62758778"/>
+  <node id="-1328" lat="47.11175594" lon="18.62758363"/>
+  <node id="-1329" lat="47.11175274" lon="18.62757764"/>
+  <node id="-1330" lat="47.11175105" lon="18.62757046"/>
+  <node id="-1331" lat="47.11175105" lon="18.62756287"/>
+  <node id="-1332" lat="47.11175274" lon="18.62755569"/>
+  <node id="-1333" lat="47.11175594" lon="18.62754970"/>
+  <node id="-1334" lat="47.11176031" lon="18.62754555"/>
+  <node id="-1335" lat="47.11176536" lon="18.62754369"/>
+  <node id="-1336" lat="47.11177055" lon="18.62754432"/>
+  <node id="-1337" lat="47.11177533" lon="18.62754737"/>
+  <node id="-1338" lat="47.11177916" lon="18.62755251"/>
+  <node id="-1339" lat="47.11178164" lon="18.62755918"/>
+  <way id="-1340">
+   <nd ref="-1321"/>
+   <nd ref="-1322"/>
+   <nd ref="-1323"/>
+   <nd ref="-1324"/>
+   <nd ref="-1325"/>
+   <nd ref="-1326"/>
+   <nd ref="-1327"/>
+   <nd ref="-1328"/>
+   <nd ref="-1329"/>
+   <nd ref="-1330"/>
+   <nd ref="-1331"/>
+   <nd ref="-1332"/>
+   <nd ref="-1333"/>
+   <nd ref="-1334"/>
+   <nd ref="-1335"/>
+   <nd ref="-1336"/>
+   <nd ref="-1337"/>
+   <nd ref="-1338"/>
+   <nd ref="-1339"/>
+   <nd ref="-1321"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Öreghegy (mérőtorony)"/>
+   <tag k="ele" v="152"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="54-4016 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1341" lat="46.83264917" lon="18.97766667"/>
+  <node id="-1342" lat="46.83264831" lon="18.97767415"/>
+  <node id="-1343" lat="46.83264583" lon="18.97768083"/>
+  <node id="-1344" lat="46.83264199" lon="18.97768597"/>
+  <node id="-1345" lat="46.83263722" lon="18.97768902"/>
+  <node id="-1346" lat="46.83263203" lon="18.97768964"/>
+  <node id="-1347" lat="46.83262697" lon="18.97768778"/>
+  <node id="-1348" lat="46.83262261" lon="18.97768363"/>
+  <node id="-1349" lat="46.83261941" lon="18.97767764"/>
+  <node id="-1350" lat="46.83261772" lon="18.97767046"/>
+  <node id="-1351" lat="46.83261772" lon="18.97766287"/>
+  <node id="-1352" lat="46.83261941" lon="18.97765569"/>
+  <node id="-1353" lat="46.83262261" lon="18.97764970"/>
+  <node id="-1354" lat="46.83262697" lon="18.97764555"/>
+  <node id="-1355" lat="46.83263203" lon="18.97764369"/>
+  <node id="-1356" lat="46.83263722" lon="18.97764432"/>
+  <node id="-1357" lat="46.83264199" lon="18.97764737"/>
+  <node id="-1358" lat="46.83264583" lon="18.97765251"/>
+  <node id="-1359" lat="46.83264831" lon="18.97765918"/>
+  <way id="-1360">
+   <nd ref="-1341"/>
+   <nd ref="-1342"/>
+   <nd ref="-1343"/>
+   <nd ref="-1344"/>
+   <nd ref="-1345"/>
+   <nd ref="-1346"/>
+   <nd ref="-1347"/>
+   <nd ref="-1348"/>
+   <nd ref="-1349"/>
+   <nd ref="-1350"/>
+   <nd ref="-1351"/>
+   <nd ref="-1352"/>
+   <nd ref="-1353"/>
+   <nd ref="-1354"/>
+   <nd ref="-1355"/>
+   <nd ref="-1356"/>
+   <nd ref="-1357"/>
+   <nd ref="-1358"/>
+   <nd ref="-1359"/>
+   <nd ref="-1341"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Ebédlesőhegy (mérőtorony)"/>
+   <tag k="ele" v="127"/>
+   <tag k="height" v="8"/>
+   <tag k="description" v="45-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1361" lat="46.29588250" lon="16.98141667"/>
+  <node id="-1362" lat="46.29588164" lon="16.98142406"/>
+  <node id="-1363" lat="46.29587916" lon="16.98143066"/>
+  <node id="-1364" lat="46.29587533" lon="16.98143574"/>
+  <node id="-1365" lat="46.29587055" lon="16.98143875"/>
+  <node id="-1366" lat="46.29586536" lon="16.98143937"/>
+  <node id="-1367" lat="46.29586031" lon="16.98143753"/>
+  <node id="-1368" lat="46.29585594" lon="16.98143342"/>
+  <node id="-1369" lat="46.29585274" lon="16.98142751"/>
+  <node id="-1370" lat="46.29585105" lon="16.98142042"/>
+  <node id="-1371" lat="46.29585105" lon="16.98141292"/>
+  <node id="-1372" lat="46.29585274" lon="16.98140583"/>
+  <node id="-1373" lat="46.29585594" lon="16.98139991"/>
+  <node id="-1374" lat="46.29586031" lon="16.98139581"/>
+  <node id="-1375" lat="46.29586536" lon="16.98139397"/>
+  <node id="-1376" lat="46.29587055" lon="16.98139459"/>
+  <node id="-1377" lat="46.29587533" lon="16.98139760"/>
+  <node id="-1378" lat="46.29587916" lon="16.98140268"/>
+  <node id="-1379" lat="46.29588164" lon="16.98140927"/>
+  <way id="-1380">
+   <nd ref="-1361"/>
+   <nd ref="-1362"/>
+   <nd ref="-1363"/>
+   <nd ref="-1364"/>
+   <nd ref="-1365"/>
+   <nd ref="-1366"/>
+   <nd ref="-1367"/>
+   <nd ref="-1368"/>
+   <nd ref="-1369"/>
+   <nd ref="-1370"/>
+   <nd ref="-1371"/>
+   <nd ref="-1372"/>
+   <nd ref="-1373"/>
+   <nd ref="-1374"/>
+   <nd ref="-1375"/>
+   <nd ref="-1376"/>
+   <nd ref="-1377"/>
+   <nd ref="-1378"/>
+   <nd ref="-1379"/>
+   <nd ref="-1361"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Dombhát (mérőtorony)"/>
+   <tag k="ele" v="229"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="22-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1381" lat="46.57094917" lon="17.99771667"/>
+  <node id="-1382" lat="46.57094831" lon="17.99772406"/>
+  <node id="-1383" lat="46.57094583" lon="17.99773066"/>
+  <node id="-1384" lat="46.57094199" lon="17.99773574"/>
+  <node id="-1385" lat="46.57093722" lon="17.99773875"/>
+  <node id="-1386" lat="46.57093203" lon="17.99773937"/>
+  <node id="-1387" lat="46.57092697" lon="17.99773753"/>
+  <node id="-1388" lat="46.57092261" lon="17.99773342"/>
+  <node id="-1389" lat="46.57091941" lon="17.99772751"/>
+  <node id="-1390" lat="46.57091772" lon="17.99772042"/>
+  <node id="-1391" lat="46.57091772" lon="17.99771292"/>
+  <node id="-1392" lat="46.57091941" lon="17.99770583"/>
+  <node id="-1393" lat="46.57092261" lon="17.99769991"/>
+  <node id="-1394" lat="46.57092697" lon="17.99769581"/>
+  <node id="-1395" lat="46.57093203" lon="17.99769397"/>
+  <node id="-1396" lat="46.57093722" lon="17.99769459"/>
+  <node id="-1397" lat="46.57094199" lon="17.99769760"/>
+  <node id="-1398" lat="46.57094583" lon="17.99770268"/>
+  <node id="-1399" lat="46.57094831" lon="17.99770927"/>
+  <way id="-1400">
+   <nd ref="-1381"/>
+   <nd ref="-1382"/>
+   <nd ref="-1383"/>
+   <nd ref="-1384"/>
+   <nd ref="-1385"/>
+   <nd ref="-1386"/>
+   <nd ref="-1387"/>
+   <nd ref="-1388"/>
+   <nd ref="-1389"/>
+   <nd ref="-1390"/>
+   <nd ref="-1391"/>
+   <nd ref="-1392"/>
+   <nd ref="-1393"/>
+   <nd ref="-1394"/>
+   <nd ref="-1395"/>
+   <nd ref="-1396"/>
+   <nd ref="-1397"/>
+   <nd ref="-1398"/>
+   <nd ref="-1399"/>
+   <nd ref="-1381"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Józsefhegy (mérőtorony)"/>
+   <tag k="ele" v="297"/>
+   <tag k="height" v="21"/>
+   <tag k="description" v="33-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1401" lat="46.50408250" lon="17.70436667"/>
+  <node id="-1402" lat="46.50408164" lon="17.70437406"/>
+  <node id="-1403" lat="46.50407916" lon="17.70438066"/>
+  <node id="-1404" lat="46.50407533" lon="17.70438574"/>
+  <node id="-1405" lat="46.50407055" lon="17.70438875"/>
+  <node id="-1406" lat="46.50406536" lon="17.70438937"/>
+  <node id="-1407" lat="46.50406031" lon="17.70438753"/>
+  <node id="-1408" lat="46.50405594" lon="17.70438342"/>
+  <node id="-1409" lat="46.50405274" lon="17.70437751"/>
+  <node id="-1410" lat="46.50405105" lon="17.70437042"/>
+  <node id="-1411" lat="46.50405105" lon="17.70436292"/>
+  <node id="-1412" lat="46.50405274" lon="17.70435583"/>
+  <node id="-1413" lat="46.50405594" lon="17.70434991"/>
+  <node id="-1414" lat="46.50406031" lon="17.70434581"/>
+  <node id="-1415" lat="46.50406536" lon="17.70434397"/>
+  <node id="-1416" lat="46.50407055" lon="17.70434459"/>
+  <node id="-1417" lat="46.50407533" lon="17.70434760"/>
+  <node id="-1418" lat="46.50407916" lon="17.70435268"/>
+  <node id="-1419" lat="46.50408164" lon="17.70435927"/>
+  <way id="-1420">
+   <nd ref="-1401"/>
+   <nd ref="-1402"/>
+   <nd ref="-1403"/>
+   <nd ref="-1404"/>
+   <nd ref="-1405"/>
+   <nd ref="-1406"/>
+   <nd ref="-1407"/>
+   <nd ref="-1408"/>
+   <nd ref="-1409"/>
+   <nd ref="-1410"/>
+   <nd ref="-1411"/>
+   <nd ref="-1412"/>
+   <nd ref="-1413"/>
+   <nd ref="-1414"/>
+   <nd ref="-1415"/>
+   <nd ref="-1416"/>
+   <nd ref="-1417"/>
+   <nd ref="-1418"/>
+   <nd ref="-1419"/>
+   <nd ref="-1401"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Jád (mérőtorony)"/>
+   <tag k="ele" v="190"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="33-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1421" lat="46.19369917" lon="17.22085000"/>
+  <node id="-1422" lat="46.19369831" lon="17.22085740"/>
+  <node id="-1423" lat="46.19369583" lon="17.22086399"/>
+  <node id="-1424" lat="46.19369199" lon="17.22086907"/>
+  <node id="-1425" lat="46.19368722" lon="17.22087208"/>
+  <node id="-1426" lat="46.19368203" lon="17.22087270"/>
+  <node id="-1427" lat="46.19367697" lon="17.22087086"/>
+  <node id="-1428" lat="46.19367261" lon="17.22086676"/>
+  <node id="-1429" lat="46.19366941" lon="17.22086084"/>
+  <node id="-1430" lat="46.19366772" lon="17.22085375"/>
+  <node id="-1431" lat="46.19366772" lon="17.22084625"/>
+  <node id="-1432" lat="46.19366941" lon="17.22083916"/>
+  <node id="-1433" lat="46.19367261" lon="17.22083324"/>
+  <node id="-1434" lat="46.19367697" lon="17.22082914"/>
+  <node id="-1435" lat="46.19368203" lon="17.22082730"/>
+  <node id="-1436" lat="46.19368722" lon="17.22082792"/>
+  <node id="-1437" lat="46.19369199" lon="17.22083093"/>
+  <node id="-1438" lat="46.19369583" lon="17.22083601"/>
+  <node id="-1439" lat="46.19369831" lon="17.22084260"/>
+  <way id="-1440">
+   <nd ref="-1421"/>
+   <nd ref="-1422"/>
+   <nd ref="-1423"/>
+   <nd ref="-1424"/>
+   <nd ref="-1425"/>
+   <nd ref="-1426"/>
+   <nd ref="-1427"/>
+   <nd ref="-1428"/>
+   <nd ref="-1429"/>
+   <nd ref="-1430"/>
+   <nd ref="-1431"/>
+   <nd ref="-1432"/>
+   <nd ref="-1433"/>
+   <nd ref="-1434"/>
+   <nd ref="-1435"/>
+   <nd ref="-1436"/>
+   <nd ref="-1437"/>
+   <nd ref="-1438"/>
+   <nd ref="-1439"/>
+   <nd ref="-1421"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Homokorra (mérőtorony)"/>
+   <tag k="ele" v="168"/>
+   <tag k="height" v="28"/>
+   <tag k="description" v="22-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1441" lat="47.69181583" lon="16.63376667"/>
+  <node id="-1442" lat="47.69181498" lon="16.63377424"/>
+  <node id="-1443" lat="47.69181249" lon="16.63378100"/>
+  <node id="-1444" lat="47.69180866" lon="16.63378620"/>
+  <node id="-1445" lat="47.69180389" lon="16.63378929"/>
+  <node id="-1446" lat="47.69179869" lon="16.63378992"/>
+  <node id="-1447" lat="47.69179364" lon="16.63378803"/>
+  <node id="-1448" lat="47.69178928" lon="16.63378383"/>
+  <node id="-1449" lat="47.69178607" lon="16.63377777"/>
+  <node id="-1450" lat="47.69178438" lon="16.63377051"/>
+  <node id="-1451" lat="47.69178438" lon="16.63376283"/>
+  <node id="-1452" lat="47.69178607" lon="16.63375556"/>
+  <node id="-1453" lat="47.69178928" lon="16.63374950"/>
+  <node id="-1454" lat="47.69179364" lon="16.63374530"/>
+  <node id="-1455" lat="47.69179869" lon="16.63374341"/>
+  <node id="-1456" lat="47.69180389" lon="16.63374405"/>
+  <node id="-1457" lat="47.69180866" lon="16.63374713"/>
+  <node id="-1458" lat="47.69181249" lon="16.63375234"/>
+  <node id="-1459" lat="47.69181498" lon="16.63375909"/>
+  <way id="-1460">
+   <nd ref="-1441"/>
+   <nd ref="-1442"/>
+   <nd ref="-1443"/>
+   <nd ref="-1444"/>
+   <nd ref="-1445"/>
+   <nd ref="-1446"/>
+   <nd ref="-1447"/>
+   <nd ref="-1448"/>
+   <nd ref="-1449"/>
+   <nd ref="-1450"/>
+   <nd ref="-1451"/>
+   <nd ref="-1452"/>
+   <nd ref="-1453"/>
+   <nd ref="-1454"/>
+   <nd ref="-1455"/>
+   <nd ref="-1456"/>
+   <nd ref="-1457"/>
+   <nd ref="-1458"/>
+   <nd ref="-1459"/>
+   <nd ref="-1441"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Cárhalom (mérőtorony)"/>
+   <tag k="ele" v="270"/>
+   <tag k="height" v="16"/>
+   <tag k="description" v="71-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1461" lat="47.67966583" lon="16.55760000"/>
+  <node id="-1462" lat="47.67966498" lon="16.55760758"/>
+  <node id="-1463" lat="47.67966249" lon="16.55761433"/>
+  <node id="-1464" lat="47.67965866" lon="16.55761953"/>
+  <node id="-1465" lat="47.67965389" lon="16.55762262"/>
+  <node id="-1466" lat="47.67964869" lon="16.55762325"/>
+  <node id="-1467" lat="47.67964364" lon="16.55762137"/>
+  <node id="-1468" lat="47.67963928" lon="16.55761717"/>
+  <node id="-1469" lat="47.67963607" lon="16.55761111"/>
+  <node id="-1470" lat="47.67963438" lon="16.55760384"/>
+  <node id="-1471" lat="47.67963438" lon="16.55759616"/>
+  <node id="-1472" lat="47.67963607" lon="16.55758889"/>
+  <node id="-1473" lat="47.67963928" lon="16.55758283"/>
+  <node id="-1474" lat="47.67964364" lon="16.55757863"/>
+  <node id="-1475" lat="47.67964869" lon="16.55757675"/>
+  <node id="-1476" lat="47.67965389" lon="16.55757738"/>
+  <node id="-1477" lat="47.67965866" lon="16.55758047"/>
+  <node id="-1478" lat="47.67966249" lon="16.55758567"/>
+  <node id="-1479" lat="47.67966498" lon="16.55759242"/>
+  <way id="-1480">
+   <nd ref="-1461"/>
+   <nd ref="-1462"/>
+   <nd ref="-1463"/>
+   <nd ref="-1464"/>
+   <nd ref="-1465"/>
+   <nd ref="-1466"/>
+   <nd ref="-1467"/>
+   <nd ref="-1468"/>
+   <nd ref="-1469"/>
+   <nd ref="-1470"/>
+   <nd ref="-1471"/>
+   <nd ref="-1472"/>
+   <nd ref="-1473"/>
+   <nd ref="-1474"/>
+   <nd ref="-1475"/>
+   <nd ref="-1476"/>
+   <nd ref="-1477"/>
+   <nd ref="-1478"/>
+   <nd ref="-1479"/>
+   <nd ref="-1461"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation;communication"/>
+   <tag k="name" v="Nádormagaslat (mérőtorony)"/>
+   <tag k="ele" v="299"/>
+   <tag k="height" v="15"/>
+   <tag k="description" v="71-4316 számú alapponton épült vasbeton geodéziai mérőtorony. Negyedrendű alap HP, az egyetlen negyedrendű pont, ahol ismereteink szerint betontorony épült. Nem FÖMI"/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1481" lat="47.68051583" lon="18.48578333"/>
+  <node id="-1482" lat="47.68051498" lon="18.48579091"/>
+  <node id="-1483" lat="47.68051249" lon="18.48579766"/>
+  <node id="-1484" lat="47.68050866" lon="18.48580287"/>
+  <node id="-1485" lat="47.68050389" lon="18.48580595"/>
+  <node id="-1486" lat="47.68049869" lon="18.48580659"/>
+  <node id="-1487" lat="47.68049364" lon="18.48580470"/>
+  <node id="-1488" lat="47.68048928" lon="18.48580050"/>
+  <node id="-1489" lat="47.68048607" lon="18.48579444"/>
+  <node id="-1490" lat="47.68048438" lon="18.48578717"/>
+  <node id="-1491" lat="47.68048438" lon="18.48577949"/>
+  <node id="-1492" lat="47.68048607" lon="18.48577223"/>
+  <node id="-1493" lat="47.68048928" lon="18.48576617"/>
+  <node id="-1494" lat="47.68049364" lon="18.48576197"/>
+  <node id="-1495" lat="47.68049869" lon="18.48576008"/>
+  <node id="-1496" lat="47.68050389" lon="18.48576071"/>
+  <node id="-1497" lat="47.68050866" lon="18.48576380"/>
+  <node id="-1498" lat="47.68051249" lon="18.48576900"/>
+  <node id="-1499" lat="47.68051498" lon="18.48577576"/>
+  <way id="-1500">
+   <nd ref="-1481"/>
+   <nd ref="-1482"/>
+   <nd ref="-1483"/>
+   <nd ref="-1484"/>
+   <nd ref="-1485"/>
+   <nd ref="-1486"/>
+   <nd ref="-1487"/>
+   <nd ref="-1488"/>
+   <nd ref="-1489"/>
+   <nd ref="-1490"/>
+   <nd ref="-1491"/>
+   <nd ref="-1492"/>
+   <nd ref="-1493"/>
+   <nd ref="-1494"/>
+   <nd ref="-1495"/>
+   <nd ref="-1496"/>
+   <nd ref="-1497"/>
+   <nd ref="-1498"/>
+   <nd ref="-1499"/>
+   <nd ref="-1481"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Gerecse (mérőtorony)"/>
+   <tag k="ele" v="618"/>
+   <tag k="height" v="25"/>
+   <tag k="start_date" v="1976"/>
+   <tag k="description" v="74-4001 számú alapponton épült vasbeton geodéziai mérőtorony. A tornyot a Budapest Fővárosi Rádióamatőr Klub felújította 2008-ban, így az biztonságos és járható."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1501" lat="47.64468250" lon="19.33041667"/>
+  <node id="-1502" lat="47.64468164" lon="19.33042424"/>
+  <node id="-1503" lat="47.64467916" lon="19.33043100"/>
+  <node id="-1504" lat="47.64467533" lon="19.33043620"/>
+  <node id="-1505" lat="47.64467055" lon="19.33043929"/>
+  <node id="-1506" lat="47.64466536" lon="19.33043992"/>
+  <node id="-1507" lat="47.64466031" lon="19.33043803"/>
+  <node id="-1508" lat="47.64465594" lon="19.33043383"/>
+  <node id="-1509" lat="47.64465274" lon="19.33042777"/>
+  <node id="-1510" lat="47.64465105" lon="19.33042051"/>
+  <node id="-1511" lat="47.64465105" lon="19.33041283"/>
+  <node id="-1512" lat="47.64465274" lon="19.33040556"/>
+  <node id="-1513" lat="47.64465594" lon="19.33039950"/>
+  <node id="-1514" lat="47.64466031" lon="19.33039530"/>
+  <node id="-1515" lat="47.64466536" lon="19.33039341"/>
+  <node id="-1516" lat="47.64467055" lon="19.33039405"/>
+  <node id="-1517" lat="47.64467533" lon="19.33039713"/>
+  <node id="-1518" lat="47.64467916" lon="19.33040234"/>
+  <node id="-1519" lat="47.64468164" lon="19.33040909"/>
+  <way id="-1520">
+   <nd ref="-1501"/>
+   <nd ref="-1502"/>
+   <nd ref="-1503"/>
+   <nd ref="-1504"/>
+   <nd ref="-1505"/>
+   <nd ref="-1506"/>
+   <nd ref="-1507"/>
+   <nd ref="-1508"/>
+   <nd ref="-1509"/>
+   <nd ref="-1510"/>
+   <nd ref="-1511"/>
+   <nd ref="-1512"/>
+   <nd ref="-1513"/>
+   <nd ref="-1514"/>
+   <nd ref="-1515"/>
+   <nd ref="-1516"/>
+   <nd ref="-1517"/>
+   <nd ref="-1518"/>
+   <nd ref="-1519"/>
+   <nd ref="-1501"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Margita (mérőtorony)"/>
+   <tag k="ele" v="339"/>
+   <tag k="height" v="20"/>
+   <tag k="start_date" v="1974"/>
+   <tag k="description" v="65-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1521" lat="46.58069917" lon="20.25558333"/>
+  <node id="-1522" lat="46.58069831" lon="20.25559073"/>
+  <node id="-1523" lat="46.58069583" lon="20.25559732"/>
+  <node id="-1524" lat="46.58069199" lon="20.25560240"/>
+  <node id="-1525" lat="46.58068722" lon="20.25560541"/>
+  <node id="-1526" lat="46.58068203" lon="20.25560603"/>
+  <node id="-1527" lat="46.58067697" lon="20.25560419"/>
+  <node id="-1528" lat="46.58067261" lon="20.25560009"/>
+  <node id="-1529" lat="46.58066941" lon="20.25559417"/>
+  <node id="-1530" lat="46.58066772" lon="20.25558708"/>
+  <node id="-1531" lat="46.58066772" lon="20.25557958"/>
+  <node id="-1532" lat="46.58066941" lon="20.25557249"/>
+  <node id="-1533" lat="46.58067261" lon="20.25556658"/>
+  <node id="-1534" lat="46.58067697" lon="20.25556247"/>
+  <node id="-1535" lat="46.58068203" lon="20.25556063"/>
+  <node id="-1536" lat="46.58068722" lon="20.25556125"/>
+  <node id="-1537" lat="46.58069199" lon="20.25556426"/>
+  <node id="-1538" lat="46.58069583" lon="20.25556934"/>
+  <node id="-1539" lat="46.58069831" lon="20.25557594"/>
+  <way id="-1540">
+   <nd ref="-1521"/>
+   <nd ref="-1522"/>
+   <nd ref="-1523"/>
+   <nd ref="-1524"/>
+   <nd ref="-1525"/>
+   <nd ref="-1526"/>
+   <nd ref="-1527"/>
+   <nd ref="-1528"/>
+   <nd ref="-1529"/>
+   <nd ref="-1530"/>
+   <nd ref="-1531"/>
+   <nd ref="-1532"/>
+   <nd ref="-1533"/>
+   <nd ref="-1534"/>
+   <nd ref="-1535"/>
+   <nd ref="-1536"/>
+   <nd ref="-1537"/>
+   <nd ref="-1538"/>
+   <nd ref="-1539"/>
+   <nd ref="-1521"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Balástyahalom (mérőtorony)"/>
+   <tag k="ele" v="91"/>
+   <tag k="height" v="30"/>
+   <tag k="description" v="37-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1541" lat="46.36243250" lon="18.67453333"/>
+  <node id="-1542" lat="46.36243164" lon="18.67454073"/>
+  <node id="-1543" lat="46.36242916" lon="18.67454732"/>
+  <node id="-1544" lat="46.36242533" lon="18.67455240"/>
+  <node id="-1545" lat="46.36242055" lon="18.67455541"/>
+  <node id="-1546" lat="46.36241536" lon="18.67455603"/>
+  <node id="-1547" lat="46.36241031" lon="18.67455419"/>
+  <node id="-1548" lat="46.36240594" lon="18.67455009"/>
+  <node id="-1549" lat="46.36240274" lon="18.67454417"/>
+  <node id="-1550" lat="46.36240105" lon="18.67453708"/>
+  <node id="-1551" lat="46.36240105" lon="18.67452958"/>
+  <node id="-1552" lat="46.36240274" lon="18.67452249"/>
+  <node id="-1553" lat="46.36240594" lon="18.67451658"/>
+  <node id="-1554" lat="46.36241031" lon="18.67451247"/>
+  <node id="-1555" lat="46.36241536" lon="18.67451063"/>
+  <node id="-1556" lat="46.36242055" lon="18.67451125"/>
+  <node id="-1557" lat="46.36242533" lon="18.67451426"/>
+  <node id="-1558" lat="46.36242916" lon="18.67451934"/>
+  <node id="-1559" lat="46.36243164" lon="18.67452594"/>
+  <way id="-1560">
+   <nd ref="-1541"/>
+   <nd ref="-1542"/>
+   <nd ref="-1543"/>
+   <nd ref="-1544"/>
+   <nd ref="-1545"/>
+   <nd ref="-1546"/>
+   <nd ref="-1547"/>
+   <nd ref="-1548"/>
+   <nd ref="-1549"/>
+   <nd ref="-1550"/>
+   <nd ref="-1551"/>
+   <nd ref="-1552"/>
+   <nd ref="-1553"/>
+   <nd ref="-1554"/>
+   <nd ref="-1555"/>
+   <nd ref="-1556"/>
+   <nd ref="-1557"/>
+   <nd ref="-1558"/>
+   <nd ref="-1559"/>
+   <nd ref="-1541"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Cserháthegy (mérőtorony)"/>
+   <tag k="ele" v="275"/>
+   <tag k="height" v="14"/>
+   <tag k="description" v="24-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1561" lat="46.93809917" lon="19.86835000"/>
+  <node id="-1562" lat="46.93809831" lon="19.86835749"/>
+  <node id="-1563" lat="46.93809583" lon="19.86836416"/>
+  <node id="-1564" lat="46.93809199" lon="19.86836930"/>
+  <node id="-1565" lat="46.93808722" lon="19.86837235"/>
+  <node id="-1566" lat="46.93808203" lon="19.86837298"/>
+  <node id="-1567" lat="46.93807697" lon="19.86837111"/>
+  <node id="-1568" lat="46.93807261" lon="19.86836696"/>
+  <node id="-1569" lat="46.93806941" lon="19.86836097"/>
+  <node id="-1570" lat="46.93806772" lon="19.86835379"/>
+  <node id="-1571" lat="46.93806772" lon="19.86834621"/>
+  <node id="-1572" lat="46.93806941" lon="19.86833903"/>
+  <node id="-1573" lat="46.93807261" lon="19.86833304"/>
+  <node id="-1574" lat="46.93807697" lon="19.86832889"/>
+  <node id="-1575" lat="46.93808203" lon="19.86832702"/>
+  <node id="-1576" lat="46.93808722" lon="19.86832765"/>
+  <node id="-1577" lat="46.93809199" lon="19.86833070"/>
+  <node id="-1578" lat="46.93809583" lon="19.86833584"/>
+  <node id="-1579" lat="46.93809831" lon="19.86834251"/>
+  <way id="-1580">
+   <nd ref="-1561"/>
+   <nd ref="-1562"/>
+   <nd ref="-1563"/>
+   <nd ref="-1564"/>
+   <nd ref="-1565"/>
+   <nd ref="-1566"/>
+   <nd ref="-1567"/>
+   <nd ref="-1568"/>
+   <nd ref="-1569"/>
+   <nd ref="-1570"/>
+   <nd ref="-1571"/>
+   <nd ref="-1572"/>
+   <nd ref="-1573"/>
+   <nd ref="-1574"/>
+   <nd ref="-1575"/>
+   <nd ref="-1576"/>
+   <nd ref="-1577"/>
+   <nd ref="-1578"/>
+   <nd ref="-1579"/>
+   <nd ref="-1561"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Labancdűlő (mérőtorony)"/>
+   <tag k="ele" v="112"/>
+   <tag k="height" v="28"/>
+   <tag k="description" v="46-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1581" lat="47.48934917" lon="19.74678333"/>
+  <node id="-1582" lat="47.48934831" lon="19.74679091"/>
+  <node id="-1583" lat="47.48934583" lon="19.74679766"/>
+  <node id="-1584" lat="47.48934199" lon="19.74680287"/>
+  <node id="-1585" lat="47.48933722" lon="19.74680595"/>
+  <node id="-1586" lat="47.48933203" lon="19.74680659"/>
+  <node id="-1587" lat="47.48932697" lon="19.74680470"/>
+  <node id="-1588" lat="47.48932261" lon="19.74680050"/>
+  <node id="-1589" lat="47.48931941" lon="19.74679444"/>
+  <node id="-1590" lat="47.48931772" lon="19.74678717"/>
+  <node id="-1591" lat="47.48931772" lon="19.74677949"/>
+  <node id="-1592" lat="47.48931941" lon="19.74677223"/>
+  <node id="-1593" lat="47.48932261" lon="19.74676617"/>
+  <node id="-1594" lat="47.48932697" lon="19.74676197"/>
+  <node id="-1595" lat="47.48933203" lon="19.74676008"/>
+  <node id="-1596" lat="47.48933722" lon="19.74676071"/>
+  <node id="-1597" lat="47.48934199" lon="19.74676380"/>
+  <node id="-1598" lat="47.48934583" lon="19.74676900"/>
+  <node id="-1599" lat="47.48934831" lon="19.74677576"/>
+  <way id="-1600">
+   <nd ref="-1581"/>
+   <nd ref="-1582"/>
+   <nd ref="-1583"/>
+   <nd ref="-1584"/>
+   <nd ref="-1585"/>
+   <nd ref="-1586"/>
+   <nd ref="-1587"/>
+   <nd ref="-1588"/>
+   <nd ref="-1589"/>
+   <nd ref="-1590"/>
+   <nd ref="-1591"/>
+   <nd ref="-1592"/>
+   <nd ref="-1593"/>
+   <nd ref="-1594"/>
+   <nd ref="-1595"/>
+   <nd ref="-1596"/>
+   <nd ref="-1597"/>
+   <nd ref="-1598"/>
+   <nd ref="-1599"/>
+   <nd ref="-1581"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Ördögégetőhalom (mérőtorony)"/>
+   <tag k="ele" v="141"/>
+   <tag k="height" v="21"/>
+   <tag k="description" v="66-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1601" lat="47.28839917" lon="19.89328333"/>
+  <node id="-1602" lat="47.28839831" lon="19.89329082"/>
+  <node id="-1603" lat="47.28839583" lon="19.89329749"/>
+  <node id="-1604" lat="47.28839199" lon="19.89330263"/>
+  <node id="-1605" lat="47.28838722" lon="19.89330568"/>
+  <node id="-1606" lat="47.28838203" lon="19.89330631"/>
+  <node id="-1607" lat="47.28837697" lon="19.89330445"/>
+  <node id="-1608" lat="47.28837261" lon="19.89330030"/>
+  <node id="-1609" lat="47.28836941" lon="19.89329431"/>
+  <node id="-1610" lat="47.28836772" lon="19.89328713"/>
+  <node id="-1611" lat="47.28836772" lon="19.89327954"/>
+  <node id="-1612" lat="47.28836941" lon="19.89327236"/>
+  <node id="-1613" lat="47.28837261" lon="19.89326637"/>
+  <node id="-1614" lat="47.28837697" lon="19.89326222"/>
+  <node id="-1615" lat="47.28838203" lon="19.89326036"/>
+  <node id="-1616" lat="47.28838722" lon="19.89326098"/>
+  <node id="-1617" lat="47.28839199" lon="19.89326403"/>
+  <node id="-1618" lat="47.28839583" lon="19.89326917"/>
+  <node id="-1619" lat="47.28839831" lon="19.89327585"/>
+  <way id="-1620">
+   <nd ref="-1601"/>
+   <nd ref="-1602"/>
+   <nd ref="-1603"/>
+   <nd ref="-1604"/>
+   <nd ref="-1605"/>
+   <nd ref="-1606"/>
+   <nd ref="-1607"/>
+   <nd ref="-1608"/>
+   <nd ref="-1609"/>
+   <nd ref="-1610"/>
+   <nd ref="-1611"/>
+   <nd ref="-1612"/>
+   <nd ref="-1613"/>
+   <nd ref="-1614"/>
+   <nd ref="-1615"/>
+   <nd ref="-1616"/>
+   <nd ref="-1617"/>
+   <nd ref="-1618"/>
+   <nd ref="-1619"/>
+   <nd ref="-1601"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Kláratelep (mérőtorony)"/>
+   <tag k="ele" v="93"/>
+   <tag k="height" v="28"/>
+   <tag k="start_date" v="1981"/>
+   <tag k="description" v="56-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1621" lat="48.12978250" lon="22.54758333"/>
+  <node id="-1622" lat="48.12978164" lon="22.54759100"/>
+  <node id="-1623" lat="48.12977916" lon="22.54759784"/>
+  <node id="-1624" lat="48.12977533" lon="22.54760310"/>
+  <node id="-1625" lat="48.12977055" lon="22.54760622"/>
+  <node id="-1626" lat="48.12976536" lon="22.54760686"/>
+  <node id="-1627" lat="48.12976031" lon="22.54760496"/>
+  <node id="-1628" lat="48.12975594" lon="22.54760070"/>
+  <node id="-1629" lat="48.12975274" lon="22.54759457"/>
+  <node id="-1630" lat="48.12975105" lon="22.54758722"/>
+  <node id="-1631" lat="48.12975105" lon="22.54757945"/>
+  <node id="-1632" lat="48.12975274" lon="22.54757210"/>
+  <node id="-1633" lat="48.12975594" lon="22.54756596"/>
+  <node id="-1634" lat="48.12976031" lon="22.54756171"/>
+  <node id="-1635" lat="48.12976536" lon="22.54755980"/>
+  <node id="-1636" lat="48.12977055" lon="22.54756044"/>
+  <node id="-1637" lat="48.12977533" lon="22.54756357"/>
+  <node id="-1638" lat="48.12977916" lon="22.54756883"/>
+  <node id="-1639" lat="48.12978164" lon="22.54757567"/>
+  <way id="-1640">
+   <nd ref="-1621"/>
+   <nd ref="-1622"/>
+   <nd ref="-1623"/>
+   <nd ref="-1624"/>
+   <nd ref="-1625"/>
+   <nd ref="-1626"/>
+   <nd ref="-1627"/>
+   <nd ref="-1628"/>
+   <nd ref="-1629"/>
+   <nd ref="-1630"/>
+   <nd ref="-1631"/>
+   <nd ref="-1632"/>
+   <nd ref="-1633"/>
+   <nd ref="-1634"/>
+   <nd ref="-1635"/>
+   <nd ref="-1636"/>
+   <nd ref="-1637"/>
+   <nd ref="-1638"/>
+   <nd ref="-1639"/>
+   <nd ref="-1621"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Tarpainagyhegy (mérőtorony)"/>
+   <tag k="ele" v="164"/>
+   <tag k="height" v="22"/>
+   <tag k="description" v="810-2002 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1641" lat="47.05194917" lon="19.39935000"/>
+  <node id="-1642" lat="47.05194831" lon="19.39935749"/>
+  <node id="-1643" lat="47.05194583" lon="19.39936416"/>
+  <node id="-1644" lat="47.05194199" lon="19.39936930"/>
+  <node id="-1645" lat="47.05193722" lon="19.39937235"/>
+  <node id="-1646" lat="47.05193203" lon="19.39937298"/>
+  <node id="-1647" lat="47.05192697" lon="19.39937111"/>
+  <node id="-1648" lat="47.05192261" lon="19.39936696"/>
+  <node id="-1649" lat="47.05191941" lon="19.39936097"/>
+  <node id="-1650" lat="47.05191772" lon="19.39935379"/>
+  <node id="-1651" lat="47.05191772" lon="19.39934621"/>
+  <node id="-1652" lat="47.05191941" lon="19.39933903"/>
+  <node id="-1653" lat="47.05192261" lon="19.39933304"/>
+  <node id="-1654" lat="47.05192697" lon="19.39932889"/>
+  <node id="-1655" lat="47.05193203" lon="19.39932702"/>
+  <node id="-1656" lat="47.05193722" lon="19.39932765"/>
+  <node id="-1657" lat="47.05194199" lon="19.39933070"/>
+  <node id="-1658" lat="47.05194583" lon="19.39933584"/>
+  <node id="-1659" lat="47.05194831" lon="19.39934251"/>
+  <way id="-1660">
+   <nd ref="-1641"/>
+   <nd ref="-1642"/>
+   <nd ref="-1643"/>
+   <nd ref="-1644"/>
+   <nd ref="-1645"/>
+   <nd ref="-1646"/>
+   <nd ref="-1647"/>
+   <nd ref="-1648"/>
+   <nd ref="-1649"/>
+   <nd ref="-1650"/>
+   <nd ref="-1651"/>
+   <nd ref="-1652"/>
+   <nd ref="-1653"/>
+   <nd ref="-1654"/>
+   <nd ref="-1655"/>
+   <nd ref="-1656"/>
+   <nd ref="-1657"/>
+   <nd ref="-1658"/>
+   <nd ref="-1659"/>
+   <nd ref="-1641"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Erdőhegy (mérőtorony)"/>
+   <tag k="ele" v="141"/>
+   <tag k="height" v="30"/>
+   <tag k="description" v="46-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1661" lat="46.72864917" lon="18.08660000"/>
+  <node id="-1662" lat="46.72864831" lon="18.08660749"/>
+  <node id="-1663" lat="46.72864583" lon="18.08661416"/>
+  <node id="-1664" lat="46.72864199" lon="18.08661930"/>
+  <node id="-1665" lat="46.72863722" lon="18.08662235"/>
+  <node id="-1666" lat="46.72863203" lon="18.08662298"/>
+  <node id="-1667" lat="46.72862697" lon="18.08662111"/>
+  <node id="-1668" lat="46.72862261" lon="18.08661696"/>
+  <node id="-1669" lat="46.72861941" lon="18.08661097"/>
+  <node id="-1670" lat="46.72861772" lon="18.08660379"/>
+  <node id="-1671" lat="46.72861772" lon="18.08659621"/>
+  <node id="-1672" lat="46.72861941" lon="18.08658903"/>
+  <node id="-1673" lat="46.72862261" lon="18.08658304"/>
+  <node id="-1674" lat="46.72862697" lon="18.08657889"/>
+  <node id="-1675" lat="46.72863203" lon="18.08657702"/>
+  <node id="-1676" lat="46.72863722" lon="18.08657765"/>
+  <node id="-1677" lat="46.72864199" lon="18.08658070"/>
+  <node id="-1678" lat="46.72864583" lon="18.08658584"/>
+  <node id="-1679" lat="46.72864831" lon="18.08659251"/>
+  <way id="-1680">
+   <nd ref="-1661"/>
+   <nd ref="-1662"/>
+   <nd ref="-1663"/>
+   <nd ref="-1664"/>
+   <nd ref="-1665"/>
+   <nd ref="-1666"/>
+   <nd ref="-1667"/>
+   <nd ref="-1668"/>
+   <nd ref="-1669"/>
+   <nd ref="-1670"/>
+   <nd ref="-1671"/>
+   <nd ref="-1672"/>
+   <nd ref="-1673"/>
+   <nd ref="-1674"/>
+   <nd ref="-1675"/>
+   <nd ref="-1676"/>
+   <nd ref="-1677"/>
+   <nd ref="-1678"/>
+   <nd ref="-1679"/>
+   <nd ref="-1661"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Dékánhegy (mérőtorony)"/>
+   <tag k="ele" v="290"/>
+   <tag k="height" v="24"/>
+   <tag k="description" v="34-1013 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1681" lat="47.22571583" lon="18.03291667"/>
+  <node id="-1682" lat="47.22571498" lon="18.03292415"/>
+  <node id="-1683" lat="47.22571249" lon="18.03293083"/>
+  <node id="-1684" lat="47.22570866" lon="18.03293597"/>
+  <node id="-1685" lat="47.22570389" lon="18.03293902"/>
+  <node id="-1686" lat="47.22569869" lon="18.03293964"/>
+  <node id="-1687" lat="47.22569364" lon="18.03293778"/>
+  <node id="-1688" lat="47.22568928" lon="18.03293363"/>
+  <node id="-1689" lat="47.22568607" lon="18.03292764"/>
+  <node id="-1690" lat="47.22568438" lon="18.03292046"/>
+  <node id="-1691" lat="47.22568438" lon="18.03291287"/>
+  <node id="-1692" lat="47.22568607" lon="18.03290569"/>
+  <node id="-1693" lat="47.22568928" lon="18.03289970"/>
+  <node id="-1694" lat="47.22569364" lon="18.03289555"/>
+  <node id="-1695" lat="47.22569869" lon="18.03289369"/>
+  <node id="-1696" lat="47.22570389" lon="18.03289432"/>
+  <node id="-1697" lat="47.22570866" lon="18.03289737"/>
+  <node id="-1698" lat="47.22571249" lon="18.03290251"/>
+  <node id="-1699" lat="47.22571498" lon="18.03290918"/>
+  <way id="-1700">
+   <nd ref="-1681"/>
+   <nd ref="-1682"/>
+   <nd ref="-1683"/>
+   <nd ref="-1684"/>
+   <nd ref="-1685"/>
+   <nd ref="-1686"/>
+   <nd ref="-1687"/>
+   <nd ref="-1688"/>
+   <nd ref="-1689"/>
+   <nd ref="-1690"/>
+   <nd ref="-1691"/>
+   <nd ref="-1692"/>
+   <nd ref="-1693"/>
+   <nd ref="-1694"/>
+   <nd ref="-1695"/>
+   <nd ref="-1696"/>
+   <nd ref="-1697"/>
+   <nd ref="-1698"/>
+   <nd ref="-1699"/>
+   <nd ref="-1681"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Köveshegy (mérőtorony)"/>
+   <tag k="ele" v="576"/>
+   <tag k="height" v="16"/>
+   <tag k="start_date" v="1985"/>
+   <tag k="description" v="53-2017 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1701" lat="47.70469917" lon="21.02370000"/>
+  <node id="-1702" lat="47.70469831" lon="21.02370758"/>
+  <node id="-1703" lat="47.70469583" lon="21.02371433"/>
+  <node id="-1704" lat="47.70469199" lon="21.02371953"/>
+  <node id="-1705" lat="47.70468722" lon="21.02372262"/>
+  <node id="-1706" lat="47.70468203" lon="21.02372325"/>
+  <node id="-1707" lat="47.70467697" lon="21.02372137"/>
+  <node id="-1708" lat="47.70467261" lon="21.02371717"/>
+  <node id="-1709" lat="47.70466941" lon="21.02371111"/>
+  <node id="-1710" lat="47.70466772" lon="21.02370384"/>
+  <node id="-1711" lat="47.70466772" lon="21.02369616"/>
+  <node id="-1712" lat="47.70466941" lon="21.02368889"/>
+  <node id="-1713" lat="47.70467261" lon="21.02368283"/>
+  <node id="-1714" lat="47.70467697" lon="21.02367863"/>
+  <node id="-1715" lat="47.70468203" lon="21.02367675"/>
+  <node id="-1716" lat="47.70468722" lon="21.02367738"/>
+  <node id="-1717" lat="47.70469199" lon="21.02368047"/>
+  <node id="-1718" lat="47.70469583" lon="21.02368567"/>
+  <node id="-1719" lat="47.70469831" lon="21.02369242"/>
+  <way id="-1720">
+   <nd ref="-1701"/>
+   <nd ref="-1702"/>
+   <nd ref="-1703"/>
+   <nd ref="-1704"/>
+   <nd ref="-1705"/>
+   <nd ref="-1706"/>
+   <nd ref="-1707"/>
+   <nd ref="-1708"/>
+   <nd ref="-1709"/>
+   <nd ref="-1710"/>
+   <nd ref="-1711"/>
+   <nd ref="-1712"/>
+   <nd ref="-1713"/>
+   <nd ref="-1714"/>
+   <nd ref="-1715"/>
+   <nd ref="-1716"/>
+   <nd ref="-1717"/>
+   <nd ref="-1718"/>
+   <nd ref="-1719"/>
+   <nd ref="-1701"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Filagóriás (mérőtorony)"/>
+   <tag k="ele" v="106"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="78-4001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1721" lat="47.57343250" lon="20.52511667"/>
+  <node id="-1722" lat="47.57343164" lon="20.52512424"/>
+  <node id="-1723" lat="47.57342916" lon="20.52513100"/>
+  <node id="-1724" lat="47.57342533" lon="20.52513620"/>
+  <node id="-1725" lat="47.57342055" lon="20.52513929"/>
+  <node id="-1726" lat="47.57341536" lon="20.52513992"/>
+  <node id="-1727" lat="47.57341031" lon="20.52513803"/>
+  <node id="-1728" lat="47.57340594" lon="20.52513383"/>
+  <node id="-1729" lat="47.57340274" lon="20.52512777"/>
+  <node id="-1730" lat="47.57340105" lon="20.52512051"/>
+  <node id="-1731" lat="47.57340105" lon="20.52511283"/>
+  <node id="-1732" lat="47.57340274" lon="20.52510556"/>
+  <node id="-1733" lat="47.57340594" lon="20.52509950"/>
+  <node id="-1734" lat="47.57341031" lon="20.52509530"/>
+  <node id="-1735" lat="47.57341536" lon="20.52509341"/>
+  <node id="-1736" lat="47.57342055" lon="20.52509405"/>
+  <node id="-1737" lat="47.57342533" lon="20.52509713"/>
+  <node id="-1738" lat="47.57342916" lon="20.52510234"/>
+  <node id="-1739" lat="47.57343164" lon="20.52510909"/>
+  <way id="-1740">
+   <nd ref="-1721"/>
+   <nd ref="-1722"/>
+   <nd ref="-1723"/>
+   <nd ref="-1724"/>
+   <nd ref="-1725"/>
+   <nd ref="-1726"/>
+   <nd ref="-1727"/>
+   <nd ref="-1728"/>
+   <nd ref="-1729"/>
+   <nd ref="-1730"/>
+   <nd ref="-1731"/>
+   <nd ref="-1732"/>
+   <nd ref="-1733"/>
+   <nd ref="-1734"/>
+   <nd ref="-1735"/>
+   <nd ref="-1736"/>
+   <nd ref="-1737"/>
+   <nd ref="-1738"/>
+   <nd ref="-1739"/>
+   <nd ref="-1721"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Újszabószállás (mérőtorony)"/>
+   <tag k="ele" v="106"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="67-2002 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1741" lat="46.39601583" lon="20.65811667"/>
+  <node id="-1742" lat="46.39601498" lon="20.65812406"/>
+  <node id="-1743" lat="46.39601249" lon="20.65813066"/>
+  <node id="-1744" lat="46.39600866" lon="20.65813574"/>
+  <node id="-1745" lat="46.39600389" lon="20.65813875"/>
+  <node id="-1746" lat="46.39599869" lon="20.65813937"/>
+  <node id="-1747" lat="46.39599364" lon="20.65813753"/>
+  <node id="-1748" lat="46.39598928" lon="20.65813342"/>
+  <node id="-1749" lat="46.39598607" lon="20.65812751"/>
+  <node id="-1750" lat="46.39598438" lon="20.65812042"/>
+  <node id="-1751" lat="46.39598438" lon="20.65811292"/>
+  <node id="-1752" lat="46.39598607" lon="20.65810583"/>
+  <node id="-1753" lat="46.39598928" lon="20.65809991"/>
+  <node id="-1754" lat="46.39599364" lon="20.65809581"/>
+  <node id="-1755" lat="46.39599869" lon="20.65809397"/>
+  <node id="-1756" lat="46.39600389" lon="20.65809459"/>
+  <node id="-1757" lat="46.39600866" lon="20.65809760"/>
+  <node id="-1758" lat="46.39601249" lon="20.65810268"/>
+  <node id="-1759" lat="46.39601498" lon="20.65810927"/>
+  <way id="-1760">
+   <nd ref="-1741"/>
+   <nd ref="-1742"/>
+   <nd ref="-1743"/>
+   <nd ref="-1744"/>
+   <nd ref="-1745"/>
+   <nd ref="-1746"/>
+   <nd ref="-1747"/>
+   <nd ref="-1748"/>
+   <nd ref="-1749"/>
+   <nd ref="-1750"/>
+   <nd ref="-1751"/>
+   <nd ref="-1752"/>
+   <nd ref="-1753"/>
+   <nd ref="-1754"/>
+   <nd ref="-1755"/>
+   <nd ref="-1756"/>
+   <nd ref="-1757"/>
+   <nd ref="-1758"/>
+   <nd ref="-1759"/>
+   <nd ref="-1741"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Jeldomb (mérőtorony)"/>
+   <tag k="ele" v="94"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="28-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1761" lat="47.83354917" lon="19.15155000"/>
+  <node id="-1762" lat="47.83354831" lon="19.15155758"/>
+  <node id="-1763" lat="47.83354583" lon="19.15156433"/>
+  <node id="-1764" lat="47.83354199" lon="19.15156953"/>
+  <node id="-1765" lat="47.83353722" lon="19.15157262"/>
+  <node id="-1766" lat="47.83353203" lon="19.15157325"/>
+  <node id="-1767" lat="47.83352697" lon="19.15157137"/>
+  <node id="-1768" lat="47.83352261" lon="19.15156717"/>
+  <node id="-1769" lat="47.83351941" lon="19.15156111"/>
+  <node id="-1770" lat="47.83351772" lon="19.15155384"/>
+  <node id="-1771" lat="47.83351772" lon="19.15154616"/>
+  <node id="-1772" lat="47.83351941" lon="19.15153889"/>
+  <node id="-1773" lat="47.83352261" lon="19.15153283"/>
+  <node id="-1774" lat="47.83352697" lon="19.15152863"/>
+  <node id="-1775" lat="47.83353203" lon="19.15152675"/>
+  <node id="-1776" lat="47.83353722" lon="19.15152738"/>
+  <node id="-1777" lat="47.83354199" lon="19.15153047"/>
+  <node id="-1778" lat="47.83354583" lon="19.15153567"/>
+  <node id="-1779" lat="47.83354831" lon="19.15154242"/>
+  <way id="-1780">
+   <nd ref="-1761"/>
+   <nd ref="-1762"/>
+   <nd ref="-1763"/>
+   <nd ref="-1764"/>
+   <nd ref="-1765"/>
+   <nd ref="-1766"/>
+   <nd ref="-1767"/>
+   <nd ref="-1768"/>
+   <nd ref="-1769"/>
+   <nd ref="-1770"/>
+   <nd ref="-1771"/>
+   <nd ref="-1772"/>
+   <nd ref="-1773"/>
+   <nd ref="-1774"/>
+   <nd ref="-1775"/>
+   <nd ref="-1776"/>
+   <nd ref="-1777"/>
+   <nd ref="-1778"/>
+   <nd ref="-1779"/>
+   <nd ref="-1761"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Naszály (mérőtorony)"/>
+   <tag k="ele" v="650"/>
+   <tag k="height" v="16"/>
+   <tag k="start_date" v="1974"/>
+   <tag k="description" v="75-2001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1781" lat="47.04116583" lon="16.81068333"/>
+  <node id="-1782" lat="47.04116498" lon="16.81069082"/>
+  <node id="-1783" lat="47.04116249" lon="16.81069749"/>
+  <node id="-1784" lat="47.04115866" lon="16.81070263"/>
+  <node id="-1785" lat="47.04115389" lon="16.81070568"/>
+  <node id="-1786" lat="47.04114869" lon="16.81070631"/>
+  <node id="-1787" lat="47.04114364" lon="16.81070445"/>
+  <node id="-1788" lat="47.04113928" lon="16.81070030"/>
+  <node id="-1789" lat="47.04113607" lon="16.81069431"/>
+  <node id="-1790" lat="47.04113438" lon="16.81068713"/>
+  <node id="-1791" lat="47.04113438" lon="16.81067954"/>
+  <node id="-1792" lat="47.04113607" lon="16.81067236"/>
+  <node id="-1793" lat="47.04113928" lon="16.81066637"/>
+  <node id="-1794" lat="47.04114364" lon="16.81066222"/>
+  <node id="-1795" lat="47.04114869" lon="16.81066036"/>
+  <node id="-1796" lat="47.04115389" lon="16.81066098"/>
+  <node id="-1797" lat="47.04115866" lon="16.81066403"/>
+  <node id="-1798" lat="47.04116249" lon="16.81066917"/>
+  <node id="-1799" lat="47.04116498" lon="16.81067585"/>
+  <way id="-1800">
+   <nd ref="-1781"/>
+   <nd ref="-1782"/>
+   <nd ref="-1783"/>
+   <nd ref="-1784"/>
+   <nd ref="-1785"/>
+   <nd ref="-1786"/>
+   <nd ref="-1787"/>
+   <nd ref="-1788"/>
+   <nd ref="-1789"/>
+   <nd ref="-1790"/>
+   <nd ref="-1791"/>
+   <nd ref="-1792"/>
+   <nd ref="-1793"/>
+   <nd ref="-1794"/>
+   <nd ref="-1795"/>
+   <nd ref="-1796"/>
+   <nd ref="-1797"/>
+   <nd ref="-1798"/>
+   <nd ref="-1799"/>
+   <nd ref="-1781"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Gesztenyés (mérőtorony)"/>
+   <tag k="ele" v="239"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="42-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1801" lat="47.48853250" lon="18.45220000"/>
+  <node id="-1802" lat="47.48853164" lon="18.45220758"/>
+  <node id="-1803" lat="47.48852916" lon="18.45221433"/>
+  <node id="-1804" lat="47.48852533" lon="18.45221953"/>
+  <node id="-1805" lat="47.48852055" lon="18.45222262"/>
+  <node id="-1806" lat="47.48851536" lon="18.45222325"/>
+  <node id="-1807" lat="47.48851031" lon="18.45222137"/>
+  <node id="-1808" lat="47.48850594" lon="18.45221717"/>
+  <node id="-1809" lat="47.48850274" lon="18.45221111"/>
+  <node id="-1810" lat="47.48850105" lon="18.45220384"/>
+  <node id="-1811" lat="47.48850105" lon="18.45219616"/>
+  <node id="-1812" lat="47.48850274" lon="18.45218889"/>
+  <node id="-1813" lat="47.48850594" lon="18.45218283"/>
+  <node id="-1814" lat="47.48851031" lon="18.45217863"/>
+  <node id="-1815" lat="47.48851536" lon="18.45217675"/>
+  <node id="-1816" lat="47.48852055" lon="18.45217738"/>
+  <node id="-1817" lat="47.48852533" lon="18.45218047"/>
+  <node id="-1818" lat="47.48852916" lon="18.45218567"/>
+  <node id="-1819" lat="47.48853164" lon="18.45219242"/>
+  <way id="-1820">
+   <nd ref="-1801"/>
+   <nd ref="-1802"/>
+   <nd ref="-1803"/>
+   <nd ref="-1804"/>
+   <nd ref="-1805"/>
+   <nd ref="-1806"/>
+   <nd ref="-1807"/>
+   <nd ref="-1808"/>
+   <nd ref="-1809"/>
+   <nd ref="-1810"/>
+   <nd ref="-1811"/>
+   <nd ref="-1812"/>
+   <nd ref="-1813"/>
+   <nd ref="-1814"/>
+   <nd ref="-1815"/>
+   <nd ref="-1816"/>
+   <nd ref="-1817"/>
+   <nd ref="-1818"/>
+   <nd ref="-1819"/>
+   <nd ref="-1801"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Körtvélyes (mérőtorony)"/>
+   <tag k="ele" v="745"/>
+   <tag k="height" v="26"/>
+   <tag k="start_date" v="1984"/>
+   <tag k="description" v="64-4011 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1821" lat="47.03408250" lon="20.17015000"/>
+  <node id="-1822" lat="47.03408164" lon="20.17015749"/>
+  <node id="-1823" lat="47.03407916" lon="20.17016416"/>
+  <node id="-1824" lat="47.03407533" lon="20.17016930"/>
+  <node id="-1825" lat="47.03407055" lon="20.17017235"/>
+  <node id="-1826" lat="47.03406536" lon="20.17017298"/>
+  <node id="-1827" lat="47.03406031" lon="20.17017111"/>
+  <node id="-1828" lat="47.03405594" lon="20.17016696"/>
+  <node id="-1829" lat="47.03405274" lon="20.17016097"/>
+  <node id="-1830" lat="47.03405105" lon="20.17015379"/>
+  <node id="-1831" lat="47.03405105" lon="20.17014621"/>
+  <node id="-1832" lat="47.03405274" lon="20.17013903"/>
+  <node id="-1833" lat="47.03405594" lon="20.17013304"/>
+  <node id="-1834" lat="47.03406031" lon="20.17012889"/>
+  <node id="-1835" lat="47.03406536" lon="20.17012702"/>
+  <node id="-1836" lat="47.03407055" lon="20.17012765"/>
+  <node id="-1837" lat="47.03407533" lon="20.17013070"/>
+  <node id="-1838" lat="47.03407916" lon="20.17013584"/>
+  <node id="-1839" lat="47.03408164" lon="20.17014251"/>
+  <way id="-1840">
+   <nd ref="-1821"/>
+   <nd ref="-1822"/>
+   <nd ref="-1823"/>
+   <nd ref="-1824"/>
+   <nd ref="-1825"/>
+   <nd ref="-1826"/>
+   <nd ref="-1827"/>
+   <nd ref="-1828"/>
+   <nd ref="-1829"/>
+   <nd ref="-1830"/>
+   <nd ref="-1831"/>
+   <nd ref="-1832"/>
+   <nd ref="-1833"/>
+   <nd ref="-1834"/>
+   <nd ref="-1835"/>
+   <nd ref="-1836"/>
+   <nd ref="-1837"/>
+   <nd ref="-1838"/>
+   <nd ref="-1839"/>
+   <nd ref="-1821"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Bökönye (mérőtorony)"/>
+   <tag k="ele" v="87"/>
+   <tag k="height" v="20"/>
+   <tag k="description" v="47-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1841" lat="47.63074917" lon="20.09425000"/>
+  <node id="-1842" lat="47.63074831" lon="20.09425758"/>
+  <node id="-1843" lat="47.63074583" lon="20.09426433"/>
+  <node id="-1844" lat="47.63074199" lon="20.09426953"/>
+  <node id="-1845" lat="47.63073722" lon="20.09427262"/>
+  <node id="-1846" lat="47.63073203" lon="20.09427325"/>
+  <node id="-1847" lat="47.63072697" lon="20.09427137"/>
+  <node id="-1848" lat="47.63072261" lon="20.09426717"/>
+  <node id="-1849" lat="47.63071941" lon="20.09426111"/>
+  <node id="-1850" lat="47.63071772" lon="20.09425384"/>
+  <node id="-1851" lat="47.63071772" lon="20.09424616"/>
+  <node id="-1852" lat="47.63071941" lon="20.09423889"/>
+  <node id="-1853" lat="47.63072261" lon="20.09423283"/>
+  <node id="-1854" lat="47.63072697" lon="20.09422863"/>
+  <node id="-1855" lat="47.63073203" lon="20.09422675"/>
+  <node id="-1856" lat="47.63073722" lon="20.09422738"/>
+  <node id="-1857" lat="47.63074199" lon="20.09423047"/>
+  <node id="-1858" lat="47.63074583" lon="20.09423567"/>
+  <node id="-1859" lat="47.63074831" lon="20.09424242"/>
+  <way id="-1860">
+   <nd ref="-1841"/>
+   <nd ref="-1842"/>
+   <nd ref="-1843"/>
+   <nd ref="-1844"/>
+   <nd ref="-1845"/>
+   <nd ref="-1846"/>
+   <nd ref="-1847"/>
+   <nd ref="-1848"/>
+   <nd ref="-1849"/>
+   <nd ref="-1850"/>
+   <nd ref="-1851"/>
+   <nd ref="-1852"/>
+   <nd ref="-1853"/>
+   <nd ref="-1854"/>
+   <nd ref="-1855"/>
+   <nd ref="-1856"/>
+   <nd ref="-1857"/>
+   <nd ref="-1858"/>
+   <nd ref="-1859"/>
+   <nd ref="-1841"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Erkihalom (mérőtorony)"/>
+   <tag k="ele" v="111"/>
+   <tag k="height" v="21"/>
+   <tag k="description" v="67-1001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+  <node id="-1861" lat="46.23823250" lon="17.72625000"/>
+  <node id="-1862" lat="46.23823164" lon="17.72625740"/>
+  <node id="-1863" lat="46.23822916" lon="17.72626399"/>
+  <node id="-1864" lat="46.23822533" lon="17.72626907"/>
+  <node id="-1865" lat="46.23822055" lon="17.72627208"/>
+  <node id="-1866" lat="46.23821536" lon="17.72627270"/>
+  <node id="-1867" lat="46.23821031" lon="17.72627086"/>
+  <node id="-1868" lat="46.23820594" lon="17.72626676"/>
+  <node id="-1869" lat="46.23820274" lon="17.72626084"/>
+  <node id="-1870" lat="46.23820105" lon="17.72625375"/>
+  <node id="-1871" lat="46.23820105" lon="17.72624625"/>
+  <node id="-1872" lat="46.23820274" lon="17.72623916"/>
+  <node id="-1873" lat="46.23820594" lon="17.72623324"/>
+  <node id="-1874" lat="46.23821031" lon="17.72622914"/>
+  <node id="-1875" lat="46.23821536" lon="17.72622730"/>
+  <node id="-1876" lat="46.23822055" lon="17.72622792"/>
+  <node id="-1877" lat="46.23822533" lon="17.72623093"/>
+  <node id="-1878" lat="46.23822916" lon="17.72623601"/>
+  <node id="-1879" lat="46.23823164" lon="17.72624260"/>
+  <way id="-1880">
+   <nd ref="-1861"/>
+   <nd ref="-1862"/>
+   <nd ref="-1863"/>
+   <nd ref="-1864"/>
+   <nd ref="-1865"/>
+   <nd ref="-1866"/>
+   <nd ref="-1867"/>
+   <nd ref="-1868"/>
+   <nd ref="-1869"/>
+   <nd ref="-1870"/>
+   <nd ref="-1871"/>
+   <nd ref="-1872"/>
+   <nd ref="-1873"/>
+   <nd ref="-1874"/>
+   <nd ref="-1875"/>
+   <nd ref="-1876"/>
+   <nd ref="-1877"/>
+   <nd ref="-1878"/>
+   <nd ref="-1879"/>
+   <nd ref="-1861"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+   <tag k="name" v="Hindaibérc (mérőtorony)"/>
+   <tag k="ele" v="273"/>
+   <tag k="height" v="28"/>
+   <tag k="description" v="23-3001 számú alapponton épült vasbeton geodéziai mérőtorony."/>
+   <tag k="material" v="concrete"/>
+   <tag k="structure" v="tube"/>
+   <tag k="operator" v="Fömi"/>
+  </way>
+ </create>
+</osmChange>
