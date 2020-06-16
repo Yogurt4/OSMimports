@@ -1,0 +1,97 @@
+<osmChange version="0.6" generator="acme osm editor">
+ <create>
+ <way id="-11">
+  <nd ref="3533746031"/>
+  <nd ref="4691380731"/>
+  <nd ref="3107436205"/>
+ </way>
+ </create>
+
+ <modify>
+ <way id="26057648" visible="true" version="22" changeset="73466171" timestamp="2019-08-18T14:51:29Z" user="vasony" uid="2982309">
+  <nd ref="3107436205"/>
+  <nd ref="4820240770"/>
+  <nd ref="4439310023"/>
+  <nd ref="3514842881"/>
+  <nd ref="3533746015"/>
+  <nd ref="1541602102"/>
+  <nd ref="3535744596"/>
+  <nd ref="3757665076"/>
+  <nd ref="285021593"/>
+  <nd ref="3757665086"/>
+  <nd ref="3995989193"/>
+  <nd ref="3757665085"/>
+  <nd ref="3995989194"/>
+  <nd ref="3757665084"/>
+  <nd ref="3995989204"/>
+  <nd ref="3533746030"/>
+  <nd ref="3757665064"/>
+  <nd ref="3757665083"/>
+  <nd ref="3997994595"/>
+  <nd ref="3995989207"/>
+  <nd ref="3902986750"/>
+  <nd ref="3902986748"/>
+  <nd ref="2360779707"/>
+  <nd ref="2360779710"/>
+  <nd ref="285021718"/>
+  <nd ref="1484872900"/>
+  <nd ref="3594269457"/>
+  <nd ref="2020455384"/>
+  <nd ref="285021758"/>
+  <nd ref="3995989229"/>
+  <nd ref="3995989231"/>
+  <nd ref="3995989232"/>
+  <nd ref="3995989230"/>
+  <nd ref="285021799"/>
+  <nd ref="285021818"/>
+  <nd ref="3514842884"/>
+  <nd ref="3533746031"/>
+ </way>
+ <way id="422401440" visible="true" version="4" changeset="47602372" timestamp="2017-04-09T19:44:59Z" user="Tompika" uid="2561972">
+  <nd ref="3533746031"/>
+  <nd ref="3533746038"/>
+  <nd ref="3963970523"/>
+  <nd ref="3932868312"/>
+  <nd ref="3535744607"/>
+  <nd ref="3757665111"/>
+  <nd ref="3772010272"/>
+  <nd ref="3535744608"/>
+  <nd ref="3535744609"/>
+  <nd ref="3535744611"/>
+  <nd ref="4221390269"/>
+  <nd ref="3535744614"/>
+  <nd ref="3535744613"/>
+  <nd ref="285021286"/>
+  <nd ref="3757665105"/>
+  <nd ref="3757665110"/>
+  <nd ref="285021490"/>
+  <nd ref="2586205901"/>
+  <nd ref="3533746003"/>
+  <nd ref="3107436205"/>
+ </way>
+ <relation id="5172658" visible="true" version="7" changeset="73466171" timestamp="2019-08-18T15:01:36Z" user="vasony" uid="2982309">
+  <member type="way" ref="422401440" role="outer"/>
+  <member type="way" ref="-11" role="outer"/>
+  <member type="way" ref="396764477" role="inner"/>
+  <tag k="area" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="name" v="Fő tér"/>
+  <tag k="surface" v="cobblestone"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="vehicle" v="permissive"/>
+ </relation>
+ </modify>
+
+ <create>
+ <relation id="-99">
+  <member type="way" ref="26057648" role="outer"/>
+  <member type="way" ref="-11" role="outer"/>
+  <tag k="area" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="name" v="Szentlélek tér"/>
+  <tag k="surface" v="cobblestone"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ </create>
+
+</osmChange>
