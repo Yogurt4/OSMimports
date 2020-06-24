@@ -1,0 +1,354 @@
+<osmChange version="0.6" generator="acme osm editor">
+ <modify>
+  <way id="100709735" version="1">
+    <nd ref="1164132957"/>
+    <nd ref="1164132454"/>
+    <nd ref="1164132669"/>
+    <nd ref="1164133481"/>
+    <tag k="highway" v="residential"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="136504029" version="1">
+    <nd ref="286244880"/>
+    <nd ref="2692904068"/>
+    <nd ref="1497295912"/>
+    <nd ref="2692904070"/>
+    <nd ref="4460190194"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Vonat utca"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="810234172" version="1">
+    <nd ref="7568995560"/>
+    <nd ref="7568995561"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="202338337" version="1">
+    <nd ref="2123032805"/>
+    <nd ref="4743266850"/>
+    <nd ref="4743266851"/>
+    <nd ref="4743266852"/>
+    <nd ref="4743266853"/>
+    <nd ref="4743266854"/>
+    <nd ref="4743266855"/>
+    <nd ref="2123032803"/>
+    <nd ref="2123032794"/>
+    <nd ref="4743266842"/>
+    <nd ref="4743266841"/>
+    <nd ref="4743266840"/>
+    <nd ref="4743266839"/>
+    <nd ref="4743266838"/>
+    <nd ref="4743266837"/>
+    <nd ref="2123032798"/>
+    <nd ref="4743266836"/>
+    <nd ref="4743266835"/>
+    <nd ref="4743266834"/>
+    <nd ref="4743266833"/>
+    <nd ref="4743266832"/>
+    <nd ref="4743266831"/>
+    <nd ref="2123032800"/>
+    <nd ref="2123032809"/>
+    <nd ref="4743266843"/>
+    <nd ref="4743266844"/>
+    <nd ref="4743266845"/>
+    <nd ref="4743266846"/>
+    <nd ref="4743266847"/>
+    <nd ref="4743266848"/>
+    <nd ref="4743266849"/>
+    <nd ref="2123032805"/>
+    <tag k="area" v="no"/>
+    <tag k="leisure" v="track"/>
+    <tag k="sport" v="running"/>
+    <tag k="surface" v="clay"/>
+  </way>
+  <way id="547107627" version="1">
+    <nd ref="5286378797"/>
+    <nd ref="5286378798"/>
+    <nd ref="1842895005"/>
+    <nd ref="5286378799"/>
+    <nd ref="5286378797"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="lit" v="no"/>
+    <tag k="surface" v="clay"/>
+  </way>
+  <way id="618524749" version="1">
+    <nd ref="5846212763"/>
+    <nd ref="5846212762"/>
+    <nd ref="5846212761"/>
+    <nd ref="5846212760"/>
+    <nd ref="5846212763"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="Teniszpálya"/>
+    <tag k="sport" v="tennis"/>
+    <tag k="surface" v="clay"/>
+  </way>
+  <way id="810739693" version="1">
+    <nd ref="3590698040"/>
+    <nd ref="7580175500"/>
+    <nd ref="7580175501"/>
+    <nd ref="7580175502"/>
+    <nd ref="7580175503"/>
+    <nd ref="7580175504"/>
+    <nd ref="7580175505"/>
+    <nd ref="7580175506"/>
+    <nd ref="7580175507"/>
+    <nd ref="7580175508"/>
+    <nd ref="7580175509"/>
+    <nd ref="7580175510"/>
+    <nd ref="7580175511"/>
+    <nd ref="7580175512"/>
+    <nd ref="7580175513"/>
+    <nd ref="7580175514"/>
+    <nd ref="7580175515"/>
+    <nd ref="7580175516"/>
+    <nd ref="7580175517"/>
+    <nd ref="7580175518"/>
+    <nd ref="7580175519"/>
+    <nd ref="7580175520"/>
+    <nd ref="7580175521"/>
+    <nd ref="7580175522"/>
+    <nd ref="7580175523"/>
+    <nd ref="7580175524"/>
+    <nd ref="7580175525"/>
+    <nd ref="7580166062"/>
+    <nd ref="2589803457"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Szőlő út folytatása"/>
+    <tag k="surface" v="dirt"/>
+    <tag k="width" v="1"/>
+  </way>
+  <way id="810752669" version="1">
+    <nd ref="6906991078"/>
+    <nd ref="7580222346"/>
+    <nd ref="7580222347"/>
+    <nd ref="7580222348"/>
+    <nd ref="7580222349"/>
+    <nd ref="7580226654"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="dirt"/>
+  </way>
+  <way id="694705733" version="1">
+    <nd ref="6524223867"/>
+    <nd ref="6524223869"/>
+    <nd ref="6524223868"/>
+    <tag k="highway" v="steps"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="779290557" version="1">
+    <nd ref="7276568844"/>
+    <nd ref="7276568858"/>
+    <nd ref="7276568845"/>
+    <nd ref="7276568846"/>
+    <nd ref="7276568847"/>
+    <nd ref="7276568848"/>
+    <nd ref="7276568849"/>
+    <nd ref="7276568850"/>
+    <nd ref="7276568851"/>
+    <nd ref="7276568852"/>
+    <nd ref="7276568853"/>
+    <nd ref="7276568854"/>
+    <nd ref="7276568855"/>
+    <nd ref="7276568856"/>
+    <nd ref="7276568857"/>
+    <tag k="foot" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="kerekesszékes bejárat"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="width" v="1.5"/>
+  </way>
+  <way id="674086185" version="1">
+    <nd ref="6312746350"/>
+    <nd ref="6312746349"/>
+    <nd ref="6312746348"/>
+    <nd ref="6312746347"/>
+    <nd ref="6312746350"/>
+    <tag k="access" v="customers"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <node id="5299717912" lat="47.504061" lon="19.0247433" version="1">
+    <tag k="amenity" v="bicycle_repair_station"/>
+    <tag k="description" v="A pumpát időnként gondosan szétverik a felelős állampolgárok. A láncra fűzött villáskulcsokat régesrégen meglovasították :("/>
+    <tag k="name" v="Vérmező szervizpont"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Budapest Főváros Önkormányzata"/>
+    <tag k="service:bicycle:pump" v="yes"/>
+    <tag k="survey" v="2019-06-01"/>
+  </node>
+  <way id="560330046" version="1">
+    <nd ref="5403633018"/>
+    <nd ref="5403633019"/>
+    <nd ref="5403633020"/>
+    <nd ref="5403633021"/>
+    <nd ref="5403633018"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="soccer"/>
+    <tag k="surface" v="grass"/>
+  </way>
+  <way id="624026711" version="1">
+    <nd ref="5892425288"/>
+    <nd ref="5892425289"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="wood"/>
+  </way>
+  <way id="575313312" version="1">
+    <nd ref="5520819552"/>
+    <nd ref="5520819553"/>
+    <nd ref="5520819554"/>
+    <nd ref="5520819555"/>
+    <nd ref="5520819552"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Karcsai foci pálya"/>
+    <tag k="sport" v="soccer"/>
+    <tag k="surface" v="grass"/>
+  </way>
+  <way id="697851300" version="1">
+    <nd ref="6553783624"/>
+    <nd ref="6553783632"/>
+    <nd ref="6553783625"/>
+    <nd ref="6553783626"/>
+    <nd ref="6553783627"/>
+    <nd ref="6553783628"/>
+    <nd ref="6553783629"/>
+    <nd ref="6553783630"/>
+    <nd ref="6553783631"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="dirt"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="723490737" version="1">
+    <nd ref="6785762265"/>
+    <nd ref="6785762266"/>
+    <nd ref="6785762267"/>
+    <nd ref="6785762268"/>
+    <nd ref="6785762269"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="grass"/>
+  </way>
+  <way id="624026713" version="1">
+    <nd ref="4777651992"/>
+    <nd ref="854537514"/>
+    <nd ref="1346103157"/>
+    <nd ref="1346103154"/>
+    <nd ref="854537509"/>
+    <nd ref="1346103151"/>
+    <nd ref="854537506"/>
+    <nd ref="5892425293"/>
+    <nd ref="5892425294"/>
+    <nd ref="5892425295"/>
+    <nd ref="4777651994"/>
+    <nd ref="4777651993"/>
+    <nd ref="4777651992"/>
+    <tag k="surface" v="grass"/>
+    <tag k="tourism" v="picnic_site"/>
+  </way>
+  <way id="704400228" version="1">
+    <nd ref="6615144846"/>
+    <nd ref="4050772344"/>
+    <nd ref="4050772342"/>
+    <nd ref="6615144834"/>
+    <nd ref="4050772340"/>
+    <nd ref="6615144833"/>
+    <nd ref="4050772335"/>
+    <nd ref="4050772333"/>
+    <nd ref="6615144832"/>
+    <nd ref="6615144831"/>
+    <nd ref="6615144830"/>
+    <nd ref="4050772330"/>
+    <nd ref="6615144829"/>
+    <nd ref="4050772328"/>
+    <nd ref="4050772324"/>
+    <nd ref="4050772322"/>
+    <nd ref="4050772319"/>
+    <nd ref="4050772316"/>
+    <nd ref="4050772314"/>
+    <nd ref="6615144828"/>
+    <nd ref="6615144826"/>
+    <nd ref="4050772312"/>
+    <nd ref="6615144827"/>
+    <nd ref="4050772311"/>
+    <tag k="highway" v="track"/>
+    <tag k="source" v="survey"/>
+    <tag k="fixme" v="surface"/>
+    <tag k="survey:date" v="2019-07-14"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+  <way id="795581759" version="1">
+    <nd ref="7441312767"/>
+    <nd ref="7441312768"/>
+    <nd ref="7441312769"/>
+    <nd ref="7441312770"/>
+    <nd ref="7441312771"/>
+    <nd ref="7441312767"/>
+    <tag k="access" v="yes"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="műfüves pálya"/>
+    <tag k="sport" v="soccer"/>
+    <tag k="surface" v="artificial_turf"/>
+  </way>
+  <way id="546301445" version="1">
+    <nd ref="5279346919"/>
+    <nd ref="1430361501"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kund Pál utca"/>
+    <tag k="old_name" v="Lenin köz"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="275438753" version="1">
+    <nd ref="2800671594"/>
+    <nd ref="2800671807"/>
+    <nd ref="2800671827"/>
+    <nd ref="2800671822"/>
+    <nd ref="2800671824"/>
+    <nd ref="2800671814"/>
+    <nd ref="2800671804"/>
+    <nd ref="2800671802"/>
+    <nd ref="2800671594"/>
+    <tag k="addr:city" v="Budapest"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="1145"/>
+    <tag k="addr:street" v="Columbus utca"/>
+    <tag k="building" v="apartments"/>
+    <tag k="construction" v="building"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="158182884" version="1">
+    <nd ref="1704126471"/>
+    <nd ref="1704126472"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gyöngy utca"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="697358685" version="1">
+    <nd ref="6549572218"/>
+    <nd ref="6549572217"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <node id="6799879000" lat="46.9659795" lon="17.9281959" version="1">
+    <tag k="natural" v="beach"/>
+    <tag k="name" v="Apáca strand"/>
+  </node>
+  <way id="159373894" version="1">
+    <nd ref="1714861620"/>
+    <nd ref="1714861623"/>
+    <nd ref="7511305953"/>
+    <nd ref="1714861625"/>
+    <nd ref="1714861628"/>
+    <nd ref="1714861632"/>
+    <nd ref="1714861645"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Ék köz"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+ </modify>
+</osmChange>
